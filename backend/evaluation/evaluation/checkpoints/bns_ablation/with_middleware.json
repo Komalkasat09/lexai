@@ -1,0 +1,2341 @@
+[
+  {
+    "query_text": "What is the BNS equivalent of IPC 420?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has IPC 302 been replaced?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What changed in the definition of rape from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is IPC still valid or has BNS replaced it completely?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 376 called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the punishment for murder changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The punishment for murder in the Indian Penal Code (IPC) has undergone changes, but the provided context does not contain the specific text of Sections 302 and 303. \n(Indian Penal Code 1860, Sections 302 and 303)\n\nGiven the confidence level is MEDIUM and the presence of BNS/BNSS transition notes, it is crucial to acknowledge that the Indian Penal Code has been amended and updated over time, including the introduction of the Bharat Notification System (BNS) and Bharat Notification System and Services (BNSS). However, without the specific text of the sections or details on the BNS/BNSS transitions, it's challenging to provide a definitive answer on how the punishment for murder has changed in this context.\n\nThe Indian Penal Code, 1860, originally outlined punishments for various offenses, including murder, under Sections 302 and 303. Section 302 pertains to the punishment for murder, while Section 303 deals with the punishment for murder by a life convict. \n(Indian Penal Code 1860, Sections 302 and 303)\n\nTo accurately determine if the punishment for murder has changed in BNS, one would need to consult the updated texts of these sections as amended by the BNS/BNSS transitions. The absence of this information in the provided context limits the ability to provide a precise answer.\n\n**Warning:** The transition to BNS/BNSS may have introduced changes to the legal framework, including punishments. It is essential to consult the latest amendments and updates to the Indian Penal Code to understand the current legal stance on the punishment for murder.\n\n**Confidence Level:** MEDIUM\n**Caveat:** The provided context does not contain sufficient information to definitively answer how the punishment for murder has changed in BNS. It is recommended to consult the latest versions of the Indian Penal Code and any relevant BNS/BNSS notifications for the most accurate and up-to-date information.",
+      "confidence": "MEDIUM",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_303",
+            "document": "Indian Penal Code 1860 Section 303. Punishment for murder by life-convict.\u2014. Punishment for murder by life-convict.\u2014\nWhoever, being under sentence of imprisonment for life, commits murder, shall be punished with death.\n[[Mithu v. State of Punjab : In 1983, Section 303 of the Indian Penal Code (IPC) was struck down. This section provided capital punishment for murder by a person serving a life term in another case. It was held unconstitutional in Mithu v. State of Punjab. The Supreme Court explained that the punishment was not based on rational principle as no judicial discretion was available to a life convict.\nA five-Judge Bench of the SC struck down Section 303 of th",
+            "metadata": {
+              "is_replaced": true,
+              "source": "indiankanoon.org (direct URL)",
+              "full_text": "Punishment for murder by life-convict.\u2014\nWhoever, being under sentence of imprisonment for life, commits murder, shall be punished with death.\n[[Mithu v. State of Punjab : In 1983, Section 303 of the Indian Penal Code (IPC) was struck down. This section provided capital punishment for murder by a person serving a life term in another case. It was held unconstitutional in Mithu v. State of Punjab. The Supreme Court explained that the punishment was not based on rational principle as no judicial discretion was available to a life convict.\nA five-Judge Bench of the SC struck down Section 303 of the IPC, holding that the provision violated Articles 14 and 21 of the Constitution. As per Section 303, if a person undergoing life imprisonment committed murder, they would mandatorily be sentenced to death. The SC held that the provision drew an arbitrary distinction between persons committing murder and persons undergoing life imprisonment who committed murder. There was no rationale behind this distinction. Further, a mandatory death sentence prevents courts from exercising their discretion.\n(https:legalserviceindia.com/legal/article-8500-case-note-mithu-v-s-state-of-punjab-1983-.html, https:indiankanoon.org/doc/590378/)]]",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_title": "Punishment for murder by life-convict.\u2014",
+              "act_name": "Indian Penal Code 1860",
+              "section_number": "303",
+              "id": "IPC_303",
+              "short_name": "IPC",
+              "punishment": "imprisonment for life, commits murder, shall be punished with death.",
+              "priority": "CRITICAL"
+            },
+            "distance": 0.4209635853767395,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.79,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_302",
+            "document": "Indian Penal Code 1860 Section 302. Punishment for murder.\u2014. Punishment for murder.\u2014\nWhoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+            "metadata": {
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "id": "IPC_302",
+              "section_title": "Punishment for murder.\u2014",
+              "full_text": "Punishment for murder.\u2014\nWhoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "IPC",
+              "act_name": "Indian Penal Code 1860",
+              "section_number": "302",
+              "punishment": "shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+            },
+            "distance": 0.436928927898407,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.782,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 302",
+              "replaced_by": "BNS Section 103",
+              "changes": "punishment for murder - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 302 has been replaced by BNS Section 103. Changes: punishment for murder - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+        "\u26a0\ufe0f Medium confidence - verify with primary sources"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 2,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 498A?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is theft defined differently in BNS compared to IPC?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 307 called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of cheating changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for criminal breach of trust?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS section for criminal breach of trust is not explicitly mentioned in the provided context. However, based on the available information, it can be inferred that the Indian Penal Code 1860 (IPC) sections related to criminal breach of trust are Sections 405, 406, and 407.\n\nAccording to the IPC, Section 405 defines criminal breach of trust (Indian Penal Code 1860, Section 405). Section 406 prescribes the punishment for criminal breach of trust (Indian Penal Code 1860, Section 406). Section 407 deals with criminal breach of trust by a carrier, etc. (Indian Penal Code 1860, Section 407).\n\nPlease note that the provided context does not contain the actual text of these sections, and therefore, the exact BNS section cannot be determined with certainty. \n\nAs the context mentions BNS/BNSS transition notes, it is essential to be aware of the potential changes in the sections. However, without further information, it is challenging to provide a precise BNS section.\n\nConfidence level: MEDIUM\nCaveats: The provided context does not contain the actual text of the IPC sections, and the BNS section cannot be determined with certainty. Additionally, the context mentions BNS/BNSS transition notes, which may indicate changes in the sections.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_406",
+            "document": "Indian Penal Code 1860 Section 406. Punishment for criminal breach of trust.\u2014. Punishment for criminal breach of trust.\u2014\nWhoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+            "metadata": {
+              "act_name": "Indian Penal Code 1860",
+              "short_name": "IPC",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "section_number": "406",
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "full_text": "Punishment for criminal breach of trust.\u2014\nWhoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "source": "indiankanoon.org (direct URL)",
+              "section_title": "Punishment for criminal breach of trust.\u2014",
+              "id": "IPC_406",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023"
+            },
+            "distance": 0.006596982479095459,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.997,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 406",
+              "replaced_by": "BNS Section 316",
+              "changes": "punishment for breach of trust - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 406 has been replaced by BNS Section 316. Changes: punishment for breach of trust - same"
+            }
+          },
+          {
+            "id": "IPC_405",
+            "document": "Indian Penal Code 1860 Section 405. Criminal breach of trust.\u2014. Criminal breach of trust.\u2014\nWhoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits \u201ccriminal breach of trust\u201d.\nExplanation 1.\u2014 A person, being an employer of an establishment whether exempted",
+            "metadata": {
+              "id": "IPC_405",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "priority": "CRITICAL",
+              "source": "indiankanoon.org (direct URL)",
+              "act_name": "Indian Penal Code 1860",
+              "section_number": "405",
+              "full_text": "Criminal breach of trust.\u2014\nWhoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits \u201ccriminal breach of trust\u201d.\nExplanation 1.\u2014 A person, being an employer of an establishment whether exempted under section 17 of the Employees\u2019 Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), or not who deducts the employee\u2019s contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\nExplanation 2.\u2014 A person, being an employer, who deducts the employees\u2019 contribution from the wages payable to the employee for credit to the Employees\u2019 State Insurance Fund held and administered by the Employees\u2019 State Insurance Corporation established under the Employees\u2019 State Insurance Act, 1948 (34 of 1948), shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\nIllustrations\n(a)\nA, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriate them to his own use. A has committed criminal breach of trust.\n(b)\nA is a warehouse-keeper. Z going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse room. A dishonestly sells the goods. A has committed criminal breach of trust.\n(c)\nA, residing in Calcutta, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z\u2019s direction. Z remits a lakh of rupees to A, with directions to A to invest the same in Company\u2019s paper. A dishonestly disobeys the direction and employs the money in his own business. A has committed criminal breach of trust.\n(d)\nBut if A, in the last illustration, not dishonestly but in good faith, believing that it will be more for Z\u2019s advantage to hold shares in the Bank of Bengal, disobeys Z\u2019s directions, and buys shares in the Bank of Bengal, ...",
+              "is_replaced": true,
+              "section_title": "Criminal breach of trust.\u2014",
+              "short_name": "IPC"
+            },
+            "distance": 0.006838440895080566,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.997,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 405",
+              "replaced_by": "BNS Section 316",
+              "changes": "criminal breach of trust - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 405 has been replaced by BNS Section 316. Changes: criminal breach of trust - same"
+            }
+          },
+          {
+            "id": "IPC_407",
+            "document": "Indian Penal Code 1860 Section 407. Criminal breach of trust by carrier, etc.\u2014. Criminal breach of trust by carrier, etc.\u2014\nWhoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "IPC",
+              "full_text": "Criminal breach of trust by carrier, etc.\u2014\nWhoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "act_name": "Indian Penal Code 1860",
+              "section_title": "Criminal breach of trust by carrier, etc.\u2014",
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "id": "IPC_407",
+              "section_number": "407",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+            },
+            "distance": 0.008285582065582275,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.996,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 407",
+              "replaced_by": "BNS Section 316",
+              "changes": "breach of trust by carrier - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 407 has been replaced by BNS Section 316. Changes: breach of trust by carrier - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is IPC 354 the same as any BNS section?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What happened to IPC 377 in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 506 (criminal intimidation)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 506 (criminal intimidation) is not explicitly stated in the provided context. \nHowever, according to the BNS/BNSS transition notes, there might be a replacement or amendment to the IPC 506. \nSince the text of the sections is not available, we cannot provide a direct equivalent. \n(Indian Penal Code 1860, Section 506, as referenced in the context)\n\nThe legal reasoning behind this is that the IPC 506 deals with the punishment for criminal intimidation, and any replacement or amendment would need to be considered in the context of the entire act. \nWithout the text of the sections or any explicit information on the BNS equivalent, we cannot provide a definitive answer. \nIt is essential to note that the BNS/BNSS transition notes indicate a potential change, but without further information, we cannot determine the exact equivalent.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of the sections, and there is no explicit information on the BNS equivalent of IPC 506. Additionally, the BNS/BNSS transition notes may indicate a replacement or amendment, but without further information, the exact equivalent cannot be determined. \n\nPlease note that the Indian Penal Code 1860 and the Code of Criminal Procedure 1973 are subject to amendments and changes, and it is crucial to consult the most recent and updated versions of the acts. \n(Indian Penal Code 1860, Section 506; Code of Criminal Procedure 1973, Section 506) \n\nIn this case, it is recommended to consult the official BNS/BNSS documents or seek guidance from a legal expert to determine the exact equivalent of IPC 506.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "CrPC_506",
+            "document": "Code of Criminal Procedure 1973 Section 506. The person intimidated.. The person intimidated.\n\nInducing person to believe himself and object of divine displeasure.",
+            "metadata": {
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "full_text": "The person intimidated.\n\nInducing person to believe himself and object of divine displeasure.",
+              "priority": "CRITICAL",
+              "short_name": "CrPC",
+              "id": "CrPC_506",
+              "section_number": "506",
+              "is_replaced": true,
+              "source": "indiankanoon.org (direct URL)",
+              "section_title": "The person intimidated.",
+              "act_name": "Code of Criminal Procedure 1973"
+            },
+            "distance": 0.19034403562545776,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.905,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_506",
+            "document": "Indian Penal Code 1860 Section 506. Punishment for criminal intimidation.\u2014. Punishment for criminal intimidation.\u2014\nWhoever commits, the offence of criminal intimidation shall be punished with imprison-ment of either description for a term which may extend to two years, or with fine, or with both;\nIf threat be to cause death or grievous hurt, etc.\u2014 And if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute, unchastity to a woman, shall be punished with imprisonment of either ",
+            "metadata": {
+              "act_name": "Indian Penal Code 1860",
+              "section_title": "Punishment for criminal intimidation.\u2014",
+              "is_replaced": true,
+              "full_text": "Punishment for criminal intimidation.\u2014\nWhoever commits, the offence of criminal intimidation shall be punished with imprison-ment of either description for a term which may extend to two years, or with fine, or with both;\nIf threat be to cause death or grievous hurt, etc.\u2014 And if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute, unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "IPC",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "priority": "CRITICAL",
+              "id": "IPC_506",
+              "punishment": "shall be punished with imprison-ment of either description for a term which may extend to two years, or with fine, or with both;\nIf threat be to cause death or grievous hurt, etc.",
+              "section_number": "506"
+            },
+            "distance": 0.2056971788406372,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.897,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 506",
+              "replaced_by": "BNS Section 351",
+              "changes": "punishment for criminal intimidation - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 506 has been replaced by BNS Section 351. Changes: punishment for criminal intimidation - same"
+            }
+          },
+          {
+            "id": "IPC_503",
+            "document": "Indian Penal Code 1860 Section 503. Criminal intimidation.\u2014. Criminal intimidation.\u2014\nWhoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.\nExplanation.\u2014 A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.\nIllu",
+            "metadata": {
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_number": "503",
+              "is_replaced": true,
+              "act_name": "Indian Penal Code 1860",
+              "priority": "CRITICAL",
+              "short_name": "IPC",
+              "full_text": "Criminal intimidation.\u2014\nWhoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.\nExplanation.\u2014 A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.\nIllustration\nA, for the purpose of inducing B to desist from prosecuting a civil suit, threatens to burn B\u2019s house. A is guilty of criminal intimidation.",
+              "id": "IPC_503",
+              "section_title": "Criminal intimidation.\u2014",
+              "source": "indiankanoon.org (direct URL)"
+            },
+            "distance": 0.36378395557403564,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.818,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 503",
+              "replaced_by": "BNS Section 351",
+              "changes": "criminal intimidation - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 503 has been replaced by BNS Section 351. Changes: criminal intimidation - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of kidnapping changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 120B called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is wrongful confinement defined differently in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for defamation?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS (Bharat Naresh Singhvi) section for defamation is not explicitly mentioned in the provided context. However, based on the available information, it can be inferred that the Indian Penal Code 1860 (IPC) contains provisions related to defamation, specifically Section 499 (Defamation) and Section 500 (Punishment for defamation) (Indian Penal Code 1860, Sections 499 and 500).\n\nIt is essential to note that the provided context does not contain the text of the relevant sections, and therefore, the exact BNS section for defamation cannot be determined with certainty. Moreover, the presence of BNS/BNSS transition notes suggests that there may be a transition or replacement of the IPC or CrPC sections, which could affect the applicability of the existing provisions (BNS/BNSS Transition Notes).\n\nIn the context of defamation, the Code of Criminal Procedure 1973 (CrPC) also contains a relevant provision, Section 199, which deals with the prosecution for defamation (Code of Criminal Procedure 1973, Section 199). However, without the text of the section, it is challenging to provide a detailed analysis.\n\nIn conclusion, while the IPC contains provisions related to defamation (Indian Penal Code 1860, Sections 499 and 500), the exact BNS section for defamation cannot be determined with certainty due to the lack of information in the provided context. It is crucial to consult the relevant bare acts and case laws to determine the applicable provisions.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of the relevant sections, and the presence of BNS/BNSS transition notes may affect the applicability of the existing provisions.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "CrPC_199",
+            "document": "Code of Criminal Procedure 1973 Section 199. Prosecution for defamation.. Prosecution for defamation.\n(1)\nNo Court shall take cognizance of an offence punishable under Chapter XXI of the Indian Penal Code (45 of 1860), except upon a complaint made by some person aggrieved by the offence :\nProvided that where such person is under the age of eighteen years, or is an idiot or a lunatic or is from sickness or infirmity unable to make a complaint, or is a woman who, according to the local customs and manners, ought not to be compelled to appear in public, some other person may, with the leave of the Court, make a complaint on his or her behalf.\n(2)\nNotwithstanding anythi",
+            "metadata": {
+              "id": "CrPC_199",
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "CrPC",
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "priority": "CRITICAL",
+              "is_replaced": true,
+              "section_title": "Prosecution for defamation.",
+              "section_number": "199",
+              "full_text": "Prosecution for defamation.\n(1)\nNo Court shall take cognizance of an offence punishable under Chapter XXI of the Indian Penal Code (45 of 1860), except upon a complaint made by some person aggrieved by the offence :\nProvided that where such person is under the age of eighteen years, or is an idiot or a lunatic or is from sickness or infirmity unable to make a complaint, or is a woman who, according to the local customs and manners, ought not to be compelled to appear in public, some other person may, with the leave of the Court, make a complaint on his or her behalf.\n(2)\nNotwithstanding anything contained in this Code, when any offence falling under Chapter XXI of the Indian Penal Code (45 of 1860) is alleged to have been committed against a person who, at the time of such commission, is the President of India, the Vice-President of India, the Governor of a State, the Administrator of a Union Territory, or a Minister of the Union or of a State, or any other public servant employed in connection with the affairs of the Union or of a State in respect of his conduct in the discharge of his public functions a Court of Session may take cognizance of such offence, without the case being committed to it, upon a complaint in writing made by the Public Prosecutor.\n(3)\nEvery complaint referred to in sub-section (2) shall set forth the facts which constitute the offence alleged, the nature of such offence and such other particulars as are reasonably sufficient to give notice to the accused of the offence alleged to have been committed by him.\n(4)\nNo complaint under sub-section (2) shall be made by the Public Prosecutor except with the previous sanction -\n(a)\nof the State Government, in the case of a person who is or has been the Governor of that State or a Minister of that Government;\n(b)\nof the State Government, in the case of any other public servant employed in connection with the affairs of the State;\n(c)\nof the Central Government, in any other case.\n(5)\nNo Court of Session shall take cognizance of an offence under sub-section (2) unless the complaint is made within six months from the date on which the offence is alleged to have been committed.\n(6)\nNothing in this section shall affect the right of the person against whom the offence is alleged to have been committed, to make a complaint in respect of that offence before a Magistrate having jurisdiction or the power of such Magistrate to take cognizance of the offence upon such complaint.\nChapter XV\nComplaints To Magistrates",
+              "act_name": "Code of Criminal Procedure 1973"
+            },
+            "distance": 0.04209333658218384,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.979,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_499",
+            "document": "Indian Penal Code 1860 Section 499. Defamation.\u2014. Defamation.\u2014\nWhoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.\nExplanation 1.\u2014 It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relative",
+            "metadata": {
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_title": "Defamation.\u2014",
+              "id": "IPC_499",
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "act_name": "Indian Penal Code 1860",
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "IPC",
+              "section_number": "499",
+              "full_text": "Defamation.\u2014\nWhoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.\nExplanation 1.\u2014 It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relatives.\nExplanation 2.\u2014 It may amount to defamation to make an imputation concerning a company or an association or collection of persons as such.\nExplanation 3.\u2014 An imputation in the form of an alternative or expressed ironically, may amount to defamation.\nExplanation 4.\u2014 No imputation is said to harm a person\u2019s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.\nIllustrations\n(a)\nA says\u2014 \u201cZ is an honest man; he never stole B\u2019s watch\u201d; intending to cause it to be believed that Z did steal B\u2019s watch. This is defamation, unless it fall within one of the exceptions.\n(b)\nA is asked who stole B\u2019s watch. A points to Z, intending to cause it to be believed that Z stole B\u2019s watch. This is defamation unless it fall within one of the exceptions.\n(c)\nA draws a picture of Z running away with B\u2019s watch, intending it to be believed that Z stole B\u2019s watch. This is defamation, unless it fall within one of the exceptions.\nFirst Exception.\u2014 Imputation of truth which public good requires to be made or published.\u2014 It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.\nSecond Exception.\u2014 Public conduct of public servants.\u2014 It is not defamation to express in a good faith any opinion whatever respecting the conduct of a public servant in the discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.\nThird Exception.\u2014 Conduct of any person touching any public question.\u2014 It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.\nIllustration\nIt is not defamation in A to express in good faith any opinion whatever respecting Z\u2019s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presi..."
+            },
+            "distance": 0.058923542499542236,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.971,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 499",
+              "replaced_by": "BNS Section 356",
+              "changes": "defamation - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 499 has been replaced by BNS Section 356. Changes: defamation - same"
+            }
+          },
+          {
+            "id": "IPC_500",
+            "document": "Indian Penal Code 1860 Section 500. Punishment for defamation.\u2014. Punishment for defamation.\u2014\nWhoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+            "metadata": {
+              "section_number": "500",
+              "priority": "CRITICAL",
+              "section_title": "Punishment for defamation.\u2014",
+              "source": "indiankanoon.org (direct URL)",
+              "id": "IPC_500",
+              "full_text": "Punishment for defamation.\u2014\nWhoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "short_name": "IPC",
+              "act_name": "Indian Penal Code 1860",
+              "punishment": "shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+              "is_replaced": true
+            },
+            "distance": 0.11601734161376953,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.942,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 500",
+              "replaced_by": "BNS Section 356",
+              "changes": "punishment for defamation - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 500 has been replaced by BNS Section 356. Changes: punishment for defamation - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has assault definition changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 304B (dowry death) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "IPC 304B, which pertains to dowry death, is referred to as Section 304B of the Indian Penal Code, 1860. However, in the context of BNS (Bangladesh Penal Code), the equivalent provision is Section 302/304B, but more specifically, it is covered under Section 302 and the newly introduced Section 302A and 302B of the Bangladesh Penal Code, which deals with dowry-related deaths (BNS).\n\nAs per the provided context, the Indian Penal Code 1860, Section 304B, deals with dowry deaths (Act: Indian Penal Code 1860, Section: 304B). However, since the question pertains to the equivalent provision in BNS, it is essential to note that the Bangladesh Penal Code has undergone changes, and the specific section numbers may vary.\n\nThe provided context does not contain the exact text of Section 304B of the Indian Penal Code or the equivalent provisions in the Bangladesh Penal Code. Nevertheless, based on the information available, it can be inferred that dowry deaths are covered under different sections in the BNS, specifically under sections related to murder and culpable homicide.\n\n**Source:** Act: Indian Penal Code 1860, Section: 304B (Title: Dowry death)\n\n**Legal Reasoning:** The question requires an understanding of the equivalent provisions in the Bangladesh Penal Code (BNS) for dowry deaths, which are covered under the Indian Penal Code, 1860, Section 304B. The BNS has introduced new sections to deal with dowry-related offenses, and the exact equivalent of IPC 304B would be sections related to murder and culpable homicide in the context of dowry deaths.\n\n**BNS/BNSS Transition Notes:** Please note that the transition from IPC to BNS involves changes in section numbers and provisions. The user should be aware of these changes when dealing with cases or legal matters that involve both Indian and Bangladeshi laws.\n\n**Confidence Level:** HIGH\n**Caveats:** The provided context does not contain the exact text of the relevant provisions, and the information is based on the available data. It is essential to consult the latest versions of the Indian Penal Code and the Bangladesh Penal Code for accurate and up-to-date information.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_304B",
+            "document": "Indian Penal Code 1860 Section 304B. Dowry death.\u2014. Dowry death.\u2014\n(1)\nWhere the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called \u201cdowry death\u201d, and such husband or relative shall be deemed to have caused her death.\nExplanation.\u2014 For the purpose of this sub-section, \u201cdowry\u201d shall have the same meaning as in section 2 of the Dowry Prohibition Act, ",
+            "metadata": {
+              "short_name": "IPC",
+              "is_replaced": true,
+              "id": "IPC_304B",
+              "act_name": "Indian Penal Code 1860",
+              "section_title": "Dowry death.\u2014",
+              "section_number": "304B",
+              "priority": "CRITICAL",
+              "source": "indiankanoon.org (direct URL)",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "full_text": "Dowry death.\u2014\n(1)\nWhere the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called \u201cdowry death\u201d, and such husband or relative shall be deemed to have caused her death.\nExplanation.\u2014 For the purpose of this sub-section, \u201cdowry\u201d shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).\n(2)\nWhoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.",
+              "punishment": "shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life."
+            },
+            "distance": 0.006025373935699463,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.997,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 304B",
+              "replaced_by": "BNS Section 80",
+              "changes": "dowry death - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 304B has been replaced by BNS Section 80. Changes: dowry death - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is gang rape punishment different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The punishment for gang rape under the Indian Penal Code (IPC) 1860, specifically Section 376D, is not explicitly stated in the provided context. However, according to the IPC 1860, Section 376D deals with gang rape, but the text of the section is not available in the given context.\n\nAssuming the general knowledge of the IPC 1860, Section 376D, the punishment for gang rape is rigorous imprisonment for a term not less than 20 years, but which may extend to life imprisonment (Section 376D, IPC 1860, as per general knowledge, not provided in the context).\n\nRegarding the BNS (Bharat New Series) or BNSS (Bharat New Series of Standards) transition, it is essential to note that the provided context does not contain information about the specific changes or updates to the IPC 1860, including Section 376D, under the BNS or BNSS. \n\nHowever, it is crucial to acknowledge that the BNS/BNSS transition notes indicate a possible change or update to the existing laws, including the IPC 1860. Therefore, it is essential to consult the latest and updated version of the IPC 1860, including Section 376D, to determine if the punishment for gang rape has undergone any changes.\n\nSource: Indian Penal Code 1860, Section 376D (general knowledge, not provided in the context).\n\nConfidence Level: MEDIUM\n\nCaveats: \n1. The provided context does not contain the text of Section 376D of the IPC 1860.\n2. The BNS/BNSS transition notes may indicate changes to the IPC 1860, including Section 376D, which are not reflected in the provided context.\n3. It is recommended to consult the latest and updated version of the IPC 1860, including Section 376D, to determine the current punishment for gang rape.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_376D",
+            "document": "Indian Penal Code 1860 Section 376D. Gang rape. Gang rape\nWhere a woman is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person's natural life, and with fine:\nProvided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:\nProvided further that any fine imposed under this section",
+            "metadata": {
+              "is_replaced": true,
+              "id": "IPC_376D",
+              "short_name": "IPC",
+              "punishment": "imprisonment for the remainder of that person's natural life, and with fine:\nProvided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:\nProvided further that any fine imposed under this section shall be paid to the victim.",
+              "act_name": "Indian Penal Code 1860",
+              "priority": "CRITICAL",
+              "full_text": "Gang rape\nWhere a woman is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person's natural life, and with fine:\nProvided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:\nProvided further that any fine imposed under this section shall be paid to the victim.\n376DA. Punishment for gang rape on woman under sixteen years of age.\nWhere a woman under sixteen years of age is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, and with fine:\nProvided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:\nProvided further that any fine imposed under this section shall be paid to the victim.\n376DB. Punishment for gang rape on woman under twelve years of age.\nWhere a woman under twelve years of age is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons shall be deemed to have committed the offence of rape and shall be punished with imprisonment for life,which shall mean imprisonment for the remainder of that person's natural life, and with fine, or with death:\nProvided that such fine shall be just and reasonable to meet the medical expenses and rehabilitation of the victim:\nProvided further that any fine imposed under this section shall be paid to the victim.",
+              "section_number": "376D",
+              "source": "indiankanoon.org (direct URL)",
+              "section_title": "Gang rape",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023"
+            },
+            "distance": 0.13016080856323242,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.935,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 376D",
+              "replaced_by": "BNS Section 70",
+              "changes": "gang rape - enhanced punishment",
+              "note": "\u26a0\ufe0f Note: IPC Section 376D has been replaced by BNS Section 70. Changes: gang rape - enhanced punishment"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 147 (rioting)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 147 (rioting) is not explicitly stated in the provided context. \nHowever, it can be noted that the Indian Penal Code (IPC) has undergone changes and replacements in some states, with the introduction of the Bihar Narcotic Substance (BNS) and the Bihar Non-Compoundable and Non-Bailable Substance (BNSS) laws, but the specific equivalent of IPC 147 under BNS is not mentioned.\n(Indian Penal Code 1860, Section 147) \n\nThe legal reasoning behind this is that the IPC is a central legislation that applies to the whole of India, unless amended or replaced by state-specific laws. In this case, the BNS and BNSS laws may have replaced or amended certain provisions of the IPC in the state of Bihar, but without further information, it is difficult to determine the exact equivalent of IPC 147 under BNS.\n\nPlease note that there is a transition from IPC to BNS/BNSS, which may affect the applicability of IPC provisions in certain jurisdictions. \nConfidence Level: MEDIUM\nCaveat: The provided context does not contain sufficient information to determine the BNS equivalent of IPC 147, and therefore, this answer is based on general knowledge of Indian law and may not be entirely accurate.",
+      "confidence": "MEDIUM",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_147",
+            "document": "Indian Penal Code 1860 Section 147. Punishment for rioting.\u2014. Punishment for rioting.\u2014\nWhoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+            "metadata": {
+              "priority": "CRITICAL",
+              "section_title": "Punishment for rioting.\u2014",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+              "id": "IPC_147",
+              "section_number": "147",
+              "short_name": "IPC",
+              "full_text": "Punishment for rioting.\u2014\nWhoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "is_replaced": true,
+              "act_name": "Indian Penal Code 1860",
+              "source": "indiankanoon.org (direct URL)"
+            },
+            "distance": 0.4976899027824402,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.751,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 147",
+              "replaced_by": "BNS Section 191",
+              "changes": "rioting - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 147 has been replaced by BNS Section 191. Changes: rioting - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+        "\u26a0\ufe0f Medium confidence - verify with primary sources"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of hurt changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 279 (rash driving) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "According to the provided context, the question pertains to the equivalent of IPC 279 (rash driving) in the BNS (Bangladesh Penal Code is not applicable here as the context is about Indian law, but it seems to be asking about the equivalent in a different code, possibly referring to a replacement or amendment in the Indian context). However, the provided context does not contain information about BNS or its sections.\n\nThe provided context only mentions the Indian Penal Code 1860, Section 279, which pertains to rash driving or riding on a public way, but it does not provide the text of the section.\n\nSince the context does not provide information about BNS or its equivalent of IPC 279, I must rely on the information available. Given the lack of information about BNS in the context, I can only refer to the IPC.\n\nAs per the Indian Penal Code 1860, Section 279, the offense is titled \"Rash driving or riding on a public way\" (Indian Penal Code 1860, Section 279).\n\nThe provided context does not contain sufficient information to determine the equivalent of IPC 279 in BNS. \n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain sufficient information to answer the question accurately.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_279",
+            "document": "Indian Penal Code 1860 Section 279. Rash driving or riding on a public way.\u2014. Rash driving or riding on a public way.\u2014\nWhoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+            "metadata": {
+              "short_name": "IPC",
+              "full_text": "Rash driving or riding on a public way.\u2014\nWhoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+              "source": "indiankanoon.org (direct URL)",
+              "priority": "CRITICAL",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_number": "279",
+              "section_title": "Rash driving or riding on a public way.\u2014",
+              "id": "IPC_279",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+              "act_name": "Indian Penal Code 1860",
+              "is_replaced": true
+            },
+            "distance": 0.09055066108703613,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.955,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is adultery still a crime under BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "Adultery is no longer a crime under the Indian Penal Code (IPC) as it was decriminalized by the Supreme Court of India in the case of Joseph Shine vs. Union of India (2018) (Joseph Shine vs. Union of India, (2018) 11 SCC 393). However, the question asks about the status of adultery under BNS, which implies a transition from the existing IPC to a new code, presumably the Bharatiya Nyaya Sanhita (BNS) or the Bharatiya Nyaya Sanhita Samhita (BNSS), which are proposed replacements for the IPC and the Code of Criminal Procedure (CrPC).\n\nThe provided context does not contain information about the provisions of BNS regarding adultery. Given the transition notes and the lack of specific information on BNS, it is uncertain whether adultery remains a crime under the proposed new code.\n\nAccording to the available information on IPC, Section 497 of the Indian Penal Code, 1860, dealt with adultery (Indian Penal Code, 1860, Section 497). However, as mentioned, this provision was struck down by the Supreme Court in 2018.\n\nSince the provided context does not contain the text of Section 497 of the IPC or any details about the BNS provisions, and considering the BNS/BNSS transition notes, I must warn that the information available is insufficient to provide a definitive answer regarding the status of adultery under BNS.\n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context lacks specific information on BNS provisions.\n- The transition to BNS/BNSS may alter the legal landscape regarding adultery.\n- The decriminalization of adultery under the IPC does not necessarily reflect its status under proposed or future legislation like BNS. \n\nSources: \n- Indian Penal Code, 1860 (for historical context on Section 497)\n- Joseph Shine vs. Union of India, (2018) 11 SCC 393 (for the decriminalization of adultery under IPC)",
+      "confidence": "MEDIUM",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_497",
+            "document": "Indian Penal Code 1860 Section 497. Adultery.\u2014. Adultery.\u2014\nWhoever has sexual intercourse with a person who is and whom he knows or has reason to believe to be the wife of another man, without the consent or connivance of that man, such sexual intercourse not amounting to the offence of rape, is guilty of the offence of adultery, and shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. In such case the wife shall not be punishable as an abettor.\n[In Joseph Shine v. Union of India (2018), the Court held adultery as defined under Section 497 of the IPC as being manife",
+            "metadata": {
+              "section_title": "Adultery.\u2014",
+              "id": "IPC_497",
+              "short_name": "IPC",
+              "act_name": "Indian Penal Code 1860",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+              "full_text": "Adultery.\u2014\nWhoever has sexual intercourse with a person who is and whom he knows or has reason to believe to be the wife of another man, without the consent or connivance of that man, such sexual intercourse not amounting to the offence of rape, is guilty of the offence of adultery, and shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. In such case the wife shall not be punishable as an abettor.\n[In Joseph Shine v. Union of India (2018), the Court held adultery as defined under Section 497 of the IPC as being manifestly arbitrary, discriminatory and violative of the dignity of a woman and therefore, unconstitutional. Section 497 is considered as the wife's encroachment on her right to life and personal liberty by accepting the notion of marriage which overthrows the true equality. \u201cEquality is overthrown by adopting the sanctions of penal code to a gender-based approach to the relationship of man and woman. Sexual autonomy falls within the area of personal liberty under Article 21 of Constitution of India. Trust and respect are two essentials of a marriage. When both the spouses respect each other with equality and dignity then only the respect for sexual autonomy is established.\u201d This section denies the substantive equality as it provides that women are not able to give her free consent for the sexual acts in a legal order which considers them as a sexual property of their spouse. Therefore, section 497 is violative of Article 14 of the Indian Constitution and it also violates the non-discrimination clause of Article 15 of the Constitution of India. This section also lays strong emphasis on the consent of the husband which leads to the subordination of women. Hence, it clearly violates Article 21 of the Constitution of India. As a result of all the discussion it was declared that:Section 497 is struck down as unconstitutional being violative of Articles 14, 15 and 21 of the Constitution.Section 198(2) of the CrPC. which contains the procedure for prosecution under Chapter XX of the I.P.C. shall be unconstitutional only to the extent that it is applicable to the offence of Adultery under Section 497.(https:privacylibrary.ccgnlud.org/case/joseph-shine-vs-union-of-india, https:indiankanoon.org/doc/42184625/)]",
+              "source": "indiankanoon.org (direct URL)",
+              "section_number": "497",
+              "priority": "CRITICAL",
+              "is_replaced": true,
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023"
+            },
+            "distance": 0.4670175313949585,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.766,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 497",
+              "replaced_by": "Removed in BNS",
+              "changes": "adultery decriminalized",
+              "note": "\u26a0\ufe0f Note: IPC Section 497 has been removed in Bharatiya Nyaya Sanhita 2023."
+            },
+            "ipc_sections_mentioned": [
+              "IPC 497 \u2192 BNS removed"
+            ]
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+        "\u26a0\ufe0f Medium confidence - verify with primary sources"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for sedition?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS (Bharat Naresh Singhvi) section for sedition is not explicitly mentioned in the provided context. However, it appears that the context is referring to the transition from the Indian Penal Code (IPC) and the Code of Criminal Procedure (CrPC) to a new system, possibly incorporating BNS/BNSS notes.\n\nAs per the provided context, the sections related to sedition are Section 124A of the Indian Penal Code 1860 [ACT 2] and Section 124A of the Code of Criminal Procedure 1973 [ACT 1]. However, the text of these sections is not available.\n\nIt is essential to note that the BNS/BNSS transition notes indicate a potential shift in the legal framework, which may affect the applicability of the existing laws. **Please be aware that this transition may impact the interpretation and application of the sedition laws**.\n\nIn the absence of explicit information on the BNS section for sedition, it is crucial to consult the latest amendments and updates to the Indian Penal Code and the Code of Criminal Procedure. **The provided context does not contain sufficient information to determine the BNS section for sedition**.\n\nConfidence Level: MEDIUM\nCaveats: The lack of text for the relevant sections and the presence of BNS/BNSS transition notes may affect the accuracy of the answer. It is recommended to consult the latest legal resources and updates to ensure compliance with the current laws. \n\nSources: \n- Indian Penal Code 1860, Section 124A [ACT 2]\n- Code of Criminal Procedure 1973, Section 124A [ACT 1]",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "CrPC_124A",
+            "document": "Code of Criminal Procedure 1973 Section 124A. Sedition. Sedition\n\nImprisonment for life and fine, or imprisonment for 3 years and fine, or fine\n\nDitto\n\nDitto\n\nDitto",
+            "metadata": {
+              "short_name": "CrPC",
+              "source": "indiankanoon.org (direct URL)",
+              "section_title": "Sedition",
+              "act_name": "Code of Criminal Procedure 1973",
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "section_number": "124A",
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "full_text": "Sedition\n\nImprisonment for life and fine, or imprisonment for 3 years and fine, or fine\n\nDitto\n\nDitto\n\nDitto",
+              "id": "CrPC_124A"
+            },
+            "distance": 0.08012306690216064,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.96,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_124A",
+            "document": "Indian Penal Code 1860 Section 124A. Sedition.\u2014. Sedition.\u2014\nWhoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, the Government estab\u00adlished by law in India, shall be punished with im\u00adprisonment for life, to which fine may be added, or with impris\u00adonment which may extend to three years, to which fine may be added, or with fine.\nExplanation 1.\u2014 The expression \u201cdisaffection\u201d includes disloyalty and all feelings of enmity.\nExplanation 2.\u2014 Comments expressing disapprobation of the meas\u00adures ",
+            "metadata": {
+              "id": "IPC_124A",
+              "section_number": "124A",
+              "act_name": "Indian Penal Code 1860",
+              "full_text": "Sedition.\u2014\nWhoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, the Government estab\u00adlished by law in India, shall be punished with im\u00adprisonment for life, to which fine may be added, or with impris\u00adonment which may extend to three years, to which fine may be added, or with fine.\nExplanation 1.\u2014 The expression \u201cdisaffection\u201d includes disloyalty and all feelings of enmity.\nExplanation 2.\u2014 Comments expressing disapprobation of the meas\u00adures of the Government with a view to obtain their alteration by lawful means, without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.\nExplanation 3.\u2014 Comments expressing disapprobation of the admin\u00adistrative or other action of the Government without exciting or attempting to excite hatred, contempt or disaffection, do not constitute an offence under this section.",
+              "is_replaced": true,
+              "short_name": "IPC",
+              "section_title": "Sedition.\u2014",
+              "source": "indiankanoon.org (direct URL)",
+              "priority": "CRITICAL",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "punishment": "shall be punished with im\u00adprisonment for life, to which fine may be added, or with impris\u00adonment which may extend to three years, to which fine may be added, or with fine."
+            },
+            "distance": 0.179867684841156,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.91,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 124A",
+              "replaced_by": "BNS Section 152",
+              "changes": "sedition redefined",
+              "note": "\u26a0\ufe0f Note: IPC Section 124A has been replaced by BNS Section 152. Changes: sedition redefined"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 2,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has abetment to suicide changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 411 (dishonestly receiving stolen property) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "According to the provided context, IPC 411 refers to the offense of \"Dishonestly receiving stolen property\" under the Indian Penal Code 1860. \n(Indian Penal Code 1860, Section 411)\n\nHowever, the text of Section 411 is not available in the provided context. \n\nSince there is no information available about BNS (which likely refers to the Bharat Series of the Indian Penal Code, a proposed replacement or revision), and no BNS/BNSS transition notes are provided, it is not possible to determine the exact provisions or changes to IPC 411 in the context of BNS.\n\nThe provided context does not contain sufficient information to provide a detailed answer about IPC 411 in BNS. \n(Indian Penal Code 1860, Section 411), (No specific BNS or BNSS provisions available)\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of IPC 411 or any information about BNS/BNSS provisions. Therefore, the answer is based on limited information and may not be comprehensive or accurate.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_411",
+            "document": "Indian Penal Code 1860 Section 411. Dishonestly receiving stolen property.\u2014. Dishonestly receiving stolen property.\u2014\nWhoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+            "metadata": {
+              "section_title": "Dishonestly receiving stolen property.\u2014",
+              "id": "IPC_411",
+              "section_number": "411",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "full_text": "Dishonestly receiving stolen property.\u2014\nWhoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "short_name": "IPC",
+              "is_replaced": true,
+              "source": "indiankanoon.org (direct URL)",
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "priority": "CRITICAL"
+            },
+            "distance": 0.0039321184158325195,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.998,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_412",
+            "document": "Indian Penal Code 1860 Section 412. Dishonestly receiving property stolen in the commission of a dacoity.\u2014. Dishonestly receiving property stolen in the commission of a dacoity.\u2014\nWhoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+            "metadata": {
+              "is_replaced": true,
+              "section_number": "412",
+              "priority": "CRITICAL",
+              "short_name": "IPC",
+              "punishment": "shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+              "section_title": "Dishonestly receiving property stolen in the commission of a dacoity.\u2014",
+              "full_text": "Dishonestly receiving property stolen in the commission of a dacoity.\u2014\nWhoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+              "id": "IPC_412",
+              "source": "indiankanoon.org (direct URL)",
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023"
+            },
+            "distance": 0.028161942958831787,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.986,
+            "has_amendments": false
+          },
+          {
+            "id": "CrPC_411",
+            "document": "Code of Criminal Procedure 1973 Section 411. The owner of the property stolen.. The owner of the property stolen.\n\nAssisting in the concealment or disposal of stolen property. knowing it to be stolen.",
+            "metadata": {
+              "id": "CrPC_411",
+              "section_title": "The owner of the property stolen.",
+              "act_name": "Code of Criminal Procedure 1973",
+              "priority": "CRITICAL",
+              "short_name": "CrPC",
+              "is_replaced": true,
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "section_number": "411",
+              "full_text": "The owner of the property stolen.\n\nAssisting in the concealment or disposal of stolen property. knowing it to be stolen.",
+              "source": "indiankanoon.org (direct URL)"
+            },
+            "distance": 0.32071346044540405,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.84,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is forgery defined the same way in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 366 (kidnapping for marriage)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 366 (kidnapping for marriage) is not explicitly stated in the provided context. \nHowever, according to the BNS/BNSS Transition Notes, there is a transition, but the specific details are not provided.\nAs per the Indian Penal Code 1860, Section 366 deals with kidnapping, abducting, or inducing a woman to compel her marriage, etc. (Indian Penal Code 1860, Section 366).\n\nSince the provided context does not contain the BNS equivalent of IPC 366, I must rely on general knowledge of the transition from IPC to BNS/BNSS. \nUnfortunately, without more information, I cannot provide a reliable answer based on the current database.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the BNS equivalent of IPC 366, and the BNS/BNSS Transition Notes do not provide sufficient information. Therefore, the answer is uncertain and should be verified with additional sources. \n\nPlease note that the Indian Penal Code 1860 is a pre-existing law, and any changes or transitions to BNS/BNSS would require careful analysis of the new provisions and their applicability. \nIt is essential to consult the latest amendments and case laws to determine the current equivalent of IPC 366 under the BNS/BNSS regime. \n\nSource: Indian Penal Code 1860, Section 366 (limited information available)",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_366",
+            "document": "Indian Penal Code 1860 Section 366. Kidnapping, abducting or inducing woman to compel her marriage, etc.\u2014. Kidnapping, abducting or inducing woman to compel her marriage, etc.\u2014\nWhoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and whoever, by means of criminal intimidation as defined in this Code ",
+            "metadata": {
+              "punishment": "fined in this Code or of abuse of authority or any other method of compulsion, induces any woman to go from any place with intent that she may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with another person shall be punishable as aforesaid.",
+              "section_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.\u2014",
+              "act_name": "Indian Penal Code 1860",
+              "is_replaced": true,
+              "short_name": "IPC",
+              "full_text": "Kidnapping, abducting or inducing woman to compel her marriage, etc.\u2014\nWhoever kidnaps or abducts any woman with intent that she may be compelled, or knowing it to be likely that she will be compelled, to marry any person against her will, or in order that she may be forced or seduced to illicit intercourse, or knowing it to be likely that she will be forced or seduced to illicit intercourse, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and whoever, by means of criminal intimidation as defined in this Code or of abuse of authority or any other method of compulsion, induces any woman to go from any place with intent that she may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with another person shall be punishable as aforesaid.",
+              "source": "indiankanoon.org (direct URL)",
+              "priority": "CRITICAL",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "id": "IPC_366",
+              "section_number": "366"
+            },
+            "distance": 0.10286718606948853,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.949,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 366",
+              "replaced_by": "BNS Section 87",
+              "changes": "kidnapping woman - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 366 has been replaced by BNS Section 87. Changes: kidnapping woman - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the concept of common intention (IPC 34) changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 109 (abetment) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is voluntarily causing grievous hurt different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "Voluntarily causing grievous hurt is addressed under different provisions in the Indian Penal Code (IPC) and the Bharatiya Nyaya Sanhita (BNS). \n\nAccording to Section 459 of the Indian Penal Code 1860, grievous hurt caused whilst committing lurking house trespass or house-breaking is a specific offense (IPC, Section 459). However, the BNS 2023, under Section 117, deals with voluntarily causing hurt, which may include grievous hurt, depending on the intent of the perpetrator (BNS 2023, Section 117).\n\nThe key difference lies in the fact that the IPC specifically addresses grievous hurt in the context of certain offenses like lurking house trespass or house-breaking, whereas the BNS provision seems to be more general, focusing on the intent to cause hurt without specifying the context of the offense.\n\nIt is essential to note that the BNS 2023 is a relatively new legislation, and its provisions may override or modify existing laws, including the IPC. However, without the text of the BNS 2023, Section 117, and the IPC, Section 459, it is challenging to provide a detailed comparison of the two provisions.\n\nThe Code of Criminal Procedure 1973 (CrPC) may also be relevant in the context of procedures for investigating and prosecuting offenses related to voluntarily causing grievous hurt (CrPC 1973, Section 334). However, the specific provision of Section 334 is not available, making it difficult to determine its relevance to the question.\n\nIn conclusion, while the IPC and BNS have different provisions related to voluntarily causing grievous hurt, the exact differences and implications of these provisions cannot be determined without access to the text of the relevant sections.\n\nConfidence Level: HIGH\nCaveats: The provided context does not contain the text of the relevant sections, which may be necessary for a more detailed analysis. Additionally, the BNS 2023 is a new legislation, and its provisions may be subject to interpretation and clarification by the courts. \n\nSources:\n- Bharatiya Nyaya Sanhita 2023, Section 117\n- Indian Penal Code 1860, Section 459\n- Code of Criminal Procedure 1973, Section 334",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "BNS_117",
+            "document": "Bharatiya Nyaya Sanhita 2023 Section 117. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\nknows himself to be likely to cause is grievous hurt, and if the hurt which he causes is\ngrievous hurt, is said \u201cvoluntarily to cause grievous hurt\u201d.\nHurt.\nVoluntarily\ncausing hurt.\nGrievous hurt.\nVoluntarily\ncausing\ngriev",
+            "metadata": {
+              "effective_date": "2024-07-01",
+              "act_name": "Bharatiya Nyaya Sanhita 2023",
+              "is_replaced": false,
+              "full_text": "117. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\n(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\nknows himself to be likely to cause is grievous hurt, and if the hurt which he causes is\ngrievous hurt, is said \u201cvoluntarily to cause grievous hurt\u201d.\nHurt.\nVoluntarily\ncausing hurt.\nGrievous hurt.\nVoluntarily\ncausing\ngrievous hurt.\n37 of 1967.\n38\nTHE GAZETTE OF INDIA EXTRAORDINARY\n[Part II\u2014\n____________________________________________________________\n_____________________________________________________________\n____________________________________________________________\n___________________________________________________________\n________________________________________________________\n_____________________________________________________________\nExplanation.\u2014A person is not said voluntarily to cause grievous hurt except when he\nboth causes grievous hurt and intends or knows himself to be likely to cause grievous hurt.\nBut he is said voluntarily to cause grievous hurt, if intending or knowing himself to be likely\nto cause grievous hurt of one kind, he actually causes grievous hurt of another kind.\nIllustration.\nA, intending of knowing himself to be likely permanently to disfigure Z\u2019s face, gives\nZ a blow which does not permanently disfigure Z\u2019s face, but which causes Z to suffer severe\nbodily pain for the space of fifteen days. A has voluntarily caused grievous hurt.\n(2)Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily\ncauses grievous hurt, shall be punished with imprisonment of either description for a term\nwhich may extend to seven years, and shall also be liable to fine.\n(3) Whoever commits an offence under sub-section (1) and in the course of such\ncommission causes any hurt to a person which causes that person to be in permanent\ndisability or in persistent vegetative state, shall be punished with rigorous imprisonment for\na term which shall not be less than ten years but which may extend to imprisonment for life,\nwhich shall mean imprisonment for the remainder of that person\u2019s natural life.\n(4) When a group of five or more persons acting in concert, causes grievous hurt to a\nperson on the ground of his race, caste or community, sex, place of birth, language, personal\nbelief or any other similar ground, each member of such group shall be guilty of the offence\nof causing grievous hurt, and shall be punished with imprisonment of either description for\na term which may extend to seven years, and shall also be liable to fine.",
+              "section_title": "(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or",
+              "replaces_act": "Indian Penal Code 1860",
+              "short_name": "BNS",
+              "section_number": "117",
+              "id": "BNS_117",
+              "source": "official_government_pdf",
+              "priority": "CRITICAL"
+            },
+            "distance": 0.01044374704360962,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.995,
+            "has_amendments": false
+          },
+          {
+            "id": "CrPC_334",
+            "document": "Code of Criminal Procedure 1973 Section 334. Ditto.. Ditto.\n\nVoluntarily causing grievous hurt on provocation.",
+            "metadata": {
+              "is_replaced": true,
+              "section_title": "Ditto.",
+              "section_number": "334",
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "priority": "CRITICAL",
+              "source": "indiankanoon.org (direct URL)",
+              "id": "CrPC_334",
+              "act_name": "Code of Criminal Procedure 1973",
+              "full_text": "Ditto.\n\nVoluntarily causing grievous hurt on provocation.",
+              "short_name": "CrPC"
+            },
+            "distance": 0.024530112743377686,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.988,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_459",
+            "document": "Indian Penal Code 1860 Section 459. Grievous hurt caused whilst committing lurking house trespass or house-breaking.\u2014. Grievous hurt caused whilst committing lurking house trespass or house-breaking.\u2014\nWhoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "id": "IPC_459",
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_number": "459",
+              "short_name": "IPC",
+              "full_text": "Grievous hurt caused whilst committing lurking house trespass or house-breaking.\u2014\nWhoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+              "punishment": "shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+              "is_replaced": true,
+              "section_title": "Grievous hurt caused whilst committing lurking house trespass or house-breaking.\u2014",
+              "priority": "CRITICAL"
+            },
+            "distance": 0.15294837951660156,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.924,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for robbery with murder?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS section for robbery with murder is not explicitly stated in the provided context. However, based on the available sections of the Indian Penal Code 1860, we can infer that the relevant section might be related to Section 397, which deals with \"Robbery, or dacoity, with attempt to cause death or grievous hurt\" (Indian Penal Code 1860, Section 397).\n\nIt is essential to note that the provided context does not contain the text of the sections, and therefore, we cannot provide a detailed analysis of the legal provisions. Moreover, the presence of BNS/BNSS transition notes suggests that there might be a transition from the Indian Penal Code (IPC) to the Bharatiya Nyaya Sanhita (BNS) or the Bharatiya Nyaya Sanhita Samanya (BNSS), which could affect the applicability of the sections.\n\nAs the provided context does not contain any information about the BNS section for robbery with murder, we cannot provide a reliable answer based on the current database. It is crucial to consult the latest version of the BNS or BNSS to determine the relevant section.\n\nConfidence Level: MEDIUM\n\nCaveats:\n- The provided context does not contain the text of the sections.\n- The presence of BNS/BNSS transition notes may affect the applicability of the sections.\n- It is essential to consult the latest version of the BNS or BNSS to determine the relevant section.\n\nSources:\n- Indian Penal Code 1860, Section 397\n- Indian Penal Code 1860, Section 392\n- Indian Penal Code 1860, Section 310\n\nNote: The user is advised to exercise caution and consult the latest version of the BNS or BNSS to determine the relevant section for robbery with murder.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_397",
+            "document": "Indian Penal Code 1860 Section 397. Robbery, or dacoity, with attempt to cause death or grievous hurt.\u2014. Robbery, or dacoity, with attempt to cause death or grievous hurt.\u2014\nIf, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "id": "IPC_397",
+              "act_name": "Indian Penal Code 1860",
+              "section_number": "397",
+              "short_name": "IPC",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "full_text": "Robbery, or dacoity, with attempt to cause death or grievous hurt.\u2014\nIf, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+              "section_title": "Robbery, or dacoity, with attempt to cause death or grievous hurt.\u2014",
+              "punishment": "imprisonment with which such offender shall be punished shall not be less than seven years.",
+              "is_replaced": true,
+              "priority": "CRITICAL"
+            },
+            "distance": 0.14332491159439087,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.928,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 397",
+              "replaced_by": "BNS Section 311",
+              "changes": "robbery with attempt to murder - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 397 has been replaced by BNS Section 311. Changes: robbery with attempt to murder - same"
+            }
+          },
+          {
+            "id": "IPC_392",
+            "document": "Indian Penal Code 1860 Section 392. Punishment for robbery.\u2014. Punishment for robbery.\u2014\nWhoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "act_name": "Indian Penal Code 1860",
+              "full_text": "Punishment for robbery.\u2014\nWhoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+              "section_title": "Punishment for robbery.\u2014",
+              "short_name": "IPC",
+              "is_replaced": true,
+              "punishment": "shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+              "section_number": "392",
+              "id": "IPC_392",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "priority": "CRITICAL"
+            },
+            "distance": 0.17328578233718872,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.913,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 392",
+              "replaced_by": "BNS Section 309",
+              "changes": "robbery - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 392 has been replaced by BNS Section 309. Changes: robbery - same"
+            }
+          },
+          {
+            "id": "IPC_310",
+            "document": "Indian Penal Code 1860 Section 310. Thug.\u2014. Thug.\u2014\nWhoever, at any time after the passing of this Act, shall have been habitually associated with any other or others for the purpose of committing robbery or child-stealing by means of or accompanied with murder, is a thug.",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "section_title": "Thug.\u2014",
+              "section_number": "310",
+              "id": "IPC_310",
+              "act_name": "Indian Penal Code 1860",
+              "priority": "CRITICAL",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "is_replaced": true,
+              "short_name": "IPC",
+              "full_text": "Thug.\u2014\nWhoever, at any time after the passing of this Act, shall have been habitually associated with any other or others for the purpose of committing robbery or child-stealing by means of or accompanied with murder, is a thug."
+            },
+            "distance": 0.1739632487297058,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.913,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of a woman been updated in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 201 (destruction of evidence) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is criminal trespass defined differently in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "Based on the provided context, it is unclear whether criminal trespass is defined differently in BNS, as the text of Section 441 of the Indian Penal Code 1860 is not available. \n\nAccording to the Indian Penal Code 1860, Section 441 is titled \"Criminal trespass\" (Indian Penal Code 1860, Section 441). However, without the actual text of the section, it is impossible to determine the definition of criminal trespass under the Indian Penal Code 1860.\n\nRegarding BNS, there is no information provided in the context about the definition of criminal trespass in BNS or how it may differ from the definition under the Indian Penal Code 1860.\n\nThe provided context does not contain any information about BNS or its provisions related to criminal trespass. Therefore, it is not possible to provide a reliable answer based on the current database.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to answer the question, and the text of Section 441 of the Indian Penal Code 1860 is not available.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_441",
+            "document": "Indian Penal Code 1860 Section 441. Criminal trespass.\u2014. Criminal trespass.\u2014\nWhoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property,\nor having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence,\nis said to commit \u201ccriminal trespass\u201d.",
+            "metadata": {
+              "is_replaced": true,
+              "id": "IPC_441",
+              "full_text": "Criminal trespass.\u2014\nWhoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property,\nor having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence,\nis said to commit \u201ccriminal trespass\u201d.",
+              "short_name": "IPC",
+              "act_name": "Indian Penal Code 1860",
+              "source": "indiankanoon.org (direct URL)",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_number": "441",
+              "priority": "CRITICAL",
+              "section_title": "Criminal trespass.\u2014"
+            },
+            "distance": 0.07463335990905762,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.963,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 325?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the age of criminal responsibility changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 511 (attempt) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is the definition of public servant different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The definition of public servant under the Indian Penal Code 1860, specifically Section 21, is not provided in the given context. However, according to the Indian Penal Code 1860, Section 21 defines a \"public servant\" (Act: Indian Penal Code 1860, Section: 21).\n\nRegarding the difference in definition in BNS (Bharat Nikleshak Sanhita or the Indian Penal Code as replaced by the BNS), the provided context does not contain information on the BNS or its provisions. \n\nAs there are no BNS/BNSS transition notes provided, and the context only mentions the Indian Penal Code 1860, it is unclear how the definition of public servant may differ in BNS. \n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain sufficient information to determine the definition of public servant under BNS or how it may differ from the Indian Penal Code 1860.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_21",
+            "document": "Indian Penal Code 1860 Section 21. \u201cPublic servant\u201d.\u2014. \u201cPublic servant\u201d.\u2014\nThe words \u201cpublic servant\u201d denote a person falling under any of the descriptions hereinafter following; namely:\u2014\n[***]\n(Second)\n\u2014 Every Commissioned Officer in the Military, Naval or Air Forces of India;\n(Third)\n\u2014 Every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;\n(Fourth)\n\u2014 Every officer of a Court of Justice (including a liquidator, receiver or commissioner) whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or ",
+            "metadata": {
+              "full_text": "\u201cPublic servant\u201d.\u2014\nThe words \u201cpublic servant\u201d denote a person falling under any of the descriptions hereinafter following; namely:\u2014\n[***]\n(Second)\n\u2014 Every Commissioned Officer in the Military, Naval or Air Forces of India;\n(Third)\n\u2014 Every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;\n(Fourth)\n\u2014 Every officer of a Court of Justice (including a liquidator, receiver or commissioner) whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court, and every person specially authorized by a Court of Justice to perform any of such duties;\n(Fifth)\n\u2014 Every juryman, assessor, or member of a panchayat assist\u00ading a Court of Justice or public servant;\n(Sixth)\n\u2014 Every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court of Justice, or by any other competent public authority;\n(Seventh)\n\u2014 Every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;\n(Eighth)\n\u2014 Every officer of the Government whose duty it is, as such officer, to prevent offences, to give information of of\u00adfences, to bring offenders to justice, or to protect the public health, safety or convenience;\n(Ninth)\n\u2014 Every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Govern\u00adment, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue process, or to investigate, or to report, on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Govern\u00adment, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government;\n(Tenth)\n\u2014 Every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenti\u00adcate or keep any document for the ascertaining of the rights of the people of any village, town or district;\n(Eleventh)\n\u2014 Every person who holds any office in virtue of which he is empowered to prepare, publish, maintain or revise an elec\u00adtoral roll or to conduct an election or part of an election;\n(Twelfth)\n\u2014 Every person\u2014\n(a)\nin the service or pay of the Government or remunerated by fees or commission for the performance of any public duty by the Government;\n(b)\nin the service or pay of a local authority, a corporation established by or under a Central, Provincial or State Act or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956).\nIllustration\nA...",
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_number": "21",
+              "id": "IPC_21",
+              "priority": "CRITICAL",
+              "short_name": "IPC",
+              "section_title": "\u201cPublic servant\u201d.\u2014",
+              "source": "indiankanoon.org (direct URL)",
+              "is_replaced": true
+            },
+            "distance": 0.14338964223861694,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.928,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 1,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for eve-teasing (IPC 509)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the concept of mens rea changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 141 (unlawful assembly) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain the text of IPC Section 141. However, I can provide general information about the section. \nIPC Section 141 defines an unlawful assembly as an assembly of five or more persons with the intention to commit an offense or to cause a disturbance of the public peace (Indian Penal Code 1860, Section 141). \n\nSince the text of the section is not available, I cannot provide a detailed explanation of the legal reasoning behind this section. \n\nPlease note that the BNS/BNSS transition notes indicate a potential transition to a new code, which may affect the interpretation and application of IPC Section 141. However, without further information, it is unclear how this transition may impact the section.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of IPC Section 141, and the BNS/BNSS transition notes may indicate a potential change in the law. Therefore, this answer should be used with caution and verified with the most up-to-date sources.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_141",
+            "document": "Indian Penal Code 1860 Section 141. Unlawful assembly.\u2014. Unlawful assembly.\u2014\nAn assembly of five or more persons is designated an \u201cunlawful assembly\u201d, if the common object of the persons composing that assembly is\u2014\n(First)\n\u2014 To overawe by criminal force, or show of criminal force, 1the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or\n(Second)\n\u2014 To resist the execution of any law, or of any legal process; or\n(Third)\n\u2014 To commit any mischief or criminal trespass, or other offence; or\n(Fourth)\n\u2014 By means of criminal force, or show of crimi",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "priority": "CRITICAL",
+              "is_replaced": true,
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "short_name": "IPC",
+              "full_text": "Unlawful assembly.\u2014\nAn assembly of five or more persons is designated an \u201cunlawful assembly\u201d, if the common object of the persons composing that assembly is\u2014\n(First)\n\u2014 To overawe by criminal force, or show of criminal force, 1the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or\n(Second)\n\u2014 To resist the execution of any law, or of any legal process; or\n(Third)\n\u2014 To commit any mischief or criminal trespass, or other offence; or\n(Fourth)\n\u2014 By means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or\n(Fifth)\n\u2014 By means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.\nExplanation.\u2014 An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly.",
+              "id": "IPC_141",
+              "section_title": "Unlawful assembly.\u2014",
+              "section_number": "141"
+            },
+            "distance": 0.009583711624145508,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.995,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 141",
+              "replaced_by": "BNS Section 189",
+              "changes": "unlawful assembly - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 141 has been replaced by BNS Section 189. Changes: unlawful assembly - same"
+            }
+          },
+          {
+            "id": "IPC_151",
+            "document": "Indian Penal Code 1860 Section 151. Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.\u2014. Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.\u2014\nWhoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.\nExplanation.\u2014 If the assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.",
+            "metadata": {
+              "section_number": "151",
+              "short_name": "IPC",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "id": "IPC_151",
+              "is_replaced": true,
+              "full_text": "Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.\u2014\nWhoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.\nExplanation.\u2014 If the assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+              "act_name": "Indian Penal Code 1860",
+              "section_title": "Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.\u2014",
+              "priority": "CRITICAL",
+              "source": "indiankanoon.org (direct URL)"
+            },
+            "distance": 0.3760243058204651,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.812,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_158",
+            "document": "Indian Penal Code 1860 Section 158. Being hired to take part in an unlawful assembly or riot.\u2014. Being hired to take part in an unlawful assembly or riot.\u2014\nWhoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in section 141, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both,\nor to go armed.\u2014 and whoever, being so engaged or hired as aforesaid, goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either descrip",
+            "metadata": {
+              "full_text": "Being hired to take part in an unlawful assembly or riot.\u2014\nWhoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in section 141, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both,\nor to go armed.\u2014 and whoever, being so engaged or hired as aforesaid, goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both,\nor to go armed.",
+              "section_title": "Being hired to take part in an unlawful assembly or riot.\u2014",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "priority": "CRITICAL",
+              "section_number": "158",
+              "id": "IPC_158",
+              "act_name": "Indian Penal Code 1860",
+              "source": "indiankanoon.org (direct URL)",
+              "is_replaced": true,
+              "short_name": "IPC"
+            },
+            "distance": 0.4407077431678772,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.78,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is extortion defined the same in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 323 (voluntarily causing hurt)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 323 (voluntarily causing hurt) is not directly available in the provided context. However, based on the information provided, it appears that the Bharatiya Nyaya Sanhita 2023 (BNS) has replaced or is in the process of replacing the Indian Penal Code 1860 (IPC). \n\nSince the text of BNS Section 117 is not available, we cannot determine with certainty if it is the equivalent of IPC 323. However, the title of BNS Section 117 suggests that it may be related to voluntarily causing hurt, similar to IPC 323. \n\nIt is essential to note that the transition from IPC to BNS is a significant change, and the provisions of BNS may differ from those of IPC. Therefore, it is crucial to consult the latest version of BNS and relevant case laws to determine the equivalent provision.\n\nAs the provided context does not contain the text of IPC 323 or BNS Section 117, and there are no relevant case laws available, the answer is based on the limited information provided. \n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of IPC 323 or BNS Section 117. The transition from IPC to BNS may involve significant changes, and the provisions of BNS may differ from those of IPC. It is recommended to consult the latest version of BNS and relevant case laws to determine the equivalent provision. \n\nSources: \n- Code of Criminal Procedure 1973 (Section 323) \n- Indian Penal Code 1860 (Section 394) \n- Bharatiya Nyaya Sanhita 2023 (Section 117) \n\nPlease note that the information provided is based on the limited context, and it is recommended to consult the latest version of the acts and relevant case laws for a more accurate answer.",
+      "confidence": "MEDIUM",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "CrPC_323",
+            "document": "Code of Criminal Procedure 1973 Section 323. The person to whom the hurt is caused.. The person to whom the hurt is caused.\n\nVoluntarily causing hurt on provocation.",
+            "metadata": {
+              "section_title": "The person to whom the hurt is caused.",
+              "id": "CrPC_323",
+              "section_number": "323",
+              "short_name": "CrPC",
+              "is_replaced": true,
+              "replaced_by_act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+              "full_text": "The person to whom the hurt is caused.\n\nVoluntarily causing hurt on provocation.",
+              "source": "indiankanoon.org (direct URL)",
+              "priority": "CRITICAL",
+              "act_name": "Code of Criminal Procedure 1973"
+            },
+            "distance": 0.04461979866027832,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.978,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_394",
+            "document": "Indian Penal Code 1860 Section 394. Voluntarily causing hurt in committing robbery.\u2014. Voluntarily causing hurt in committing robbery.\u2014\nIf any person, in committing or in attempting to commit robbery, voluntarily causes hurt, such person, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+            "metadata": {
+              "section_number": "394",
+              "full_text": "Voluntarily causing hurt in committing robbery.\u2014\nIf any person, in committing or in attempting to commit robbery, voluntarily causes hurt, such person, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+              "section_title": "Voluntarily causing hurt in committing robbery.\u2014",
+              "priority": "CRITICAL",
+              "punishment": "shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "id": "IPC_394",
+              "source": "indiankanoon.org (direct URL)",
+              "short_name": "IPC",
+              "is_replaced": true,
+              "act_name": "Indian Penal Code 1860"
+            },
+            "distance": 0.4021593928337097,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.799,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 394",
+              "replaced_by": "BNS Section 311",
+              "changes": "robbery with hurt - enhanced",
+              "note": "\u26a0\ufe0f Note: IPC Section 394 has been replaced by BNS Section 311. Changes: robbery with hurt - enhanced"
+            }
+          },
+          {
+            "id": "BNS_117",
+            "document": "Bharatiya Nyaya Sanhita 2023 Section 117. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\nknows himself to be likely to cause is grievous hurt, and if the hurt which he causes is\ngrievous hurt, is said \u201cvoluntarily to cause grievous hurt\u201d.\nHurt.\nVoluntarily\ncausing hurt.\nGrievous hurt.\nVoluntarily\ncausing\ngriev",
+            "metadata": {
+              "full_text": "117. (1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\n(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or\nknows himself to be likely to cause is grievous hurt, and if the hurt which he causes is\ngrievous hurt, is said \u201cvoluntarily to cause grievous hurt\u201d.\nHurt.\nVoluntarily\ncausing hurt.\nGrievous hurt.\nVoluntarily\ncausing\ngrievous hurt.\n37 of 1967.\n38\nTHE GAZETTE OF INDIA EXTRAORDINARY\n[Part II\u2014\n____________________________________________________________\n_____________________________________________________________\n____________________________________________________________\n___________________________________________________________\n________________________________________________________\n_____________________________________________________________\nExplanation.\u2014A person is not said voluntarily to cause grievous hurt except when he\nboth causes grievous hurt and intends or knows himself to be likely to cause grievous hurt.\nBut he is said voluntarily to cause grievous hurt, if intending or knowing himself to be likely\nto cause grievous hurt of one kind, he actually causes grievous hurt of another kind.\nIllustration.\nA, intending of knowing himself to be likely permanently to disfigure Z\u2019s face, gives\nZ a blow which does not permanently disfigure Z\u2019s face, but which causes Z to suffer severe\nbodily pain for the space of fifteen days. A has voluntarily caused grievous hurt.\n(2)Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily\ncauses grievous hurt, shall be punished with imprisonment of either description for a term\nwhich may extend to seven years, and shall also be liable to fine.\n(3) Whoever commits an offence under sub-section (1) and in the course of such\ncommission causes any hurt to a person which causes that person to be in permanent\ndisability or in persistent vegetative state, shall be punished with rigorous imprisonment for\na term which shall not be less than ten years but which may extend to imprisonment for life,\nwhich shall mean imprisonment for the remainder of that person\u2019s natural life.\n(4) When a group of five or more persons acting in concert, causes grievous hurt to a\nperson on the ground of his race, caste or community, sex, place of birth, language, personal\nbelief or any other similar ground, each member of such group shall be guilty of the offence\nof causing grievous hurt, and shall be punished with imprisonment of either description for\na term which may extend to seven years, and shall also be liable to fine.",
+              "section_title": "(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or",
+              "priority": "CRITICAL",
+              "act_name": "Bharatiya Nyaya Sanhita 2023",
+              "id": "BNS_117",
+              "source": "official_government_pdf",
+              "effective_date": "2024-07-01",
+              "short_name": "BNS",
+              "section_number": "117",
+              "is_replaced": false,
+              "replaces_act": "Indian Penal Code 1860"
+            },
+            "distance": 0.49192726612091064,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.754,
+            "has_amendments": false
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+        "\u26a0\ufe0f Medium confidence - verify with primary sources"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the punishment for culpable homicide changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The punishment for culpable homicide not amounting to murder has undergone a transition with the introduction of the Bharatiya Nyaya Sanhita 2023 (BNS). \n**BNS, Section 105** states that whoever commits culpable homicide not amounting to murder shall be punished, however, the specific details of the punishment are not provided in the given context.\n\nIn contrast, the **Indian Penal Code 1860, Section 304** previously governed the punishment for culpable homicide not amounting to murder, but the exact punishment is not available in the provided context.\n\nIt is essential to note that the BNS has replaced or will replace certain provisions of the Indian Penal Code 1860, marking a significant transition in the Indian legal framework. \n**Please be aware that this is a BNS/BNSS transition**, and the specific implications of this transition on the punishment for culpable homicide not amounting to murder are not entirely clear from the provided context.\n\nTo accurately determine the current punishment for culpable homicide not amounting to murder under the BNS, it is crucial to consult the full text of **BNS, Section 105**, as well as any relevant case laws or amendments that may have been introduced.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the specific details of the punishment for culpable homicide not amounting to murder under the BNS or the Indian Penal Code 1860. Therefore, it is recommended to consult the full text of the relevant statutes and seek additional legal guidance to ensure accuracy.",
+      "confidence": "HIGH",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_304",
+            "document": "Indian Penal Code 1860 Section 304. Punishment for culpable homicide not amounting to murder.\u2014. Punishment for culpable homicide not amounting to murder.\u2014\nWhoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death,\nor with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to caus",
+            "metadata": {
+              "is_replaced": true,
+              "priority": "CRITICAL",
+              "act_name": "Indian Penal Code 1860",
+              "section_title": "Punishment for culpable homicide not amounting to murder.\u2014",
+              "short_name": "IPC",
+              "full_text": "Punishment for culpable homicide not amounting to murder.\u2014\nWhoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death,\nor with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "punishment": "imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.",
+              "source": "indiankanoon.org (direct URL)",
+              "id": "IPC_304",
+              "section_number": "304"
+            },
+            "distance": 0.04190075397491455,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.979,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 304",
+              "replaced_by": "BNS Section 105",
+              "changes": "culpable homicide not amounting to murder - minor changes",
+              "note": "\u26a0\ufe0f Note: IPC Section 304 has been replaced by BNS Section 105. Changes: culpable homicide not amounting to murder - minor changes"
+            }
+          },
+          {
+            "id": "BNS_105",
+            "document": "Bharatiya Nyaya Sanhita 2023 Section 105. Whoever commits culpable homicide not amounting to murder, shall be punished. Whoever commits culpable homicide not amounting to murder, shall be punished\nwith imprisonment for life, or imprisonment of either description for a term which shall not be\nless than five years but which may extend to ten years, and shall also be liable to fine, if the\nact by which the death is caus",
+            "metadata": {
+              "priority": "CRITICAL",
+              "act_name": "Bharatiya Nyaya Sanhita 2023",
+              "replaces_act": "Indian Penal Code 1860",
+              "source": "official_government_pdf",
+              "full_text": "105. Whoever commits culpable homicide not amounting to murder, shall be punished\nWhoever commits culpable homicide not amounting to murder, shall be punished\nwith imprisonment for life, or imprisonment of either description for a term which shall not be\nless than five years but which may extend to ten years, and shall also be liable to fine, if the\nact by which the death is caused is done with the intention of causing death, or of causing\nsuch bodily injury as is likely to cause death; or with imprisonment of either description for\na term which may extend to ten years and with fine, if the act is done with the knowledge that\nit is likely to cause death, but without any intention to cause death, or to cause such bodily\ninjury as is likely to cause death.",
+              "section_number": "105",
+              "punishment": "imprisonment of either description for\na term which may extend to ten years and with fine, if the act is done with the knowledge that\nit is likely to cause death, but without any intention to cause death, or to cause such bodily\ninjury as is likely to cause death.",
+              "section_title": "Whoever commits culpable homicide not amounting to murder, shall be punished",
+              "is_replaced": false,
+              "effective_date": "2024-07-01",
+              "short_name": "BNS",
+              "id": "BNS_105"
+            },
+            "distance": 0.051013290882110596,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.974,
+            "has_amendments": false
+          },
+          {
+            "id": "IPC_308",
+            "document": "Indian Penal Code 1860 Section 308. Attempt to commit culpable homicide.\u2014. Attempt to commit culpable homicide.\u2014\nWhoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\nIllustration\nA, on grave and sudden provocation, fires a pistol at",
+            "metadata": {
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+              "full_text": "Attempt to commit culpable homicide.\u2014\nWhoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\nIllustration\nA, on grave and sudden provocation, fires a pistol at Z, under such circumstances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.",
+              "short_name": "IPC",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_title": "Attempt to commit culpable homicide.\u2014",
+              "source": "indiankanoon.org (direct URL)",
+              "act_name": "Indian Penal Code 1860",
+              "section_number": "308",
+              "id": "IPC_308",
+              "is_replaced": true,
+              "priority": "CRITICAL"
+            },
+            "distance": 0.16064190864562988,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.92,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 308",
+              "replaced_by": "BNS Section 110",
+              "changes": "attempt to culpable homicide - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 308 has been replaced by BNS Section 110. Changes: attempt to culpable homicide - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)"
+      ],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 3,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 406 (criminal breach of trust) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain the specific text of IPC 406, but it does mention that IPC 406 pertains to the \"Punishment for criminal breach of trust\" (Indian Penal Code 1860, Section 406). \n\nHowever, to answer the question regarding what IPC 406 is called in BNS, I must note that the provided context does not contain any information about BNS (Bangladesh Penal Code or any other code that might be referred to as BNS) or its equivalent sections. \n\nGiven the BNS/BNSS transition notes, it is essential to acknowledge that there might be a transition or replacement of IPC with BNS in certain jurisdictions, but without specific information about BNS, it's challenging to provide a direct answer.\n\nAccording to the Indian Penal Code 1860, Section 405 defines \"Criminal breach of trust\" (Indian Penal Code 1860, Section 405), and Section 406 deals with the punishment for such an offense. \n\nSince the provided context lacks information about BNS and its provisions, I must warn that any attempt to provide a detailed answer would be speculative. \n\nConfidence Level: LOW\n\nCaveats: \n- The provided context does not contain sufficient information about BNS or its equivalent sections.\n- The question requires specific knowledge about BNS, which is not available in the given context.\n- Any answer provided would be based on assumptions rather than concrete legal information. \n\nIn conclusion, I cannot provide a reliable answer based on the current database, and it is recommended to consult a more comprehensive legal resource or an expert in the field for a definitive answer.",
+      "confidence": "MEDIUM",
+      "trigger_uncertainty": false,
+      "sources": {
+        "bare_acts": [
+          {
+            "id": "IPC_406",
+            "document": "Indian Penal Code 1860 Section 406. Punishment for criminal breach of trust.\u2014. Punishment for criminal breach of trust.\u2014\nWhoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+            "metadata": {
+              "act_name": "Indian Penal Code 1860",
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "section_title": "Punishment for criminal breach of trust.\u2014",
+              "priority": "CRITICAL",
+              "punishment": "shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "section_number": "406",
+              "source": "indiankanoon.org (direct URL)",
+              "full_text": "Punishment for criminal breach of trust.\u2014\nWhoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+              "id": "IPC_406",
+              "short_name": "IPC",
+              "is_replaced": true
+            },
+            "distance": 0.2261524796485901,
+            "type": "bare_act",
+            "confidence_level": "HIGH",
+            "confidence_score": 0.887,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 406",
+              "replaced_by": "BNS Section 316",
+              "changes": "punishment for breach of trust - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 406 has been replaced by BNS Section 316. Changes: punishment for breach of trust - same"
+            }
+          },
+          {
+            "id": "IPC_405",
+            "document": "Indian Penal Code 1860 Section 405. Criminal breach of trust.\u2014. Criminal breach of trust.\u2014\nWhoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits \u201ccriminal breach of trust\u201d.\nExplanation 1.\u2014 A person, being an employer of an establishment whether exempted",
+            "metadata": {
+              "source": "indiankanoon.org (direct URL)",
+              "id": "IPC_405",
+              "is_replaced": true,
+              "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+              "full_text": "Criminal breach of trust.\u2014\nWhoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits \u201ccriminal breach of trust\u201d.\nExplanation 1.\u2014 A person, being an employer of an establishment whether exempted under section 17 of the Employees\u2019 Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952), or not who deducts the employee\u2019s contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\nExplanation 2.\u2014 A person, being an employer, who deducts the employees\u2019 contribution from the wages payable to the employee for credit to the Employees\u2019 State Insurance Fund held and administered by the Employees\u2019 State Insurance Corporation established under the Employees\u2019 State Insurance Act, 1948 (34 of 1948), shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\nIllustrations\n(a)\nA, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriate them to his own use. A has committed criminal breach of trust.\n(b)\nA is a warehouse-keeper. Z going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse room. A dishonestly sells the goods. A has committed criminal breach of trust.\n(c)\nA, residing in Calcutta, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z\u2019s direction. Z remits a lakh of rupees to A, with directions to A to invest the same in Company\u2019s paper. A dishonestly disobeys the direction and employs the money in his own business. A has committed criminal breach of trust.\n(d)\nBut if A, in the last illustration, not dishonestly but in good faith, believing that it will be more for Z\u2019s advantage to hold shares in the Bank of Bengal, disobeys Z\u2019s directions, and buys shares in the Bank of Bengal, ...",
+              "priority": "CRITICAL",
+              "act_name": "Indian Penal Code 1860",
+              "short_name": "IPC",
+              "section_number": "405",
+              "section_title": "Criminal breach of trust.\u2014"
+            },
+            "distance": 0.4384614825248718,
+            "type": "bare_act",
+            "confidence_level": "MEDIUM",
+            "confidence_score": 0.781,
+            "has_amendments": false,
+            "bns_transition": {
+              "original": "IPC Section 405",
+              "replaced_by": "BNS Section 316",
+              "changes": "criminal breach of trust - same",
+              "note": "\u26a0\ufe0f Note: IPC Section 405 has been replaced by BNS Section 316. Changes: criminal breach of trust - same"
+            }
+          }
+        ],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+        "\u26a0\ufe0f Medium confidence - verify with primary sources"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 2,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is the insanity defense different under BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "When did BNS come into force replacing IPC?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "confidence": "LOW",
+      "trigger_uncertainty": true,
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [
+        "\u26a0\ufe0f Insufficient reliable information in database"
+      ],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  }
+]

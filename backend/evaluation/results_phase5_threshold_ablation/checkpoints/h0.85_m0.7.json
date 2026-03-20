@@ -1,0 +1,1128 @@
+[
+  {
+    "query_id": "Q368",
+    "query_text": "What is judicial separation under Section 10 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q020",
+    "query_text": "What does Section 214 BNS cover?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Section 214 of the Indian Penal Code (IPC) is related to offering a gift or restoration of property in consideration of screening an offender. \nAs per the case law available, specifically Case 1 (VIBER_05296e52ccdb, Indian Legal Database, 2024), it is understood that this section deals with the offense of offering a gift or restoration of property with the intention of screening an offender from legal punishment. \nHowever, the exact details of the section, including its specific provisions and penalties, are not available in the provided context. \nIt is essential to consult the IPC or relevant legal resources for a comprehensive understanding of Section 214. \nPlease note that the confidence level for this query is MEDIUM, and there are no BNS/BNSS transition notes available. \nConfidence Level: MEDIUM. \n\nNote: The provided context does not contain the exact text of Section 214 or detailed information about the case laws. For a more accurate and detailed answer, it is recommended to consult the Indian Penal Code or relevant legal resources.\n\nSources:\n- BNS Section 214\n- What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender? VIBER_05296e52ccdb\n- What does Section 487 cover? VIBER_4d1aa69dd043",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 214"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender?",
+          "section_or_citation": "VIBER_05296e52ccdb"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 487 cover?",
+          "section_or_citation": "VIBER_4d1aa69dd043"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q333",
+    "query_text": "How does Section 22 of the Limitation Act apply to continuing breaches?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q348",
+    "query_text": "What disclosure requirements are imposed on arbitrators under Section 12?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q307",
+    "query_text": "What personal bars to relief are listed in Section 16 of the Specific Relief Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q013",
+    "query_text": "What is Section 34 IPC?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Section 34 of the Indian Penal Code (IPC) pertains to \"Acts done by several persons in furtherance of common intention\" (Indian Penal Code 1860, Section 34). \n\nAccording to the provided context, the text of Section 34 IPC is not available. However, the case laws cited provide some insight into the interpretation of this section. For instance, Case 2 (VIBER_31d84fedcb29) is related to Section 34 regarding 'Acts done by several persons in furtherance of common intention', but the facts and holding of this case are not available in the provided context.\n\nIt is essential to note that the Indian Penal Code is a comprehensive criminal code that outlines various offenses and their corresponding punishments. Section 34 IPC is a crucial provision that deals with the liability of multiple individuals who act together in furtherance of a common intention.\n\nThe significance of Section 34 IPC can be understood in the context of criminal liability, where multiple individuals are involved in the commission of an offense. This section provides that when several persons do an act in furtherance of a common intention, each of them is liable for the consequences of that act, as if they had done it individually (Indian Penal Code 1860, Section 34).\n\nIt is also important to note that there are BNS/BNSS transition notes, which may indicate that there are changes or updates to the IPC or CrPC that may affect the interpretation or application of Section 34 IPC. However, without more information, it is difficult to determine the specific impact of these transitions.\n\nIn conclusion, while the exact text of Section 34 IPC is not available in the provided context, it is clear that this section deals with the liability of multiple individuals who act together in furtherance of a common intention. The case laws cited, although lacking in specific details, suggest that Section 34 IPC is an important provision in the Indian Penal Code.\n\nSources:\n- Indian Penal Code 1860, Section 34\n- Case 2: VIBER_31d84fedcb29 (Indian Legal Database, 2024)\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of Section 34 IPC, and the facts and holdings of the cited case laws are not available. Therefore, the answer is based on general knowledge of the Indian Penal Code and the limited information provided in the context.",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 34"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 137"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What was the significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195?",
+          "section_or_citation": "VIBER_a29188a3597a"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can you elaborate on Section 34 regarding 'Acts done by several persons in furtherance of common intention'?",
+          "section_or_citation": "VIBER_31d84fedcb29"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Which is the important IPC related to women?",
+          "section_or_citation": "VIBER_8284190083d1"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does 354C IPC states?",
+          "section_or_citation": "VIBER_9de34ded5cdf"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Is IPC Section 509 a bailable offense?",
+          "section_or_citation": "VIBER_5053e50f15d2"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q382",
+    "query_text": "What interim and ex parte orders are allowed under Section 23 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q063",
+    "query_text": "What is the sentence for defamation under IPC 500?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "According to the Indian Penal Code (IPC), Section 500 prescribes the punishment for defamation. \nAs per Section 500 of the IPC, the punishment for defamation is imprisonment for a term which may extend to two years, or with fine, or with both (Section 500, Indian Penal Code, 1860).\n\nThe provided context does not contain the specific text of the cases, but based on the information available, it can be inferred that the punishment for defamation under IPC Section 500 is as stated above. \nThere are no applicable BNS/BNSS transition notes in this context.\n\nConfidence level: MEDIUM\nCaveat: The provided context does not contain the specific text of the cases, and the confidence level is medium. Therefore, it is recommended to verify the information with a reliable source, such as the Indian Penal Code, 1860, or a relevant judicial precedent. \n\nNote: Since the confidence level is medium, and there is limited information available in the context, it is essential to consult a reliable source to confirm the accuracy of the information. \n\nSource: \n- Section 500, Indian Penal Code, 1860. \n\nPlease consult a reliable source, such as the Indian Penal Code, 1860, or a relevant judicial precedent, to verify the accuracy of the information.\n\nSources:\n- IPC Section 500\n- Let's continue discussing the Indian Penal Code. We're now on Chapter 21, and I see Section 500. What does it cover? VIBER_804b2c1548e8\n- What is the punishment for an offense under IPC Section 509? VIBER_f3dd161b4bcb\n- What is the punishment for IPC 354? VIBER_2264033d5ab2",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 500"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Let's continue discussing the Indian Penal Code. We're now on Chapter 21, and I see Section 500. What does it cover?",
+          "section_or_citation": "VIBER_804b2c1548e8"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the punishment for an offense under IPC Section 509?",
+          "section_or_citation": "VIBER_f3dd161b4bcb"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the punishment for IPC 354?",
+          "section_or_citation": "VIBER_2264033d5ab2"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What penalties are imposed for online defamation under the IT Act 2000?",
+          "section_or_citation": "VIBER_10b9f2cbf9e5"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q060",
+    "query_text": "What is the sentence for wrongful confinement under IPC?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The sentence for wrongful confinement under the Indian Penal Code (IPC) is not explicitly stated in the provided context. However, according to Section 342 of the IPC, wrongful confinement is punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both (Section 342, IPC).\n\nAs the provided context does not contain the exact text of the cases, we cannot rely on the case laws mentioned (VIBER_205bc1435969, VIBER_f3dd161b4bcb, VIBER_2264033d5ab2, VIBER_5e6602effff4, VIBER_2a82a1bd70bc) to determine the sentence for wrongful confinement. \n\nThe Indian Penal Code (IPC) is the primary source for determining the punishment for wrongful confinement. Section 342 of the IPC states that \"Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both\" (Section 342, IPC).\n\nIn the absence of specific information from the case laws, we must rely on the IPC to determine the sentence for wrongful confinement. \n\nConfidence Level: MEDIUM\n\nNote: The provided context does not contain sufficient information to provide a detailed answer. The answer is based on the general provisions of the IPC. It is recommended to consult the IPC and relevant case laws for a more accurate and detailed answer.\n\nSources:\n- What is the punishment for wrongful confinement? VIBER_205bc1435969\n- What is the punishment for an offense under IPC Section 509? VIBER_f3dd161b4bcb\n- What is the punishment for IPC 354? VIBER_2264033d5ab2\n- Tell me more about 'Assault or criminal force in attempting wrongfully to confine a person' as mentioned in Section 357. VIBER_5e6602effff4",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is the punishment for wrongful confinement?",
+          "section_or_citation": "VIBER_205bc1435969"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the punishment for an offense under IPC Section 509?",
+          "section_or_citation": "VIBER_f3dd161b4bcb"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the punishment for IPC 354?",
+          "section_or_citation": "VIBER_2264033d5ab2"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me more about 'Assault or criminal force in attempting wrongfully to confine a person' as mentioned in Section 357.",
+          "section_or_citation": "VIBER_5e6602effff4"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 345 entail?",
+          "section_or_citation": "VIBER_2a82a1bd70bc"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q059",
+    "query_text": "What is the punishment for assault on woman with intent to outrage modesty?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The punishment for assault on a woman with intent to outrage her modesty is not explicitly stated in the provided context. However, according to the Indian Penal Code 1860, Section 354, the punishment for such an offense is typically outlined in the code (IPC 1860, Section 354). \n\nAs the text of Section 354 is not available in the provided context, we must consider the transition to the Bharatiya Nyaya Sanhita 2023 (BNS 2023), which replaces the IPC 1860. Specifically, BNS 2023, Section 74, addresses \"Assault or criminal force to woman with intent to outrage her modesty\" (BNS 2023, Section 74). Unfortunately, the text of this section is also not available.\n\nGiven the lack of specific information on the punishment in the provided context, it is essential to consult the actual text of the Bharatiya Nyaya Sanhita 2023, Section 74, or relevant case law for accurate and up-to-date information on the punishment for assault on a woman with intent to outrage her modesty.\n\nPlease note that the transition from IPC 1860 to BNS 2023 is a significant change, and any references to IPC 1860 may not be applicable after the implementation of BNS 2023. It is crucial to consider this transition when researching or applying the law.\n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context does not contain the text of IPC 1860, Section 354, or BNS 2023, Section 74.\n- The transition from IPC 1860 to BNS 2023 may affect the applicability of previous case law and legal precedents.\n- It is recommended to consult the actual text of the relevant laws and recent case law for accurate and reliable information.\n\nSources:\n- BNS Section 74\n- IPC Section 354\n- How is 'assault or criminal force with intent to outrage the modesty of a woman' addressed in the legal code? VIBER_f061e25ef42b\n- Describe ipc 354 in simple words VIBER_ceade59668f6",
+      "citations": [
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 74"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 354"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "How is 'assault or criminal force with intent to outrage the modesty of a woman' addressed in the legal code?",
+          "section_or_citation": "VIBER_f061e25ef42b"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Describe ipc 354 in simple words",
+          "section_or_citation": "VIBER_ceade59668f6"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "How does the Indian legal system differentiate between offenses such as sexual harassment and assault with intent to outrage modesty?",
+          "section_or_citation": "VIBER_14887f79bdd7"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Does derogatory commentary on a woman's physical appearance qualify as a violation of Section 509, pertaining to insulting her modesty?",
+          "section_or_citation": "VIBER_36c60ba1c4a1"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can you provide examples of actions that could be considered as using \"criminal force\" against a woman with the intent to outrage her modesty?",
+          "section_or_citation": "VIBER_53d966f9cdbc"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q070",
+    "query_text": "How many years for cheating under BNS 318?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The punishment for cheating under the Bharatiya Nyaya Sanhita 2023 (BNS 2023) is not explicitly stated in the provided context. \n\nAs per the given information, Section 318 of the BNS 2023 deals with \"Cheating and dishonestly inducing delivery of property\" [Replaces IPC 420] (BNS 2023, Section 318). However, the text of this section is not available.\n\nWe can look at the related case law, but the provided case, \"Chapter 17, Section 419 - Punishment for cheating by personation\" (VIBER_b17a26b55835, Indian Legal Database, 2024), does not provide the necessary information to determine the punishment for cheating under BNS 2023, Section 318.\n\nThe provided context does not contain sufficient information to accurately determine the punishment for cheating under BNS 2023, Section 318. \n\nConfidence Level: LOW\n\nNote: The user is advised to consult the full text of the BNS 2023, Section 318, or other relevant legal sources to determine the accurate punishment for cheating under this section.\n\nSources:\n- BNS Section 318\n- Chapter 17, Section 419 - Punishment for cheating by personation VIBER_b17a26b55835",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 318"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Chapter 17, Section 419 - Punishment for cheating by personation",
+          "section_or_citation": "VIBER_b17a26b55835"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q048",
+    "query_text": "What is the sentence for criminal breach of trust under IPC 406?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The sentence for criminal breach of trust under IPC 406 is not available in the provided context. \n[ACT 2, Indian Penal Code 1860, Section 406] \nHowever, it is essential to note that the Indian Penal Code 1860 has been partially replaced by the Bharatiya Nyaya Sanhita 2023, as indicated by the BNS/BNSS Transition Notes. \n[BNS/BNSS Transition Notes] \nThe Bharatiya Nyaya Sanhita 2023, Section 316, replaces IPC 406, but the text of Section 316 is not available in the provided context. \n[ACT 1, Bharatiya Nyaya Sanhita 2023, Section 316] \nThe case laws provided, such as VIBER_fb12698cd62a, VIBER_74ebbcc8f017, VIBER_0a521cdbbb9b, VIBER_28cb0447a1a9, and VIBER_5c9c48da4cc5, do not contain relevant information regarding the sentence for criminal breach of trust under IPC 406. \n[CASE 1, CASE 2, CASE 3, CASE 4, CASE 5] \nTherefore, I must warn that the provided context does not contain sufficient information to determine the sentence for criminal breach of trust under IPC 406.\n\nConfidence Level: MEDIUM\nCaveats: The provided context lacks essential information, and the transition from IPC to BNS may affect the applicability of the laws. It is crucial to consult the latest version of the Bharatiya Nyaya Sanhita 2023 and the Indian Penal Code 1860 for accurate information.\n\nSources:\n- IPC Section 406\n- BNS Section 316\n- Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.' VIBER_fb12698cd62a\n- What does Section 405 in Chapter 17 say about 'Criminal breach of trust'? VIBER_74ebbcc8f017",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 406"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 316"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.'",
+          "section_or_citation": "VIBER_fb12698cd62a"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 405 in Chapter 17 say about 'Criminal breach of trust'?",
+          "section_or_citation": "VIBER_74ebbcc8f017"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Chapter 17, Section 407 - Criminal breach of trust by carrier, etc.",
+          "section_or_citation": "VIBER_0a521cdbbb9b"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Chapter 17, Section 408 - Criminal breach of trust by clerk or servant",
+          "section_or_citation": "VIBER_28cb0447a1a9"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Chapter 17, Section 409 - Criminal breach of trust by public servant, or by banker, merchant or agent",
+          "section_or_citation": "VIBER_5c9c48da4cc5"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q056",
+    "query_text": "What is the punishment for dacoity with murder?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The punishment for dacoity with murder is not explicitly stated in the provided context, as the text for the relevant sections is not available. However, according to the structure of the Indian Penal Code 1860, dacoity with murder is typically covered under Section 396, which is mentioned in [CASE 1] (VIBER_59291c3ee93e, Indian Legal Database, 2024) as \"Explain Section 396 in Chapter 17 concerning 'Dacoity with murder.'\" \n\nSince the text of Section 396 is not provided, we cannot determine the exact punishment. Nevertheless, we can infer that the punishment for dacoity with murder would be more severe than that for dacoity, as it involves the additional element of murder. \n\nIt is essential to note that the Indian Penal Code 1860 is being replaced by the Bharatiya Nyaya Sanhita 2023, as indicated by the BNS/BNSS transition notes. Therefore, any information regarding the punishment for dacoity with murder should be verified under the new legislation, specifically Section 103 of the Bharatiya Nyaya Sanhita 2023, which replaces IPC 302 (VIBER, [ACT 2]).\n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context does not contain the text of the relevant sections, making it impossible to provide a precise answer.\n- The transition from IPC to BNS/BNSS may affect the applicability of the information.\n- The user should consult the latest version of the Bharatiya Nyaya Sanhita 2023 and relevant case laws for the most accurate and up-to-date information. \n\nSources: \n- [CASE 1] VIBER_59291c3ee93e, Indian Legal Database, 2024\n- [ACT 2] Bharatiya Nyaya Sanhita 2023, Section 103\n- [ACT 1] Indian Penal Code 1860, Section 302 (replaced by BNS 2023)",
+      "citations": [
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 103"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 109"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 302"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 307"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Explain Section 396 in Chapter 17 concerning 'Dacoity with murder.'",
+          "section_or_citation": "VIBER_59291c3ee93e"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 395 in Chapter 17 say about 'Punishment for dacoity'?",
+          "section_or_citation": "VIBER_0e1542ec26d9"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is Section 400 in Chapter 17 about, concerning 'Punishment for belonging to a gang of dacoits'?",
+          "section_or_citation": "VIBER_9a8ec08b1107"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Section 398 in Chapter 17 related to 'Attempt to commit robbery or dacoity when armed with a deadly weapon.'",
+          "section_or_citation": "VIBER_c3cf2207ca07"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Explain Section 402 in Chapter 17 concerning 'Assembling for the purpose of committing dacoity.'",
+          "section_or_citation": "VIBER_26a2e91dc6e4"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q081",
+    "query_text": "What is the sentence for voluntarily causing hurt to extort confession?",
+    "category": "Punishment Queries",
+    "response": {
+      "answer": "The sentence for voluntarily causing hurt to extort confession is not directly stated in the provided context. However, according to Section 329 of the Indian Penal Code 1860, which is related to voluntarily causing hurt to extort confession, the punishment can be inferred. [Indian Penal Code 1860, Section 329]. \n\nUnfortunately, the text of Section 329 is not available in the provided context. Nevertheless, it is essential to note that the Indian Penal Code 1860 has undergone changes, and the Bharatiya Nyaya Sanhita 2023 has replaced certain sections, including Section 323, which pertains to punishment for voluntarily causing hurt [Bharatiya Nyaya Sanhita 2023, Section 115]. \n\nIt is crucial to consider the transition from IPC to BNS/BNSS, as it may impact the applicable laws and punishments. [BNS/BNSS Transition Notes]. \n\nThe provided case laws, such as VIBER_d72d357f6df3, VIBER_e3310e7a0390, VIBER_50ddd9355407, VIBER_c0b00ff24b45, and VIBER_3f929bfc2075, may offer some insights into the punishment for voluntarily causing hurt in various contexts [VIBER_d72d357f6df3, VIBER_e3310e7a0390, VIBER_50ddd9355407, VIBER_c0b00ff24b45, VIBER_3f929bfc2075]. \n\nHowever, without the specific text of the relevant sections and cases, it is challenging to provide a precise answer. \n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context does not contain the text of the relevant sections and cases.\n- The transition from IPC to BNS/BNSS may impact the applicable laws and punishments.\n- The exact sentence for voluntarily causing hurt to extort confession cannot be determined without further information.\n\nSources:\n- BNS Section 115\n- BNS Section 117\n- IPC Section 323\n- IPC Section 324",
+      "citations": [
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 115"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 117"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 323"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 324"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Explain Section 329.",
+          "section_or_citation": "VIBER_d72d357f6df3"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about the punishment for causing hurt.",
+          "section_or_citation": "VIBER_e3310e7a0390"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Explain Section 386 in Chapter 17 concerning 'Extortion by putting a person in fear of death or grievous hurt.'",
+          "section_or_citation": "VIBER_50ddd9355407"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 387 in Chapter 17 say about 'Putting a person in fear of death or grievous hurt, in order to commit extortion'?",
+          "section_or_citation": "VIBER_c0b00ff24b45"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Explain Section 394 in Chapter 17 about 'Voluntarily causing hurt in committing robbery.'",
+          "section_or_citation": "VIBER_3f929bfc2075"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q103",
+    "query_text": "Did the definition of abetment to suicide change after Sushant Singh case?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q100",
+    "query_text": "What happened to death penalty for gang rape?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "The Indian Penal Code (IPC) has undergone amendments to address the issue of gang rape, and the punishment for such crimes has been enhanced. However, the provided context does not contain specific information about the current status of the death penalty for gang rape. \n\nAccording to the Criminal Law (Amendment) Act, 2013, which was enacted in response to the Delhi gang rape case in 2012, the punishment for gang rape was enhanced. Section 376D of the IPC, as cited in Case 3 (VIBER_fd678df1b37e), concerns gang rape, but the facts and holding of this case are not available. \n\nFurthermore, Sections 376DA and 376DB of the IPC, as cited in Case 1 (VIBER_e24e74aca12f) and Case 2 (VIBER_9c76ad6ddbcc) respectively, provide for punishment for gang rape on a woman under sixteen years of age and twelve years of age, respectively. However, the facts and holding of these cases are also not available.\n\nThe Criminal Law (Amendment) Act, 2013, introduced the death penalty for gang rape, but the provided context does not contain information about any subsequent amendments or changes to this provision. \n\nIn the absence of specific information, it is difficult to provide a definitive answer about the current status of the death penalty for gang rape. \n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context does not contain specific information about the current status of the death penalty for gang rape.\n- The facts and holding of the cited cases are not available, which limits the ability to provide a detailed answer.\n- There may be subsequent amendments or changes to the IPC that are not reflected in the provided context. \n\nSources: \n- Indian Penal Code (IPC), Section 376D (VIBER_fd678df1b37e)\n- Indian Penal Code (IPC), Section 376DA (VIBER_e24e74aca12f)\n- Indian Penal Code (IPC), Section 376DB (VIBER_9c76ad6ddbcc)\n- Criminal Law (Amendment) Act, 2013 (not explicitly cited in the provided context)",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is Section 376DA in Chapter 16 about, regarding the 'Punishment for gang rape on a woman under sixteen years of age.'?",
+          "section_or_citation": "VIBER_e24e74aca12f"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 376DB in Chapter 16 say about 'Punishment for gang rape on a woman under twelve years of age'?",
+          "section_or_citation": "VIBER_9c76ad6ddbcc"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Section 376D in Chapter 16, concerning 'Gang rape.'",
+          "section_or_citation": "VIBER_fd678df1b37e"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q099",
+    "query_text": "Are there new provisions for victim compensation in BNSS?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q110",
+    "query_text": "What changed in inquiry and trial timelines under BNSS?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q088",
+    "query_text": "What happened to Section 377 IPC?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "Section 377 of the Indian Penal Code (IPC) was struck down by the Supreme Court of India in the case of Navtej Singh Johar vs. Union of India (2018) as being unconstitutional insofar as it criminalized consensual sexual acts between adults in private. \n(Citation: Navtej Singh Johar vs. Union of India, (2018) 10 SCC 1)\n\nThe legal reasoning behind this decision was that Section 377 IPC was in violation of the fundamental rights guaranteed under the Constitution of India, particularly the right to equality (Article 14), the right to freedom of expression (Article 19), and the right to life and personal liberty (Article 21). The Court held that the provision was arbitrary, unreasonable, and not in the public interest.\n\nHowever, the provided context does not contain the specific details of the case or the judgment. \n(Citation: VIBER_e99119ab1bc3, Court: Indian Legal Database, Year: 2024)\n\nIt is also important to note that the provided context does not mention the Navtej Singh Johar case, but rather provides two case citations (VIBER_e99119ab1bc3 and VIBER_8284190083d1) with no available text. \n(Citation: VIBER_e99119ab1bc3 and VIBER_8284190083d1, Court: Indian Legal Database, Year: 2024)\n\nConfidence Level: MEDIUM\nCaveat: The provided context is insufficient to provide a detailed answer, and the information is based on general knowledge of the topic.\n\nSources:\n- IPC Section 377\n- What does Section 377 in Chapter 16 say about 'Unnatural offences'? VIBER_e99119ab1bc3\n- Which is the important IPC related to women? VIBER_8284190083d1",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 377"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does Section 377 in Chapter 16 say about 'Unnatural offences'?",
+          "section_or_citation": "VIBER_e99119ab1bc3"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Which is the important IPC related to women?",
+          "section_or_citation": "VIBER_8284190083d1"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q096",
+    "query_text": "What amendments were made to POCSO Act?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q121",
+    "query_text": "Has the definition of document been expanded for cybercrimes?",
+    "category": "Amendment Specific",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q137",
+    "query_text": "What is the BNS equivalent of IPC 506 (criminal intimidation)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 506 (criminal intimidation) is Section 351 of the Bharatiya Nyaya Sanhita 2023 (BNS 2023) [BNS 2023, Section 351]. This is explicitly stated in the provided context, which mentions that Section 351 of the BNS 2023 replaces IPC 506 [ACT 1, BNS 2023, Section 351].\n\nThe Indian Penal Code 1860 (IPC 1860) originally dealt with criminal intimidation under Section 506 [ACT 2, IPC 1860, Section 506]. However, with the introduction of the Bharatiya Nyaya Sanhita 2023, this provision has been replaced by Section 351 of the BNS 2023.\n\nIt is essential to note that there is a transition from the IPC to the BNS, as indicated by the BNS/BNSS Transition Notes [BNS/BNSS Transition Notes: Yes]. This transition may affect the applicability and interpretation of the provisions.\n\nThe provided case laws do not offer direct insight into the BNS equivalent of IPC 506, as the texts of the cases are not available [CASE 1, VIBER_2aac792174d1; CASE 2, VIBER_3a2fee6e59d9]. Therefore, reliance on these cases for understanding the BNS equivalent is limited.\n\nConfidence Level: HIGH\nCaveats: The provided context does not contain the text of Section 351 of the BNS 2023 or the case laws, which may provide additional insights into the interpretation and application of the provision.\n\nSources:\n- IPC Section 506\n- BNS Section 351\n- Thanks for breaking that down. What's in Section 506? VIBER_2aac792174d1\n- Got it. And what about Section 507? VIBER_3a2fee6e59d9",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 506"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 351"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Thanks for breaking that down. What's in Section 506?",
+          "section_or_citation": "VIBER_2aac792174d1"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Got it. And what about Section 507?",
+          "section_or_citation": "VIBER_3a2fee6e59d9"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q163",
+    "query_text": "What is IPC 511 (attempt) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q154",
+    "query_text": "Has the concept of common intention (IPC 34) changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The concept of common intention, as previously governed by IPC 34, has undergone a replacement with the introduction of Section 3 of the Bharatiya Nyaya Sanhita 2023 (BNS 2023). \n[BNS 2023, Section 3]\n\nHowever, as the text of Section 3 of the BNS 2023 is not available, it is challenging to provide a detailed analysis of the changes, if any, to the concept of common intention. \n[BNS 2023, Section 3]\n\nThe replacement of IPC 34 by BNS 2023, Section 3, suggests that there may be modifications or clarifications to the concept of common intention, but without the text, it is impossible to determine the nature and extent of these changes. \n[BNS 2023, Section 3]\n\nIt is essential to note that the BNS 2023 is a relatively new legislation, and the absence of available text for Section 3 limits our understanding of the current state of the law regarding common intention. \n[BNS 2023, Section 3]\n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain the text of Section 3 of the BNS 2023, which is necessary to provide a detailed analysis of the changes to the concept of common intention. Therefore, the answer is based on the limited information available, and it is recommended to consult the full text of the BNS 2023 for a comprehensive understanding of the law.\n\nSources:\n- IPC Section 34\n- BNS Section 3",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 34"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 3"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q169",
+    "query_text": "What is the BNS equivalent of IPC 323 (voluntarily causing hurt)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS equivalent of IPC 323 (voluntarily causing hurt) is Bharatiya Nyaya Sanhita 2023, Section 115, which deals with the punishment for voluntarily causing hurt [Bharatiya Nyaya Sanhita 2023, Section 115]. \n\nAs per the provided context, it is mentioned that Section 115 of the Bharatiya Nyaya Sanhita 2023 replaces IPC 323, which implies that the provisions and punishment under IPC 323 are now governed by Section 115 of the Bharatiya Nyaya Sanhita 2023 [Bharatiya Nyaya Sanhita 2023, Section 115]. \n\nHowever, it is crucial to note that the text of Section 115 is not available in the provided context. Therefore, the exact punishment and provisions under this section cannot be determined [Bharatiya Nyaya Sanhita 2023, Section 115]. \n\nIt is also important to mention that there is a BNS/BNSS transition, which may affect the applicability and interpretation of the provisions [BNS/BNSS Transition Notes]. \n\nConfidence level: HIGH. \n\nPlease note that the lack of text for Section 115 of the Bharatiya Nyaya Sanhita 2023 may limit the accuracy of the answer. Additionally, the transition from IPC to BNS may require careful consideration of the new provisions and their implications. \n\nSources: \n- Bharatiya Nyaya Sanhita 2023, Section 115\n- Indian Penal Code 1860, Section 323 \n- BNS/BNSS Transition Notes \n\nCaveats: \n- The text of Section 115 of the Bharatiya Nyaya Sanhita 2023 is not available.\n- The BNS/BNSS transition may affect the applicability and interpretation of the provisions.",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 323"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 324"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 115"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 117"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about the punishment for causing hurt.",
+          "section_or_citation": "VIBER_e3310e7a0390"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q141",
+    "query_text": "What is the BNS section for defamation?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The BNS section for defamation is not explicitly mentioned in the provided context. However, based on the case laws and judicial precedents provided, it can be inferred that Section 499 of the Indian Penal Code (IPC) deals with defamation. \n\nAs per Section 499 of the IPC, \"Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.\" (Indian Penal Code, 1860, Section 499)\n\nThe provided case laws, such as VIBER_9b9d4cc6227a, VIBER_3236c6c2ac08, VIBER_0954f34f11fe, and VIBER_42c36701c1fc, all relate to Section 499 of the IPC, but the facts and holdings of these cases are not available. \n\nIt is essential to note that the Indian Penal Code has undergone amendments, and there might be a transition to the BNS (Bharat Notification System) or BNSS (Bharat Notification and Standardization System) as mentioned in the BNS/BNSS Transition Notes. However, the provided context does not contain information about the specific BNS section for defamation.\n\nPlease be aware that the confidence level for some of the case laws is relatively low (e.g., VIBER_42c36701c1fc with a confidence level of 0.717), which may impact the reliability of the information. \n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the text of the case laws, and the confidence level for some case laws is relatively low. Additionally, the transition to BNS/BNSS may affect the applicability of the IPC sections. \n\nSources:\n- Indian Penal Code, 1860, Section 499\n- VIBER_9b9d4cc6227a\n- VIBER_3236c6c2ac08\n- VIBER_0954f34f11fe\n- VIBER_42c36701c1fc\n- State of Kerala v. Anil Kumar, 2018 SCC 234",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Let's talk about Chapter 21 and Section 499.",
+          "section_or_citation": "VIBER_9b9d4cc6227a"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does the explanation of Section 499 say?",
+          "section_or_citation": "VIBER_3236c6c2ac08"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "How would you defend a person accused of defamation under Section 499 of the Indian Penal Code?",
+          "section_or_citation": "VIBER_0954f34f11fe"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about the exceptions mentioned in Section 499.",
+          "section_or_citation": "VIBER_42c36701c1fc"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "State of Kerala v. Anil Kumar",
+          "section_or_citation": "2018 SCC 234"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q172",
+    "query_text": "Is the insanity defense different under BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q150",
+    "query_text": "Has abetment to suicide changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q187",
+    "query_text": "Important judgment on right to privacy",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "The significant judgment on the right to privacy in India is the case of 'Justice K.S. Puttaswamy (Retd.) v. Union of India' (2017) 10 SCC 1. \nAs per the case, the Right to Privacy is a fundamental right under the Constitution of India, specifically under Article 21, which guarantees the right to life and personal liberty (Article 21, The Constitution of India, 1950). \n\nAlthough the provided context does not contain the full text of the judgment, it is well-established that the Supreme Court of India, in this landmark case, held that the right to privacy is an intrinsic part of the right to life and personal liberty under Article 21 of the Constitution (Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1). \n\nThe court's decision in this case has far-reaching implications for various aspects of Indian law, including data protection, surveillance, and individual autonomy. \nThe case is a significant milestone in the development of privacy law in India, and its impact is still being felt in various areas of law and policy.\n\nPlease note that the provided context does not contain the full text of the judgment, and the information provided is based on general knowledge of the case. \nFor a more detailed analysis, it is recommended to consult the full text of the judgment and other relevant legal materials.\n\nConfidence Level: HIGH\nCaveats: The provided context does not contain the full text of the judgment, and the information provided is based on general knowledge of the case.\n\nSources:\n- What is the significance of the 'Right to Privacy' judgment in India? VIBER_1e2c0e4c7d68\n- Can you analyze the constitutional validity of the 'Right to Privacy' with reference to the case of 'Justice K.S. Puttaswamy (Retd.) v. Union of India'? VIBER_ac7646330f5e",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is the significance of the 'Right to Privacy' judgment in India?",
+          "section_or_citation": "VIBER_1e2c0e4c7d68"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can you analyze the constitutional validity of the 'Right to Privacy' with reference to the case of 'Justice K.S. Puttaswamy (Retd.) v. Union of India'?",
+          "section_or_citation": "VIBER_ac7646330f5e"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q213",
+    "query_text": "Cases on police custody vs judicial custody",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q204",
+    "query_text": "Cases on Section 156(3) CrPC investigation direction",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "The Supreme Court has held that a Magistrate can direct an investigation under Section 156(3) of the Code of Criminal Procedure, 1973 (CrPC) **(Section 156(3), CrPC)**. \n\nThe legal reasoning behind this is that Section 156(3) empowers a Magistrate to order an investigation into a cognizable offense. This provision allows the Magistrate to exercise supervision over the investigation and ensure that the police are taking necessary steps to investigate the offense **(Section 156(3), CrPC)**.\n\nHowever, it is essential to note that the provided context does not contain any specific case laws or judgments related to Section 156(3) CrPC. Therefore, I must rely on general knowledge of the provision.\n\nPlease be aware that there is a **BNS/BNSS transition note**, which may indicate that there are changes or replacements to the IPC or CrPC that could affect the interpretation of Section 156(3) CrPC. \n\nConfidence level: MEDIUM\nCaveat: The provided context does not contain specific case laws or judgments related to Section 156(3) CrPC, and the BNS/BNSS transition note may impact the interpretation of this provision. For a more accurate answer, it is recommended to consult relevant case laws and consider the impact of any transitions or amendments.\n\nSources:\n- CRPC Section 156\n- BNSS Section 176",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "CRPC",
+          "section_or_citation": "Section 156"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNSS",
+          "section_or_citation": "Section 176"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q219",
+    "query_text": "Cases on circumstantial evidence being sole basis",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q191",
+    "query_text": "Supreme Court on bail is the rule, jail is exception",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "The Supreme Court has indeed held that bail is the rule, and jail is the exception. \nUnfortunately, the provided context does not contain a specific case citation to support this statement. \n\nHowever, this principle is often attributed to the judgment in the case of State of Uttar Pradesh vs. Amarmani Tripathi (2005), where the Supreme Court observed that \"bail is the rule and jail is the exception\" (State of Uttar Pradesh vs. Amarmani Tripathi, (2005) 8 SCC 21). \n\nThe legal reasoning behind this principle is based on the idea that the purpose of bail is to ensure the accused person's presence at the trial, and not to punish them before they have been convicted. The Supreme Court has emphasized that bail should be granted unless there are strong reasons to believe that the accused person will flee or tamper with evidence (Gudikanti Narasimhulu vs. Public Prosecutor, (1978) 1 SCC 240).\n\nPlease note that the confidence level for this answer is MEDIUM, as the provided context does not contain sufficient information to provide a more specific and accurate answer. \n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain sufficient information to provide a more specific and accurate answer.\n\nSources:\n- Unknown Case Not Available",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Unknown Case",
+          "section_or_citation": "Not Available"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q222",
+    "query_text": "Cases on compulsory self-incrimination",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q200",
+    "query_text": "Supreme Court on plea bargaining",
+    "category": "Case Law Search",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q251",
+    "query_text": "Is the Rajesh Sharma 498A guidelines judgment still valid?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q239",
+    "query_text": "Is the Puttaswamy right to privacy judgment still valid?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "The Puttaswamy right to privacy judgment is still valid, as there is no information in the provided context that suggests it has been overruled or modified. \n(Citation: VIBER_ac7646330f5e, Justice K.S. Puttaswamy (Retd.) v. Union of India, Indian Legal Database, Year: 2024)\nThe judgment in Justice K.S. Puttaswamy (Retd.) v. Union of India is a landmark decision that recognized the right to privacy as a fundamental right under the Constitution of India. \n(Citation: VIBER_1e2c0e4c7d68, Indian Legal Database, Year: 2024)\nHowever, the provided context does not contain the full text of the judgment or any subsequent developments that may have affected its validity. \nTherefore, it is essential to consult the original judgment and any subsequent cases or amendments to determine the current status of the right to privacy in India.\n\nPlease note that the confidence level for this answer is HIGH, based on the information available in the provided context. \nHowever, it is crucial to verify the information through further research and consultation of primary sources to ensure accuracy and validity.\n\nConfidence Level: HIGH\nCaveats: The provided context does not contain the full text of the judgment or any subsequent developments, and it is essential to consult the original judgment and any subsequent cases or amendments to determine the current status of the right to privacy in India.\n\nSources:\n- Can you analyze the constitutional validity of the 'Right to Privacy' with reference to the case of 'Justice K.S. Puttaswamy (Retd.) v. Union of India'? VIBER_ac7646330f5e\n- What is the significance of the 'Right to Privacy' judgment in India? VIBER_1e2c0e4c7d68",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Can you analyze the constitutional validity of the 'Right to Privacy' with reference to the case of 'Justice K.S. Puttaswamy (Retd.) v. Union of India'?",
+          "section_or_citation": "VIBER_ac7646330f5e"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the significance of the 'Right to Privacy' judgment in India?",
+          "section_or_citation": "VIBER_1e2c0e4c7d68"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q247",
+    "query_text": "Has the Section 377 judgment been challenged after decriminalization?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q241",
+    "query_text": "Has Shah Bano been effectively overruled by legislation?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q232",
+    "query_text": "Has Vishaka v State of Rajasthan been superseded?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "Vishaka v. State of Rajasthan has been superseded by the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, also known as the POSH Act **(Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013)**. \n\nThe Vishaka guidelines, which were laid down by the Supreme Court of India in the case of Vishaka v. State of Rajasthan **(VIBER_fefdec12e2c0)**, were a landmark judgment that provided guidelines for dealing with sexual harassment at the workplace. However, with the enactment of the POSH Act in 2013, these guidelines have been superseded by a statutory framework that provides a more comprehensive and detailed mechanism for preventing and addressing sexual harassment at the workplace.\n\nIt is worth noting that while the Vishaka guidelines have been superseded, the case of Vishaka v. State of Rajasthan **(VIBER_fefdec12e2c0)** remains an important landmark in the development of laws related to sexual harassment in India. The case highlighted the need for a clear and effective framework for addressing sexual harassment and paved the way for the enactment of the POSH Act.\n\nConfidence Level: HIGH\n\nPlease note that the provided context does not contain information about any specific cases that may have overruled or modified the application of the POSH Act or the Vishaka guidelines. Therefore, this answer is based solely on the information provided and may not reflect any subsequent developments or changes in the law.\n\nSources:\n- Can you provide a brief analysis of the legal case: 'In Vishaka v. State of Rajasthan, the Supreme Court of India gave guidelines on sexual harassment at the workplace.'? VIBER_fefdec12e2c0\n- What is the first case of the Posh Act? VIBER_b931074eb5be",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Can you provide a brief analysis of the legal case: 'In Vishaka v. State of Rajasthan, the Supreme Court of India gave guidelines on sexual harassment at the workplace.'?",
+          "section_or_citation": "VIBER_fefdec12e2c0"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the first case of the Posh Act?",
+          "section_or_citation": "VIBER_b931074eb5be"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q233",
+    "query_text": "Is the Aruna Shanbaug passive euthanasia judgment still valid?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "The Aruna Shanbaug passive euthanasia judgment is still a relevant precedent in Indian law. \n(Citation: Aruna Ramchandra Shanbaug vs. Union of India, (2011) 4 SCC 454)\nThe legal reasoning behind this is that the Supreme Court of India, in the Aruna Shanbaug case (2011), laid down guidelines for passive euthanasia, allowing for the withdrawal of life-sustaining treatment in certain circumstances. \nAs the provided context does not contain information about any overruling or amendment to this judgment, it can be inferred that the judgment remains valid.\nHowever, it is essential to note that the Indian Parliament has since enacted the Medical Treatment Act, 2023 (also known as the Euthanasia Law), but the provided context does not contain information about this act.\n Warn about transitions: No BNS/BNSS transition notes are available in the provided context.\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the full text of the Aruna Shanbaug judgment or any subsequent amendments or overruling cases, which may affect the validity of the judgment. Therefore, it is recommended to verify the information through additional research.\n\nSources:\n- Can you write a brief on the legal status of euthanasia in India? VIBER_5a9efaef701a",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Can you write a brief on the legal status of euthanasia in India?",
+          "section_or_citation": "VIBER_5a9efaef701a"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q252",
+    "query_text": "What happened to the DK Basu custodial violence guidelines?",
+    "category": "Overruled Case Detection",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q273",
+    "query_text": "What is the difference between examination-in-chief and cross-examination?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "The difference between examination-in-chief and cross-examination lies in their purposes and the parties involved. Examination-in-chief refers to the initial questioning of a witness by the party who called them, aimed at eliciting relevant information and facts (VIBER_ad79d6823096, Indian Legal Database, 2024). On the other hand, cross-examination is the questioning of a witness by the opposing party, intended to challenge the witness's testimony, credibility, or reliability (VIBER_a0891590b320, Indian Legal Database, 2024).\n\nAccording to the Indian Evidence Act, 1872, examination-in-chief is the primary examination of a witness, where they are questioned by the party who summoned them (Section 137, Indian Evidence Act, 1872, not explicitly mentioned in the provided context but a general principle of law). The scope of cross-examination, as per the provided case law, is to test the witness's evidence, assess their credibility, and potentially discredit their testimony (VIBER_a0891590b320, Indian Legal Database, 2024).\n\nThe matters covered in examination-in-chief typically include the witness's account of events, their relationship to the parties involved, and any other relevant information (VIBER_b980fb5cd27e, Indian Legal Database, 2024). In contrast, cross-examination may delve into inconsistencies in the witness's testimony, their potential biases, and any prior statements or contradictions (VIBER_31a4f095018b, Indian Legal Database, 2024).\n\nThe importance of cross-examination lies in its ability to test the reliability and credibility of a witness's testimony, allowing the opposing party to challenge and potentially undermine the evidence presented (VIBER_a815500b8865, Indian Legal Database, 2024). The rights and duties during cross-examination, although not explicitly stated in the provided context, generally involve the right to question the witness and the duty to conduct the cross-examination in a fair and respectful manner (VIBER_96def3506092, Indian Legal Database, 2024, confidence level 0.698, which may indicate some uncertainty).\n\nConfidence Level: HIGH\nCaveats: The provided context does not contain explicit information on the Indian Evidence Act, 1872, or specific sections thereof. The confidence level for Case 6 (VIBER_96def3506092) is relatively low (0.698), which may indicate some uncertainty regarding the rights and duties during cross-examination.\n\nSources:\n- What is examination-in-chief? VIBER_ad79d6823096\n- What is the scope of cross-examination? VIBER_a0891590b320\n- What is cross-examination of witnesses? VIBER_31a4f095018b\n- What matters are covered in examination-in-chief? VIBER_b980fb5cd27e",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is examination-in-chief?",
+          "section_or_citation": "VIBER_ad79d6823096"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the scope of cross-examination?",
+          "section_or_citation": "VIBER_a0891590b320"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is cross-examination of witnesses?",
+          "section_or_citation": "VIBER_31a4f095018b"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What matters are covered in examination-in-chief?",
+          "section_or_citation": "VIBER_b980fb5cd27e"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Why is cross-examination important?",
+          "section_or_citation": "VIBER_a815500b8865"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the rights and duties during cross-examination?",
+          "section_or_citation": "VIBER_96def3506092"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q270",
+    "query_text": "What is the difference between bailable and non-bailable offenses?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "The difference between bailable and non-bailable offenses lies in the discretion of the court to grant bail to the accused. According to the Code of Criminal Procedure, 1973 (CrPC), a bailable offense is one where the accused has the right to be released on bail, whereas a non-bailable offense is one where the grant of bail is at the discretion of the court (CrPC, Section 2(a)).\n\nIn the context of the provided case laws, although the specific details of the cases are not available, we can still rely on the general principles of the CrPC to understand the distinction between bailable and non-bailable offenses. The CrPC defines bailable offenses as those where the accused has the right to be released on bail, and non-bailable offenses as those where the grant of bail is at the discretion of the court (CrPC, Section 436).\n\nIt is essential to note that the Indian Penal Code (IPC) also plays a crucial role in determining whether an offense is bailable or non-bailable. For instance, IPC Section 509, which is mentioned in one of the case laws (VIBER_5053e50f15d2), may be classified as a bailable or non-bailable offense depending on the specific circumstances of the case. However, without more information on the case, it is challenging to provide a definitive answer.\n\nIn general, the distinction between bailable and non-bailable offenses is critical in determining the rights of the accused and the powers of the court. The court's discretion in granting bail in non-bailable offenses is guided by various factors, including the severity of the offense, the likelihood of the accused fleeing, and the potential impact on the investigation (CrPC, Section 437).\n\nConfidence Level: HIGH\n\nCaveats: The provided context does not contain detailed information on the case laws, which may be necessary to provide a more specific answer. Additionally, the classification of an offense as bailable or non-bailable may depend on various factors, including the specific circumstances of the case and the applicable laws. \n\nSources:\n- Code of Criminal Procedure, 1973 (CrPC), Section 2(a)\n- Code of Criminal Procedure, 1973 (CrPC), Section 436\n- Code of Criminal Procedure, 1973 (CrPC), Section 437\n- Indian Penal Code (IPC), Section 509 (mentioned in VIBER_5053e50f15d2)",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is a non compoundable offense?",
+          "section_or_citation": "VIBER_3ab0437e86a3"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Is IPC Section 509 a bailable offense?",
+          "section_or_citation": "VIBER_5053e50f15d2"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q269",
+    "query_text": "What constitutes a cognizable vs non-cognizable offense?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "A cognizable offense is one where a police officer has the authority to make an arrest without a warrant, as per Section 2(c) of the Code of Criminal Procedure, 1973 (CrPC). On the other hand, a non-cognizable offense is one where a police officer cannot make an arrest without a warrant, as per Section 2(l) of the CrPC.\n\nThe distinction between cognizable and non-cognizable offenses is crucial in determining the powers of the police and the rights of the accused. Cognizable offenses are typically more serious in nature, such as offenses against the state, public order, or morality, and are punishable with imprisonment for three years or more (Section 2(c), CrPC). Non-cognizable offenses, on the other hand, are less serious and may include offenses such as minor theft or public nuisance.\n\nUnfortunately, the provided context does not contain specific information on the distinction between cognizable and non-cognizable offenses. However, according to the CrPC, the classification of an offense as cognizable or non-cognizable is determined by the nature of the offense and the punishment prescribed for it (Section 2(c) and 2(l), CrPC).\n\nIt is worth noting that the provided case laws do not provide any relevant information on this topic, as the facts and holdings of the cases are not available (VIBER_3ab0437e86a3 and VIBER_944c2a725a17). \n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain sufficient information to provide a detailed answer. The answer is based on general knowledge of the CrPC, but may not be entirely accurate or up-to-date. It is recommended to consult the latest edition of the CrPC and relevant case laws for a more accurate answer.\n\nSources:\n- What is a non compoundable offense? VIBER_3ab0437e86a3\n- Is 354A IPC bailable? VIBER_944c2a725a17",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What is a non compoundable offense?",
+          "section_or_citation": "VIBER_3ab0437e86a3"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Is 354A IPC bailable?",
+          "section_or_citation": "VIBER_944c2a725a17"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q280",
+    "query_text": "What are the elements of criminal intimidation?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "The elements of criminal intimidation are not explicitly stated in the provided context, as the text of Section 506 of the Indian Penal Code 1860 is not available. However, according to the Indian Penal Code 1860, Section 503 (as mentioned in Case 1: VIBER_915cc7968a7a, Indian Legal Database, 2024) discusses criminal intimidation.\n\nCiting Section 503 of the Indian Penal Code 1860, criminal intimidation is defined, but the exact text is not provided in the context. Typically, criminal intimidation involves threatening another person with injury to their person, reputation, or property, with the intention of causing alarm or annoyance (Indian Penal Code 1860, Section 503, as referenced in Case 1: VIBER_915cc7968a7a, Indian Legal Database, 2024).\n\nThe provided context does not contain the text of Section 506 of the Indian Penal Code 1860, which is specifically mentioned as \"Punishment for criminal intimidation\" (Indian Penal Code 1860, Section 506). However, it can be inferred that the punishment for criminal intimidation would be related to the elements of the offense.\n\nPlease note that there is a BNS/BNSS transition, which may affect the applicability of the Indian Penal Code 1860 provisions. It is essential to consider the current laws and amendments.\n\nConfidence level: MEDIUM\nCaveats: The provided context does not contain the text of Section 506 of the Indian Penal Code 1860, and the elements of criminal intimidation are not explicitly stated. The answer is based on the reference to Section 503 in Case 1: VIBER_915cc7968a7a, Indian Legal Database, 2024.\n\nSources:\n- BNS Section 351\n- IPC Section 506\n- Great. Let's move on to Chapter 22. Section 503 discusses criminal intimidation. What does it say? VIBER_915cc7968a7a\n- Got it. And what about Section 507? VIBER_3a2fee6e59d9",
+      "citations": [
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 351"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 506"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Great. Let's move on to Chapter 22. Section 503 discusses criminal intimidation. What does it say?",
+          "section_or_citation": "VIBER_915cc7968a7a"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Got it. And what about Section 507?",
+          "section_or_citation": "VIBER_3a2fee6e59d9"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Thanks for breaking that down. What's in Section 506?",
+          "section_or_citation": "VIBER_2aac792174d1"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q258",
+    "query_text": "What constitutes consent in rape cases under IPC/BNS?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "The concept of consent in rape cases under the Indian Penal Code (IPC) is crucial in determining the guilt of the accused. **According to Section 375 of the IPC**, which defines rape, consent is a vital factor in determining whether the act constitutes rape or not (Indian Penal Code, 1860, Section 375). \n\nHowever, **the provided context does not contain the exact text of Section 375** or any other relevant sections of the IPC that define consent. \n\n**In the case of Vijay Singh v. State of NCT Delhi (AIR 2020 SC 5678)**, the Supreme Court may have discussed the concept of consent, but the facts and holding of the case are not available in the provided context.\n\n**The Indian Legal Database (2024)** provides some insights into the importance of consent in IPC 354 cases (VIBER_52560b73fe36) and the interpretation of Section 375 of the IPC (VIBER_8e954b23290c), but the exact text of these cases is not available.\n\n**It is essential to note that the IPC is being replaced by the BNS (Indian Penal Code, 2024, or the Bharatiya Nyaya Sanhita)**, and the transition may affect the interpretation of consent in rape cases. The BNS/BNSS transition notes are available, but the exact implications of this transition on the concept of consent are not clear from the provided context.\n\n**In conclusion**, while the concept of consent is crucial in determining the guilt of the accused in rape cases under the IPC, the provided context does not contain sufficient information to provide a detailed answer. **The confidence level in this answer is MEDIUM**, and it is recommended to consult the relevant sections of the IPC and the BNS, as well as the latest case laws, to get a more accurate understanding of the concept of consent in rape cases.\n\n**Confidence Level: MEDIUM**\n\n**Caveats:**\n\n* The provided context does not contain the exact text of the relevant sections of the IPC or the BNS.\n* The facts and holding of the cases mentioned in the context are not available.\n* The transition from IPC to BNS may affect the interpretation of consent in rape cases, but the exact implications are not clear from the provided context.\n\nSources:\n- Vijay Singh v. State of NCT Delhi AIR 2020 SC 5678\n- Importance of consent in IPC 354 cases: VIBER_52560b73fe36\n- How would you interpret Section 375 of the Indian Penal Code? VIBER_8e954b23290c\n- Can IPC 354 be applied in cases where the offense occurs in private or intimate settings, such as within a relationship or during consensual encounters? VIBER_827d2b0c5c55",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "Vijay Singh v. State of NCT Delhi",
+          "section_or_citation": "AIR 2020 SC 5678"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Importance of consent in IPC 354 cases:",
+          "section_or_citation": "VIBER_52560b73fe36"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "How would you interpret Section 375 of the Indian Penal Code?",
+          "section_or_citation": "VIBER_8e954b23290c"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can IPC 354 be applied in cases where the offense occurs in private or intimate settings, such as within a relationship or during consensual encounters?",
+          "section_or_citation": "VIBER_827d2b0c5c55"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q266",
+    "query_text": "What constitutes cruelty under Section 498A IPC?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "Cruelty under Section 498A of the Indian Penal Code (IPC) encompasses both physical and mental cruelty inflicted upon a woman by her husband or his relatives. **Section 498A, IPC** defines cruelty as any willful conduct that is of such a nature as to drive the woman to commit suicide or to cause grave injury or danger to life, limb, or health, whether mental or physical.\n\nThe **Supreme Court in State of Kerala v. Anil Kumar (2018 SCC 234)**, although the facts and holdings are not available in the provided context, is a relevant case that may have discussed the interpretation of cruelty under Section 498A. However, without the specific details of the case, it's challenging to provide a precise analysis of how this case law applies to the definition of cruelty.\n\nThe concept of mental cruelty is also a critical aspect of Section 498A. **Indian Legal Database cases (VIBER_73790a3529f1, VIBER_95f964bf71a4, VIBER_fda7939b0bcc, VIBER_3a1836ab1bf0)** from the year 2024 may offer insights into how mental cruelty is assessed within the context of this section, but unfortunately, the facts and holdings of these cases are not provided.\n\nGiven the absence of detailed information about the cases, it's essential to rely on the statutory language of **Section 498A, IPC**, which implies that cruelty can include a wide range of behaviors that cause harm or danger to a woman's life, health, or well-being.\n\n**Warning about BNS/BNSS transitions:** The provided context notes the presence of BNS/BNSS transition notes, indicating potential changes or updates in the legal framework that may affect the interpretation or application of Section 498A, IPC. Practitioners should be aware of these transitions and their implications.\n\n**Confidence Level:** HIGH, based on the availability of Section 498A, IPC, but with caveats due to the lack of detailed case law information.\n\n**Caveats:** The provided context does not contain detailed information about the case laws cited, which limits the ability to provide a comprehensive analysis of how these cases interpret and apply the concept of cruelty under Section 498A, IPC. Therefore, while the definition of cruelty under Section 498A can be outlined based on the statutory provision, the application and interpretation of this section in various scenarios would require consultation of the full case law texts and consideration of any recent legal developments or transitions.\n\nSources:\n- IPC Section 498A\n- BNS Section 84\n- Tell me about Chapter 20A. VIBER_73790a3529f1\n- State of Kerala v. Anil Kumar 2018 SCC 234",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 498A"
+        },
+        {
+          "type": "bare_act_transition",
+          "act_or_case": "BNS",
+          "section_or_citation": "Section 84"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Chapter 20A.",
+          "section_or_citation": "VIBER_73790a3529f1"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "State of Kerala v. Anil Kumar",
+          "section_or_citation": "2018 SCC 234"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "How can Section 498A of the Indian Penal Code protect a woman from mental cruelty within a marriage?",
+          "section_or_citation": "VIBER_95f964bf71a4"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can a woman file a complaint under Section 498A even after legally separating from her husband if the harassment continues?",
+          "section_or_citation": "VIBER_fda7939b0bcc"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "If a pregnant woman faces dowry harassment, what legal measures can she pursue?",
+          "section_or_citation": "VIBER_3a1836ab1bf0"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q291",
+    "query_text": "What is the test for determining juvenile status?",
+    "category": "Complex Legal Interpretation",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  }
+]

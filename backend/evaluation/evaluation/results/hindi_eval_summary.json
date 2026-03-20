@@ -1,0 +1,21 @@
+{
+  "english": {
+    "queries": 293,
+    "car_percent": 70.98976109215018,
+    "acs": 63.76665529010239
+  },
+  "hindi": {
+    "queries_total": 40,
+    "queries_evaluated": 40,
+    "car_percent": 96.25,
+    "acs": 80.41425
+  },
+  "overall": {
+    "queries_total": 333,
+    "queries_evaluated_for_metrics": 333,
+    "car_percent": 74.02402402402403,
+    "acs": 65.76636636636637
+  },
+  "empty_hindi_responses": 0,
+  "empty_log_path": "evaluation/evaluation/results/checkpoints/lexai_hindi_empty_responses.json"
+}

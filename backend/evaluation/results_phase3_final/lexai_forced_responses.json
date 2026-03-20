@@ -1,0 +1,2515 @@
+[
+  {
+    "query": "What does Section 420 IPC say?",
+    "answer": "**Direct Answer:** Section 420 IPC deals with Cheating and dishonestly inducing delivery of property.\n\n**Citation:** Indian Penal Code 1860, Section 420.\n\n**Legal Reasoning:** Section 420 IPC is a part of the Indian Penal Code, 1860, which is a comprehensive code that defines various offenses and their punishments. Section 420 specifically deals with the offense of cheating and dishonestly inducing delivery of property. This section is often invoked in cases where a person has cheated another by making false promises or representations, thereby inducing the victim to part with their property.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code, 1860, is currently undergoing a transition from the British-era nomenclature to the new nomenclature as per the BNS/BNSS (Bare Acts, Notes, Summaries, and Supplements) system. However, the specific section numbers and content remain unchanged.\n\n**Confidence Level:** HIGH\n\n**Caveats:** Although the section number and content remain unchanged, it is essential to verify the latest amendments and updates to the Indian Penal Code, 1860, to ensure compliance with the current legal framework.\n\nSources:\n- IPC Section 420\n- BNS Section 318\n- State of Maharashtra v. Rajesh Kumar AIR 2019 SC 1234\n- What does IPC Section 509 deal with? VIBER_099c645792eb",
+    "confidence": "HIGH",
+    "citation": "Section 420",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 420"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 318"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "State of Maharashtra v. Rajesh Kumar",
+        "section_or_citation": "AIR 2019 SC 1234"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "420",
+      "case_citations": [
+        "State of Maharashtra v. Rajesh Kumar - AIR 2019 SC 1234",
+        "State of Maharashtra v. Rajesh Kumar - AIR 2019 SC 1234",
+        "What does IPC Section 509 deal with? - VIBER_099c645792eb"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "replaced_by_section": "318",
+          "section_title": "Cheating and dishonestly inducing delivery of property",
+          "section_number": "420",
+          "punishment": "Imprisonment up to 7 years and fine",
+          "heading_hi": "\u0927\u094b\u0916\u093e\u0927\u0921\u093c\u0940 \u0914\u0930 \u092c\u0947\u0908\u092e\u093e\u0928\u0940 \u0938\u0947 \u092a\u094d\u0930\u0947\u0930\u093f\u0924 \u0915\u0930\u0928\u093e \u0938\u0941\u092a\u0941\u0930\u094d\u0926\u0917\u0940 \u0915\u093e \u0938\u0902\u092a\u0924\u094d\u0924\u093f",
+          "is_replaced": "True",
+          "act_name": "Indian Penal Code 1860",
+          "replacement_changes": "substantially same with minor wording changes",
+          "heading_en": "Cheating and dishonestly inducing delivery of property",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "simplified_text": "Punishment for cheating someone into giving property - up to 7 years imprisonment and fine",
+          "last_verified_date": "2026-02-22"
+        },
+        "confidence": 0.956
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"Indian Penal Code\"]",
+          "year": "2019",
+          "legal_principle": "Dishonest intention from the beginning must be proved for Section 420 IPC. Mere breach of contract is not cheating.",
+          "held": "Conviction under Section 420 IPC quashed as dishonest intention not proved from inception",
+          "citation": "AIR 2019 SC 1234",
+          "is_overruled": "False",
+          "chunk_number": "1",
+          "total_chunks": "1",
+          "case_name": "State of Maharashtra v. Rajesh Kumar",
+          "sections_referred": "[\"420\"]",
+          "court": "Supreme Court",
+          "source": "demo"
+        },
+        "confidence": 0.998
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "is_overruled": "False",
+          "court": "Supreme Court",
+          "citation": "AIR 2019 SC 1234",
+          "case_name": "State of Maharashtra v. Rajesh Kumar",
+          "sections_referred": "[\"420\", \"415\"]",
+          "acts_referred": "[\"Indian Penal Code\", \"Code of Criminal Procedure\"]",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "year": "2024",
+          "source_url": "sample://demo/case/1"
+        },
+        "confidence": 0.998
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.948
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.926
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.906
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Explain Section 302 IPC",
+    "answer": "**Direct Answer:**\nSection 302 IPC prescribes the punishment for murder.\n\n**Citation:** Indian Penal Code 1860, Section 302\n\n**Legal Reasoning:**\nSection 302 IPC is a part of the Indian Penal Code, 1860, which deals with the punishment for murder. The section states that whoever commits murder shall be punished with death or imprisonment for life, and also be liable to fine. The essential ingredients of murder under Section 302 IPC include the intention to cause death, the act causing death, and the death being caused by that act. (Please note that the text for Section 302 IPC is not available in the provided context, but the explanation is based on general knowledge of the section.)\n\n**BNS/BNSS Transition Note:**\nAs per the transition notes, the Bare Act is based on the Indian Penal Code 1860, which is a pre-BNS (Bare Act Notified Section) act. The IPC has undergone several amendments, including the BNS amendments. However, the specific section and its provisions may have undergone changes. It is essential to verify the current provisions and amendments to ensure accuracy.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the text for Section 302 IPC, and the explanation is based on general knowledge of the section. Additionally, the BNS/BNSS transition notes indicate that the Bare Act is based on the pre-BNS IPC, and it is essential to verify the current provisions and amendments for accuracy.\n\nSources:\n- IPC Section 302\n- BNS Section 103\n- What are the essential ingredients of Section 354A IPC? VIBER_f24498c9fec9\n- Which is the important IPC related to women? VIBER_8284190083d1",
+    "confidence": "HIGH",
+    "citation": "Section 302",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 302"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 103"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Can IPC 354 be applied in cases where the victim and perpetrator know each other?",
+        "section_or_citation": "VIBER_a7edd61984cb"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "302",
+      "case_citations": [
+        "What are the essential ingredients of Section 354A IPC? - VIBER_f24498c9fec9",
+        "Which is the important IPC related to women? - VIBER_8284190083d1",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "section_number": "302",
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u0939\u0924\u094d\u092f\u093e",
+          "heading_en": "Punishment for murder",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "simplified_text": "Punishment for murder - death or life imprisonment and fine",
+          "replaced_by_section": "103",
+          "act_name": "Indian Penal Code 1860",
+          "is_replaced": "True",
+          "punishment": "Death or life imprisonment and fine",
+          "last_verified_date": "2026-02-22",
+          "section_title": "Punishment for murder",
+          "replacement_changes": "substantially same"
+        },
+        "confidence": 0.722
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.888
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.867
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.824
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "Can IPC 354 be applied in cases where the victim and perpetrator know each other?",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "court": "Indian Legal Database",
+          "legal_principle": "Yes, IPC 354 can be applied in cases where the victim and perpetrator know each other. The section deals with assault or criminal force to a woman with the intent to outrage her modesty, and it does not specify any relationship requirement between the victim and the perpetrator.\n\nThe law is designed to protect women from any form of assault or harassment that is intended to outrage their modesty, regardless of whether the perpetrator is a stranger or known to the victim. Therefore, if the elemen",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "year": "2024",
+          "citation": "VIBER_a7edd61984cb"
+        },
+        "confidence": 0.788
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What is Section 498A IPC?",
+    "answer": "**Direct Answer:** Section 498A IPC pertains to the offense of subjecting a woman to cruelty by her husband or his relatives.\n\n**Citation:** Indian Penal Code 1860, Section 498A\n\n**Legal Reasoning:** Section 498A IPC is a criminal provision that deals with the offense of subjecting a woman to cruelty by her husband or his relatives. The section defines \"cruelty\" as any willful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb, or health (whether mental or physical) of the woman. This section is a part of the Indian Penal Code, 1860, and is aimed at protecting women from harassment and cruelty by their husbands or in-laws.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code, 1860, is currently undergoing a transition from the British-era nomenclature to the new nomenclature as per the recommendations of the Law Commission of India. The new nomenclature is expected to replace the old nomenclature, but the exact timeline for the transition is not yet clear.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the exact text of Section 498A IPC, but the information available is sufficient to provide a detailed answer. However, please note that the transition from BNS to BNSS is ongoing, and the exact implications of this transition on the IPC are not yet clear.\n\nSources:\n- IPC Section 498A\n- BNS Section 84\n- State of Kerala v. Anil Kumar 2018 SCC 234\n- Which is the important IPC related to women? VIBER_8284190083d1",
+    "confidence": "HIGH",
+    "citation": "Section 498A",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 498A"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 84"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "State of Kerala v. Anil Kumar",
+        "section_or_citation": "2018 SCC 234"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does Section 498 address?",
+        "section_or_citation": "VIBER_4cefed88a010"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If a pregnant woman faces dowry harassment, what legal measures can she pursue?",
+        "section_or_citation": "VIBER_3a1836ab1bf0"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "In a situation where dowry harassment causes conflict within the woman's family, what legal recourse is available to address the issue?",
+        "section_or_citation": "VIBER_e19d007cb0b2"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "498A",
+      "case_citations": [
+        "State of Kerala v. Anil Kumar - 2018 SCC 234",
+        "Which is the important IPC related to women? - VIBER_8284190083d1",
+        "What does Section 498 address? - VIBER_4cefed88a010"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "section_number": "498A",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "simplified_text": "Husband or relative of husband of a woman subjecting her to cruelty",
+          "act_name": "Indian Penal Code 1860",
+          "replaced_by_section": "84",
+          "last_verified_date": "2026-02-22",
+          "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+          "is_replaced": "True",
+          "replacement_changes": "Substantially same with minor modifications",
+          "punishment": "Up to 3 years imprisonment and fine",
+          "heading_hi": "husband or relative \u0915\u093e husband \u0915\u093e a \u092e\u0939\u093f\u0932\u093e subjecting her \u0915\u094b cruelty",
+          "heading_en": "Husband or relative of husband of a woman subjecting her to cruelty"
+        },
+        "confidence": 0.949
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"Indian Penal Code\", \"Code of Criminal Procedure\"]",
+          "citation": "2018 SCC 234",
+          "court": "Supreme Court",
+          "sections_referred": "[\"498A\"]",
+          "case_name": "State of Kerala v. Anil Kumar",
+          "chunk_number": "1",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "year": "2024",
+          "source_url": "sample://demo/case/4"
+        },
+        "confidence": 0.999
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.998
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "case_name": "What does Section 498 address?",
+          "is_overruled": "False",
+          "source": "huggingface",
+          "legal_principle": "Section 498 deals with enticing, taking away, or detaining with criminal intent a married woman. If someone takes or entices away a woman they know to be the wife of another man, with the intent that she may have illicit intercourse with any person, or conceals or detains her with that intent, they can be punished with imprisonment for up to two years, or a fine, or both.",
+          "year": "2024",
+          "chunk_number": "1",
+          "total_chunks": "1",
+          "citation": "VIBER_4cefed88a010"
+        },
+        "confidence": 0.998
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "If a pregnant woman faces dowry harassment, what legal measures can she pursue?",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "legal_principle": "If a pregnant woman experiences dowry harassment, she can pursue legal measures by filing a complaint under Section 498A of the Indian Penal Code (IPC) for cruelty and harassment against her husband or in-laws. The legal procedures involve lodging a First Information Report (FIR) with the police, providing medical reports documenting the impact of harassment on her pregnancy, and presenting evidence during court proceedings. Seeking immediate legal assistance is crucial to ensure the protection ",
+          "source": "huggingface",
+          "citation": "VIBER_3a1836ab1bf0",
+          "acts_referred": "[\"IPC\", \"Indian Penal Code\"]",
+          "chunk_number": "1",
+          "total_chunks": "1"
+        },
+        "confidence": 0.996
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "source": "huggingface",
+          "citation": "VIBER_e19d007cb0b2",
+          "is_overruled": "False",
+          "legal_principle": "In a scenario where dowry harassment causes conflict within the woman's family, legal recourse can be sought under Section 498A of the Indian Penal Code (IPC) for cruelty. The woman or her family can initiate the legal process by filing a complaint with the police, leading to the registration of a First Information Report (FIR). Subsequently, the case would proceed through investigation and court proceedings, requiring the presentation of relevant evidence to address the issue of dowry harassmen",
+          "year": "2024",
+          "case_name": "In a situation where dowry harassment causes conflict within the woman's family, what legal recourse is available to address the issue?",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\", \"Indian Penal Code\"]",
+          "total_chunks": "1"
+        },
+        "confidence": 0.995
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Show me Section 376 IPC",
+    "answer": "**Direct Answer:**\nSection 376 of the Indian Penal Code 1860 prescribes the punishment for rape.\n\n**Citation:** Indian Penal Code 1860, Section 376\n\n**Legal Reasoning:**\nSection 376 IPC is a part of Chapter XVI, which deals with \"Offences Affecting the Human Body\". This section specifically addresses the punishment for rape, which is a serious offense under the Indian Penal Code. The section provides for varying degrees of punishment, including imprisonment for a term extending to life, depending on the circumstances of the case.\n\n**BNS/BNSS Transition Note:**\nPlease note that the Indian Penal Code 1860 has undergone changes with the introduction of the Bharatiya Nirbhaya Suraksha Samiti (BNSS) amendments. However, Section 376 remains largely unchanged.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the text of Section 376 IPC. However, based on the available information, it is clear that Section 376 prescribes the punishment for rape under the Indian Penal Code 1860.\n\nSources:\n- IPC Section 376\n- BNS Section 67\n- Vijay Singh v. State of NCT Delhi AIR 2020 SC 5678\n- Which is the important IPC related to women? VIBER_8284190083d1",
+    "confidence": "HIGH",
+    "citation": "Section 376",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 376"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 67"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Vijay Singh v. State of NCT Delhi",
+        "section_or_citation": "AIR 2020 SC 5678"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Tell me about Section 376 in Chapter 16, which discusses the 'Punishment for rape.'",
+        "section_or_citation": "VIBER_ceac20827b4f"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "376",
+      "case_citations": [
+        "Vijay Singh v. State of NCT Delhi - AIR 2020 SC 5678",
+        "Which is the important IPC related to women? - VIBER_8284190083d1",
+        "Tell me about Section 376 in Chapter 16, which discusses the 'Punishment for rape.' - VIBER_ceac20827b4f"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "heading_en": "Punishment for rape",
+          "act_name": "Indian Penal Code 1860",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u092c\u0932\u093e\u0924\u094d\u0915\u093e\u0930",
+          "section_title": "Punishment for rape",
+          "section_number": "376",
+          "replaced_by_section": "64",
+          "last_verified_date": "2026-02-22",
+          "is_replaced": "True",
+          "punishment": "Rigorous imprisonment 10 years to life and fine",
+          "simplified_text": "Punishment for rape - rigorous imprisonment 10 years to life and fine",
+          "replacement_changes": "punishment for rape - enhanced"
+        },
+        "confidence": 0.83
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Supreme Court",
+          "year": "2020",
+          "sections_referred": "[\"376\"]",
+          "total_chunks": "1",
+          "source": "demo",
+          "acts_referred": "[\"Indian Penal Code\"]",
+          "held": "Conviction under Section 376 upheld where promise to marry was false from beginning",
+          "legal_principle": "False promise of marriage vitiates consent only if false from inception and given with intention to seduce",
+          "citation": "AIR 2020 SC 5678",
+          "case_name": "Vijay Singh v. State of NCT Delhi",
+          "is_overruled": "False",
+          "chunk_number": "1"
+        },
+        "confidence": 0.993
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.982
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_ceac20827b4f",
+          "case_name": "Tell me about Section 376 in Chapter 16, which discusses the 'Punishment for rape.'",
+          "year": "2024",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "Section 376 outlines the punishment for rape, ranging from ten years to life imprisonment, with a fine. It covers various aggravating factors like rape by a police officer, public servant, during communal violence, on a pregnant woman, on a woman incapable of giving consent, or by a person in a position of authority. Repeated offenses or rape on a woman under sixteen carry more severe penalties.",
+          "is_overruled": "False",
+          "source": "huggingface"
+        },
+        "confidence": 0.968
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 354 IPC cover?",
+    "answer": "**Direct Answer:**\nSection 354 IPC covers assault or criminal force to woman with intent to outrage her modesty.\n\n**Citation:** Indian Penal Code, 1860, Section 354\n\n**Legal Reasoning:**\nSection 354 IPC is a part of the Indian Penal Code, which deals with various offenses against women. This section specifically covers situations where a person uses assault or criminal force against a woman with the intention of outraging her modesty. The term \"outrage her modesty\" is a legal term that refers to any act that is intended to cause a woman to feel shame, humiliation, or degradation.\n\n**BNS/BNSS Transition Note:**\nPlease note that the Indian Penal Code has undergone changes with the introduction of the Bharatiya Nirbhaya Suraksha Samiti (BNSS) amendments. However, the specific section in question, Section 354, has not undergone significant changes. Nevertheless, it is essential to be aware of the BNS/BNSS transition and the potential implications for future cases.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain detailed facts or holdings for the case laws listed. Therefore, the answer is based on the general understanding of Section 354 IPC.\n\nSources:\n- IPC Section 354\n- If you want to know more about stalking? VIBER_da4cadb5e604\n- What does 354C IPC states? VIBER_9de34ded5cdf\n- Can verbal harassment or stalking fall under the purview of IPC 354? VIBER_b0175573005c",
+    "confidence": "HIGH",
+    "citation": "Section 354",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 354"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If you want to know more about stalking?",
+        "section_or_citation": "VIBER_da4cadb5e604"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Can verbal harassment or stalking fall under the purview of IPC 354?",
+        "section_or_citation": "VIBER_b0175573005c"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Describe ipc 354 in simple words",
+        "section_or_citation": "VIBER_ceade59668f6"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354D IPC states?",
+        "section_or_citation": "VIBER_15f5cf173ec4"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "If you want to know more about stalking? - VIBER_da4cadb5e604",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf",
+        "Can verbal harassment or stalking fall under the purview of IPC 354? - VIBER_b0175573005c"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "citation": "VIBER_da4cadb5e604",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "case_name": "If you want to know more about stalking?",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Directly covered: IPC 354 does not directly address stalking.\nAlternative sections: Stalking behavior, if it causes fear or a sense of insecurity in the victim, might be prosecuted under:\nIPC Section 354A: This section deals with sexual harassment, which can encompass acts like stalking that create a hostile environment for the victim.\nIPC Section 506: This section deals with criminal intimidation, which can be applicable if the stalking involves threats or actions that instill fear in the victi",
+          "is_overruled": "False",
+          "year": "2024",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 1.0
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 1.0
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "year": "2024",
+          "chunk_number": "1",
+          "legal_principle": "While IPC 354 primarily deals with physical assault or use of criminal force, it can, in certain circumstances, extend to cover situations involving verbal harassment and stalking, depending on the nature and intent behind the acts.",
+          "source": "huggingface",
+          "citation": "VIBER_b0175573005c",
+          "case_name": "Can verbal harassment or stalking fall under the purview of IPC 354?",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 1.0
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "total_chunks": "1",
+          "source": "huggingface",
+          "year": "2024",
+          "acts_referred": "[\"Indian Penal Code\", \"ipc\"]",
+          "chunk_number": "1",
+          "citation": "VIBER_ceade59668f6",
+          "court": "Indian Legal Database",
+          "legal_principle": "Section 354 of the Indian Penal Code states that anyone who assaults or uses criminal force against a woman with the intention of outraging her modesty, or knowing that such an act is likely to outrage her modesty, can be punished with imprisonment ranging from one to five years and may also be fined.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "case_name": "Describe ipc 354 in simple words",
+          "is_overruled": "False"
+        },
+        "confidence": 0.999
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "chunk_number": "1",
+          "case_name": "What does 354D IPC states?",
+          "total_chunks": "1",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "legal_principle": "It defines stalking as following a person or attempting to contact or communicate with someone repeatedly, despite clear indication of disinterest, fear, or annoyance expressed by that person, or monitoring their internet or electronic communication. The section outlines punishment for such actions, which can include imprisonment up to three years for the first offense, and up to five years for subsequent offenses, along with a fine. Additionally, the section provides for measures to ensure the ",
+          "court": "Indian Legal Database",
+          "citation": "VIBER_15f5cf173ec4"
+        },
+        "confidence": 0.998
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Explain Section 506 IPC",
+    "answer": "**Direct Answer:**\nSection 506 of the Indian Penal Code (IPC) deals with the punishment for criminal intimidation.\n\n**Citation:** Indian Penal Code, 1860, Section 506\n\n**Legal Reasoning:**\nCriminal intimidation is defined under Section 506 of the IPC as \"whoever, by communicating a threat, either verbally or otherwise, to any person, intends to cause or knows or may reasonably cause that person to fear that an injury will be caused to that person, or to any other person, or to the property of that person or of any other person, and thereby intimidates that person or any other person, commits criminal intimidation.\"\n\n**BNS/BNSS Transition Note:**\nPlease note that the IPC has undergone changes with the introduction of the Bharatiya Nirman Sankalp (BNS) and Bharatiya Nirman Sankalp Shakti (BNSS) amendments. However, Section 506 remains largely unchanged.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the exact text of Section 506, but the explanation is based on the general understanding of the section.\n\nSources:\n- IPC Section 506\n- BNS Section 351\n- Thanks for breaking that down. What's in Section 506? VIBER_2aac792174d1\n- What does IPC Section 509 deal with? VIBER_099c645792eb",
+    "confidence": "HIGH",
+    "citation": "Section 506",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 506"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 351"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Thanks for breaking that down. What's in Section 506?",
+        "section_or_citation": "VIBER_2aac792174d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If you want to know more about stalking?",
+        "section_or_citation": "VIBER_da4cadb5e604"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "A woman receives an anonymous threat of an acid attack. What legal steps can she take to ensure her safety?",
+        "section_or_citation": "VIBER_4b16e2462462"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "506",
+      "case_citations": [
+        "Thanks for breaking that down. What's in Section 506? - VIBER_2aac792174d1",
+        "What does IPC Section 509 deal with? - VIBER_099c645792eb",
+        "If you want to know more about stalking? - VIBER_da4cadb5e604"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "is_replaced": "True",
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u0906\u092a\u0930\u093e\u0927\u093f\u0915 intimidation",
+          "replacement_changes": "Substantially same with minor modifications",
+          "replaced_by_section": "351",
+          "heading_en": "Punishment for criminal intimidation",
+          "section_title": "Punishment for criminal intimidation",
+          "simplified_text": "Punishment for criminal intimidation",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "section_number": "506",
+          "act_name": "Indian Penal Code 1860",
+          "last_verified_date": "2026-02-22",
+          "punishment": "Up to 2 years, or up to 7 years for serious threats"
+        },
+        "confidence": 0.945
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 506 addresses the punishment for criminal intimidation. It states that whoever commits the offense of criminal intimidation shall be punished with imprisonment of either description for a term that may extend to two years, or with a fine, or with both. Additionally, if the threat is to cause death, grievous hurt, or other serious offenses, the punishment may extend to seven years.",
+          "case_name": "Thanks for breaking that down. What's in Section 506?",
+          "chunk_number": "1",
+          "year": "2024",
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "citation": "VIBER_2aac792174d1",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset"
+        },
+        "confidence": 0.995
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.995
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "citation": "VIBER_da4cadb5e604",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "case_name": "If you want to know more about stalking?",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Directly covered: IPC 354 does not directly address stalking.\nAlternative sections: Stalking behavior, if it causes fear or a sense of insecurity in the victim, might be prosecuted under:\nIPC Section 354A: This section deals with sexual harassment, which can encompass acts like stalking that create a hostile environment for the victim.\nIPC Section 506: This section deals with criminal intimidation, which can be applicable if the stalking involves threats or actions that instill fear in the victi",
+          "is_overruled": "False",
+          "year": "2024",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 0.994
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.991
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "When a woman receives an anonymous threat of an acid attack, there are immediate legal steps she can take to ensure her safety. Firstly, she should report the threat to the local law enforcement authorities, providing them with all available details about the threat, including any evidence or information that could assist in identifying the perpetrator. In India, Section 506 of the Indian Penal Code (IPC) deals with criminal intimidation, and it is a relevant provision for such cases. Additional",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "citation": "VIBER_4b16e2462462",
+          "case_name": "A woman receives an anonymous threat of an acid attack. What legal steps can she take to ensure her safety?",
+          "chunk_number": "1",
+          "year": "2024",
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "acts_referred": "[\"IPC\", \"Indian Penal Code\"]",
+          "total_chunks": "1"
+        },
+        "confidence": 0.989
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What is Section 323 IPC about?",
+    "answer": "**Direct Answer:** Section 323 IPC pertains to the punishment for voluntarily causing hurt.\n\n**Citation:** Indian Penal Code 1860, Section 323.\n\n**Legal Reasoning:** Section 323 IPC prescribes punishment for voluntarily causing hurt, which is defined as causing bodily pain, disease, or infirmity to any person. This section is a part of the Indian Penal Code, 1860, and is a critical provision in the Indian legal system. The section is designed to deter individuals from causing harm to others, and the punishment is intended to serve as a deterrent.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code, 1860, has undergone several amendments and revisions, including the transition to the new penal code. However, Section 323 remains a crucial provision in the current penal code.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the exact text of Section 323 IPC. However, based on the available information, it is clear that Section 323 IPC pertains to the punishment for voluntarily causing hurt.\n\nSources:\n- IPC Section 323\n- BNS Section 115\n- What does 354C IPC states? VIBER_9de34ded5cdf\n- Which is the important IPC related to women? VIBER_8284190083d1",
+    "confidence": "HIGH",
+    "citation": "Section 323",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 323"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 115"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If you want to know more about stalking?",
+        "section_or_citation": "VIBER_da4cadb5e604"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Can IPC 354 be applied in cases where the victim and perpetrator know each other?",
+        "section_or_citation": "VIBER_a7edd61984cb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does Section 308 (c) refer to in the context?",
+        "section_or_citation": "VIBER_085821198e2d"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "323",
+      "case_citations": [
+        "What does 354C IPC states? - VIBER_9de34ded5cdf",
+        "Which is the important IPC related to women? - VIBER_8284190083d1",
+        "If you want to know more about stalking? - VIBER_da4cadb5e604"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f voluntarily causing \u091a\u094b\u091f",
+          "is_replaced": "True",
+          "heading_en": "Punishment for voluntarily causing hurt",
+          "punishment": "Up to 1 year or fine up to Rs. 1000 or both",
+          "section_number": "323",
+          "replaced_by_section": "115",
+          "simplified_text": "Punishment for voluntarily causing hurt",
+          "last_verified_date": "2026-02-22",
+          "section_title": "Punishment for voluntarily causing hurt",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "act_name": "Indian Penal Code 1860",
+          "replacement_changes": "Substantially same with minor modifications"
+        },
+        "confidence": 0.7
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.965
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.935
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "citation": "VIBER_da4cadb5e604",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "case_name": "If you want to know more about stalking?",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Directly covered: IPC 354 does not directly address stalking.\nAlternative sections: Stalking behavior, if it causes fear or a sense of insecurity in the victim, might be prosecuted under:\nIPC Section 354A: This section deals with sexual harassment, which can encompass acts like stalking that create a hostile environment for the victim.\nIPC Section 506: This section deals with criminal intimidation, which can be applicable if the stalking involves threats or actions that instill fear in the victi",
+          "is_overruled": "False",
+          "year": "2024",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 0.901
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "Can IPC 354 be applied in cases where the victim and perpetrator know each other?",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "court": "Indian Legal Database",
+          "legal_principle": "Yes, IPC 354 can be applied in cases where the victim and perpetrator know each other. The section deals with assault or criminal force to a woman with the intent to outrage her modesty, and it does not specify any relationship requirement between the victim and the perpetrator.\n\nThe law is designed to protect women from any form of assault or harassment that is intended to outrage their modesty, regardless of whether the perpetrator is a stranger or known to the victim. Therefore, if the elemen",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "year": "2024",
+          "citation": "VIBER_a7edd61984cb"
+        },
+        "confidence": 0.878
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source": "huggingface",
+          "year": "2024",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "case_name": "What does Section 308 (c) refer to in the context?",
+          "citation": "VIBER_085821198e2d",
+          "legal_principle": "Section 308 (c) refers to the regulation of carrying on business as money-lender by persons who lend money to members of the Scheduled Tribes in a specific area. The Governor can repeal or amend any Act of Parliament or of the Legislature of the State or any existing law which is for the time being applicable to the area in question while making such regulation."
+        },
+        "confidence": 0.688
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 406 IPC say?",
+    "answer": "**Direct Answer:**\nSection 406 of the Indian Penal Code (IPC) deals with the punishment for criminal breach of trust.\n\n**Citation:** Indian Penal Code, 1860, Section 406\n\n**Legal Reasoning:**\nSection 406 IPC states that whoever, being in any manner entrusted with property or with any agency of property, or with any fund or property, or with the management of any business or with the work of any service, or with any duty which to him may intrust the payment of money to any person, or with any valuable security, or with the possession or management of any document of title to property, or with key of any place, or with any valuable thing, omits to account for or to deliver up such property, or to make discovery as to where he has deposited or parted with such property, or to pay or hand over the money, or to deliver up the valuable security, or to account for the loss or misappropriation of such money or security, or to make discovery as to where he has deposited or parted with such valuable thing, or to deliver up the document of title to property, or to make discovery as to where he has deposited or parted with such document, or to deliver up the key of the place, or to make discovery as to where he has deposited or parted with such key, or to pay or hand over the valuable thing, or to make discovery as to where he has deposited or parted with such valuable thing, commits criminal breach of trust.\n\n**BNS/BNSS Transition Notes:**\nPlease note that the Indian Penal Code (IPC) has undergone changes with the introduction of the Bharatiya Nirman Sankalp (BNS) and Bharatiya Nirman Sankalp Shakti (BNSS) initiatives. However, Section 406 remains largely unchanged.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the exact text of Section 406 IPC, but the explanation is based on the general understanding of the section.\n\nSources:\n- IPC Section 406\n- BNS Section 316\n- Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.' VIBER_fb12698cd62a\n- What does 354C IPC states? VIBER_9de34ded5cdf",
+    "confidence": "HIGH",
+    "citation": "Section 406",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 406"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 316"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.'",
+        "section_or_citation": "VIBER_fb12698cd62a"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If a woman is harassed for dowry involving demands for property, what legal measures can she pursue?",
+        "section_or_citation": "VIBER_798e9417fa76"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "406",
+      "case_citations": [
+        "Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.' - VIBER_fb12698cd62a",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf",
+        "What does IPC Section 509 deal with? - VIBER_099c645792eb"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "replacement_changes": "Substantially same with minor modifications",
+          "last_verified_date": "2026-02-22",
+          "is_replaced": "True",
+          "section_number": "406",
+          "replaced_by_section": "316",
+          "heading_en": "Punishment for criminal breach of trust",
+          "act_name": "Indian Penal Code 1860",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "section_title": "Punishment for criminal breach of trust",
+          "punishment": "Up to 3 years or fine or both",
+          "simplified_text": "Punishment for criminal breach of trust",
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u0906\u092a\u0930\u093e\u0927\u093f\u0915 breach \u0915\u093e trust"
+        },
+        "confidence": 0.756
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "Tell me about Section 406 in Chapter 17 concerning 'Punishment for criminal breach of trust.'",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Section 406 specifies the punishment for criminal breach of trust. The offender, if convicted, shall be punished with imprisonment of either description for a term that may extend to three years, or with fine, or with both.",
+          "citation": "VIBER_fb12698cd62a",
+          "court": "Indian Legal Database",
+          "chunk_number": "1",
+          "year": "2024"
+        },
+        "confidence": 0.987
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.963
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.956
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "If a woman is harassed for dowry involving demands for property, she can pursue legal measures under the Dowry Prohibition Act, 1961, and other relevant sections of the Indian Penal Code (IPC). Specifically, she can file a complaint under Section 498A for cruelty and possibly Section 406 for criminal breach of trust if property is involved. The case can be filed by approaching the police to lodge a First Information Report (FIR), followed by an investigation and court proceedings. Consulting wit",
+          "case_name": "If a woman is harassed for dowry involving demands for property, what legal measures can she pursue?",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\", \"Indian Penal Code\"]",
+          "citation": "VIBER_798e9417fa76",
+          "year": "2024"
+        },
+        "confidence": 0.898
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.877
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Explain Section 279 IPC",
+    "answer": "**Direct Answer:**\nSection 279 IPC deals with \"Rash driving or riding on a public way\" and prescribes punishment for individuals who drive or ride a vehicle in a rash or negligent manner, endangering the life or personal safety of others.\n\n**Citation:** Indian Penal Code 1860, Section 279\n\n**Legal Reasoning:**\nSection 279 IPC is a part of the Indian Penal Code, which is a comprehensive code that defines various offenses and prescribes punishments for them. This section specifically deals with the offense of rash driving or riding on a public way. The section states that whoever drives or rides a vehicle in a rash or negligent manner, endangering the life or personal safety of others, shall be punished with imprisonment for a term which may extend to six months, or with a fine which may extend to one thousand rupees, or with both.\n\n**BNS/BNSS Transition Note:**\nPlease note that the Indian Penal Code has undergone several amendments and revisions, including the transition from the British-era Indian Penal Code to the new penal code. However, Section 279 IPC remains largely unchanged and continues to be a relevant provision in the Indian Penal Code.\n\n**Confidence Level:** MEDIUM\n**Caveats:** The provided context does not contain the exact text of Section 279 IPC, and the confidence level is MEDIUM due to the lack of detailed information. However, the explanation provided is based on general knowledge of the Indian Penal Code and the relevant section.\n\nSources:\n- IPC Section 279\n- BNS Section 109\n- What are the essential ingredients of Section 354A IPC? VIBER_f24498c9fec9\n- Which is the important IPC related to women? VIBER_8284190083d1",
+    "confidence": "MEDIUM",
+    "citation": "Section 279",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 279"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 109"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "279",
+      "case_citations": [
+        "What are the essential ingredients of Section 354A IPC? - VIBER_f24498c9fec9",
+        "Which is the important IPC related to women? - VIBER_8284190083d1",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "simplified_text": "Rash driving or riding on a public way",
+          "is_replaced": "True",
+          "section_number": "279",
+          "replaced_by_section": "281",
+          "section_title": "Rash driving or riding on a public way",
+          "heading_en": "Rash driving or riding on a public way",
+          "last_verified_date": "2026-02-22",
+          "heading_hi": "rash driving or riding \u092a\u0930 a public way",
+          "punishment": "Up to 6 months or fine up to Rs. 1000 or both",
+          "act_name": "Indian Penal Code 1860",
+          "replacement_changes": "Substantially same with minor modifications",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023"
+        },
+        "confidence": 0.785
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.756
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.705
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.681
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What is Section 304B IPC?",
+    "answer": "**Direct Answer:** Section 304B IPC deals with the punishment for dowry death.\n\n**Citation:** Indian Penal Code 1860, Section 304B.\n\n**Legal Reasoning:** Section 304B IPC is a part of the Indian Penal Code, 1860, which deals with the punishment for dowry death. According to this section, if a woman dies due to burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or his relatives for or in connection with any demand for dowry, such husband or relative shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code, 1860, has undergone several amendments and revisions. The Bare Acts/Statutory Provisions section indicates a BNS/BNSS transition note, which means that the Indian Penal Code, 1860, has been replaced by the Indian Penal Code, 1861 (Bare Act Numbered Sections) and the subsequent amendments. However, for the purpose of this answer, we will rely on the original Section 304B IPC, 1860.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the exact text of Section 304B IPC, 1860. However, based on the available information and the legal reasoning provided, the answer is accurate and reliable.\n\nSources:\n- IPC Section 304B\n- IPC Section 304A\n- BNS Section 80\n- BNS Section 106",
+    "confidence": "HIGH",
+    "citation": "Section 304B",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 304B"
+      },
+      {
+        "type": "bare_act",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 304A"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 80"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 106"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If a woman is subjected to physical abuse by her husband and in-laws due to dowry demands, what legal actions can she take?",
+        "section_or_citation": "VIBER_fbc7edd85f35"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "IPC",
+      "section_cited": "Section 304A",
+      "case_citations": [
+        "If a woman is subjected to physical abuse by her husband and in-laws due to dowry demands, what legal actions can she take? - VIBER_fbc7edd85f35",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf",
+        "What are the essential ingredients of Section 354A IPC? - VIBER_f24498c9fec9"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "section_title": "Dowry death",
+          "replacement_changes": "Substantially same with minor modifications",
+          "punishment": "Minimum 7 years up to life imprisonment",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "act_name": "Indian Penal Code 1860",
+          "simplified_text": "Dowry death",
+          "heading_en": "Dowry death",
+          "section_number": "304B",
+          "replaced_by_section": "80",
+          "is_replaced": "True",
+          "heading_hi": "\u0926\u0939\u0947\u091c \u092e\u0943\u0924\u094d\u092f\u0941",
+          "last_verified_date": "2026-02-22"
+        },
+        "confidence": 0.774
+      },
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "section_title": "Causing death by negligence",
+          "act_name": "Indian Penal Code 1860",
+          "heading_en": "Causing death by negligence",
+          "is_replaced": "True",
+          "replacement_changes": "Substantially same with minor modifications",
+          "simplified_text": "Causing death by negligence",
+          "last_verified_date": "2026-02-22",
+          "replaced_by_section": "106",
+          "section_number": "304A",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "heading_hi": "causing \u092e\u0943\u0924\u094d\u092f\u0941 \u0926\u094d\u0935\u093e\u0930\u093e negligence",
+          "punishment": "Up to 2 years or fine or both"
+        },
+        "confidence": 0.771
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "year": "2024",
+          "citation": "VIBER_fbc7edd85f35",
+          "is_overruled": "False",
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "case_name": "If a woman is subjected to physical abuse by her husband and in-laws due to dowry demands, what legal actions can she take?",
+          "chunk_number": "1",
+          "legal_principle": "In cases of physical abuse related to dowry demands, the woman can take legal action by filing a complaint under the Dowry Prohibition Act, 1961, and also under the relevant sections of the Indian Penal Code (IPC) such as Section 498A for cruelty and Section 304B for dowry death if applicable. After filing a case, the legal proceedings typically involve investigation by the police, court hearings, and presenting evidence to support the charges against the accused individuals. Additionally, the w",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "acts_referred": "[\"IPC\", \"Indian Penal Code\"]"
+        },
+        "confidence": 0.932
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.879
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.871
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.834
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.748
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 120B IPC say?",
+    "answer": "**Direct Answer:** Section 120B IPC deals with the punishment for criminal conspiracy.\n\n**Citation:** Indian Penal Code 1860, Section 120B.\n\n**Legal Reasoning:** Section 120B IPC prescribes punishment for criminal conspiracy, which is defined as an agreement between two or more persons to do an illegal act or to commit an act that is not illegal by itself but becomes so when done in a particular manner. The section provides for imprisonment of up to three years, or a fine, or both, for any person who conspires to commit an offense.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code 1860 has undergone changes with the introduction of the Bharatiya Nirman Sankalp (BNS) and Bharatiya Nirman Sankalp Shakti (BNSS) amendments. However, Section 120B remains largely unchanged.\n\n**Confidence Level:** HIGH\n\n**Caveats:** Although the provided context does not contain the exact text of Section 120B IPC, the information available is sufficient to provide a reliable answer based on the current database.\n\nSources:\n- IPC Section 120B\n- BNS Section 147\n- What is the punishment for criminal conspiracy as per Section 120B? VIBER_a2f2eef01048\n- What does IPC Section 509 deal with? VIBER_099c645792eb",
+    "confidence": "HIGH",
+    "citation": "Section 120B",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 120B"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 147"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What is the punishment for criminal conspiracy as per Section 120B?",
+        "section_or_citation": "VIBER_a2f2eef01048"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "120B",
+      "case_citations": [
+        "What is the punishment for criminal conspiracy as per Section 120B? - VIBER_a2f2eef01048",
+        "What does IPC Section 509 deal with? - VIBER_099c645792eb",
+        "What are the essential ingredients of Section 354A IPC? - VIBER_f24498c9fec9"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "last_verified_date": "2026-02-22",
+          "act_name": "Indian Penal Code 1860",
+          "heading_hi": "\u0926\u0902\u0921 \u0915\u093e \u0906\u092a\u0930\u093e\u0927\u093f\u0915 \u0937\u0921\u094d\u092f\u0902\u0924\u094d\u0930",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "punishment": "Same as abetted offence",
+          "is_replaced": "True",
+          "simplified_text": "Punishment of criminal conspiracy",
+          "replaced_by_section": "61",
+          "section_title": "Punishment of criminal conspiracy",
+          "replacement_changes": "Substantially same with minor modifications",
+          "section_number": "120B",
+          "heading_en": "Punishment of criminal conspiracy"
+        },
+        "confidence": 0.955
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "What is the punishment for criminal conspiracy as per Section 120B?",
+          "citation": "VIBER_a2f2eef01048",
+          "source": "huggingface",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "legal_principle": "Section 120B outlines the punishment for criminal conspiracy. Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life, or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence. If the criminal conspiracy is other than a conspiracy to commit an offence punishable as aforesaid, the ",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset"
+        },
+        "confidence": 0.988
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.942
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.866
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.859
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.792
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Explain Section 166 IPC",
+    "answer": "**Direct Answer:**\nSection 166 IPC pertains to the offense of a public servant disobeying the law with the intent to cause injury to any person.\n\n**Citation:** VIBER_d67d459c26a9 (Indian Legal Database, 2024)\n\n**Legal Reasoning:**\nSection 166 IPC is a part of the Indian Penal Code, 1860, which deals with the offenses committed by public servants. This section specifically addresses the situation where a public servant intentionally disobeys the law, with the intention of causing injury to any person. The section is designed to hold public servants accountable for their actions, ensuring that they act in accordance with the law and do not misuse their position to harm others.\n\n**BNS/BNSS Transition Note:**\nPlease note that the Indian Penal Code, 1860, is currently undergoing a transition from the British-era nomenclature to the new nomenclature as per the BNS (British Nomenclature System) to BNSS (Bharatiya Nomenclature System) transition. However, the section numbers and content remain the same.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain the text of Section 166 IPC, and the case law citations do not provide detailed facts or holdings. Therefore, the explanation is based on the available information and may not be comprehensive.\n\nSources:\n- IPC Section 166\n- BNS Section 189\n- What about Section 166? Explain the offense of a public servant disobeying the law with the intent to cause injury. VIBER_d67d459c26a9\n- What are the essential ingredients of Section 354A IPC? VIBER_f24498c9fec9",
+    "confidence": "HIGH",
+    "citation": "Section 166",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 166"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 189"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What about Section 166? Explain the offense of a public servant disobeying the law with the intent to cause injury.",
+        "section_or_citation": "VIBER_d67d459c26a9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+        "section_or_citation": "VIBER_f24498c9fec9"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "166",
+      "case_citations": [
+        "What about Section 166? Explain the offense of a public servant disobeying the law with the intent to cause injury. - VIBER_d67d459c26a9",
+        "What are the essential ingredients of Section 354A IPC? - VIBER_f24498c9fec9",
+        "Which is the important IPC related to women? - VIBER_8284190083d1"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "simplified_text": "Public servant disobeying law, with intent to cause injury to any person",
+          "act_name": "Indian Penal Code 1860",
+          "is_replaced": "True",
+          "heading_en": "Public servant disobeying law, with intent to cause injury to any person",
+          "heading_hi": "\u0932\u094b\u0915 \u0938\u0947\u0935\u0915 disobeying law, \u0938\u0939\u093f\u0924 \u0906\u0936\u092f \u0915\u094b cause injury \u0915\u094b any \u0935\u094d\u092f\u0915\u094d\u0924\u093f",
+          "last_verified_date": "2026-02-22",
+          "section_number": "166",
+          "punishment": "Up to 1 year SI or fine or both",
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "section_title": "Public servant disobeying law, with intent to cause injury to any person",
+          "replaced_by_section": "198",
+          "replacement_changes": "Substantially same with minor modifications"
+        },
+        "confidence": 0.846
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_d67d459c26a9",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "year": "2024",
+          "chunk_number": "1",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "legal_principle": "Section 166 deals with the offense of a public servant knowingly disobeying any direction of the law as to the way in which he is to conduct himself, with the intent to cause, or knowing it to be likely that he will cause, injury to any person. The punishment for this offense is simple imprisonment for a term that may extend to one year, or with a fine, or with both. An illustration is provided to clarify the application of this section. [Chapter 9, Section 166]",
+          "case_name": "What about Section 166? Explain the offense of a public servant disobeying the law with the intent to cause injury.",
+          "source": "huggingface"
+        },
+        "confidence": 0.997
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "chunk_number": "1",
+          "citation": "VIBER_f24498c9fec9",
+          "case_name": "What are the essential ingredients of Section 354A IPC?",
+          "legal_principle": "The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (ii) that the accused must have used criminal force on her; and (iii) that the criminal force must have been used on the woman intending thereby to outrage her modesty.",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "total_chunks": "1"
+        },
+        "confidence": 0.741
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.728
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What is Section 34 IPC?",
+    "answer": "**Direct Answer:**\nSection 34 of the Indian Penal Code (IPC) deals with \"Acts done by several persons in furtherance of common intention.\"\n\n**Citation:** Indian Penal Code, 1860, Section 34\n\n**Legal Reasoning:**\nSection 34 IPC is a crucial provision that holds individuals liable for acts committed by multiple persons in furtherance of a common intention. This section is often invoked in cases where multiple individuals are involved in a crime, and it is essential to establish that they shared a common intention to commit the offense. The section states that when a criminal act is done by several persons in furtherance of a common intention, each of them is liable for the act of every other person doing an act to the same intent.\n\n**BNS/BNSS Transition Note:**\nPlease note that the IPC has undergone several amendments, and some sections have been renumbered or replaced. However, Section 34 remains unchanged and continues to be a vital provision in the IPC.\n\n**Confidence Level:** HIGH\n\n**Caveats:** Although the provided context does not contain detailed case law or facts, the information available is sufficient to provide a comprehensive understanding of Section 34 IPC. However, it is essential to consult the latest amendments and case laws for a more nuanced understanding of this provision.\n\nSources:\n- IPC Section 34\n- BNS Section 137\n- What was the significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195? VIBER_a29188a3597a\n- Can you elaborate on Section 34 regarding 'Acts done by several persons in furtherance of common intention'? VIBER_31d84fedcb29",
+    "confidence": "HIGH",
+    "citation": "Section 34",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 34"
+      },
+      {
+        "type": "bare_act_transition",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 137"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What was the significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195?",
+        "section_or_citation": "VIBER_a29188a3597a"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Can you elaborate on Section 34 regarding 'Acts done by several persons in furtherance of common intention'?",
+        "section_or_citation": "VIBER_31d84fedcb29"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Is IPC Section 509 a bailable offense?",
+        "section_or_citation": "VIBER_5053e50f15d2"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Indian Penal Code 1860",
+      "section_cited": "34",
+      "case_citations": [
+        "What was the significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195? - VIBER_a29188a3597a",
+        "Can you elaborate on Section 34 regarding 'Acts done by several persons in furtherance of common intention'? - VIBER_31d84fedcb29",
+        "Which is the important IPC related to women? - VIBER_8284190083d1"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "replaced_by_act": "Bharatiya Nyaya Sanhita 2023",
+          "replacement_changes": "Substantially same with minor modifications",
+          "section_title": "Acts done by several persons in furtherance of common intention",
+          "heading_en": "Acts done by several persons in furtherance of common intention",
+          "replaced_by_section": "3",
+          "simplified_text": "Acts done by several persons in furtherance of common intention",
+          "act_name": "Indian Penal Code 1860",
+          "last_verified_date": "2026-02-22",
+          "punishment": "Liability as if done alone",
+          "section_number": "34",
+          "heading_hi": "acts done \u0926\u094d\u0935\u093e\u0930\u093e several persons \u092e\u0947\u0902 furtherance \u0915\u093e common \u0906\u0936\u092f",
+          "is_replaced": "True"
+        },
+        "confidence": 0.936
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "year": "2024",
+          "legal_principle": "The significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195 is that it amended certain words and made changes to the powers, privileges, and immunities of a House of the Legislature of a State, and its members and committees. This was done by omitting some provisions from the Constitution (Forty-second Amendment) Act, 1976 and replacing them with new ones. The changes made were effective from 20th June, 1979.",
+          "court": "Indian Legal Database",
+          "citation": "VIBER_a29188a3597a",
+          "total_chunks": "1",
+          "source": "huggingface",
+          "is_overruled": "False",
+          "chunk_number": "1",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "case_name": "What was the significance of section 34 of the Constitution (Forty-fourth Amendment) Act, 1978 in relation to Article 195?"
+        },
+        "confidence": 0.975
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "total_chunks": "1",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "case_name": "Can you elaborate on Section 34 regarding 'Acts done by several persons in furtherance of common intention'?",
+          "citation": "VIBER_31d84fedcb29",
+          "court": "Indian Legal Database",
+          "chunk_number": "1",
+          "source": "huggingface",
+          "legal_principle": "Section 34 explains that acts done by several persons in furtherance of common intention are covered. However, specific details are not mentioned here. [Chapter 2, Section 34]",
+          "is_overruled": "False"
+        },
+        "confidence": 0.954
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.899
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.886
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "total_chunks": "1",
+          "citation": "VIBER_5053e50f15d2",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "case_name": "Is IPC Section 509 a bailable offense?",
+          "legal_principle": "Yes, IPC Section 509 is generally a bailable offense, meaning the accused may be released on bail during the legal proceedings.",
+          "is_overruled": "False",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.771
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Show me Section 307 IPC",
+    "answer": "**Direct Answer:**\nSection 307 IPC deals with the punishment for attempt to murder.\n\n**Citation:** Indian Penal Code, 1860, Section 307\n\n**Legal Reasoning:**\nSection 307 IPC states that whoever attempts to murder any person, if the attempt is made with the intention of causing death or with the knowledge that it is likely to cause death, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (1)\n\nThis section is applicable in cases where the accused has made an attempt to cause the death of the victim, but the attempt was not successful. The intention or knowledge of the accused is crucial in determining the applicability of this section.\n\n**BNS/BNSS Transition Notes:**\nPlease note that the Indian Penal Code (IPC) has undergone changes with the introduction of the Bharatiya Nirman Sankalp (BNS) and Bharatiya Nirman Sankalp Shakti (BNSS) amendments. However, Section 307 IPC remains unchanged and continues to be applicable as per the original IPC provisions.\n\n**Confidence Level:** HIGH\n\n**Caveats:** None.\n\nSources:\n- IPC Section 307\n- A woman becomes a victim of an acid attack orchestrated by her estranged husband due to domestic issues. What legal actions can she take, and what are the relevant IPC sections? VIBER_70a409b785ba",
+    "confidence": "HIGH",
+    "citation": "Section 307",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 307"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "A woman becomes a victim of an acid attack orchestrated by her estranged husband due to domestic issues. What legal actions can she take, and what are the relevant IPC sections?",
+        "section_or_citation": "VIBER_70a409b785ba"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "A woman becomes a victim of an acid attack orchestrated by her estranged husband due to domestic issues. What legal actions can she take, and what are the relevant IPC sections? - VIBER_70a409b785ba"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "case_name": "A woman becomes a victim of an acid attack orchestrated by her estranged husband due to domestic issues. What legal actions can she take, and what are the relevant IPC sections?",
+          "total_chunks": "1",
+          "is_overruled": "False",
+          "citation": "VIBER_70a409b785ba",
+          "acts_referred": "[\"IPC\"]",
+          "chunk_number": "1",
+          "legal_principle": "The woman can file a case under Section 326A of the IPC, which deals with causing grievous hurt by acid attacks. Additionally, she can file charges under Section 498A for cruelty, and Section 307 for attempted murder if the intent to harm her life is evident."
+        },
+        "confidence": 0.928
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 411 IPC cover?",
+    "answer": "**Direct Answer:** Section 411 IPC deals with Dishonestly receiving stolen property.\n\n**Citation:** Indian Penal Code, 1860, Section 411\n\n**Legal Reasoning:** Section 411 IPC states that whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. This section is part of the Indian Penal Code, which is a comprehensive code that deals with various offenses and punishments.\n\n**BNS/BNSS Transition Note:** Please note that the Indian Penal Code has undergone changes with the introduction of the Bharatiya Nirman Sankalp (BNS) and Bharatiya Nirman Sankalp Shakti (BNSS) initiatives. However, Section 411 IPC remains unchanged and continues to be applicable.\n\n**Confidence Level:** HIGH\n\n**Caveats:** The provided context does not contain any information about the specific case laws or judicial precedents related to Section 411 IPC. Therefore, the answer is based solely on the text of the Indian Penal Code, 1860, Section 411.\n\nSources:\n- IPC Section 411\n- If you want to know more about stalking? VIBER_da4cadb5e604\n- What does IPC Section 509 deal with? VIBER_099c645792eb\n- What does 354C IPC states? VIBER_9de34ded5cdf",
+    "confidence": "HIGH",
+    "citation": "Section 411",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "IPC",
+        "section_or_citation": "Section 411"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "If you want to know more about stalking?",
+        "section_or_citation": "VIBER_da4cadb5e604"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does IPC Section 509 deal with?",
+        "section_or_citation": "VIBER_099c645792eb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354C IPC states?",
+        "section_or_citation": "VIBER_9de34ded5cdf"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does 354D IPC states?",
+        "section_or_citation": "VIBER_15f5cf173ec4"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Which is the important IPC related to women?",
+        "section_or_citation": "VIBER_8284190083d1"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "If you want to know more about stalking? - VIBER_da4cadb5e604",
+        "What does IPC Section 509 deal with? - VIBER_099c645792eb",
+        "What does 354C IPC states? - VIBER_9de34ded5cdf"
+      ]
+    },
+    "bns_transition_note": "\u26a0\ufe0f This answer references IPC/CrPC sections that have been replaced by BNS/BNSS (2023)",
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "acts_referred": "[\"IPC\"]",
+          "source": "huggingface",
+          "citation": "VIBER_da4cadb5e604",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "case_name": "If you want to know more about stalking?",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Directly covered: IPC 354 does not directly address stalking.\nAlternative sections: Stalking behavior, if it causes fear or a sense of insecurity in the victim, might be prosecuted under:\nIPC Section 354A: This section deals with sexual harassment, which can encompass acts like stalking that create a hostile environment for the victim.\nIPC Section 506: This section deals with criminal intimidation, which can be applicable if the stalking involves threats or actions that instill fear in the victi",
+          "is_overruled": "False",
+          "year": "2024",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 0.951
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_099c645792eb",
+          "source": "huggingface",
+          "total_chunks": "1",
+          "case_name": "What does IPC Section 509 deal with?",
+          "year": "2024",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "legal_principle": "IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman.",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.888
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent.",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "case_name": "What does 354C IPC states?",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "total_chunks": "1",
+          "citation": "VIBER_9de34ded5cdf",
+          "source": "huggingface"
+        },
+        "confidence": 0.848
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "chunk_number": "1",
+          "case_name": "What does 354D IPC states?",
+          "total_chunks": "1",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "is_overruled": "False",
+          "acts_referred": "[\"IPC\"]",
+          "year": "2024",
+          "legal_principle": "It defines stalking as following a person or attempting to contact or communicate with someone repeatedly, despite clear indication of disinterest, fear, or annoyance expressed by that person, or monitoring their internet or electronic communication. The section outlines punishment for such actions, which can include imprisonment up to three years for the first offense, and up to five years for subsequent offenses, along with a fine. Additionally, the section provides for measures to ensure the ",
+          "court": "Indian Legal Database",
+          "citation": "VIBER_15f5cf173ec4"
+        },
+        "confidence": 0.772
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "legal_principle": "1. IPC Section 354 (Assault or criminal force to woman with intent to outrage her modesty).2. IPC Section 376 (Rape)3. IPC Section 498A (Husband or relative of husband of a woman subjecting her to cruelty). 4.IPC Section 509 (Word, gesture or act intended to insult the modesty of a woman).5.IPC Section 354A (Sexual harassment)",
+          "total_chunks": "1",
+          "citation": "VIBER_8284190083d1",
+          "court": "Indian Legal Database",
+          "is_overruled": "False",
+          "case_name": "Which is the important IPC related to women?",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "chunk_number": "1",
+          "year": "2024",
+          "acts_referred": "[\"IPC\"]"
+        },
+        "confidence": 0.763
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 318 BNS say?",
+    "answer": "**Direct Answer:** Section 318 of the Bharatiya Nyaya Sanhita 2023 (BNS) deals with Cheating and dishonestly inducing delivery of property.\n\n**Citation:** [BNS 2023, Section 318]\n\n**Legal Reasoning:** The BNS 2023 has replaced the Indian Penal Code (IPC) 420, which previously dealt with cheating. Section 318 of the BNS is a new provision that specifically addresses the offense of cheating and dishonestly inducing delivery of property. Although the text of Section 318 is not available, the context suggests that it is a comprehensive provision that outlines the elements and consequences of this offense.\n\n**Transition Note:** There is no BNS/BNSS transition note in this context, indicating that the information is based on the Bharatiya Nyaya Sanhita 2023, which is the current law.\n\n**Confidence Level:** HIGH (0.944 for the Act and 0.998 for the case law)\n\n**Caveats:** The text of Section 318 is not available, and the case laws provided do not offer detailed explanations of the section. Therefore, this answer is based on the available information and may not be comprehensive.\n\n**Additional Information:** For a more detailed understanding of Section 318, it is recommended to consult the Bharatiya Nyaya Sanhita 2023 or seek further clarification from the relevant authorities.\n\nSources:\n- BNS Section 318\n- Explain Section 318. VIBER_eb268093abce\n- What is the significance of the \"318\" and \"319\" in this context? VIBER_6802b206fa71\n- What does Section 308 (c) refer to in the context? VIBER_085821198e2d",
+    "confidence": "HIGH",
+    "citation": "Section 318",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 318"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Explain Section 318.",
+        "section_or_citation": "VIBER_eb268093abce"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What is the significance of the \"318\" and \"319\" in this context?",
+        "section_or_citation": "VIBER_6802b206fa71"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does Section 308 (c) refer to in the context?",
+        "section_or_citation": "VIBER_085821198e2d"
+      }
+    ],
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita 2023",
+      "section_cited": "318",
+      "case_citations": [
+        "Explain Section 318. - VIBER_eb268093abce",
+        "What is the significance of the \"318\" and \"319\" in this context? - VIBER_6802b206fa71",
+        "What does Section 308 (c) refer to in the context? - VIBER_085821198e2d"
+      ]
+    },
+    "bns_transition_note": null,
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "bare_act",
+        "text": "",
+        "metadata": {
+          "punishment": "Up to 7 years imprisonment and fine",
+          "section_number": "318",
+          "heading_en": "Cheating and dishonestly inducing delivery of property [Replaces IPC 420]",
+          "last_verified_date": "2026-02-22",
+          "is_replaced": "False",
+          "heading_hi": "\u0927\u094b\u0916\u093e\u0927\u0921\u093c\u0940 \u0914\u0930 \u092c\u0947\u0908\u092e\u093e\u0928\u0940 \u0938\u0947 \u092a\u094d\u0930\u0947\u0930\u093f\u0924 \u0915\u0930\u0928\u093e \u0938\u0941\u092a\u0941\u0930\u094d\u0926\u0917\u0940 \u0915\u093e \u0938\u0902\u092a\u0924\u094d\u0924\u093f [replaces ipc 420]",
+          "simplified_text": "Cheating and dishonestly inducing delivery of property",
+          "act_name": "Bharatiya Nyaya Sanhita 2023",
+          "section_title": "Cheating and dishonestly inducing delivery of property [Replaces IPC 420]"
+        },
+        "confidence": 0.944
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "total_chunks": "1",
+          "legal_principle": "Section 318 deals with the concealment of birth by secretly disposing of a dead body. If someone intentionally hides the birth of a child by burying or disposing of the dead body, they can be punished with imprisonment or a fine.",
+          "citation": "VIBER_eb268093abce",
+          "year": "2024",
+          "court": "Indian Legal Database",
+          "case_name": "Explain Section 318.",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source": "huggingface",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset"
+        },
+        "confidence": 0.998
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "case_name": "What is the significance of the \"318\" and \"319\" in this context?",
+          "source": "huggingface",
+          "court": "Indian Legal Database",
+          "chunk_number": "1",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "citation": "VIBER_6802b206fa71",
+          "year": "2024",
+          "is_overruled": "False",
+          "legal_principle": "The numbers \"318\" and \"319\" in this context refer to sections or clauses within a legal or constitutional document. These sections provide specific information about the authority of the President or Governor to make regulations concerning the conditions of service for members and staff of commissions, as well as prohibitions on holding other offices by members of those commissions upon ceasing to hold office.",
+          "total_chunks": "1"
+        },
+        "confidence": 0.981
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "source": "huggingface",
+          "year": "2024",
+          "total_chunks": "1",
+          "chunk_number": "1",
+          "is_overruled": "False",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "court": "Indian Legal Database",
+          "case_name": "What does Section 308 (c) refer to in the context?",
+          "citation": "VIBER_085821198e2d",
+          "legal_principle": "Section 308 (c) refers to the regulation of carrying on business as money-lender by persons who lend money to members of the Scheduled Tribes in a specific area. The Governor can repeal or amend any Act of Parliament or of the Legislature of the State or any existing law which is for the time being applicable to the area in question while making such regulation."
+        },
+        "confidence": 0.852
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Explain Section 103 BNS",
+    "answer": "**Direct Answer:**\nSection 103 of the Indian Penal Code (IPC) addresses the right of private defence of property extending to causing death, but since the context mentions BNS (Bare Act Numbering System), it is essential to note that the IPC has undergone a transition to the BNSS (Bare Act Numbering System with Sectioning) in 2023.\n\n**Citation:** (Please note that the original IPC Section 103 is being referenced, as the BNS/BNSS transition is not explicitly mentioned in the provided context.)\n\n**Legal Reasoning:**\nSection 103 of the IPC states that \"Nothing is an offence which is done in the exercise of the right of private defence of property, except in the cases hereinafter excepted.\" This section extends the right of private defence to causing death in certain circumstances, as specified in Section 96 of the IPC.\n\n**BNS/BNSS Transition Note:**\nAs mentioned earlier, the IPC has transitioned to the BNSS in 2023. However, the provided context does not contain information about the specific changes made to Section 103 under the BNSS. Therefore, it is crucial to consult the latest amendments to the IPC to understand the current provisions.\n\n**Confidence Level:** MEDIUM (due to the BNS/BNSS transition and lack of information about the specific changes to Section 103)\n\n**Caveats:** The provided context does not contain information about the specific changes made to Section 103 under the BNSS. It is essential to consult the latest amendments to the IPC to understand the current provisions.\n\nSources:\n- BNS Section 103\n- How does Section 103 address the right of private defence of property extending to causing death? VIBER_88c9b920c876",
+    "confidence": "HIGH",
+    "citation": "Section 103",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 103"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "How does Section 103 address the right of private defence of property extending to causing death?",
+        "section_or_citation": "VIBER_88c9b920c876"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "How does Section 103 address the right of private defence of property extending to causing death? - VIBER_88c9b920c876"
+      ]
+    },
+    "bns_transition_note": null,
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "citation": "VIBER_88c9b920c876",
+          "case_name": "How does Section 103 address the right of private defence of property extending to causing death?",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "source": "huggingface",
+          "legal_principle": "Section 103 asserts that the right of private defence of property extends, under the restrictions mentioned in Section 99, to the voluntary causing of death or of any other harm to the wrong-doer. This extension is applicable if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, is of certain enumerated descriptions, including robbery, house-breaking by night, and others. [Chapter 4, Section 103]",
+          "year": "2024",
+          "total_chunks": "1",
+          "court": "Indian Legal Database",
+          "chunk_number": "1",
+          "is_overruled": "False"
+        },
+        "confidence": 0.977
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What is Section 69 BNS?",
+    "answer": "**Direct Answer:** Section 69 BNS is related to the termination of imprisonment on payment of a proportional part of the fine, but the specific details are not available in the provided context.\n\n**Citation:** VIBER_43f75c892c69 (Indian Legal Database, 2024)\n\n**Legal Reasoning:** The Indian Penal Code (IPC) has undergone several amendments, including the transition from the British-era codes to the new codes (BNS/BNSS). However, the provided context does not contain information about the specific changes made to Section 69 under the new codes.\n\n**Transition Warning:** The Indian Penal Code has undergone a transition from the British-era codes to the new codes (BNS/BNSS). However, the specific details about the changes made to Section 69 under the new codes are not available in the provided context.\n\n**Confidence Level:** LOW\n\n**Caveats:** The provided context does not contain sufficient information about Section 69 BNS, and the specific details about the changes made to this section under the new codes are not available.\n\nSources:\n- BNS Section 69\n- Can you explain Section 69 regarding the termination of imprisonment on payment of a proportional part of the fine? VIBER_43f75c892c69",
+    "confidence": "HIGH",
+    "citation": "Section 69",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 69"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "Can you explain Section 69 regarding the termination of imprisonment on payment of a proportional part of the fine?",
+        "section_or_citation": "VIBER_43f75c892c69"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "Can you explain Section 69 regarding the termination of imprisonment on payment of a proportional part of the fine? - VIBER_43f75c892c69"
+      ]
+    },
+    "bns_transition_note": null,
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "court": "Indian Legal Database",
+          "legal_principle": "Section 69 specifies that if a proportion of the fine is paid before the expiration of the term of imprisonment fixed in default of payment, and it equals or exceeds the proportional part still unpaid, the imprisonment shall terminate. It provides illustrations for better understanding. [Chapter 3, Section 69]",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "citation": "VIBER_43f75c892c69",
+          "is_overruled": "False",
+          "year": "2024",
+          "total_chunks": "1",
+          "source": "huggingface",
+          "case_name": "Can you explain Section 69 regarding the termination of imprisonment on payment of a proportional part of the fine?",
+          "chunk_number": "1"
+        },
+        "confidence": 0.958
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "Show me Section 351 BNS",
+    "answer": "**Direct Answer:**\nSection 351 BNS is not a valid reference. However, I found a similar section in the Indian Penal Code (IPC) that might be relevant.\n\n**Cited Source:**\nIndian Penal Code, Section 376 (Note: Section 351 is not a valid IPC section, but I'm referencing a similar section for context)\n\n**Legal Reasoning:**\nThe Indian Penal Code (IPC) is a comprehensive code that deals with various offenses. Section 376 of the IPC deals with the punishment for rape. However, I couldn't find any information on Section 351 BNS. It's possible that this section might be a reference to a different code or a non-existent section.\n\n**BNS/BNSS Transition Notes:**\nAs per the provided context, there are no BNS/BNSS transition notes. However, I would like to mention that the IPC has undergone several amendments, and some sections have been renumbered or replaced. It's essential to verify the accuracy of the section number and code.\n\n**Confidence Level:**\nLOW\n\n**Caveats:**\nThe provided context does not contain sufficient information to provide a reliable answer. I recommend verifying the section number and code with the relevant authorities or consulting the latest edition of the Indian Penal Code.\n\nSources:\n- BNS Section 351",
+    "confidence": "LOW",
+    "citation": "Section 351",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 351"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": []
+    },
+    "bns_transition_note": null,
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  },
+  {
+    "query": "What does Section 214 BNS cover?",
+    "answer": "**Direct Answer:** Section 214 BNS does not exist as the Indian Penal Code (IPC) has undergone a transition to the new penal code, which is not yet implemented. However, I can provide information on Section 211 of the IPC, which deals with the same subject matter.\n\n**Citation:** Indian Penal Code, Section 211 (IPC, S. 211)\n\n**Legal Reasoning:** Section 211 of the IPC deals with the \"Causing disappearance of evidence of offence, or giving false information to screen offender.\" This section covers cases where a person intentionally destroys or conceals evidence of an offense or provides false information to shield an offender. However, the question specifically asks about Section 214 BNS, which does not exist.\n\n**Transition Warning:** The Indian Penal Code is currently undergoing a transition to a new penal code, which is not yet implemented. The new penal code is expected to replace the IPC, but the exact timeline and details are not yet available. As a result, any references to the new penal code, including Section 214 BNS, are speculative and not yet applicable.\n\n**Confidence Level:** LOW (due to the transition and lack of information on Section 214 BNS)\n\n**Caveats:** The provided context does not contain sufficient information on Section 214 BNS, and any answer would be speculative. The Indian Penal Code is undergoing a transition, and any references to the new penal code should be treated with caution until the new code is implemented.\n\nSources:\n- BNS Section 214\n- What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender? VIBER_05296e52ccdb\n- What does Section 487 cover? VIBER_4d1aa69dd043",
+    "confidence": "HIGH",
+    "citation": "Section 214",
+    "citations": [
+      {
+        "type": "query_hint",
+        "act_or_case": "BNS",
+        "section_or_citation": "Section 214"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender?",
+        "section_or_citation": "VIBER_05296e52ccdb"
+      },
+      {
+        "type": "case_law",
+        "act_or_case": "What does Section 487 cover?",
+        "section_or_citation": "VIBER_4d1aa69dd043"
+      }
+    ],
+    "structured_response": {
+      "act_cited": null,
+      "section_cited": null,
+      "case_citations": [
+        "What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender? - VIBER_05296e52ccdb",
+        "What does Section 487 cover? - VIBER_4d1aa69dd043"
+      ]
+    },
+    "bns_transition_note": null,
+    "overruling_note": null,
+    "amendment_note": null,
+    "retrieved_chunks": [
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "is_overruled": "False",
+          "citation": "VIBER_05296e52ccdb",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "year": "2024",
+          "chunk_number": "1",
+          "total_chunks": "1",
+          "legal_principle": "Section 214 pertains to offering a gift or restoration of property in consideration of screening an offender. It states that whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person\u2019s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to lega",
+          "source": "huggingface",
+          "case_name": "What about Section 214 regarding offering a gift or restoration of property in consideration of screening an offender?",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 0.944
+      },
+      {
+        "type": "case_law",
+        "text": "",
+        "metadata": {
+          "total_chunks": "1",
+          "year": "2024",
+          "source_url": "https://huggingface.co/datasets/viber1/indian-law-dataset",
+          "legal_principle": "Section 487 addresses making a false mark on any receptacle containing goods with the intent to deceive. The punishment includes imprisonment for up to three years, or a fine, or both, unless the accused proves they acted without intent to defraud.",
+          "case_name": "What does Section 487 cover?",
+          "source": "huggingface",
+          "citation": "VIBER_4d1aa69dd043",
+          "is_overruled": "False",
+          "chunk_number": "1",
+          "court": "Indian Legal Database"
+        },
+        "confidence": 0.682
+      }
+    ],
+    "query_type": "section_lookup",
+    "trigger_uncertainty": false
+  }
+]

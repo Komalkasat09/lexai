@@ -1,0 +1,19 @@
+{
+  "hindi": {
+    "queries_total": 40,
+    "queries_evaluated": 40,
+    "car_percent": 42.5,
+    "acs": 61.04
+  },
+  "empty_hindi_responses": 5,
+  "artifacts": {
+    "responses": "evaluation/evaluation/results/checkpoints/lexai_hindi_responses_20260315_160525.json",
+    "empty": "evaluation/evaluation/results/checkpoints/lexai_hindi_empty_responses_20260315_160525.json"
+  },
+  "delta_vs_previous_hindi_summary": {
+    "prev_car_percent": 42.5,
+    "prev_acs": 58.33,
+    "delta_car": 0.0,
+    "delta_acs": 2.71
+  }
+}

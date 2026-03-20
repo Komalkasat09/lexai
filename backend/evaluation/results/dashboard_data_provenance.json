@@ -1,0 +1,58 @@
+{
+  "source_complete_results": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/complete_results_20260318_192004.json",
+  "run_timestamp": "20260318_192004",
+  "ground_truth_size": 5,
+  "outputs": {
+    "LexAI": {
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/recomputed_metrics.csv",
+      "row_count": 5,
+      "columns": [
+        "query_id",
+        "query",
+        "category",
+        "system",
+        "car_score",
+        "hallucination_rate",
+        "acs_score",
+        "olr_score",
+        "confidence",
+        "ccs_correctness",
+        "abstained"
+      ]
+    },
+    "SimpleRAG": {
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/simple_rag_metrics.csv",
+      "row_count": 5,
+      "columns": [
+        "query_id",
+        "query",
+        "category",
+        "system",
+        "car_score",
+        "hallucination_rate",
+        "acs_score",
+        "olr_score",
+        "confidence",
+        "ccs_correctness",
+        "abstained"
+      ]
+    },
+    "NoRAG": {
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/no_rag_metrics.csv",
+      "row_count": 5,
+      "columns": [
+        "query_id",
+        "query",
+        "category",
+        "system",
+        "car_score",
+        "hallucination_rate",
+        "acs_score",
+        "olr_score",
+        "confidence",
+        "ccs_correctness",
+        "abstained"
+      ]
+    }
+  }
+}

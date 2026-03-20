@@ -1,0 +1,20 @@
+{
+  "hindi_fixed": {
+    "queries_total": 40,
+    "queries_used_for_car": 39,
+    "queries_excluded_from_car": 1,
+    "car_percent": 41.03,
+    "acs": 62.08
+  },
+  "deltas": {
+    "hindi_car_delta_vs_baseline": -1.47,
+    "hindi_acs_delta_vs_baseline": 3.75,
+    "overall_car_fixed": 66.19,
+    "overall_acs_fixed": 63.57
+  },
+  "artifacts": {
+    "responses_fixed": "evaluation/evaluation/results/checkpoints/lexai_hindi_responses_fixed.json",
+    "summary_fixed": "evaluation/evaluation/results/hindi_eval_summary_fixed.json",
+    "still_abstaining": "evaluation/evaluation/results/checkpoints/lexai_hindi_still_abstaining_fixed.json"
+  }
+}

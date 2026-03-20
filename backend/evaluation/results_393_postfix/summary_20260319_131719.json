@@ -1,0 +1,52 @@
+{
+  "run_timestamp": "20260319_131719",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "/Users/komalkasat09/legal-website/backend/evaluation/ground_truth_verified_393_ready.xlsx",
+    "run_timestamp": "20260319_131719",
+    "eval_regime": "forced-answer",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "lexai_performance": {
+    "CAR": 83.90585241730281,
+    "HR": 42.272347535505425,
+    "OLR": 32.56704980842912,
+    "ACS": 72.53776081424935
+  },
+  "per_query_metrics": {
+    "directory": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/per_query_metrics",
+    "files": {
+      "LexAI": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/per_query_metrics/lexai_per_query_metrics.csv",
+      "NoRAG": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/per_query_metrics/norag_per_query_metrics.csv",
+      "SimpleRAG": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/per_query_metrics/simplerag_per_query_metrics.csv"
+    },
+    "row_counts": {
+      "LexAI": 393,
+      "NoRAG": 393,
+      "SimpleRAG": 393
+    },
+    "manifest": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/per_query_metrics/manifest.json"
+  },
+  "output_files": {
+    "metrics_summary": "results/comparison_results/system_comparison.csv",
+    "note": "Run python results_dashboard.py for publication figures"
+  }
+}

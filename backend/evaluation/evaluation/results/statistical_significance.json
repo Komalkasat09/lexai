@@ -1,0 +1,201 @@
+{
+  "feasible": true,
+  "requested_paths": {
+    "lexai": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_responses.json",
+    "simplerag": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/simplerag_responses.json",
+    "norag": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/norag_responses.json"
+  },
+  "requested_paths_exist": {
+    "lexai": true,
+    "simplerag": false,
+    "norag": false
+  },
+  "used_paths": {
+    "lexai": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_responses.json",
+    "simplerag": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/checkpoints/baseline_responses.json::SimpleRAG",
+    "norag": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/checkpoints/baseline_responses.json::NoRAG"
+  },
+  "available_fields": {
+    "LexAI": [
+      "amendment_note",
+      "answer",
+      "bns_transition_note",
+      "confidence",
+      "overruling_note",
+      "query",
+      "query_type",
+      "retrieved_chunks",
+      "structured_response",
+      "trigger_uncertainty"
+    ],
+    "SimpleRAG": [
+      "amendment_notes",
+      "answer",
+      "bns_bnss_notes",
+      "citations",
+      "confidence",
+      "disclaimer",
+      "error",
+      "num_chunks_retrieved",
+      "retrieval_used",
+      "retrieved_chunks",
+      "system"
+    ],
+    "NoRAG": [
+      "amendment_notes",
+      "answer",
+      "bns_bnss_notes",
+      "citations",
+      "confidence",
+      "disclaimer",
+      "retrieval_used",
+      "system"
+    ]
+  },
+  "n_aligned": 293,
+  "bootstrap": {
+    "n_bootstrap": 10000,
+    "ci": 0.95,
+    "summary": {
+      "CAR": {
+        "LexAI": {
+          "mean": 81.39931740614334,
+          "ci_lower": 77.81356655290104,
+          "ci_upper": 84.81228668941979,
+          "n": 293
+        },
+        "SimpleRAG": {
+          "mean": 85.66552901023891,
+          "ci_lower": 82.5938566552901,
+          "ci_upper": 88.6518771331058,
+          "n": 293
+        },
+        "NoRAG": {
+          "mean": 91.7235494880546,
+          "ci_lower": 89.419795221843,
+          "ci_upper": 93.9419795221843,
+          "n": 293
+        }
+      },
+      "HR": {
+        "LexAI": {
+          "mean": 54.26621160409557,
+          "ci_lower": 48.4641638225256,
+          "ci_upper": 60.06825938566553,
+          "n": 293
+        },
+        "SimpleRAG": {
+          "mean": 57.81001137656428,
+          "ci_lower": 52.35494880546075,
+          "ci_upper": 63.27090443686006,
+          "n": 293
+        },
+        "NoRAG": {
+          "mean": 90.80204778156997,
+          "ci_lower": 87.54251990898749,
+          "ci_upper": 93.93060295790671,
+          "n": 293
+        }
+      },
+      "OLR": {
+        "LexAI": {
+          "mean": 14.334470989761092,
+          "ci_lower": 10.580204778156997,
+          "ci_upper": 18.43003412969283,
+          "n": 293
+        },
+        "SimpleRAG": {
+          "mean": 20.81911262798635,
+          "ci_lower": 16.38225255972696,
+          "ci_upper": 25.59726962457338,
+          "n": 293
+        },
+        "NoRAG": {
+          "mean": 60.75085324232082,
+          "ci_lower": 54.948805460750854,
+          "ci_upper": 66.21160409556315,
+          "n": 293
+        }
+      },
+      "ACS": {
+        "LexAI": {
+          "mean": 65.96273037542663,
+          "ci_lower": 64.83928071672355,
+          "ci_upper": 67.13328839590442,
+          "n": 293
+        },
+        "SimpleRAG": {
+          "mean": 66.29706484641639,
+          "ci_lower": 65.21278071672356,
+          "ci_upper": 67.40220648464162,
+          "n": 293
+        },
+        "NoRAG": {
+          "mean": 69.17815699658702,
+          "ci_lower": 68.134840443686,
+          "ci_upper": 70.23779692832764,
+          "n": 293
+        }
+      }
+    }
+  },
+  "paired_t_tests": {
+    "CAR": {
+      "LexAI_vs_SimpleRAG": {
+        "t_stat": -3.904017965112673,
+        "p_value": 0.0001175495681593553,
+        "cohens_d": -0.228075164784648,
+        "significant": true
+      },
+      "LexAI_vs_NoRAG": {
+        "t_stat": -7.879173674193513,
+        "p_value": 6.562989258319665e-14,
+        "cohens_d": -0.46030624094648137,
+        "significant": true
+      }
+    },
+    "HR": {
+      "LexAI_vs_SimpleRAG": {
+        "t_stat": -1.0802411401274785,
+        "p_value": 0.2809262239550838,
+        "cohens_d": -0.06310836124306107,
+        "significant": false
+      },
+      "LexAI_vs_NoRAG": {
+        "t_stat": -12.539693863666779,
+        "p_value": 3.781143558218047e-29,
+        "cohens_d": -0.7325767375720308,
+        "significant": true
+      }
+    },
+    "OLR": {
+      "LexAI_vs_SimpleRAG": {
+        "t_stat": -2.3040884378451634,
+        "p_value": 0.021919627613283126,
+        "cohens_d": -0.1346062837917221,
+        "significant": false
+      },
+      "LexAI_vs_NoRAG": {
+        "t_stat": -14.401570148225332,
+        "p_value": 6.751256368754311e-36,
+        "cohens_d": -0.8413487115240165,
+        "significant": true
+      }
+    },
+    "ACS": {
+      "LexAI_vs_SimpleRAG": {
+        "t_stat": -0.7728458713313782,
+        "p_value": 0.44023873052058576,
+        "cohens_d": -0.045150137891835175,
+        "significant": false
+      },
+      "LexAI_vs_NoRAG": {
+        "t_stat": -8.132565875027217,
+        "p_value": 1.2128469974889652e-14,
+        "cohens_d": -0.4751095713811106,
+        "significant": true
+      }
+    }
+  },
+  "bonferroni_alpha": 0.00625
+}

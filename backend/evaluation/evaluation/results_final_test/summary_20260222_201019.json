@@ -1,0 +1,43 @@
+{
+  "run_timestamp": "20260222_201019",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "evaluation/ground_truth_test_5.xlsx",
+    "run_timestamp": "20260222_201019",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "lexai_performance": {
+    "CAR": 100.0,
+    "HR": 0.0,
+    "OLR": 0.0,
+    "ACS": 66.66666666666666
+  },
+  "output_files": {
+    "table1": "\\begin{table}[ht]\n\\centering\n\\caption{Performance comparison across all systems}\n\\label{tab:main_results}\n\\begin{tabular}{lccc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{NoRAG} & \\textbf{SimpleRAG} \\\\\n\\midrule\nCAR & \\textbf{100.0} & 100.0* & 100.0* \\\\\nHR & \\textbf{0.0} & 33.3* & 0.0* \\\\\nOLR & \\textbf{0.0} & 0.0* & 0.0* \\\\\nAP & \\textbf{1.0} & 1.0* & 1.0* \\\\\nAR & 0.4 & 0.8* & \\textbf{1.0}* \\\\\nF1 & 0.6 & 0.9* & \\textbf{1.0}* \\\\\nACS & 66.7 & \\textbf{73.3}* & 66.7* \\\\\nP@1 & N/A & N/A & N/A \\\\\nP@3 & N/A & N/A & N/A \\\\\nCCS & \\textbf{0.365} & 0.455* & 0.500* \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table2": "\\begin{table}[ht]\n\\centering\n\\caption{Performance breakdown by query category}\n\\label{tab:category_performance}\n\\begin{tabular}{lcccc}\n\\toprule\n\\textbf{Category} & \\textbf{LexAI CAR} & \\textbf{LexAI ACS} & \\textbf{Baseline CAR} & \\textbf{Baseline ACS} \\\\\n\\midrule\nSection Lookup & 1.0 & 66.7 & 0.0 & 0.0 \\\\\nPunishment Query & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nAmendment Tracking & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nIPC to BNS Transition & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nCase Law Search & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nOverruled Cases & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nComplex Interpretation & 0.0 & 0.0 & 0.0 & 0.0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table4": "\\begin{table}[ht]\n\\centering\n\\caption{BNS transition detection performance}\n\\label{tab:bns_transitions}\n\\begin{tabular}{lcc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{SimpleRAG} \\\\\n\\midrule\nDetection Rate (\\%) & 0.0 & 0.0 \\\\\nTransitions Missed & 0 & 0 \\\\\nFalse Positives & 2 & 0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "figure1": "evaluation/results_final_test/figure1_hallucination.png",
+    "figure2": "evaluation/results_final_test/figure2_calibration.png",
+    "figure3": "evaluation/results_final_test/figure3_threshold_sensitivity.png",
+    "figure4": "evaluation/results_final_test/figure4_error_distribution.png",
+    "figure5": "evaluation/results_final_test/figure5_bns_handling.png"
+  }
+}

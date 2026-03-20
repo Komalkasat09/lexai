@@ -1,0 +1,225 @@
+[
+  {
+    "system": "NoRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. It states:\n\n\"Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\"\n\n(Section 420, Indian Penal Code, 1860)",
+      "citations": [
+        "the Indian Penal Code Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.519967,
+    "timestamp": "2026-02-22T18:43:42.917129"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "Section 302 of the Indian Penal Code (IPC) pertains to punishment for murder. It states:\n\n\"Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.\"\n\nIn essence, this section prescribes the punishment for the offense of murder, as defined under Section 299 and explained under Section 300 of the IPC. The punishment can be either death or life imprisonment, along with a fine. \n\nSection 300 IPC defines murder, and Section 299 IPC explains the act of culpable homicide. \n\nIt's worth noting that the Supreme Court of India has laid down guidelines for imposing the death penalty in certain cases, as seen in the case of Bachan Singh v. State of Punjab (1980) 2 SCC 684.",
+      "citations": [
+        "IPC explains the act Section 299",
+        "the Indian Penal Code Section 302"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.603836,
+    "timestamp": "2026-02-22T18:43:43.521998"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Section 498A of the Indian Penal Code (IPC) deals with \"Husband or relative of husband of a woman subjecting her to cruelty\". It states that whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.\n\nThe section defines cruelty as:\n\n- Any willful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n- Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.\n\n Citation: Section 498A, Indian Penal Code, 1860.",
+      "citations": [
+        "the Indian Penal Code Section 498A"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.78741,
+    "timestamp": "2026-02-22T18:43:44.310298"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Section 376 of the Indian Penal Code (IPC) deals with punishment for rape. It states:\n\n\"376. Punishment for rape.\u2014(1) Whoever, except in the cases provided for by sub-section (2), commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than seven years but which may extend to life imprisonment and shall also be liable to fine.\n\n(2) Whoever,\u2014\n(a) being a police officer, commits rape\u2014\n(i) within the limits of the police station to which such police officer is appointed; or\n(ii) in the premises of any police station; or\n(iii) on a woman in such police officer\u2019s custody or in the custody of a police officer subordinate to such police officer; or\n(b) being a public servant, commits rape on a woman in such public servant\u2019s custody or in the custody of a public servant subordinate to such public servant; or\n(c) being on the management or staff of a jail, remand home or other place of custody established by or under any law for the time being in force or of a women\u2019s or children\u2019s institution, commits rape on any inmate of such jail, remand home, place or institution; or\n(d) being on the management or staff of a hospital, commits rape on a woman in that hospital; or\n(e) commits rape on a woman knowing her to be pregnant; or\n(f) commits rape on a woman when she is under twelve years of age; or\n(g) commits rape on a woman when she is under sixteen years of age; or\n(h) commits rape on a woman with intent to induce her to be criminally intimidated, or to satisfy any lust or unnatural or depraved desires, or when the woman is incapable of understanding the nature and consequences of the act to which she is being subjected, or when the woman is incapable of giving consent due to unsoundness of mind or intoxication or the administration by him personally or through another of any stupefying or unwholesome substance, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to life imprisonment and shall also be liable to fine.\n\n(3) Nothing in this section shall apply to any case falling under sub-section (2) where the persons on whom the rape is committed are under the age of eighteen years and are related to the perpetrator of the offence by blood, marriage or adoption, and such perpetrator is a member of the family of the person on whom the rape is committed.\"\n\nSource: The Indian Penal Code, 1860 (Act No. 45 of 1860)",
+      "citations": [
+        "the Indian Penal Code Section 376"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 2.034699,
+    "timestamp": "2026-02-22T18:43:46.345862"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "Section 354 of the Indian Penal Code (IPC) covers Assault or criminal force to woman with intent to outrage her modesty. It states that whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine. (Section 354, IPC)",
+      "citations": [
+        "the Indian Penal Code Section 354"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.398798,
+    "timestamp": "2026-02-22T18:43:46.745529"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "The context provided does not mention Section 420 IPC. The sources provided are related to company law and arbitration, but they do not contain any information about the Indian Penal Code (IPC), which is where Section 420 is located. \n\nTherefore, based on the provided context, it is not possible to determine what Section 420 IPC says.",
+      "citations": [
+        "Companies Act 2013 Section Section 179",
+        "Companies Act 2013 Section Section 2",
+        "Arbitration and Conciliation Act 1996 Section Section 8"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Definitions - In this Act, unless the context otherwise requires - (20) 'company' means a company incorporated under this Act or under any previous company law; (85) 'private company' means a company ...",
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "Power to refer parties to arbitration where there is an arbitration agreement - (1) A judicial authority, before which an action is brought in a matter which is the subject of an arbitration agreement..."
+      ]
+    },
+    "elapsed_time": 0.612556,
+    "timestamp": "2026-02-22T18:43:47.361672"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "The provided context does not mention Section 302 IPC. The context appears to be related to the Companies Act, discussing definitions of companies, powers of the Board of Directors, and agreements in restraint of legal proceedings. \n\nSection 302 IPC is actually a part of the Indian Penal Code, which deals with punishment for murder. Since it is not mentioned in the provided context, I couldn't find any relevant information to explain it. \n\nIf you need information on Section 302 IPC, I would require a different context or source that specifically deals with the Indian Penal Code.",
+      "citations": [
+        "Companies Act 2013 Section Section 179",
+        "Companies Act 2013 Section Section 2",
+        "IPC is actually a part of the Indian Penal Code Section 302",
+        "Indian Contract Act 1872 Section Section 28"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Definitions - In this Act, unless the context otherwise requires - (20) 'company' means a company incorporated under this Act or under any previous company law; (85) 'private company' means a company ...",
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "Agreements in restraint of legal proceedings void - Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual leg..."
+      ]
+    },
+    "elapsed_time": 0.622349,
+    "timestamp": "2026-02-22T18:43:47.984862"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "The context provided does not mention Section 498A IPC. The context appears to be related to the Companies Act, discussing definitions of companies, powers of the Board of Directors, and disclosure of interest by directors. Section 498A IPC is actually related to the Indian Penal Code, specifically dealing with husband or relative of husband of a woman subjecting her to cruelty. Since it is not mentioned in the provided context, I couldn't find any relevant information about Section 498A IPC in the given sources.",
+      "citations": [
+        "Companies Act 2013 Section Section 179",
+        "IPC is actually related to the Indian Penal Code Section 498A",
+        "Companies Act 2013 Section Section 2",
+        "Companies Act 2013 Section Section 184"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Definitions - In this Act, unless the context otherwise requires - (20) 'company' means a company incorporated under this Act or under any previous company law; (85) 'private company' means a company ...",
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "Disclosure of interest by director - (1) Every director of a company who is in any way, whether directly or indirectly, concerned or interested in a contract or arrangement or proposed contract or arr..."
+      ]
+    },
+    "elapsed_time": 0.557125,
+    "timestamp": "2026-02-22T18:43:48.542751"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "The provided context does not mention Section 376 IPC. The context appears to be related to the Companies Act, 2013, and does not contain any information about the Indian Penal Code (IPC), which is where Section 376 is located. Section 376 IPC pertains to punishment for rape, but it is not mentioned or relevant to the given context.",
+      "citations": [
+        "Companies Act 2013 Section Section 179",
+        "Indian Contract Act 1872 Section Section 10",
+        "Companies Act 2013 Section Section 184"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "Disclosure of interest by director - (1) Every director of a company who is in any way, whether directly or indirectly, concerned or interested in a contract or arrangement or proposed contract or arr...",
+        "What agreements are contracts - All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not her..."
+      ]
+    },
+    "elapsed_time": 0.466263,
+    "timestamp": "2026-02-22T18:43:49.009753"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "The context provided does not mention Section 354 IPC. The sources provided are related to company law, specifically the definitions of companies, powers of the Board of Directors, and disclosure of interest by directors. There is no mention of the Indian Penal Code (IPC) or Section 354 IPC, which relates to assault or criminal force to woman with intent to outrage her modesty. \n\nTherefore, based on the provided context, it is not possible to determine what Section 354 IPC covers.",
+      "citations": [
+        "Companies Act 2013 Section Section 179",
+        "Companies Act 2013 Section Section 2",
+        "Companies Act 2013 Section Section 184"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Definitions - In this Act, unless the context otherwise requires - (20) 'company' means a company incorporated under this Act or under any previous company law; (85) 'private company' means a company ...",
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "Disclosure of interest by director - (1) Every director of a company who is in any way, whether directly or indirectly, concerned or interested in a contract or arrangement or proposed contract or arr..."
+      ]
+    },
+    "elapsed_time": 0.711138,
+    "timestamp": "2026-02-22T18:43:49.721496"
+  }
+]

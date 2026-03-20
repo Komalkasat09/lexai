@@ -1,0 +1,59 @@
+{
+  "n": 20,
+  "forced_abstentions": 1,
+  "abstain_abstentions": 1,
+  "FORCED_AP": {
+    "abstention_precision": 0.0,
+    "abstention_recall": 0.0,
+    "f1_abstention": 0.0,
+    "abstention_rate": 0.0,
+    "TP": 0,
+    "FP": 0,
+    "FN": 0,
+    "TN": 20,
+    "total_queries": 20
+  },
+  "ABSTAIN_AP": {
+    "abstention_precision": 0.0,
+    "abstention_recall": 0.0,
+    "f1_abstention": 0.0,
+    "abstention_rate": 0.05,
+    "TP": 0,
+    "FP": 1,
+    "FN": 0,
+    "TN": 19,
+    "total_queries": 20
+  },
+  "FORCED_CCS": {
+    "accuracy_at_high": 100.0,
+    "count_high": 18,
+    "accuracy_at_medium": 100.0,
+    "count_medium": 1,
+    "accuracy_at_low": 100.0,
+    "count_low": 1,
+    "calibration_error": 0.12874999999999998,
+    "is_well_calibrated": true
+  },
+  "ABSTAIN_CCS": {
+    "accuracy_at_high": 100.0,
+    "count_high": 18,
+    "accuracy_at_medium": 100.0,
+    "count_medium": 1,
+    "accuracy_at_low": 0.0,
+    "count_low": 1,
+    "calibration_error": 0.12874999999999998,
+    "is_well_calibrated": true
+  },
+  "FORCED_HR": {
+    "HR_overall": 14.423076923076922,
+    "HR_inline": 14.142857142857142,
+    "total_claims": 104,
+    "hallucinated_claims": 15
+  },
+  "ABSTAIN_HR": {
+    "HR_overall": 12.62135922330097,
+    "HR_inline": 12.511904761904763,
+    "total_claims": 103,
+    "hallucinated_claims": 13
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-02-22T17:22:33.748454",
+  "dashboard_overview": {
+    "today": {
+      "queries": 4,
+      "sessions": 1
+    },
+    "this_week": {
+      "queries": 4,
+      "avg_response_time_ms": 1234.0
+    },
+    "all_time": {
+      "total_queries": 4,
+      "total_sessions": 1
+    },
+    "user_satisfaction": {
+      "avg_rating": 5.0,
+      "total_feedback": 2
+    },
+    "confidence_distribution": {
+      "HIGH": {
+        "count": 4,
+        "percentage": 100.0
+      }
+    },
+    "query_type_distribution": {
+      "general_question": {
+        "count": 4,
+        "percentage": 100.0
+      }
+    }
+  },
+  "query_patterns": {
+    "total_queries_analyzed": 4,
+    "top_sections": {},
+    "top_acts": {
+      "IPC": 4
+    },
+    "avg_query_length_words": 9.0,
+    "peak_hours": [
+      {
+        "hour": 17,
+        "count": 4
+      }
+    ],
+    "analysis_period_days": 30
+  },
+  "source_effectiveness": {
+    "source_count_effectiveness": [
+      {
+        "source_range": "3-5",
+        "avg_confidence_score": 3.0,
+        "sample_size": 4
+      }
+    ],
+    "source_type_by_confidence": [
+      {
+        "confidence": "HIGH",
+        "avg_bare_acts": 0,
+        "avg_case_laws": 0,
+        "avg_amendments": 0,
+        "sample_size": 4
+      }
+    ]
+  },
+  "improvement_suggestions": []
+}

@@ -1,0 +1,27 @@
+{
+  "figure": "category_breakdown",
+  "output_path": "/Users/komalkasat09/legal-website/backend/evaluation/results/figures/category_breakdown.png",
+  "inputs": [
+    {
+      "source": "LexAI",
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/recomputed_metrics.csv",
+      "row_count": 5,
+      "columns": [
+        "query_id",
+        "query",
+        "category",
+        "system",
+        "car_score",
+        "hallucination_rate",
+        "acs_score",
+        "olr_score",
+        "confidence",
+        "ccs_correctness",
+        "abstained"
+      ],
+      "non_null_by_metric": {
+        "car_score": 5
+      }
+    }
+  ]
+}

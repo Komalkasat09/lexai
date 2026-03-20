@@ -1,0 +1,604 @@
+{
+  "run_timestamp": "20260222_201019",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "evaluation/ground_truth_test_5.xlsx",
+    "run_timestamp": "20260222_201019",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "ground_truth_size": 5,
+  "all_metrics": {
+    "LexAI": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 0.0,
+        "HR_citation": 0,
+        "HR_section": 0,
+        "HR_case": 0,
+        "total_claims": 0,
+        "hallucinated_claims": 0
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 1.0,
+        "abstention_recall": 0.4,
+        "abstention_f1": 0.5714285714285715,
+        "tp": 2,
+        "fp": 0,
+        "fn": 3,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 66.66666666666666,
+        "ACS_by_category": {
+          "Section Lookup": 66.66666666666666
+        },
+        "individual_scores": [
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0.0,
+        "P@3": 0.0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 100.0,
+        "count_medium": 3,
+        "accuracy_at_low": 100.0,
+        "count_low": 2,
+        "calibration_error": 0.365,
+        "is_well_calibrated": "False"
+      }
+    },
+    "NoRAG": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 33.333333333333336,
+        "HR_citation": 0.0,
+        "HR_section": 100.0,
+        "HR_case": 0,
+        "total_claims": 2,
+        "hallucinated_claims": 1
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 1.0,
+        "abstention_recall": 0.8,
+        "abstention_f1": 0.888888888888889,
+        "tp": 4,
+        "fp": 0,
+        "fn": 1,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 73.33333333333333,
+        "ACS_by_category": {
+          "Section Lookup": 73.33333333333333
+        },
+        "individual_scores": [
+          100.0,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 100.0,
+        "count_medium": 1,
+        "accuracy_at_low": 100.0,
+        "count_low": 4,
+        "calibration_error": 0.455,
+        "is_well_calibrated": "False"
+      }
+    },
+    "SimpleRAG": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 0.0,
+        "HR_citation": 0,
+        "HR_section": 0,
+        "HR_case": 0,
+        "total_claims": 0,
+        "hallucinated_claims": 0
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 1.0,
+        "abstention_recall": 1.0,
+        "abstention_f1": 1.0,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 66.66666666666666,
+        "ACS_by_category": {
+          "Section Lookup": 66.66666666666666
+        },
+        "individual_scores": [
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 0,
+        "count_medium": 0,
+        "accuracy_at_low": 100.0,
+        "count_low": 5,
+        "calibration_error": 0.5,
+        "is_well_calibrated": "False"
+      }
+    }
+  },
+  "statistical_tests": {
+    "significance_tests": {
+      "NoRAG": {
+        "baseline": "NoRAG",
+        "comparisons": {
+          "CAR": {
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant": "False",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": 0.0
+          },
+          "ACS": {
+            "t_statistic": -1.0,
+            "p_value": 0.37390096630005887,
+            "significant": "False",
+            "cohens_d": -0.7071067811865479,
+            "effect_size_interpretation": "medium",
+            "mean_difference": -6.666666666666671
+          }
+        }
+      },
+      "SimpleRAG": {
+        "baseline": "SimpleRAG",
+        "comparisons": {
+          "CAR": {
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant": "False",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": 0.0
+          },
+          "ACS": {
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant": "False",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": 0.0
+          }
+        }
+      }
+    },
+    "confidence_intervals": {
+      "lexai": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 66.66666666666666,
+          "ci_lower": 66.66666666666666,
+          "ci_upper": 66.66666666666666,
+          "ci_width": 0.0
+        }
+      },
+      "NoRAG": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 73.33333333333333,
+          "ci_lower": 66.66666666666666,
+          "ci_upper": 86.66666666666666,
+          "ci_width": 20.0
+        }
+      },
+      "SimpleRAG": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 66.66666666666666,
+          "ci_lower": 66.66666666666666,
+          "ci_upper": 66.66666666666666,
+          "ci_width": 0.0
+        }
+      }
+    },
+    "category_analysis": {
+      "lexai": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 66.66666666666666,
+            "std": 0.0,
+            "n": 5
+          }
+        }
+      },
+      "NoRAG": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 73.33333333333333,
+            "std": 13.333333333333336,
+            "n": 5
+          }
+        }
+      },
+      "SimpleRAG": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 66.66666666666666,
+            "std": 0.0,
+            "n": 5
+          }
+        }
+      }
+    },
+    "threshold_sensitivity": {
+      "threshold_0.60": {
+        "abstention_rate": 40.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 3,
+        "queries_abstained": 2
+      },
+      "threshold_0.65": {
+        "abstention_rate": 40.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 3,
+        "queries_abstained": 2
+      },
+      "threshold_0.70": {
+        "abstention_rate": 40.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 3,
+        "queries_abstained": 2
+      },
+      "threshold_0.75": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.80": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.85": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.90": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      }
+    },
+    "inter_rater_reliability": {}
+  },
+  "error_analysis": {
+    "failure_categories": {
+      "total_errors": 2,
+      "distribution": {
+        "database_gap": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "retrieval_failure": {
+          "count": 2,
+          "percentage": 100.0
+        },
+        "llm_hallucination": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "transition_missed": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "overruling_missed": {
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amendment_missed": {
+          "count": 0,
+          "percentage": 0.0
+        }
+      },
+      "examples": {
+        "retrieval_failure": [
+          {
+            "query_id": "Q002",
+            "query": "Explain Section 302 IPC",
+            "category": "Section Lookup",
+            "response": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+            "ground_truth": "nan"
+          },
+          {
+            "query_id": "Q004",
+            "query": "Show me Section 376 IPC",
+            "category": "Section Lookup",
+            "response": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+            "ground_truth": "nan"
+          }
+        ]
+      }
+    },
+    "confusion_matrix": {
+      "matrix": {
+        "low": {
+          "correct": 0,
+          "incorrect": 2
+        },
+        "medium": {
+          "correct": 0,
+          "incorrect": 3
+        },
+        "high": {
+          "correct": 0,
+          "incorrect": 0
+        }
+      },
+      "accuracy_by_confidence": {
+        "low": {
+          "accuracy": 0.0,
+          "total_predictions": 2
+        },
+        "medium": {
+          "accuracy": 0.0,
+          "total_predictions": 3
+        },
+        "high": {
+          "accuracy": 0.0,
+          "total_predictions": 0
+        }
+      }
+    },
+    "difficulty_correlation": {
+      "by_difficulty": {
+        "medium": {
+          "accuracy": 0.0,
+          "n_queries": 5,
+          "std": 0.0
+        }
+      },
+      "correlation": NaN,
+      "correlation_interpretation": "positive"
+    },
+    "bns_analysis": {
+      "total_bns_queries": 0,
+      "transition_detected": 0,
+      "transition_missed": 0,
+      "false_positives": 0,
+      "examples": [],
+      "detection_rate": 0.0
+    },
+    "examples": {
+      "best_examples": [
+        {
+          "query": "What does Section 420 IPC say?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 631. Please try again in 8m31.488s. Need more",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "What is Section 498A IPC?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 517. Please try again in 6m52.992s. Need more",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "What does Section 354 IPC cover?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 576. Please try again in 7m43.967999999s. Nee",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "Explain Section 302 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+          "confidence": "LOW",
+          "score": 0.25
+        },
+        {
+          "query": "Show me Section 376 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+          "confidence": "LOW",
+          "score": 0.25
+        }
+      ],
+      "worst_examples": [
+        {
+          "query": "What does Section 420 IPC say?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 631. Please try again in 8m31.488s. Need more",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "What is Section 498A IPC?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 517. Please try again in 6m52.992s. Need more",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "What does Section 354 IPC cover?",
+          "category": "Section Lookup",
+          "answer": "Error calling Groq API: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99961, Requested 576. Please try again in 7m43.967999999s. Nee",
+          "confidence": "MEDIUM",
+          "score": 0.35
+        },
+        {
+          "query": "Explain Section 302 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+          "confidence": "LOW",
+          "score": 0.25
+        },
+        {
+          "query": "Show me Section 376 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+          "confidence": "LOW",
+          "score": 0.25
+        }
+      ],
+      "interesting_cases": []
+    }
+  },
+  "output_files": {
+    "table1": "\\begin{table}[ht]\n\\centering\n\\caption{Performance comparison across all systems}\n\\label{tab:main_results}\n\\begin{tabular}{lccc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{NoRAG} & \\textbf{SimpleRAG} \\\\\n\\midrule\nCAR & \\textbf{100.0} & 100.0* & 100.0* \\\\\nHR & \\textbf{0.0} & 33.3* & 0.0* \\\\\nOLR & \\textbf{0.0} & 0.0* & 0.0* \\\\\nAP & \\textbf{1.0} & 1.0* & 1.0* \\\\\nAR & 0.4 & 0.8* & \\textbf{1.0}* \\\\\nF1 & 0.6 & 0.9* & \\textbf{1.0}* \\\\\nACS & 66.7 & \\textbf{73.3}* & 66.7* \\\\\nP@1 & N/A & N/A & N/A \\\\\nP@3 & N/A & N/A & N/A \\\\\nCCS & \\textbf{0.365} & 0.455* & 0.500* \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table2": "\\begin{table}[ht]\n\\centering\n\\caption{Performance breakdown by query category}\n\\label{tab:category_performance}\n\\begin{tabular}{lcccc}\n\\toprule\n\\textbf{Category} & \\textbf{LexAI CAR} & \\textbf{LexAI ACS} & \\textbf{Baseline CAR} & \\textbf{Baseline ACS} \\\\\n\\midrule\nSection Lookup & 1.0 & 66.7 & 0.0 & 0.0 \\\\\nPunishment Query & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nAmendment Tracking & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nIPC to BNS Transition & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nCase Law Search & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nOverruled Cases & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nComplex Interpretation & 0.0 & 0.0 & 0.0 & 0.0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table4": "\\begin{table}[ht]\n\\centering\n\\caption{BNS transition detection performance}\n\\label{tab:bns_transitions}\n\\begin{tabular}{lcc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{SimpleRAG} \\\\\n\\midrule\nDetection Rate (\\%) & 0.0 & 0.0 \\\\\nTransitions Missed & 0 & 0 \\\\\nFalse Positives & 2 & 0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "figure1": "evaluation/results_final_test/figure1_hallucination.png",
+    "figure2": "evaluation/results_final_test/figure2_calibration.png",
+    "figure3": "evaluation/results_final_test/figure3_threshold_sensitivity.png",
+    "figure4": "evaluation/results_final_test/figure4_error_distribution.png",
+    "figure5": "evaluation/results_final_test/figure5_bns_handling.png"
+  }
+}

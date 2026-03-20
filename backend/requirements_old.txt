@@ -1,0 +1,26 @@
+# FastAPI and server dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Document processing
+PyMuPDF
+python-docx
+
+# LLM and RAG
+groq
+chromadb
+sentence-transformers
+
+# Data collection
+datasets
+playwright
+beautifulsoup4
+apscheduler
+requests
+sqlalchemy
+
+# Utilities
+python-dotenv
+pydantic
+tiktoken

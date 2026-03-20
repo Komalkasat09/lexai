@@ -1,0 +1,22 @@
+============================================================
+CONFIDENCE THRESHOLD ABLATION STUDY
+============================================================
+
+Selecting validation subset...
+  WARNING: Only 0 holdout queries available.
+  Using all available holdout queries for validation.
+Traceback (most recent call last):
+  File "/Users/komalkasat09/Desktop/legal-website/backend/evaluation/threshold_ablation.py", line 545, in <module>
+    optimal, all_results = run_full_threshold_ablation()
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/komalkasat09/Desktop/legal-website/backend/evaluation/threshold_ablation.py", line 408, in run_full_threshold_ablation
+    validation_df = select_validation_subset(
+        ground_truth_path='evaluation/ground_truth_verified.xlsx',
+        main_eval_query_ids=main_query_ids,
+        n_per_category=7
+    )
+  File "/Users/komalkasat09/Desktop/legal-website/backend/evaluation/threshold_ablation.py", line 72, in select_validation_subset
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: No holdout queries available. All verified queries are in main evaluation set.

@@ -1,0 +1,133 @@
+[
+  {
+    "system": "NoRAG",
+    "query": "What is Section 420 IPC?",
+    "response": {
+      "answer": "Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. It states that whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or to give any person any property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\nSection 420 IPC reads as follows:\n\"Cheating and dishonestly inducing delivery of property. \u2014 Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or to give any person any property, or anything signed or sealed which is capable of being converted into a valuable security, with the intention of causing it to be delivered to any person, or of causing the person to whom it is delivered to part with any property, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\"",
+      "citations": [
+        "the Indian Penal Code Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.940895,
+    "timestamp": "2026-02-22T18:25:50.152824"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What is Section 420 IPC?",
+    "response": {
+      "answer": "The context provided does not mention Section 420 IPC. The sources provided are related to company law and contract law, but they do not contain any information about the Indian Penal Code (IPC), which is where Section 420 is located. \n\nSection 420 IPC is actually related to cheating and dishonestly inducing delivery of property, but this information is not present in the provided context. The context only discusses definitions related to companies, powers of the Board of Directors, and what constitutes a contract. \n\nTherefore, based on the provided context, it is not possible to determine what Section 420 IPC is.",
+      "citations": [
+        "Indian Contract Act 1872 Section Section 10",
+        "Companies Act 2013 Section Section 2",
+        "Companies Act 2013 Section Section 179",
+        "IPC is act Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Definitions - In this Act, unless the context otherwise requires - (20) 'company' means a company incorporated under this Act or under any previous company law; (85) 'private company' means a company ...",
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "What agreements are contracts - All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not her..."
+      ]
+    },
+    "elapsed_time": 0.709672,
+    "timestamp": "2026-02-22T18:25:50.862584"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What is the punishment for murder under IPC?",
+    "response": {
+      "answer": "Under the Indian Penal Code (IPC), the punishment for murder is prescribed in Section 302. According to Section 302, whoever commits murder shall be punished with death or imprisonment for life, and also be liable to fine. (IPC, 1860, Section 302)",
+      "citations": [],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.243236,
+    "timestamp": "2026-02-22T18:25:51.105973"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What is the punishment for murder under IPC?",
+    "response": {
+      "answer": "The context provided does not mention the punishment for murder under the Indian Penal Code (IPC). The sources provided are related to contract law, specifically dealing with compensation for breach of contract and agreements in restraint of legal proceedings. \n\nTherefore, based on the given context, it is not possible to provide an answer to the question regarding the punishment for murder under IPC, as there is no relevant information available in the provided sources.",
+      "citations": [
+        "Indian Contract Act 1872 Section Section 28",
+        "Indian Contract Act 1872 Section Section 74",
+        "Indian Contract Act 1872 Section Section 73"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Compensation for breach of contract where penalty stipulated for - When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contrac...",
+        "Compensation for loss or damage caused by breach of contract - When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract,...",
+        "Agreements in restraint of legal proceedings void - Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual leg..."
+      ]
+    },
+    "elapsed_time": 0.414467,
+    "timestamp": "2026-02-22T18:25:51.520532"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Has Section 377 IPC been struck down?",
+    "response": {
+      "answer": "Yes, Section 377 of the Indian Penal Code (IPC) has been partially struck down. \n\nIn the landmark case of Navtej Singh Johar vs. Union of India (2018) 1 SCC 791, the Supreme Court of India decriminalized consensual homosexual acts between adults in private, by reading down Section 377 IPC. The Court held that Section 377 IPC, to the extent it criminalizes consensual sexual acts between adults in private, is unconstitutional and violates the fundamental rights of individuals under Articles 14, 15, 19, and 21 of the Constitution of India.\n\nHowever, the provision still applies to non-consensual acts, acts involving minors, and acts committed in public.",
+      "citations": [
+        "the Indian Penal Code Section 377"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.571923,
+    "timestamp": "2026-02-22T18:25:52.092518"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Has Section 377 IPC been struck down?",
+    "response": {
+      "answer": "The context provided does not mention Section 377 IPC. The sources provided relate to company law and contract law, and do not discuss the Indian Penal Code (IPC) or Section 377 specifically. \n\nHowever, based on general knowledge, Section 377 IPC was struck down by the Supreme Court of India in the case of Navtej Singh Johar vs. Union of India (2018), which decriminalized consensual homosexual acts between adults. But this information is not present in the provided context.",
+      "citations": [
+        "Indian Contract Act 1872 Section Section 28",
+        "Companies Act 2013 Section Section 179",
+        "Indian Contract Act 1872 Section Section 10"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Powers of Board - (1) The Board of Directors of a company shall be entitled to exercise all such powers, and to do all such acts and things, as the company is authorised to exercise and do: Provided t...",
+        "What agreements are contracts - All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not her...",
+        "Agreements in restraint of legal proceedings void - Every agreement, by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual leg..."
+      ]
+    },
+    "elapsed_time": 0.611654,
+    "timestamp": "2026-02-22T18:25:52.704254"
+  }
+]

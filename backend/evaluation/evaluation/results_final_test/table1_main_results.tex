@@ -1,0 +1,21 @@
+\begin{table}[ht]
+\centering
+\caption{Performance comparison across all systems}
+\label{tab:main_results}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Metric} & \textbf{LexAI} & \textbf{NoRAG} & \textbf{SimpleRAG} \\
+\midrule
+CAR & \textbf{100.0} & 100.0* & 100.0* \\
+HR & \textbf{0.0} & 33.3* & 0.0* \\
+OLR & \textbf{0.0} & 0.0* & 0.0* \\
+AP & \textbf{1.0} & 1.0* & 1.0* \\
+AR & 0.4 & 0.8* & \textbf{1.0}* \\
+F1 & 0.6 & 0.9* & \textbf{1.0}* \\
+ACS & 66.7 & \textbf{73.3}* & 66.7* \\
+P@1 & N/A & N/A & N/A \\
+P@3 & N/A & N/A & N/A \\
+CCS & \textbf{0.365} & 0.455* & 0.500* \\
+\bottomrule
+\end{tabular}
+\end{table}

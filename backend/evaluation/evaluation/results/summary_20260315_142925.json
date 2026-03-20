@@ -1,0 +1,37 @@
+{
+  "run_timestamp": "20260315_142925",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "evaluation/ground_truth_verified.xlsx",
+    "run_timestamp": "20260315_142925",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "lexai_performance": {
+    "CAR": 100.0,
+    "HR": 0,
+    "OLR": 12.5,
+    "ACS": 58.50078498293514
+  },
+  "output_files": {
+    "metrics_summary": "results/comparison_results/system_comparison.csv",
+    "note": "Run python results_dashboard.py for publication figures"
+  }
+}

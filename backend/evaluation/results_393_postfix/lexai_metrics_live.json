@@ -1,0 +1,17 @@
+{
+  "CAR": 95.54707379134861,
+  "HR": 1.0025062656641603,
+  "OLR": 32.56704980842912,
+  "ACS": 72.53776081424935,
+  "total_claims": 1197,
+  "hallucinated_count": 12,
+  "hr_keys_present": [
+    "HR_case",
+    "HR_citation",
+    "HR_inline",
+    "HR_overall",
+    "hallucinated_claims",
+    "individual_results",
+    "total_claims"
+  ]
+}

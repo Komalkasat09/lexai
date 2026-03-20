@@ -1,0 +1,65 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+backend/#/
+backend/or/
+backend/python3.10/
+
+# Env files
+.env
+.env.local
+
+# Databases / vector stores
+chroma_db/
+chromadb/
+vectorstore/
+legal_research_db/
+backend/legal_research_db/
+*.db
+*.sqlite3
+*.pickle
+*.bin
+
+# Data / backups / uploads
+data/
+backup/
+uploads/
+downloads/
+temp/
+tmp/
+test_data/
+
+# Large generated artifacts
+*.pdf
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.safetensors
+*.pt
+*.onnx
+*.pkl
+*.joblib
+
+# Node
+frontend/node_modules/

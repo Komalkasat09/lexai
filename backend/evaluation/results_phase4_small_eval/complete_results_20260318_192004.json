@@ -1,0 +1,599 @@
+{
+  "run_timestamp": "20260318_192004",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "/Users/komalkasat09/legal-website/backend/evaluation/ground_truth_verified_393_ready.xlsx",
+    "run_timestamp": "20260318_192004",
+    "eval_regime": "forced-answer",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "ground_truth_size": 5,
+  "all_metrics": {
+    "LexAI": {
+      "CAR": {
+        "CAR_retrieved_overall": 100.0,
+        "CAR_retrieved_by_category": {
+          "Section Lookup": 100.0
+        },
+        "CAR_generated_overall": 90.0,
+        "CAR_generated_by_category": {
+          "Section Lookup": 90.0
+        },
+        "CAR_overall": 95.0,
+        "individual_scores_retrieved": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "individual_scores_generated": [
+          1.0,
+          1.0,
+          0.5,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 10.0,
+        "HR_citation": 0.0,
+        "HR_case": 0.0,
+        "HR_inline": 10.0,
+        "total_claims": 30,
+        "hallucinated_claims": 3,
+        "individual_results": [
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.16666666666666666,
+            "hallucination_rate": 0.16666666666666666,
+            "hallucinated_items": [
+              {
+                "section": "509",
+                "context": " v. rajesh kumar air 2019 sc 1234\n- what does ipc section 509 deal with? viber_099c645792eb",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 6,
+            "hallucinated_count": 1
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.3333333333333333,
+            "hallucination_rate": 0.3333333333333333,
+            "hallucinated_items": [
+              {
+                "section": "354",
+                "context": "relate to other sections of the ipc, specifically section 354a, and do not provide any insight into the interpr",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "354",
+                "context": "ction 103\n- what are the essential ingredients of section 354a ipc? viber_f24498c9fec9\n- which is the important",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 6,
+            "hallucinated_count": 2
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 7,
+            "hallucinated_count": 0
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 5,
+            "hallucinated_count": 0
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 6,
+            "hallucinated_count": 0
+          }
+        ]
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_response_level": 0.0,
+        "OLR_ipc_bns": 0.0,
+        "OLR_crpc_bnss": 0.0,
+        "OLR_evidence_bsa": 0.0,
+        "applicable_cases": {
+          "ipc_cited": 5,
+          "crpc_cited": 0,
+          "evidence_cited": 0,
+          "total": 5
+        },
+        "violations": {
+          "ipc": 0,
+          "crpc": 0,
+          "evidence": 0,
+          "total": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 0.0,
+        "abstention_recall": 0.0,
+        "f1_abstention": 0.0,
+        "abstention_rate": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "FN": 0,
+        "TN": 5,
+        "total_queries": 5
+      },
+      "ACS": {
+        "ACS_overall": 86.244,
+        "ACS_by_category": {
+          "Section Lookup": 86.244
+        },
+        "individual_scores": [
+          87.98,
+          83.15,
+          90.15,
+          86.08,
+          83.86
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0.0,
+        "P@3": 0.0
+      },
+      "CCS": {
+        "accuracy_at_high": 100.0,
+        "count_high": 5,
+        "accuracy_at_medium": 0,
+        "count_medium": 0,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.09999999999999998,
+        "is_well_calibrated": true
+      }
+    },
+    "NoRAG": {
+      "CAR": {
+        "CAR_retrieved_overall": 100.0,
+        "CAR_retrieved_by_category": {
+          "Section Lookup": 100.0
+        },
+        "CAR_generated_overall": 90.0,
+        "CAR_generated_by_category": {
+          "Section Lookup": 90.0
+        },
+        "CAR_overall": 95.0,
+        "individual_scores_retrieved": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "individual_scores_generated": [
+          1.0,
+          1.0,
+          0.5,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 300.0,
+        "HR_citation": 100.0,
+        "HR_case": 0.0,
+        "HR_inline": 190.0,
+        "total_claims": 6,
+        "hallucinated_claims": 18,
+        "individual_results": [
+          {
+            "hr_citation": 1.0,
+            "hr_case": 0.0,
+            "hr_inline": 2.0,
+            "hallucination_rate": 3.0,
+            "hallucinated_items": [
+              {
+                "act": "the Indian Penal Code Section 420",
+                "section": "Section 420",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "section": "420",
+                "context": "section 420 of the indian penal code (ipc) deals with cheatin",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "420",
+                "context": "even years, and shall also be liable to fine.\"\n\n- section 420, indian penal code, 1860.",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 1,
+            "hallucinated_count": 3
+          },
+          {
+            "hr_citation": 1.0,
+            "hr_case": 0.0,
+            "hr_inline": 2.5,
+            "hallucination_rate": 3.5,
+            "hallucinated_items": [
+              {
+                "act": "the Indian Penal Code Section 302",
+                "section": "Section 302",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "act": "IPC explains the act Section 299",
+                "section": "Section 299",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "section": "302",
+                "context": "section 302 of the indian penal code (ipc) pertains to punish",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "299",
+                "context": "hment for the offense of murder, as defined under section 299 and explained under section 300 of the ipc. the p",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "300",
+                "context": " as defined under section 299 and explained under section 300 of the ipc. the punishment can be either death or",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "300",
+                "context": " death or life imprisonment, along with a fine. \n\nsection 300 ipc defines murder, and section 299 ipc explains ",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "299",
+                "context": "ith a fine. \n\nsection 300 ipc defines murder, and section 299 ipc explains the act of culpable homicide. \n\nit's",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 2,
+            "hallucinated_count": 7
+          },
+          {
+            "hr_citation": 1.0,
+            "hr_case": 0.0,
+            "hr_inline": 2.0,
+            "hallucination_rate": 3.0,
+            "hallucinated_items": [
+              {
+                "act": "the Indian Penal Code Section 498A",
+                "section": "Section 498A",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "section": "498",
+                "context": "section 498a of the indian penal code (ipc) deals with \"husba",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "498",
+                "context": "n related to her to meet such demand.\n\n citation: section 498a, indian penal code, 1860.",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 1,
+            "hallucinated_count": 3
+          },
+          {
+            "hr_citation": 1.0,
+            "hr_case": 0.0,
+            "hr_inline": 1.0,
+            "hallucination_rate": 2.0,
+            "hallucinated_items": [
+              {
+                "act": "the Indian Penal Code Section 376",
+                "section": "Section 376",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "section": "376",
+                "context": "section 376 of the indian penal code (ipc) deals with punishm",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 1,
+            "hallucinated_count": 2
+          },
+          {
+            "hr_citation": 1.0,
+            "hr_case": 0.0,
+            "hr_inline": 2.0,
+            "hallucination_rate": 3.0,
+            "hallucinated_items": [
+              {
+                "act": "the Indian Penal Code Section 354",
+                "section": "Section 354",
+                "type": "bare_act_not_in_db"
+              },
+              {
+                "section": "354",
+                "context": "section 354 of the indian penal code (ipc) covers assault or ",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "354",
+                "context": "to five years, and shall also be liable to fine. (section 354, ipc)",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 1,
+            "hallucinated_count": 3
+          }
+        ]
+      },
+      "OLR": {
+        "OLR_overall": 100.0,
+        "OLR_response_level": 100.0,
+        "OLR_ipc_bns": 100.0,
+        "OLR_crpc_bnss": 0.0,
+        "OLR_evidence_bsa": 0.0,
+        "applicable_cases": {
+          "ipc_cited": 5,
+          "crpc_cited": 0,
+          "evidence_cited": 0,
+          "total": 5
+        },
+        "violations": {
+          "ipc": 5,
+          "crpc": 0,
+          "evidence": 0,
+          "total": 5
+        }
+      },
+      "AP": {
+        "abstention_precision": 0.0,
+        "abstention_recall": 0.0,
+        "f1_abstention": 0.0,
+        "abstention_rate": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "FN": 0,
+        "TN": 5,
+        "total_queries": 5
+      },
+      "ACS": {
+        "ACS_overall": 81.99199999999999,
+        "ACS_by_category": {
+          "Section Lookup": 81.99199999999999
+        },
+        "individual_scores": [
+          83.1,
+          81.99,
+          81.44,
+          81.25,
+          82.18
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 100.0,
+        "count_high": 1,
+        "accuracy_at_medium": 100.0,
+        "count_medium": 4,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.24000000000000002,
+        "is_well_calibrated": false
+      }
+    },
+    "SimpleRAG": {
+      "CAR": {
+        "CAR_retrieved_overall": 20.0,
+        "CAR_retrieved_by_category": {
+          "Section Lookup": 20.0
+        },
+        "CAR_generated_overall": 90.0,
+        "CAR_generated_by_category": {
+          "Section Lookup": 90.0
+        },
+        "CAR_overall": 55.0,
+        "individual_scores_retrieved": [
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "individual_scores_generated": [
+          1.0,
+          1.0,
+          0.5,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 300.0,
+        "HR_citation": 0.0,
+        "HR_case": 0.0,
+        "HR_inline": 60.0,
+        "total_claims": 1,
+        "hallucinated_claims": 3,
+        "individual_results": [
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 0,
+            "hallucinated_count": 0
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 3.0,
+            "hallucination_rate": 3.0,
+            "hallucinated_items": [
+              {
+                "section": "302",
+                "context": "the context provided does not mention section 302 ipc. the information given only pertains to secti",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "302",
+                "context": "n, respectively. \n\nto provide an accurate answer, section 302 ipc actually pertains to punishment for murder, a",
+                "type": "unsupported_inline_reference"
+              },
+              {
+                "section": "302",
+                "context": " the given context, there is no information about section 302 ipc. if you need information on sections 354b, 35",
+                "type": "unsupported_inline_reference"
+              }
+            ],
+            "total_claims": 1,
+            "hallucinated_count": 3
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 0,
+            "hallucinated_count": 0
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 0,
+            "hallucinated_count": 0
+          },
+          {
+            "hr_citation": 0.0,
+            "hr_case": 0.0,
+            "hr_inline": 0.0,
+            "hallucination_rate": 0.0,
+            "hallucinated_items": [],
+            "total_claims": 0,
+            "hallucinated_count": 0
+          }
+        ]
+      },
+      "OLR": {
+        "OLR_overall": 60.0,
+        "OLR_response_level": 60.0,
+        "OLR_ipc_bns": 60.0,
+        "OLR_crpc_bnss": 0.0,
+        "OLR_evidence_bsa": 0.0,
+        "applicable_cases": {
+          "ipc_cited": 5,
+          "crpc_cited": 0,
+          "evidence_cited": 0,
+          "total": 5
+        },
+        "violations": {
+          "ipc": 3,
+          "crpc": 0,
+          "evidence": 0,
+          "total": 3
+        }
+      },
+      "AP": {
+        "abstention_precision": 0.0,
+        "abstention_recall": 0.0,
+        "f1_abstention": 0.0,
+        "abstention_rate": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "FN": 4,
+        "TN": 1,
+        "total_queries": 5
+      },
+      "ACS": {
+        "ACS_overall": 80.76599999999999,
+        "ACS_by_category": {
+          "Section Lookup": 80.76599999999999
+        },
+        "individual_scores": [
+          82.61,
+          80.52,
+          80.96,
+          80.64,
+          79.1
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0.0,
+        "count_high": 2,
+        "accuracy_at_medium": 33.33333333333333,
+        "count_medium": 3,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.595,
+        "is_well_calibrated": false
+      }
+    }
+  },
+  "statistical_tests": {
+    "note": "small smoke run"
+  },
+  "error_analysis": {
+    "note": "small smoke run"
+  },
+  "output_files": {
+    "note": "small smoke run"
+  },
+  "per_query_metrics": {
+    "directory": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/per_query_metrics",
+    "files": {
+      "LexAI": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/per_query_metrics/lexai_per_query_metrics.csv",
+      "NoRAG": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/per_query_metrics/norag_per_query_metrics.csv",
+      "SimpleRAG": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/per_query_metrics/simplerag_per_query_metrics.csv"
+    },
+    "row_counts": {
+      "LexAI": 5,
+      "NoRAG": 5,
+      "SimpleRAG": 5
+    },
+    "manifest": "/Users/komalkasat09/legal-website/backend/evaluation/results_phase4_small_eval/per_query_metrics/manifest.json"
+  }
+}

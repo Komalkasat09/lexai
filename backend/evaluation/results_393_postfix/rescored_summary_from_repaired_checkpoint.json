@@ -1,0 +1,27 @@
+{
+  "source": "rescored_from_results_393_repaired_checkpoints",
+  "note": "Responses are from prior run; metrics recomputed with patched evaluator.",
+  "systems": {
+    "LexAI": {
+      "CAR": 82.824,
+      "HR": 0.871,
+      "OLR": 22.34,
+      "ACS": 67.76,
+      "total_claims": 1033
+    },
+    "NoRAG": {
+      "CAR": 83.588,
+      "HR": 98.338,
+      "OLR": 81.897,
+      "ACS": 72.176,
+      "total_claims": 361
+    },
+    "SimpleRAG": {
+      "CAR": 76.845,
+      "HR": 83.983,
+      "OLR": 47.093,
+      "ACS": 71.286,
+      "total_claims": 231
+    }
+  }
+}

@@ -1,0 +1,1440 @@
+[
+  {
+    "query_text": "What is the BNS equivalent of IPC 420?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS equivalent of IPC 420. \nAs there are no sources (Bare Acts: 0, Case Laws: 0, Amendments: 0) provided in the context, I cannot determine the BNS equivalent of IPC 420.\nIPC 420 refers to the Indian Penal Code, Section 420, which deals with cheating and dishonestly inducing delivery of property (The Indian Penal Code, 1860).\nHowever, without further information about the BNS (which is presumed to be a replacement or amendment to the IPC), I cannot provide a reliable answer based on the current database.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question, and I couldn't find any relevant information about the BNS equivalent of IPC 420.\n\nSources:\n- IPC Section 420",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 420",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 420"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has IPC 302 been replaced?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the replacement of IPC 302. \nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database.\n\nHowever, I can suggest that IPC 302, which pertains to punishment for murder, is a crucial section of the Indian Penal Code, 1860. To determine if it has been replaced, one would need to consult the latest amendments to the IPC or relevant case laws.\n\nSince the context is insufficient, I must emphasize that I am unable to provide a definitive answer. \nConfidence Level: LOW\nCaveat: The provided context does not contain sufficient information to answer the question accurately. It is recommended to consult the latest amendments to the IPC or relevant case laws for an accurate answer.\n\nSources:\n- IPC Section 302",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 302",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 302"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What changed in the definition of rape from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information regarding the Indian Penal Code (IPC) or the proposed Bharatiya Nyaya Sanhita (BNS), including any amendments or changes to the definition of rape. \nAs there are no sources cited (Act Section/Case Citation) in the context, I am unable to provide a detailed explanation of the legal reasoning.\n\nPlease note that any information regarding the BNS would be subject to the caveat that it is a proposed replacement for the IPC, and its provisions may not be currently in effect.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is IPC still valid or has BNS replaced it completely?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the replacement of the Indian Penal Code (IPC) with the Bharatiya Nyaya Sanhita (BNS) or any other code. \n\nAs there are no sources provided, I must rely on general knowledge, but I am restricted by the rules to not add any information from my training data. \n\nHowever, I can state that the Indian Penal Code (IPC) is a pre-existing law, and any changes or replacements would require a formal amendment or enactment of a new code. \n\nSince there is no information provided in the context about the BNS replacing the IPC, I cannot provide a reliable answer based on the current database. \n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to determine the current status of the IPC and its potential replacement by the BNS.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 376 called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about IPC 376 or its equivalent in BNS. \nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot determine the equivalent of IPC 376 in BNS.\nAccording to general knowledge, IPC 376 refers to the Indian Penal Code, Section 376, which pertains to punishment for rape. However, without specific information about BNS (which may refer to a replacement or amendment to the IPC), I cannot provide a reliable answer.\nSince there are no BNS/BNSS transition notes, I must rely on the information given, which is insufficient.\nConfidence Level: LOW\nCaveat: The provided context does not contain sufficient information to answer the question accurately. I strongly advise consulting a reliable and up-to-date legal source for information on IPC 376 and its equivalent in BNS, if applicable.\n\nSources:\n- IPC Section 376",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 376",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 376"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the punishment for murder changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the punishment for murder in BNS (Bharat New States) or any changes to it. \nAs there are no sources cited (Act Section/Case Citation) in the context, I must rely on general knowledge, which is not permissible according to the rules.\n\nI must emphasize that the context lacks any relevant information, including Bare Acts, Case Laws, Amendments, or Overruled Cases, which are essential for determining the punishment for murder in BNS.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. I strongly advise consulting relevant and up-to-date legal sources, including the Indian Penal Code (IPC) and the Code of Criminal Procedure (CrPC), to determine the current punishment for murder in India.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 498A?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS equivalent of IPC 498A. \nAs there are no sources (Bare Acts, Case Laws, Amendments) provided, I cannot determine the equivalent section in the BNS.\nAccording to general knowledge, IPC 498A deals with \"Husband or relative of husband of a woman subjecting her to cruelty,\" but without specific information about BNS, I cannot provide a reliable answer.\nI must warn that any information regarding BNS would require specific knowledge about the replacement or transition from IPC to BNS, which is not available in the given context.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer.\n\nSources:\n- IPC Section 498A",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 498A",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 498A"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is theft defined differently in BNS compared to IPC?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of theft in BNS (Bharat Nyaya Sanhita) or IPC (Indian Penal Code). \nAs there are no sources available in the context, I cannot provide a comparison of the definitions of theft in BNS and IPC.\nAccording to general knowledge, the IPC defines theft under Section 378, but without specific information from the context, I cannot confirm if this applies or how it differs from BNS.\nSince there are no BNS/BNSS transition notes or relevant case laws provided, I must rely on external knowledge, which is not allowed as per the critical rules.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. I strongly advise consulting the relevant Bare Acts, Case Laws, or Amendments for accurate information.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 307 called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about IPC 307 or its equivalent in BNS. \nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot determine the equivalent of IPC 307 in BNS.\nAccording to general knowledge, IPC 307 refers to Attempt to Murder, but without specific information about BNS, I cannot provide a reliable answer.\nSince there are no BNS/BNSS transition notes, I must rely on the information given, which is insufficient.\nI must flag this as uncertain due to the lack of information.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to answer this question. I cannot provide a reliable answer based on the current database.\n\nSources:\n- IPC Section 307",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 307",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 307"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of cheating changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of cheating under the Indian Penal Code (IPC) or the proposed Bharatiya Nyaya Sanhita (BNS). \n\nAs there are no sources available in the context, I cannot provide a comparison of the definition of cheating between the IPC and BNS. \n\nAccording to general knowledge, the IPC defines cheating under Section 415, but without specific information in the context, I cannot confirm if this definition has changed in the BNS.\n\nSince there are no BNS/BNSS transition notes or relevant sources provided, I must rely on the available data, which is insufficient to answer this question.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain relevant information, and I couldn't find any applicable sources to provide a reliable answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for criminal breach of trust?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the BNS section for criminal breach of trust. \n\nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database. \n\nHowever, I can suggest that the Indian Penal Code (IPC) may contain relevant provisions related to criminal breach of trust. Typically, Section 405 of the IPC deals with criminal breach of trust, but since the context does not provide any information about BNS or its relation to IPC, I cannot confirm if this is the relevant section.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. Further research is required to determine the BNS section for criminal breach of trust.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is IPC 354 the same as any BNS section?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "There is no information available to determine if IPC 354 is the same as any BNS section. \nNo relevant sources are provided (Bare Acts: 0, Case Laws: 0, Amendments: 0).\nThe provided context does not contain any details about BNS sections or their correlation with IPC sections, including IPC 354.\n\nAs there are no sources to reference, I must rely on the lack of information. \nI must warn that without access to relevant BNS sections or case laws, it's impossible to provide a reliable comparison between IPC 354 and any BNS section.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to answer the question.\n\nSources:\n- IPC Section 354",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 354",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 354"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What happened to IPC 377 in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the Indian Penal Code (IPC) Section 377 or any changes made to it in the context of BNS (Bharat Naresh Samhita). \n\nAs there are no sources provided, such as Bare Acts, Case Laws, or Amendments, I cannot provide a reliable answer based on the current database. \n\nPlease note that IPC Section 377 was previously a part of the Indian Penal Code, but its status and any potential changes would require information from a reliable source, which is not available in the given context.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer.\n\nSources:\n- IPC Section 377",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 377",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 377"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 506 (criminal intimidation)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS (Bharat New Series) equivalent of IPC 506 (criminal intimidation). \n\nAs there are no sources provided, such as Bare Acts, Case Laws, or Amendments, I cannot determine the BNS equivalent of IPC 506.\n\nAccording to general knowledge, the Indian Penal Code (IPC) is being replaced by the Bharat New Series (BNS) as part of the Indian government's effort to decolonize and update the country's laws. However, without specific information about the BNS equivalent of IPC 506, I cannot provide a reliable answer.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to answer the question. It is recommended to consult the latest BNS codes or seek guidance from a qualified legal expert for accurate information.\n\nSources:\n- IPC Section 506",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 506",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 506"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of kidnapping changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of kidnapping in BNS (Bharat Nyay Sanhita) or any amendments related to it. \n\nAs there are no sources cited in the context, I must rely on general knowledge, but I am restricted by the CRITICAL RULES to not add any information from my training data. \n\nTherefore, I cannot provide a reliable answer based on the current database. \n\nConfidence Level: LOW\nCaveats: The context is insufficient to provide a detailed answer, and I am restricted from using external knowledge. If you need information on the definition of kidnapping in Indian law or any amendments, please provide more context or sources, such as the Indian Penal Code (IPC) or relevant case laws.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 120B called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about IPC 120B or its equivalent in BNS. \nAs there are no sources (Bare Acts, Case Laws, or Amendments) provided, I cannot determine the equivalent of IPC 120B in BNS.\nAccording to general knowledge, IPC 120B refers to the Indian Penal Code, Section 120B, which deals with criminal conspiracy. However, without specific information about BNS, I cannot provide a reliable answer.\nPlease note that the confidence level is NONE, and there are no BNS/BNSS transition notes available.\nConfidence Level: LOW\nCaveat: The provided context is insufficient to provide a reliable answer.\n\nSources:\n- IPC Section 120B",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 120B",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 120B"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is wrongful confinement defined differently in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of wrongful confinement in BNS (Bharat Nikleshak Samhita) or any other legal framework. \n\nAs there are no sources cited (Act Section/Case Citation) in the context, I must rely on general knowledge, which is not permissible according to the critical rules. \n\nTherefore, I cannot provide a reliable answer based on the current database. The context lacks necessary information to address the question about the definition of wrongful confinement in BNS.\n\nConfidence Level: NONE\nCaveats: The provided context is insufficient to address the question, and I am unable to provide a reliable answer without access to relevant legal sources.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for defamation?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the BNS section for defamation. \n\nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database. \n\nIn Indian law, defamation is typically dealt with under the Indian Penal Code (IPC), specifically Section 499, which defines defamation, and Section 500, which prescribes the punishment for defamation. However, since the context does not provide any information about BNS or its relevance to defamation, I cannot provide a detailed answer.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question, and I couldn't find any relevant information about BNS sections. If you're looking for information on defamation under Indian law, I can provide information based on the IPC, but it would not be related to BNS.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has assault definition changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information about the Indian Penal Code (IPC) or the proposed replacement, BNS (if it exists), and their respective definitions of assault. \nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I must rely on the absence of data to conclude that the context is insufficient to address the question.\nConfidence Level: LOW \nCaveat: The user should consult the relevant IPC sections, specifically Section 351, and any applicable amendments or proposed replacements to determine the definition of assault and any potential changes.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 304B (dowry death) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the equivalent of IPC 304B (dowry death) in BNS. \n\nAs there are no sources provided, including Bare Acts, Case Laws, or Amendments, I cannot determine the equivalent section in BNS.\n\nAccording to general knowledge, IPC 304B deals with dowry deaths, but without specific information about BNS, I cannot provide a reliable answer.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question, and I couldn't find any relevant information to provide a reliable answer. If you provide more context or information about BNS, I may be able to assist you better.\n\nSources:\n- IPC Section 304B",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 304B",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 304B"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is gang rape punishment different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information about the punishment for gang rape in BNS (Bharat Naari Suraksha) or any other relevant legislation. \nAs there are no Bare Acts, Case Laws, or Amendments provided, I am unable to offer a detailed explanation or cite any sources.\n\nConfidence Level: NONE\nCaveat: The user is advised to consult relevant and up-to-date legal sources, such as the Indian Penal Code (IPC) or the Criminal Procedure Code (CrPC), to determine the punishment for gang rape in Indian law.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 147 (rioting)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS (Bharat New Code) equivalent of IPC 147 (rioting). \nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot determine the equivalent provision in the BNS.\nAccording to the given context, there are no BNS/BNSS transition notes available.\n\nSince I lack the necessary information, I must emphasize that any attempt to provide an answer would be speculative. \nTherefore, I cannot provide a reliable answer based on the current database.\n\nConfidence Level: NONE\nCaveats: The context lacks necessary information, and without access to relevant Bare Acts, Case Laws, or Amendments, I am unable to provide a reliable answer.\n\nSources:\n- IPC Section 147",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 147",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 147"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of hurt changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of \"hurt\" in BNS (Bharat Notification System) or any amendments related to it. \n\nAs there are no sources cited in the context, I must rely on general knowledge, but I am restricted by the CRITICAL RULES to not add any information from my training data. \n\nTherefore, I cannot provide a reliable answer based on the current database. \n\nConfidence Level: LOW\nCaveats: The context is insufficient to provide a detailed answer, and I am unable to cite any relevant sources. If you need information on the definition of \"hurt\" in Indian law, I suggest referring to the Indian Penal Code (IPC), specifically Section 319, which defines \"hurt.\" However, please note that this information is not derived from the provided context.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 279 (rash driving) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about IPC 279 or its equivalent in BNS. \nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot determine the equivalent of IPC 279 in BNS.\nAccording to the general knowledge, IPC 279 deals with rash driving, but without specific information about BNS, I cannot provide a reliable answer.\nPlease note that BNS/BNSS transitions may affect the applicability of IPC sections, but without further information, I cannot provide a detailed explanation.\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer.\n\nSources:\n- IPC Section 279",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 279",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 279"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is adultery still a crime under BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "Adultery is no longer a crime under the Indian legal system, as per the judgment in Joseph Shine v. Union of India (2018) 11 SCC 393. \nHowever, since the provided context does not contain any information about BNS or its provisions, I cannot provide a direct answer to the question regarding BNS specifically.\nThe provided context does not contain any information about BNS, and I couldn't find any relevant information to determine if BNS has any provisions related to adultery.\nAs per the Indian Penal Code (IPC), prior to the judgment in Joseph Shine v. Union of India (2018), adultery was punishable under Section 497 IPC. \nHowever, this section was struck down by the Supreme Court in the aforementioned case, holding that it was unconstitutional.\nSince the provided context does not contain any information about BNS, I must rely on the general Indian legal system to provide an answer.\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to provide a reliable answer regarding BNS. The answer is based on the general Indian legal system and the judgment in Joseph Shine v. Union of India (2018).",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for sedition?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the BNS section for sedition. \n\nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database. \n\nIt is essential to note that the Indian Penal Code (IPC) previously dealt with sedition under Section 124A. However, without the relevant information or updates on BNS/BNSS transitions, I cannot confirm if there have been any changes or replacements.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. It is recommended to consult the latest Bare Acts, Case Laws, or Amendments for accurate information on the BNS section for sedition.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has abetment to suicide changed from IPC to BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information regarding the Indian Penal Code (IPC) or the proposed Bharatiya Nyaya Sanhita (BNS) and their provisions related to abetment to suicide. \nAs there are no sources cited (Act Section/Case Citation) in the context, I am unable to provide a detailed explanation of the legal reasoning.\n\nPlease note that any information regarding the transition from IPC to BNS, if it occurs, would require careful analysis of the new provisions and their implications on existing laws. \nConfidence Level: LOW \nCaveat: The provided context is insufficient to provide a reliable answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 411 (dishonestly receiving stolen property) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information about IPC 411 or its equivalent in BNS. \nAs there are no sources (Bare Acts, Case Laws, or Amendments) provided, I am unable to cite any relevant sections or cases.\n\nPlease note that the Indian Penal Code (IPC) is a comprehensive criminal code, and Section 411 specifically deals with \"Dishonestly receiving stolen property\" (IPC 411). However, without any information about BNS or its provisions, I am unable to provide a detailed answer.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. It is recommended to consult the relevant Bare Acts, Case Laws, or Amendments for accurate information.\n\nSources:\n- IPC Section 411",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 411",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 411"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is forgery defined the same way in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information about the definition of forgery in BNS. \nAs there are no sources (Bare Acts, Case Laws, or Amendments) provided, I cannot provide a reliable answer based on the current database.\nAccording to general legal principles, forgery is typically defined under the Indian Penal Code (IPC), specifically under Section 463, which states that forgery means making a false document with the intent to cause damage or injury to another person (Indian Penal Code, 1860).\nHowever, without specific information about BNS, I cannot determine if the definition of forgery is the same.\nConfidence Level: LOW\nCaveat: The provided context is insufficient to provide a reliable answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 366 (kidnapping for marriage)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS (Bharatiya Nyaya Sanhita) equivalent of IPC 366 (kidnapping for marriage). \n\nAs there are no sources provided, including Bare Acts, Case Laws, or Amendments, I cannot provide a reliable answer based on the current database. \n\nPlease note that the Indian Penal Code (IPC) is being replaced by the Bharatiya Nyaya Sanhita (BNS), but without the relevant information, I cannot determine the equivalent section in the BNS.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. It is recommended to consult the latest version of the BNS or seek guidance from a qualified legal expert.\n\nSources:\n- IPC Section 366",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 366",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 366"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the concept of common intention (IPC 34) changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the Indian Penal Code (IPC) or the concept of common intention under Section 34. \n\nAs there are no sources cited in the context, I must rely on general knowledge, but I am restricted by the CRITICAL RULES to not add any information from my training data. \n\nTherefore, I cannot provide a reliable answer based on the current database. \n\nConfidence Level: LOW\nCaveats: The context is insufficient to provide a detailed answer. To provide an accurate response, I would need information about the IPC, specifically Section 34, and any relevant amendments or case laws.\n\nSources:\n- IPC Section 34",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 34",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 34"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 109 (abetment) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the equivalent of IPC 109 (abetment) in BNS. \nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database.\n\nSince there is no information available, I must warn that any attempt to provide an answer would be speculative and potentially inaccurate. \n\nConfidence Level: NONE\nCaveats: The context lacks necessary information to provide a reliable answer. It is essential to consult relevant legal sources, such as the BNS Act or authoritative commentaries, to determine the equivalent of IPC 109 in BNS.\n\nSources:\n- IPC Section 109",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 109",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 109"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is voluntarily causing grievous hurt different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the Indian Penal Code (IPC) or any other relevant acts that define voluntarily causing grievous hurt. \n\nAs a result, I cannot provide a reliable answer based on the current database. However, I can suggest that the definition and provisions related to voluntarily causing grievous hurt can be found in the Indian Penal Code, 1860, specifically under Section 325, which deals with voluntarily causing grievous hurt.\n\nRegarding the difference in BNS (which may refer to the Bharat New Scheme or other reforms), I must warn that there is a transition from the existing IPC to the proposed BNS, but without further information, it is challenging to provide a detailed analysis of the differences.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. Further research is required to determine the differences in voluntarily causing grievous hurt under the proposed BNS.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for robbery with murder?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. \nThe provided context does not contain any information about the BNS (Bangladesh Penal Code, presumably, but not explicitly stated) or IPC (Indian Penal Code) sections related to robbery with murder. \nAs there are no sources (Bare Acts: 0, Case Laws: 0, Amendments: 0) provided in the context, I am unable to cite any relevant sections or cases.\n\nHowever, I can suggest that in the Indian Penal Code, the relevant section for robbery with murder might be related to Section 396, which deals with \"Dacoity with murder\" (IPC, 1860). Nevertheless, without further information or context about BNS, I am unable to provide a precise answer.\n\nConfidence Level: LOW\nCaveats: The provided context lacks necessary information, and I am unable to provide a reliable answer. Additionally, there might be a transition from IPC to BNS or vice versa, but without further information, I am unable to warn about any specific transitions.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the definition of a woman been updated in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of a woman in BNS (Bharat Notification System) or any updates to such a definition. \n\nAs there are no sources provided, such as Act Sections or Case Citations, it is not possible to offer a detailed legal analysis or reasoning on this matter.\n\nPlease note that without access to relevant Bare Acts, Case Laws, or Amendments, I cannot provide a reliable answer to this question. \n\nConfidence Level: LOW\nCaveats: The context is insufficient to provide a reliable answer, and no sources are available to support any legal reasoning.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 201 (destruction of evidence) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "There is no information available on IPC 201 (destruction of evidence) in the provided context, as the context does not contain any details about the Indian Penal Code (IPC) or the proposed replacement, BNS (which may refer to the Bharatiya Nyaya Sanhita or other codes).\n\nThe provided context does not contain any Bare Acts, Case Laws, or Amendments that could provide insight into IPC 201 or its equivalent in BNS. \n\nAs a result, I must state that the provided context does not contain sufficient information to answer the question about IPC 201 (destruction of evidence) in BNS.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. If you are seeking information on IPC 201 or its equivalent in BNS, I recommend consulting the relevant legal texts or seeking guidance from a qualified legal expert.\n\nSources:\n- IPC Section 201",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 201",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 201"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is criminal trespass defined differently in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of criminal trespass in BNS. \n\nAs there are no sources (Bare Acts, Case Laws, Amendments) provided, I cannot provide a reliable answer based on the current database. \n\nPlease note that the confidence level is NONE, indicating a lack of relevant information. \n\nConfidence Level: NONE \nCaveat: The provided context is insufficient to provide a detailed answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 325?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS equivalent of IPC 325. \nAs there are no sources (Bare Acts, Case Laws, Amendments) provided, I cannot determine the equivalent section in the BNS.\nAccording to general knowledge, the Indian Penal Code (IPC) is being replaced by the Bharatiya Nyaya Sanhita (BNS) or the Indian Penal Code (BNSS) in some contexts, but without specific information, I cannot provide a reliable answer.\n\nSince there are no sources to cite, I must rely on the lack of information in the provided context.\nThe confidence level for this answer is LOW due to the absence of relevant data.\n\nConfidence Level: LOW\nCaveat: The provided context does not contain sufficient information to answer the question accurately.\n\nSources:\n- IPC Section 325",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 325",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 325"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the age of criminal responsibility changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the age of criminal responsibility in BNS (Bharat New Code of Social and Secular Harmony) or any amendments related to it. \n\nAs there are no sources cited, such as Act Sections or Case Citations, I must rely on the given context, which is empty. \n\nPlease note that BNS/BNSS transitions may affect the applicability of existing laws, but without further information, I cannot provide a reliable answer.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question, and I couldn't find any relevant information regarding the age of criminal responsibility in BNS. If you have any specific Act Sections or Case Citations, I would be happy to try and assist you further.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 511 (attempt) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about IPC 511 or its equivalent in BNS. \nAs there are no sources cited (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database.\n\nHowever, I can suggest that IPC 511 pertains to attempting to commit an offense, as per the Indian Penal Code (IPC). \nBut without specific information about BNS (which seems to be a replacement or an update to the IPC), I cannot determine the equivalent section in BNS.\n\nPlease note that any transition from IPC to BNS would require careful consideration of the new provisions and their implications.\nConfidence Level: LOW \nCaveat: The provided context is insufficient to provide a reliable answer.\n\nSources:\n- IPC Section 511",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 511",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 511"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is the definition of public servant different in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the definition of a public servant in BNS (Bharat Notification System) or any other relevant legal framework. \n\nAs there are no sources provided, such as Act Sections or Case Citations, I cannot offer a reliable answer based on the current database. \n\nIt is essential to note that the Indian Penal Code (IPC) defines a public servant under Section 21, but without specific information about BNS, I cannot determine if the definition differs.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to provide a reliable answer. Additional information or sources are required to address this question accurately.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS section for eve-teasing (IPC 509)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS (Bangladesh Penal Code) section for eve-teasing or any equivalent section that corresponds to IPC 509. \n\nAs the context does not provide any relevant information or sources, I must rely on general knowledge. However, I must emphasize that I do not have any information about the BNS or its sections in the provided context.\n\nIPC 509 (Indian Penal Code) deals with word, gesture, or act intended to insult the modesty of a woman or intrude upon her privacy, which is often referred to as eve-teasing. However, without information about the BNS, I cannot provide a reliable answer.\n\nSource: IPC 509 (Indian Penal Code)\n\nPlease note that the confidence level is NONE, and there are no BNS/BNSS transition notes or relevant sources provided in the context. \n\nConfidence Level: NONE\nCaveat: The provided context does not contain sufficient information to answer the question accurately.\n\nSources:\n- IPC Section 509",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 509",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 509"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the concept of mens rea changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the concept of mens rea in BNS (Bharat New Series) or any changes to it. \n\nAs there are no sources cited (Act Section/Case Citation) in the context, I must rely on general knowledge, but I am restricted by the CRITICAL RULES to not add information from my training data.\n\nThe concept of mens rea, which refers to the mental element or guilty mind required for a person to be held criminally liable, is a fundamental principle in criminal law. However, without specific information on BNS or any relevant amendments, case laws, or bare acts, I cannot provide a detailed answer on whether the concept of mens rea has changed.\n\nPlease note that the confidence level is NONE, and there are no BNS/BNSS transition notes available in the context.\n\nConfidence Level: NONE\nCaveats: The provided context is insufficient to provide a reliable answer. I strongly advise consulting relevant and up-to-date legal sources for accurate information on the concept of mens rea in BNS.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "amendment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 141 (unlawful assembly) in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "There is no information available on IPC 141 (unlawful assembly) in the provided context, as the context does not contain any Bare Acts, Case Laws, or Amendments related to the Indian Penal Code (IPC) or its replacement, the BNS (if applicable).\n\nThe provided context does not contain any relevant information on IPC 141 or its equivalent in BNS. \n\nSince there is no information available, I must emphasize that I am unable to provide a reliable answer based on the current database. \n\nConfidence Level: NONE\n\nPlease note that the Indian Penal Code (IPC) is a comprehensive criminal code that defines various offenses, including unlawful assembly. However, without access to the relevant provisions or case laws, I cannot provide a detailed explanation of IPC 141 or its equivalent in BNS.\n\nIt is essential to consult the latest edition of the IPC or the proposed BNS (if applicable) to understand the provisions related to unlawful assembly. Additionally, it is crucial to consider any relevant case laws, amendments, or overruled cases that may impact the interpretation of the provision.\n\nIn the absence of relevant information, I strongly advise against relying on any potentially outdated or inaccurate sources. Instead, it is recommended to consult a reliable and up-to-date source, such as the official website of the Indian government or a reputable legal database, to obtain accurate information on IPC 141 or its equivalent in BNS.\n\nSources:\n- IPC Section 141",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 141",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 141"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is extortion defined the same in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the definition of extortion in BNS. \nAs there are no sources (Bare Acts, Case Laws, Amendments) provided, I cannot provide a reliable answer based on the current database.\nAccording to general knowledge, extortion is typically defined under the Indian Penal Code (IPC), specifically under Section 383, which states that \"extortion\" means the unlawful acquisition of property from a person, induced by the threat of injury to that person or any other person. However, since the context does not provide any information about BNS or its relation to extortion, I must rely on the provided context.\nSince there are no sources provided, I must state that I cannot provide a reliable answer based on the current database.\n\nConfidence Level: NONE\nCaveats: The provided context does not contain sufficient information to answer the question.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is the BNS equivalent of IPC 323 (voluntarily causing hurt)?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the BNS (Bharatiya Nyaya Sanhita) equivalent of IPC 323 (voluntarily causing hurt). \n\nAs there are no sources provided, including Bare Acts, Case Laws, or Amendments, I cannot determine the equivalent section in the BNS. \n\nIt is essential to note that the BNS is proposed to replace the Indian Penal Code (IPC), but without the relevant information, I cannot provide a reliable answer.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question. To provide an accurate answer, I would require access to the BNS Act or relevant case laws that discuss the transition from IPC to BNS.\n\nSources:\n- IPC Section 323",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 323",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 323"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Has the punishment for culpable homicide changed in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the punishment for culpable homicide in BNS (Bharat Notification System) or any changes thereto. \nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot provide a reliable answer based on the current database.\nAccording to general knowledge, culpable homicide is typically governed by the Indian Penal Code (IPC), specifically Section 299 and Section 304. However, without specific information on BNS or any relevant amendments, it is impossible to determine if the punishment has changed.\nPlease note that the confidence level is NONE, indicating a lack of relevant data to provide an accurate answer.\nConfidence Level: NONE\nCaveats: The provided context is insufficient to answer the question, and no reliable sources are available.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "punishment_query",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "What is IPC 406 (criminal breach of trust) called in BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain information about the equivalent of IPC 406 (criminal breach of trust) in BNS. \n\nAs there are no sources provided (Bare Acts: 0, Case Laws: 0, Amendments: 0), I cannot determine the equivalent section in BNS.\n\nAccording to general knowledge, IPC 406 pertains to criminal breach of trust, but without specific information about BNS, I cannot provide a reliable answer.\n\nSince there are no BNS/BNSS transition notes, I must rely on the information given, which is insufficient.\n\nConfidence Level: LOW\nCaveats: The provided context does not contain sufficient information to answer the question. I strongly advise consulting a reliable and up-to-date source for accurate information on BNS and its equivalent sections.\n\nSources:\n- IPC Section 406",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": "Section 406",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "IPC",
+          "section_or_citation": "Section 406"
+        }
+      ],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "Is the insanity defense different under BNS?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the insanity defense under BNS (Bharatiya Nyaya Sanhita) or any other legal framework. \n\nAs there are no sources provided, I must rely on general knowledge, but I am restricted by the CRITICAL RULES to not add information from my training data. \n\nTherefore, I cannot provide a reliable answer based on the current database. \n\nConfidence Level: LOW\nCaveats: The context is insufficient to provide a detailed answer. If you need information on the insanity defense, please provide relevant sources, such as the Indian Penal Code (IPC) or the Code of Criminal Procedure (CrPC), or any other applicable laws.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  },
+  {
+    "query_text": "When did BNS come into force replacing IPC?",
+    "category": "IPC to BNS Transition",
+    "response": {
+      "answer": "The provided context does not contain any information regarding the implementation or enforcement of BNS (Bharatiya Nyaya Sanhita) replacing the Indian Penal Code (IPC). \n\nAs there are no sources cited or provided in the context, I cannot provide a reliable answer based on the current database. \n\nPlease note that any information regarding the replacement of IPC with BNS would require specific details about the enactment and enforcement of the new code, which are not available in the given context.\n\nConfidence Level: LOW\nCaveats: The provided context is insufficient to answer the question, and I would require more information or sources to provide a reliable answer.",
+      "confidence": "NONE",
+      "trigger_uncertainty": false,
+      "citation": null,
+      "citations": [],
+      "sources": {
+        "bare_acts": [],
+        "case_laws": [],
+        "amendments": []
+      },
+      "warnings": [],
+      "query_type": "legal_question",
+      "stats": {
+        "bare_acts_retrieved": 0,
+        "case_laws_retrieved": 0,
+        "amendments_found": 0,
+        "overruled_cases": 0
+      },
+      "middleware_applied": true
+    },
+    "condition": "with_middleware"
+  }
+]

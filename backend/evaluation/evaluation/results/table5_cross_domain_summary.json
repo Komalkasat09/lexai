@@ -1,0 +1,36 @@
+{
+  "table_rows": [
+    {
+      "Domain": "Criminal Law",
+      "Queries": 293,
+      "CAR": 70.99,
+      "ACS": 63.77
+    },
+    {
+      "Domain": "Civil Law",
+      "Queries": 40,
+      "CAR": 97.5,
+      "ACS": 85.16
+    },
+    {
+      "Domain": "Corporate Law",
+      "Queries": 30,
+      "CAR": 96.67,
+      "ACS": 83.71
+    },
+    {
+      "Domain": "Family Law",
+      "Queries": 30,
+      "CAR": 100.0,
+      "ACS": 87.65
+    }
+  ],
+  "overall": {
+    "Domain": "Overall",
+    "Queries": 393,
+    "CAR": 77.86,
+    "ACS": 69.29
+  },
+  "responses_path": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_responses_393.json",
+  "ground_truth": "/Users/komalkasat09/legal-website/backend/evaluation/ground_truth_verified_393.xlsx"
+}

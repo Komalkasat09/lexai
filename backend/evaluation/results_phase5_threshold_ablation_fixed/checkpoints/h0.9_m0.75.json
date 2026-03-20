@@ -1,0 +1,768 @@
+[
+  {
+    "query_id": "Q344",
+    "query_text": "What constitutes a valid arbitration agreement under Section 7 of the Arbitration Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q345",
+    "query_text": "When must a judicial authority refer parties to arbitration under Section 8?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q346",
+    "query_text": "What interim measures can be sought from court under Section 9 of the Arbitration Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q347",
+    "query_text": "How is appointment of arbitrators handled under Section 11 of the Arbitration Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q348",
+    "query_text": "What disclosure requirements are imposed on arbitrators under Section 12?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q349",
+    "query_text": "What is the kompetenz-kompetenz rule under Section 16 of the Arbitration Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q350",
+    "query_text": "What interim powers does the arbitral tribunal have under Section 17?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q351",
+    "query_text": "On what grounds can an arbitral award be set aside under Section 34?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q352",
+    "query_text": "When does an arbitral award become enforceable under Section 36?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "An arbitral award becomes enforceable under Section 36 of the Arbitration and Conciliation Act, 1996, when the time for filing an application to set aside the award under Section 34 has expired, or when such an application has been filed and dismissed. \n(Section 36, Arbitration and Conciliation Act, 1996)\n\nThe legal reasoning behind this is that Section 36 of the Act provides that an arbitral award shall be enforced in the same manner as if it were a decree of the court, but only after the conditions specified in the section have been met. These conditions include the expiration of the time period for filing an application to set aside the award under Section 34, or the dismissal of such an application if it has been filed. \n\nIt is essential to note that the provided context does not contain the full text of the relevant case law or the specific details of the case. However, based on the available information, it can be inferred that the enforceability of an arbitral award under Section 36 is contingent upon the fulfillment of the conditions specified in the section.\n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain the full text of the relevant case law, and the information is based on the general provisions of the Arbitration and Conciliation Act, 1996. Therefore, the accuracy of the answer may be limited by the availability of information.\n\nSources:\n- What would be a legal strategy for enforcing a foreign arbitral award in India? VIBER_0a3919c091b1",
+      "citations": [
+        {
+          "type": "case_law",
+          "act_or_case": "What would be a legal strategy for enforcing a foreign arbitral award in India?",
+          "section_or_citation": "VIBER_0a3919c091b1"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q353",
+    "query_text": "Which orders are appealable under Section 37 of the Arbitration Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "An order under Section 37 of the Arbitration and Conciliation Act, 1996, is appealable if it relates to certain specified matters. \n(Section 37, Arbitration and Conciliation Act, 1996)\n\nThe legal reasoning behind this is that Section 37 of the Arbitration and Conciliation Act, 1996, explicitly states that an appeal lies against orders passed under specific sections, including Section 16 (order on jurisdiction), Section 17 (interim measures), Section 31 (award), and Section 34 (application for setting aside an award). \n\nHowever, the provided context does not contain information about the specific orders that are appealable under Section 37. \n\nThere are no BNS/BNSS transition notes applicable in this case.\n\nConfidence Level: LOW\n\nCaveat: The provided context does not contain sufficient information to provide a detailed answer. The information provided is based on general knowledge of the Arbitration and Conciliation Act, 1996, and may not be applicable in all cases. It is recommended to consult the Act and relevant case laws for a more accurate answer.\n\nSources:\n- ACA Section 37\n- When assessee settles his own appeal or arbitration under Vivad se Vishwas, will consequential relief be available to the deductor in default front liability determined under TDS order u/s 201? VIBER_a88d5f02e159",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "ACA",
+          "section_or_citation": "Section 37"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "When assessee settles his own appeal or arbitration under Vivad se Vishwas, will consequential relief be available to the deductor in default front liability determined under TDS order u/s 201?",
+          "section_or_citation": "VIBER_a88d5f02e159"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q354",
+    "query_text": "What are the essential ingredients of offence under Section 138 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The essential ingredients of an offence under Section 138 of the Negotiable Instruments Act, 1881, are not directly available in the provided context. \n\nHowever, it is well-established in judicial precedents that Section 138 of the Negotiable Instruments Act, 1881, deals with the dishonour of cheques for insufficiency of funds. The Supreme Court of India has laid down the essential ingredients for an offence under Section 138 in various cases, but these specifics are not mentioned in the given context.\n\nTo accurately determine the essential ingredients of an offence under Section 138 of the Negotiable Instruments Act, 1881, one would typically refer to the section itself and relevant case law. Unfortunately, the text of Section 138 is not provided in the context, and the case laws mentioned (VIBER_f24498c9fec9 and VIBER_fd0309b278b5) do not pertain to Section 138 of the Negotiable Instruments Act.\n\nGiven the information available, it is crucial to note that the provided context does not contain the necessary details to fully answer the question about the essential ingredients of an offence under Section 138 of the Negotiable Instruments Act, 1881. \n\nPlease be aware that there are BNS/BNSS transition notes, which may indicate changes or replacements in the law, but without specific details on these transitions related to Section 138 of the Negotiable Instruments Act, it's challenging to provide a comprehensive answer.\n\nConfidence Level: LOW\n\nCaveats: The provided context lacks specific information on Section 138 of the Negotiable Instruments Act, 1881, and the case laws provided do not directly relate to the question asked. Therefore, it is advisable to consult the actual text of Section 138 and relevant judicial precedents for an accurate understanding of the essential ingredients of the offence.\n\nSources:\n- NIA Section 138\n- NIA Section 141\n- What are the essential ingredients of Section 354A IPC? VIBER_f24498c9fec9\n- What is Section 138 about concerning the abetment of an act of insubordination by a soldier, sailor, or airman? VIBER_fd0309b278b5",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 138"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 141"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the essential ingredients of Section 354A IPC?",
+          "section_or_citation": "VIBER_f24498c9fec9"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is Section 138 about concerning the abetment of an act of insubordination by a soldier, sailor, or airman?",
+          "section_or_citation": "VIBER_fd0309b278b5"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q355",
+    "query_text": "What presumption does Section 139 NI Act create in cheque bounce cases?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Section 139 of the Negotiable Instruments Act, 1881, creates a presumption in favour of the holder of a cheque that the cheque was issued for consideration and that it was in the ordinary course of business. \n(Section 139, Negotiable Instruments Act, 1881)\n\nAlthough the text of Section 139 is not available in the provided context, according to the Negotiable Instruments Act, 1881, this section is titled \"Presumption in favour of holder\". The legal reasoning behind this presumption is to facilitate the prosecution of cheque bounce cases under Section 138 of the Negotiable Instruments Act, 1881, by shifting the burden of proof to the accused. \n\nIt is essential to note that this presumption can be rebutted by the accused by providing sufficient evidence to prove that the cheque was not issued for consideration or that it was not issued in the ordinary course of business. \n\nThe provided context does not contain the text of Section 139, but based on the title and general knowledge of the Negotiable Instruments Act, 1881, the above explanation is provided.\n\nConfidence Level: HIGH\nCaveat: The provided context does not contain the text of Section 139, and the explanation is based on general knowledge of the Negotiable Instruments Act, 1881.\n\nSources:\n- NIA Section 139",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 139"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q356",
+    "query_text": "What defences are barred under Section 140 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q357",
+    "query_text": "How is vicarious liability fixed for companies under Section 141 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Vicarious liability for companies under Section 141 of the Negotiable Instruments Act, 1881, is fixed by holding the company liable for the actions of its officers or employees, provided that the offense was committed with the consent or connivance, or was attributable to the negligence, of any of the directors, managers, secretaries, or other officers of the company (Section 141, Negotiable Instruments Act, 1881).\n\nUnfortunately, the provided context does not contain the full text of Section 141, which would be necessary to provide a detailed explanation of the legal reasoning behind vicarious liability in this context. However, according to the general principles of Section 141, the prosecution must prove that the accused company had a culpable mental state, i.e., the act was committed with the consent, connivance, or was attributable to the negligence of the directors, managers, secretaries, or other officers of the company.\n\nAs no case laws or amendments are provided in the context, it is difficult to provide further clarification or examples of how this section has been interpreted by courts. \n\nConfidence Level: MEDIUM\nCaveat: The provided context does not contain the full text of Section 141, Negotiable Instruments Act, 1881, which limits the ability to provide a detailed explanation of the legal reasoning.\n\nSources:\n- NIA Section 141",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 141"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q358",
+    "query_text": "What are the cognizance conditions under Section 142 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q359",
+    "query_text": "How does Section 143 NI Act provide summary trial for cheque dishonour?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Section 143 of the Negotiable Instruments Act 1881 provides for the summary trial of cheque dishonour cases. \nUnfortunately, the provided context does not contain the text of Section 143 of the Negotiable Instruments Act 1881. \n\nHowever, according to general knowledge of the Negotiable Instruments Act, Section 143 is related to the power of the court to try offences under Section 138, which deals with the dishonour of cheques. \n\nThe legal reasoning behind this provision is to provide a speedy and efficient trial process for cheque dishonour cases, which are often considered minor offences. \nBy providing for a summary trial, the court can dispose of these cases quickly, reducing the burden on the judicial system.\n\nSince the provided context does not contain the text of Section 143, I must rely on general knowledge, which may not be entirely accurate. \nTherefore, I must warn that my confidence level in this answer is LOW due to the lack of specific information in the provided context.\n\nConfidence Level: LOW\nCaveat: The provided context does not contain the text of Section 143 of the Negotiable Instruments Act 1881, and therefore, this answer is based on general knowledge and may not be entirely accurate.\n\nSources:\n- NIA Section 143\n- NIA Section 138",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 143"
+        },
+        {
+          "type": "bare_act",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 138"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q360",
+    "query_text": "When can interim compensation be awarded under Section 143A NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q361",
+    "query_text": "How is evidence by affidavit treated under Section 145 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q362",
+    "query_text": "Is compounding permitted under Section 147 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The provided context does not contain sufficient information to directly answer whether compounding is permitted under Section 147 of the Negotiable Instruments Act (NI Act). \n\nHowever, based on the available case laws, it can be inferred that compounding of offences is a relevant consideration in the context of the NI Act. For instance, the case of VIBER_efb49870a12e (2024) touches upon the issue of compounding offences under Section 276, but the specific details of the case are not available.\n\nTo determine if compounding is permitted under Section 147 NI Act, one would need to refer to the specific provisions of the NI Act and relevant case laws that directly address this issue. Unfortunately, the provided context lacks the necessary information to provide a definitive answer.\n\nIt is essential to consult the Negotiable Instruments Act, 1881, and relevant case laws to understand the provisions related to compounding of offences under Section 147. \n\nConfidence Level: LOW\n\nPlease note that the information provided is based on the limited context, and it is recommended to consult the relevant Acts and case laws for a more accurate and reliable answer. The cases cited (VIBER_80e732d6f2a4 and VIBER_efb49870a12e) do not provide sufficient information to address the question directly, and therefore, a more comprehensive research is required to provide a definitive answer.\n\nSources:\n- NIA Section 147\n- Is compounding allowed if the application for such an offence was previously rejected? VIBER_80e732d6f2a4\n- Can offences under Section 276 be compounded if the outstanding amount in recovery is not deposited before filing the application? VIBER_efb49870a12e",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 147"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Is compounding allowed if the application for such an offence was previously rejected?",
+          "section_or_citation": "VIBER_80e732d6f2a4"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Can offences under Section 276 be compounded if the outstanding amount in recovery is not deposited before filing the application?",
+          "section_or_citation": "VIBER_efb49870a12e"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q363",
+    "query_text": "What power does appellate court have under Section 148 NI Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The appellate court has the power to summon and examine any person as a witness under Section 148 of the Negotiable Instruments Act (NI Act). \nSection 148, Negotiable Instruments Act, 1881, states that the appellate court has the power to summon and examine any person as a witness (Section 148, Negotiable Instruments Act, 1881).\n\nThe legal reasoning behind this is that the appellate court has been granted the authority to summon and examine any person as a witness in order to ensure a fair and just trial. This power is essential in allowing the appellate court to review the decision of the lower court and make an informed decision.\n\nHowever, The provided context does not contain the full text of Section 148 of the Negotiable Instruments Act, 1881, or any relevant case law that may provide further insight into the powers of the appellate court under this section.\n\nConfidence Level: MEDIUM \n\nNote: The confidence level is medium because the provided context does not contain the full text of Section 148 of the Negotiable Instruments Act, 1881, or any relevant case law that may provide further insight into the powers of the appellate court under this section. Additionally, the case law provided (VIBER_c4bdd012e461) does not contain any relevant information regarding the powers of the appellate court under Section 148 of the NI Act.\n\nSources:\n- NIA Section 148\n- What are the powers of the appellate court? VIBER_c4bdd012e461",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "NIA",
+          "section_or_citation": "Section 148"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the powers of the appellate court?",
+          "section_or_citation": "VIBER_c4bdd012e461"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q364",
+    "query_text": "What are conditions for a valid Hindu marriage under Section 5 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q365",
+    "query_text": "What ceremonies are recognised under Section 7 HMA for solemnization?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q366",
+    "query_text": "What is the legal effect of registration under Section 8 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q367",
+    "query_text": "When can restitution of conjugal rights be sought under Section 9 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q368",
+    "query_text": "What is judicial separation under Section 10 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q369",
+    "query_text": "On what grounds is a marriage voidable under Section 12 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q370",
+    "query_text": "What are the divorce grounds under Section 13 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The divorce grounds under Section 13 of the Hindu Marriage Act, 1955 (HMA) are not explicitly stated in the provided context. \n\nHowever, according to the general provisions of the Hindu Marriage Act, 1955, Section 13(1) lists the grounds for divorce, which include: (i) adultery, (ii) desertion, (iii) cruelty, (iv) conversion to another religion, (v) incurable unsoundness of mind, (vi) virulent and incurable form of leprosy, (vii) venereal disease in a communicable form, (viii) renunciation of the world, and (ix) presumption of death (Section 13(1), Hindu Marriage Act, 1955).\n\nThe provided context does not contain any information about Section 13 of the HMA. \n\nPlease note that the confidence level for this query is MEDIUM, and there are no BNS/BNSS transition notes applicable. \n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain any information about Section 13 of the HMA. The answer is based on general knowledge of the Hindu Marriage Act, 1955.\n\nSources:\n- HMA Section 13\n- If a woman decides to separate from her husband due to dowry harassment, what legal steps can she take? VIBER_6ab6519ec395",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "HMA",
+          "section_or_citation": "Section 13"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "If a woman decides to separate from her husband due to dowry harassment, what legal steps can she take?",
+          "section_or_citation": "VIBER_6ab6519ec395"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q371",
+    "query_text": "What statutory conditions apply to mutual consent divorce under Section 13B HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q372",
+    "query_text": "When can interim maintenance be granted under Section 24 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "Interim maintenance under Section 24 of the Hindu Marriage Act (HMA) can be granted when the court is satisfied that the spouse seeking maintenance has not sufficient independent income for her or his support and the necessary expenses of the proceeding. \n(Section 24, Hindu Marriage Act, 1955)\n\nThe legal reasoning behind this provision is to provide financial support to a spouse who is unable to maintain themselves during the pendency of the proceedings. The court considers various factors such as the income of the spouses, their reasonable wants, and the expenses of the litigation when determining the amount of interim maintenance.\n\nHowever, the provided context does not contain specific information regarding the conditions or time limits for granting interim maintenance under Section 24 HMA. The cases cited in the context, VIBER_bf0d43498176, VIBER_d79a59d3cb9f, and VIBER_312a1fb592e6, do not provide relevant information on this topic as their facts and holdings are not available.\n\nIt is essential to note that the Hindu Marriage Act, 1955, has undergone amendments, but the provided context does not contain any information about amendments to Section 24. \n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context lacks specific information on the conditions for granting interim maintenance under Section 24 HMA.\n- The cases cited do not provide relevant information on this topic.\n- The Hindu Marriage Act, 1955, may have undergone amendments that are not reflected in the provided context.\n\nSources:\n- HMA Section 24\n- What is the time limit for the payment of the reward? VIBER_bf0d43498176\n- What is the quantum of interim reward under this scheme? VIBER_d79a59d3cb9f\n- Conditions required to be fulfilled to be eligible for Interim Reward VIBER_312a1fb592e6",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "HMA",
+          "section_or_citation": "Section 24"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the time limit for the payment of the reward?",
+          "section_or_citation": "VIBER_bf0d43498176"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is the quantum of interim reward under this scheme?",
+          "section_or_citation": "VIBER_d79a59d3cb9f"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Conditions required to be fulfilled to be eligible for Interim Reward",
+          "section_or_citation": "VIBER_312a1fb592e6"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q373",
+    "query_text": "How is permanent alimony dealt with under Section 25 HMA?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q374",
+    "query_text": "Who is an aggrieved person under Section 2 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q375",
+    "query_text": "How is domestic violence defined under Section 3 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The definition of domestic violence under Section 3 of the Domestic Violence Act is not provided in the given context. \nNo specific source is cited as the context does not contain the relevant information.\n\nThe provided context does not contain the text of Section 3 of the Domestic Violence Act, which is necessary to determine the definition of domestic violence. However, according to general knowledge of the Act, Section 3 defines domestic violence as any act of commission or omission which aids or abets the commission of an act of domestic violence, including physical, sexual, verbal, emotional, or economic abuse.\n\nSince the context does not provide the exact text of Section 3, I must rely on general knowledge, which may not be up-to-date or accurate. \nConfidence Level: LOW\n\nPlease note that the Domestic Violence Act, 2005, is the relevant legislation, but the exact definition of domestic violence under Section 3 cannot be provided based on the given context. It is recommended to consult the original Act or a reliable legal source for an accurate definition.\n\nSources:\n- PWDVA Section 3\n- In what circumstances can Section 498A be utilized for protecting a woman from domestic violence? VIBER_c6c717285129",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "PWDVA",
+          "section_or_citation": "Section 3"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "In what circumstances can Section 498A be utilized for protecting a woman from domestic violence?",
+          "section_or_citation": "VIBER_c6c717285129"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q376",
+    "query_text": "How is an application to Magistrate made under Section 12 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q377",
+    "query_text": "What residence right is protected under Section 17 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q378",
+    "query_text": "What protection orders can be passed under Section 18 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The protection orders that can be passed under Section 18 of the Domestic Violence Act include a prohibition of the respondent from aiding or abetting the commission of any act of domestic violence, a prohibition of the respondent from entering the place of employment of the aggrieved person or any other place frequented by her, a prohibition of the respondent from attempting to communicate with the aggrieved person, and more. \n(Section 18, The Protection of Women from Domestic Violence Act, 2005)\n\nThe legal reasoning behind these protection orders is to provide immediate relief to the aggrieved person and prevent further acts of domestic violence. The court may pass a protection order to protect the aggrieved person from domestic violence and ensure her safety. \n\nHowever, The provided context does not contain the full text of Section 18 of the Domestic Violence Act, and the case laws provided do not specifically address this issue. \n(VIBER_539f98d6221e, VIBER_c6c717285129, Indian Legal Database, Year: 2024)\n\nConfidence Level: MEDIUM\nNote: The answer is based on general knowledge of the Domestic Violence Act, but the provided context does not contain specific information about Section 18. Therefore, the accuracy of the answer may be limited.\n\nSources:\n- PWDVA Section 18\n- What legal measures can the victim take if she continues to face harassment from the assailant? VIBER_539f98d6221e\n- In what circumstances can Section 498A be utilized for protecting a woman from domestic violence? VIBER_c6c717285129",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "PWDVA",
+          "section_or_citation": "Section 18"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What legal measures can the victim take if she continues to face harassment from the assailant?",
+          "section_or_citation": "VIBER_539f98d6221e"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "In what circumstances can Section 498A be utilized for protecting a woman from domestic violence?",
+          "section_or_citation": "VIBER_c6c717285129"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q379",
+    "query_text": "What residence orders are available under Section 19 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The provided context does not contain information about Section 19 of the Domestic Violence Act. \n\nHowever, according to the general knowledge of the Domestic Violence Act, 2005, Section 19 deals with \"Residence Orders\" (The Protection of Women from Domestic Violence Act, 2005, Section 19). \n\nUnder Section 19 of the Domestic Violence Act, the Magistrate may pass a residence order to protect the aggrieved person from domestic violence. The residence orders that may be passed under this section include:\n- restraining the respondent from dispossessing or in any other manner disturbing the possession of the aggrieved person;\n- directing the respondent to remove himself from the shared household;\n- restraining the respondent or any of his relatives from entering any portion of the shared household in which the aggrieved person resides;\n- restraining the respondent from alienating any assets in which the aggrieved person has a shared interest;\n- directing the respondent to secure same level of alternative accommodation for the aggrieved person as enjoyed by her in the shared household or to pay rent for the same, if the circumstances so require (The Protection of Women from Domestic Violence Act, 2005, Section 19).\n\nSource: The Protection of Women from Domestic Violence Act, 2005, Section 19.\n\nConfidence Level: LOW (due to lack of specific information in the provided context). \n\nPlease note that the provided context does not contain any information about Section 19 of the Domestic Violence Act, and the answer is based on general knowledge of the Act. It is recommended to consult the Act and relevant case laws for a more accurate and detailed understanding of the residence orders available under Section 19.\n\nSources:\n- PWDVA Section 19\n- What legal measures can the victim take if she continues to face harassment from the assailant? VIBER_539f98d6221e",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "PWDVA",
+          "section_or_citation": "Section 19"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What legal measures can the victim take if she continues to face harassment from the assailant?",
+          "section_or_citation": "VIBER_539f98d6221e"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q380",
+    "query_text": "What monetary relief can be ordered under Section 20 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q381",
+    "query_text": "When can compensation be granted under Section 22 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q382",
+    "query_text": "What interim and ex parte orders are allowed under Section 23 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q383",
+    "query_text": "What is the consequence of breach of protection order under Section 31 of the Domestic Violence Act?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q384",
+    "query_text": "How does Section 2 POCSO define child and key terms?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q385",
+    "query_text": "What acts amount to penetrative sexual assault under Section 3 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q386",
+    "query_text": "What is punishment for penetrative sexual assault under Section 4 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer based on the current database. The retrieved information has low confidence. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q387",
+    "query_text": "When does penetrative sexual assault become aggravated under Section 5 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q388",
+    "query_text": "What is sexual assault under Section 7 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "According to the Protection of Children from Sexual Offences (POCSO) Act, 2012, sexual assault is defined under Section 7. \nSection 7 of the POCSO Act, 2012, states that \"Whoever, with sexual intent, touches the vagina, penis, anus or breast of any child at any time or makes any other part of the body of any child touch the vagina, penis, anus or breast of such person or any other person, or does any other act with sexual intent which involves physical contact without penetration, is said to commit sexual assault.\" (Section 7, POCSO Act, 2012)\n\nThe provided context does not contain specific case law that directly interprets Section 7 of the POCSO Act, 2012. However, the cases mentioned (VIBER_f93a0e0e1b22 and VIBER_200331bba76d) are related to the broader topic of child protection and sexual offences, but the facts and holdings of these cases are not available.\n\nIt is essential to note that the POCSO Act, 2012, is a special law that deals with sexual offences against children, and its provisions should be interpreted in the context of protecting children from sexual abuse. \n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain specific case law that directly interprets Section 7 of the POCSO Act, 2012. The answer is based on the bare text of the POCSO Act, 2012, and may require further interpretation and analysis in the context of specific cases or facts.\n\nSources:\n- POCSO Section 7\n- In cases where women who are minors are victims of acid attacks, how are these cases legally addressed and handled? VIBER_f93a0e0e1b22\n- What are the social and legal implications of the 'Protection of Children from Sexual Offences (POCSO) Act, 2012'? VIBER_200331bba76d",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "POCSO",
+          "section_or_citation": "Section 7"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "In cases where women who are minors are victims of acid attacks, how are these cases legally addressed and handled?",
+          "section_or_citation": "VIBER_f93a0e0e1b22"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the social and legal implications of the 'Protection of Children from Sexual Offences (POCSO) Act, 2012'?",
+          "section_or_citation": "VIBER_200331bba76d"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q389",
+    "query_text": "What is punishment for sexual assault under Section 8 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The punishment for sexual assault under Section 8 of the Protection of Children from Sexual Offences (POCSO) Act, 2012, is not explicitly stated in the provided context. \n\nHowever, according to the POCSO Act, 2012, Section 8 states that whoever commits sexual assault on a child shall be punished with imprisonment of either description for a term which shall not be less than three years and may extend to five years, and shall also be liable to fine (Section 8, POCSO Act, 2012).\n\nThe provided context does not contain the exact text of Section 8 of the POCSO Act, 2012, but based on general knowledge of the Act, the punishment for sexual assault can be determined. \n\nIt is worth noting that the provided context contains Case 4, which discusses the social and legal implications of the POCSO Act, 2012 (VIBER_200331bba76d, Indian Legal Database, 2024), but the facts and holding of this case are not available.\n\nConfidence Level: MEDIUM\n\nCaveats: \n- The provided context does not contain the exact text of Section 8 of the POCSO Act, 2012.\n- The facts and holding of Case 4, which discusses the POCSO Act, 2012, are not available.\n- The information provided is based on general knowledge of the POCSO Act, 2012, and may not reflect the exact wording or interpretation of the Act. \n\nPlease consult the official text of the POCSO Act, 2012, and relevant case laws for a more accurate and detailed understanding of the punishment for sexual assault under Section 8.\n\nSources:\n- POCSO Section 8\n- What does the law say about sexual harassment, and how is it punished? VIBER_988c9c9bffa7\n- Tell me about Section 376 in Chapter 16, which discusses the 'Punishment for rape.' VIBER_ceac20827b4f\n- Tell me about Section 376E in Chapter 16 concerning 'Punishment for repeat offenders.' VIBER_70b911814857",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "POCSO",
+          "section_or_citation": "Section 8"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What does the law say about sexual harassment, and how is it punished?",
+          "section_or_citation": "VIBER_988c9c9bffa7"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Section 376 in Chapter 16, which discusses the 'Punishment for rape.'",
+          "section_or_citation": "VIBER_ceac20827b4f"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "Tell me about Section 376E in Chapter 16 concerning 'Punishment for repeat offenders.'",
+          "section_or_citation": "VIBER_70b911814857"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the social and legal implications of the 'Protection of Children from Sexual Offences (POCSO) Act, 2012'?",
+          "section_or_citation": "VIBER_200331bba76d"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What is punishment in 354A?",
+          "section_or_citation": "VIBER_5e2e8644e494"
+        }
+      ],
+      "confidence": "MEDIUM",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q390",
+    "query_text": "What mandatory reporting duty is imposed by Section 19 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q391",
+    "query_text": "How must police record child statement under Section 24 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q392",
+    "query_text": "What presumption is created under Section 29 POCSO during trial?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "I cannot provide a reliable answer on this query from my current database. Please consult primary sources or a qualified lawyer.",
+      "citations": [],
+      "confidence": "LOW",
+      "abstained": false
+    }
+  },
+  {
+    "query_id": "Q393",
+    "query_text": "What are Special Court powers and child safeguards under Section 33 POCSO?",
+    "category": "Section Lookup",
+    "response": {
+      "answer": "The Special Court powers and child safeguards under Section 33 of the Protection of Children from Sexual Offences (POCSO) Act, 2012, are not explicitly stated in the provided context. \n\nHowever, according to the POCSO Act, 2012, Section 33 states that the Special Court has the power to conduct an in-camera trial, and the child's identity must be protected from the public (Section 33, POCSO Act, 2012). \n\nThe POCSO Act, 2012, also provides for various child safeguards, including the right to be treated with dignity and compassion, the right to be protected from the accused, and the right to have a support person present during the trial (Section 33, POCSO Act, 2012, and other relevant provisions).\n\nUnfortunately, the provided context does not contain the full text of Section 33 or any relevant case law that could provide further insight into the Special Court powers and child safeguards under the POCSO Act, 2012.\n\nConfidence Level: MEDIUM\nCaveats: The provided context does not contain the full text of Section 33 or any relevant case law. Therefore, the answer is based on general knowledge of the POCSO Act, 2012, and may not be comprehensive or entirely accurate. It is recommended to consult the original Act and relevant case law for a more detailed understanding of the Special Court powers and child safeguards under Section 33 POCSO.\n\nSources:\n- POCSO Section 33\n- What are the social and legal implications of the 'Protection of Children from Sexual Offences (POCSO) Act, 2012'? VIBER_200331bba76d",
+      "citations": [
+        {
+          "type": "query_hint",
+          "act_or_case": "POCSO",
+          "section_or_citation": "Section 33"
+        },
+        {
+          "type": "case_law",
+          "act_or_case": "What are the social and legal implications of the 'Protection of Children from Sexual Offences (POCSO) Act, 2012'?",
+          "section_or_citation": "VIBER_200331bba76d"
+        }
+      ],
+      "confidence": "HIGH",
+      "abstained": false
+    }
+  }
+]

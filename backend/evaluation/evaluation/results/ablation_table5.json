@@ -1,0 +1,96 @@
+{
+  "ground_truth_file": "/Users/komalkasat09/legal-website/backend/evaluation/ground_truth_verified_393.xlsx",
+  "n_queries": 393,
+  "checkpoints": {
+    "full": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_responses_393.json",
+    "no_reranker": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_no_reranker_393.json",
+    "no_bm25": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_no_bm25_393.json",
+    "no_routing": "/Users/komalkasat09/legal-website/backend/evaluation/evaluation/results/checkpoints/lexai_no_routing_393.json"
+  },
+  "rows": [
+    {
+      "configuration": "Full LexAI",
+      "CAR": {
+        "mean": 82.3791348600509,
+        "ci95_lower": 79.4529262086514,
+        "ci95_upper": 85.30534351145039,
+        "n": 393
+      },
+      "HR": {
+        "mean": 65.90330788804071,
+        "ci95_lower": 61.06870229007634,
+        "ci95_upper": 70.48346055979644,
+        "n": 393
+      },
+      "OLR": {
+        "mean": 10.687022900763358,
+        "ci95_lower": 7.633587786259542,
+        "ci95_upper": 13.740458015267176,
+        "n": 393
+      }
+    },
+    {
+      "configuration": "- Cross-encoder reranking",
+      "CAR": {
+        "mean": 83.26972010178118,
+        "ci95_lower": 80.53435114503817,
+        "ci95_upper": 85.87786259541984,
+        "n": 393
+      },
+      "HR": {
+        "mean": 34.45716709075487,
+        "ci95_lower": 29.897688719253612,
+        "ci95_upper": 39.22815945716709,
+        "n": 393
+      },
+      "OLR": {
+        "mean": 34.60559796437659,
+        "ci95_lower": 30.025445292620866,
+        "ci95_upper": 39.44020356234097,
+        "n": 393
+      }
+    },
+    {
+      "configuration": "- BM25 (dense only)",
+      "CAR": {
+        "mean": 83.84223918575064,
+        "ci95_lower": 81.1704834605598,
+        "ci95_upper": 86.38676844783716,
+        "n": 393
+      },
+      "HR": {
+        "mean": 31.112389165824275,
+        "ci95_lower": 27.20942331629355,
+        "ci95_upper": 35.12587324323965,
+        "n": 393
+      },
+      "OLR": {
+        "mean": 21.62849872773537,
+        "ci95_lower": 17.557251908396946,
+        "ci95_upper": 25.699745547073793,
+        "n": 393
+      }
+    },
+    {
+      "configuration": "- Query routing",
+      "CAR": {
+        "mean": 83.96946564885496,
+        "ci95_lower": 81.29770992366412,
+        "ci95_upper": 86.57760814249365,
+        "n": 393
+      },
+      "HR": {
+        "mean": 26.64245621738,
+        "ci95_lower": 23.01031628688909,
+        "ci95_upper": 30.351461186057676,
+        "n": 393
+      },
+      "OLR": {
+        "mean": 19.59287531806616,
+        "ci95_lower": 15.776081424936386,
+        "ci95_upper": 23.40966921119593,
+        "n": 393
+      }
+    }
+  ]
+}

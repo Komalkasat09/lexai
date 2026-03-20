@@ -1,0 +1,24 @@
+{
+  "sample_size": 30,
+  "CAR_retrieved_overall": 100.0,
+  "CAR_generated_overall": 85.0,
+  "CAR_overall_legacy": 92.5,
+  "HR_overall": 15.606936416184972,
+  "HR_citation": 1.3095238095238095,
+  "HR_case": 0.0,
+  "HR_inline": 13.61111111111111,
+  "total_claims": 173,
+  "hallucinated_claims": 27,
+  "CCS": {
+    "accuracy_at_high": 100.0,
+    "count_high": 27,
+    "accuracy_at_medium": 100.0,
+    "count_medium": 3,
+    "accuracy_at_low": 0,
+    "count_low": 0,
+    "calibration_error": 0.1175,
+    "is_well_calibrated": true
+  },
+  "hr_has_direct_counts": true,
+  "query_id_guard_test": "OK_RAISED: Query ID mismatch at index 0: response=Q002, ground_truth=Q001. Index-based joins are invalid."
+}

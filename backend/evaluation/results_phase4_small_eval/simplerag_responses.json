@@ -1,0 +1,232 @@
+[
+  {
+    "system": "NoRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. It states:\n\n\"Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or to give any person any property, or anything signed or sealed which is capable of being converted into a valuable security, with the intention of causing damage or injury to that person, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\"\n\n- Section 420, Indian Penal Code, 1860.",
+      "citations": [
+        "the Indian Penal Code Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.651674,
+    "timestamp": "2026-03-18T19:20:36.359952"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "Section 302 of the Indian Penal Code (IPC) pertains to punishment for murder. It states:\n\n\"Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.\"\n\nIn essence, this section prescribes the punishment for the offense of murder, as defined under Section 299 and explained under Section 300 of the IPC. The punishment can be either death or life imprisonment, along with a fine. \n\nSection 300 IPC defines murder, and Section 299 IPC explains the act of culpable homicide. \n\nIt's worth noting that the Supreme Court of India, in certain cases, has laid down guidelines for imposing the death penalty, as seen in the case of Bachan Singh v. State of Punjab (1980) 2 SCC 684.",
+      "citations": [
+        "the Indian Penal Code Section 302",
+        "IPC explains the act Section 299"
+      ],
+      "confidence": "high",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.711146,
+    "timestamp": "2026-03-18T19:20:37.071649"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Section 498A of the Indian Penal Code (IPC) deals with \"Husband or relative of husband of a woman subjecting her to cruelty\". It states that whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.\n\nThe section defines cruelty as:\n\n- Any willful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n- Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.\n\n Citation: Section 498A, Indian Penal Code, 1860.",
+      "citations": [
+        "the Indian Penal Code Section 498A"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.800733,
+    "timestamp": "2026-03-18T19:20:37.872568"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Section 376 of the Indian Penal Code (IPC) deals with punishment for rape. It states:\n\n\"376. Punishment for rape.\u2014(1) Whoever, except in the cases provided for by sub-section (2), commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than seven years but which may extend to life and shall also be liable to fine.\n\n(2) Whoever,\u2014\n(a) being a police officer, commits rape\u2014\n(i) within the limits of the police station to which such police officer is appointed; or\n(ii) in the premises of any police station; or\n(iii) on a woman in such police officer\u2019s custody or in the custody of a police officer subordinate to such police officer; or\n(b) being a public servant, commits rape on a woman in such public servant\u2019s custody or in the custody of a public servant subordinate to such public servant; or\n(c) being on the management or staff of a jail, remand home or other place of custody established by or under any law for the time being in force or of a women\u2019s or children\u2019s institution, commits rape on any inmate of such jail, remand home, place or institution; or\n(d) being on the management or staff of a hospital, commits rape on a woman in that hospital; or\n(e) commits rape on a woman knowing her to be pregnant; or\n(f) commits rape on a woman when she is under twelve years of age; or\n(g) commits rape on a woman when she is under sixteen years of age; or\n(h) commits rape on a woman when the victim is infirm or disabled, mentally or physically, and the person is in a position of authority or in a fiduciary relationship towards the victim; or\n(i) being in a position of authority or in a fiduciary relationship towards the victim, commits rape on a woman who is a relative, or who is a member of the household of such person; or\n(j) being in a position of control or dominance over a woman, commits rape on such woman;\nshall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to life and shall also be liable to fine.\n\n(3) Whoever, commits rape on a woman when the victim is under eighteen years of age, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to life and shall also be liable to fine.\"\n\nSource: The Indian Penal Code, 1860 (Act No. 45 of 1860)",
+      "citations": [
+        "the Indian Penal Code Section 376"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 1.90783,
+    "timestamp": "2026-03-18T19:20:39.780568"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "Section 354 of the Indian Penal Code (IPC) covers Assault or criminal force to woman with intent to outrage her modesty. It states that whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine. (Section 354, IPC)",
+      "citations": [
+        "the Indian Penal Code Section 354"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.385458,
+    "timestamp": "2026-03-18T19:20:40.166685"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "The context provided does not mention Section 420 IPC. It only discusses sections related to offenses against women, such as Section 509, 354B, and 354A of the Indian Penal Code (IPC). Therefore, based on the given context, it is not possible to provide an answer to what Section 420 IPC states.",
+      "citations": [
+        "VIBER_e9299ac03b29",
+        "VIBER_da6f856d783b",
+        "VIBER_099c645792eb"
+      ],
+      "confidence": "high",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Question: What does IPC Section 509 deal with?\n\nAnswer: IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman....",
+        "Question: What does 354B IPC states?\n\nAnswer: The act of following, contacting, or attempting to contact a person persistently despite their clear indication of disinterest or through any other means ...",
+        "Question: What does 354A IPC states?\n\nAnswer: It encompasses various forms of unwelcome sexual behavior, including physical contact, demands for sexual favors, showing pornography against a woman's wi..."
+      ],
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 4.584589,
+    "timestamp": "2026-03-18T19:20:44.755088"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "The context provided does not mention Section 302 IPC. The information given only pertains to sections 354B, 354C, and 509 of the Indian Penal Code (IPC), which deal with stalking, voyeurism, and insulting the modesty of a woman, respectively. \n\nTo provide an accurate answer, Section 302 IPC actually pertains to punishment for murder, as per the Indian Penal Code. However, this information is not derived from the provided context but from general knowledge of the Indian Penal Code. \n\nIn the given context, there is no information about Section 302 IPC. If you need information on sections 354B, 354C, or 509, I can provide explanations based on the context.",
+      "citations": [
+        "VIBER_e9299ac03b29",
+        "VIBER_099c645792eb",
+        "IPC act Section 302",
+        "VIBER_9de34ded5cdf"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Question: What does 354B IPC states?\n\nAnswer: The act of following, contacting, or attempting to contact a person persistently despite their clear indication of disinterest or through any other means ...",
+        "Question: What does 354C IPC states?\n\nAnswer: Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent....",
+        "Question: What does IPC Section 509 deal with?\n\nAnswer: IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman...."
+      ],
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.825887,
+    "timestamp": "2026-03-18T19:20:45.581544"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Based on the provided context, specifically Source 3 (case_law), Section 498A IPC deals with protecting a woman from domestic violence when she faces cruelty or harassment, including physical harm, emotional abuse, or any act endangering her life or well-being within the marital setup. However, it is essential to note that as per Source 2 (amendments), the IPC has been completely replaced by the BNS Bharatiya Nyaya Sanhita 2023, effective July 2024, which may affect the applicability of Section 498A as it was part of the IPC.",
+      "citations": [
+        "VIBER_099c645792eb",
+        "VIBER_c6c717285129"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Question: What does IPC Section 509 deal with?\n\nAnswer: IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman....",
+        "IPC completely replaced by BNS Bharatiya Nyaya Sanhita 2023 July 2024 all sections 358 sections community service...",
+        "Question: In what circumstances can Section 498A be utilized for protecting a woman from domestic violence?\n\nAnswer: Section 498A can be utilized to protect a woman from domestic violence when she fac..."
+      ],
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.706429,
+    "timestamp": "2026-03-18T19:20:46.288229"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Based on the provided context, I must inform you that the Indian Penal Code (IPC) has been completely replaced by the Bharatiya Nyaya Sanhita (BNS) 2023, effective July 2024, with 358 sections focusing on community service (Source 1).\n\nAs a result, I do not have information on Section 376 IPC, as the IPC is no longer in effect. The context only provides information on IPC Sections 509 and 354C through case law (Source 2 and Source 3), but it does not provide information on Section 376 IPC.\n\nIf you need information on a specific section of the BNS 2023, I would be happy to try and assist you. However, please note that the provided context does not contain information on the BNS 2023 sections.",
+      "citations": [
+        "VIBER_099c645792eb",
+        "VIBER_9de34ded5cdf"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "IPC completely replaced by BNS Bharatiya Nyaya Sanhita 2023 July 2024 all sections 358 sections community service...",
+        "Question: What does IPC Section 509 deal with?\n\nAnswer: IPC Section 509 addresses the offense of words, gestures, or acts intended to insult the modesty of a woman....",
+        "Question: What does 354C IPC states?\n\nAnswer: Section 354C of the IPC tackles voyeurism, penalizing the act of watching or capturing the image of a woman in a private act without her consent...."
+      ],
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 0.718571,
+    "timestamp": "2026-03-18T19:20:47.007219"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "According to the context provided, specifically Source 1 (case_law), Section 354 IPC covers the offence of assaulting a woman with the intention to outrage her modesty. The essential ingredients of this offence are:\n\n1. The person assaulted must be a woman.\n2. The accused must have used criminal force on her.\n3. The criminal force must have been used on the woman intending thereby to outrage her modesty.\n\nIt is worth noting that the context also mentions Section 354A IPC, which deals with sexual harassment, and Section 354B IPC is not directly related to the question but deals with stalking. However, the question specifically asks about Section 354 IPC.",
+      "citations": [
+        "VIBER_da6f856d783b",
+        "VIBER_f24498c9fec9",
+        "VIBER_e9299ac03b29"
+      ],
+      "confidence": "high",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response based on retrieved context. Does not check for overruled cases or recent amendments.",
+      "system": "SimpleRAG",
+      "retrieval_used": true,
+      "num_chunks_retrieved": 3,
+      "retrieved_chunks": [
+        "Question: What are the essential ingredients of Section 354A IPC?\n\nAnswer: The essential ingredients of the offence under Section 354 IPC are as under: (i) that the person assaulted must be a woman; (...",
+        "Question: What does 354A IPC states?\n\nAnswer: It encompasses various forms of unwelcome sexual behavior, including physical contact, demands for sexual favors, showing pornography against a woman's wi...",
+        "Question: What does 354B IPC states?\n\nAnswer: The act of following, contacting, or attempting to contact a person persistently despite their clear indication of disinterest or through any other means ..."
+      ],
+      "trigger_uncertainty": false
+    },
+    "elapsed_time": 55.703656,
+    "timestamp": "2026-03-18T19:21:42.711399"
+  }
+]

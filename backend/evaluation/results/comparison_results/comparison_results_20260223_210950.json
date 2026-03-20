@@ -1,0 +1,84 @@
+{
+  "timestamp": "20260223_210950",
+  "all_results": [
+    {
+      "system": "LexAI",
+      "n_queries": 293,
+      "citation_accuracy": 100.0,
+      "hallucination_rate": 100.0,
+      "outdated_law_rate": 0.0,
+      "abstention_precision": 1.0,
+      "abstention_recall": 1.0,
+      "answer_completeness": 83.33000000000001,
+      "retrieval_precision@1": 0,
+      "retrieval_precision@3": 0,
+      "confidence_calibration_high": 100.0,
+      "confidence_calibration_medium": 100.0
+    },
+    {
+      "system": "SimpleRAG",
+      "n_queries": 293,
+      "citation_accuracy": 100.0,
+      "hallucination_rate": 100.0,
+      "outdated_law_rate": 0.0,
+      "abstention_precision": 1.0,
+      "abstention_recall": 1.0,
+      "answer_completeness": 83.33000000000001,
+      "retrieval_precision@1": 0,
+      "retrieval_precision@3": 0,
+      "confidence_calibration_high": 0,
+      "confidence_calibration_medium": 100.0
+    },
+    {
+      "system": "NoRAG",
+      "n_queries": 293,
+      "citation_accuracy": 100.0,
+      "hallucination_rate": 100.0,
+      "outdated_law_rate": 0.0,
+      "abstention_precision": 0.0,
+      "abstention_recall": 0.0,
+      "answer_completeness": 83.33000000000001,
+      "retrieval_precision@1": 0,
+      "retrieval_precision@3": 0,
+      "confidence_calibration_high": 0,
+      "confidence_calibration_medium": 99.65870307167235
+    }
+  ],
+  "statistical_tests": {
+    "citation_accuracy": {
+      "lexai": 100.0,
+      "simple_rag": 100.0,
+      "no_rag": 100.0,
+      "improvement_vs_simple_rag": 0.0,
+      "improvement_vs_no_rag": 0.0
+    },
+    "hallucination_rate": {
+      "lexai": 100.0,
+      "simple_rag": 100.0,
+      "no_rag": 100.0,
+      "improvement_vs_simple_rag": 0.0,
+      "improvement_vs_no_rag": 0.0
+    },
+    "abstention_precision": {
+      "lexai": 1.0,
+      "simple_rag": 1.0,
+      "no_rag": 0.0,
+      "improvement_vs_simple_rag": 0.0,
+      "improvement_vs_no_rag": 0
+    },
+    "retrieval_precision@3": {
+      "lexai": 0,
+      "simple_rag": 0,
+      "no_rag": 0,
+      "improvement_vs_simple_rag": 0,
+      "improvement_vs_no_rag": 0
+    },
+    "answer_completeness": {
+      "lexai": 83.33000000000001,
+      "simple_rag": 83.33000000000001,
+      "no_rag": 83.33000000000001,
+      "improvement_vs_simple_rag": 0.0,
+      "improvement_vs_no_rag": 0.0
+    }
+  }
+}

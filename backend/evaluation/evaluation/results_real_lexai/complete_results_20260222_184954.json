@@ -1,0 +1,587 @@
+{
+  "run_timestamp": "20260222_184954",
+  "config": {
+    "random_seed": 42,
+    "ground_truth_path": "evaluation/ground_truth_test_5.xlsx",
+    "run_timestamp": "20260222_184954",
+    "baselines": [
+      "NoRAG",
+      "SimpleRAG"
+    ],
+    "metrics": [
+      "CAR",
+      "HR",
+      "OLR",
+      "AP",
+      "ACS",
+      "P@K",
+      "CCS"
+    ],
+    "statistical_tests": [
+      "paired_ttest",
+      "bootstrap_ci",
+      "category_analysis",
+      "threshold_sensitivity"
+    ]
+  },
+  "ground_truth_size": 5,
+  "all_metrics": {
+    "LexAI": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 33.333333333333336,
+        "HR_citation": 0,
+        "HR_section": 100.0,
+        "HR_case": 0,
+        "total_claims": 14,
+        "hallucinated_claims": 14
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 0,
+        "abstention_recall": 0.0,
+        "abstention_f1": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 66.66666666666666,
+        "ACS_by_category": {
+          "Section Lookup": 66.66666666666666
+        },
+        "individual_scores": [
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666,
+          66.66666666666666
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 0,
+        "count_medium": 0,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0,
+        "is_well_calibrated": true
+      }
+    },
+    "NoRAG": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 33.333333333333336,
+        "HR_citation": 0.0,
+        "HR_section": 100.0,
+        "HR_case": 0,
+        "total_claims": 14,
+        "hallucinated_claims": 9
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 0,
+        "abstention_recall": 0.0,
+        "abstention_f1": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 100.0,
+        "ACS_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          100.0,
+          100.0,
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 100.0,
+        "count_medium": 5,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.275,
+        "is_well_calibrated": "False"
+      }
+    },
+    "SimpleRAG": {
+      "CAR": {
+        "CAR_overall": 100.0,
+        "CAR_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "HR": {
+        "HR_overall": 33.333333333333336,
+        "HR_citation": 0.0,
+        "HR_section": 100.0,
+        "HR_case": 0,
+        "total_claims": 24,
+        "hallucinated_claims": 18
+      },
+      "OLR": {
+        "OLR_overall": 0.0,
+        "OLR_ipc_bns": 0,
+        "OLR_amendment": 0,
+        "OLR_overruled": 0,
+        "applicable_cases": {
+          "ipc_bns": 0,
+          "amendment": 0,
+          "overruled": 0
+        }
+      },
+      "AP": {
+        "abstention_precision": 0,
+        "abstention_recall": 0.0,
+        "abstention_f1": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "tn": 0
+      },
+      "ACS": {
+        "ACS_overall": 100.0,
+        "ACS_by_category": {
+          "Section Lookup": 100.0
+        },
+        "individual_scores": [
+          100.0,
+          100.0,
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "Precision_at_K": {
+        "P@1": 0,
+        "P@3": 0
+      },
+      "CCS": {
+        "accuracy_at_high": 0,
+        "count_high": 0,
+        "accuracy_at_medium": 100.0,
+        "count_medium": 5,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.275,
+        "is_well_calibrated": "False"
+      }
+    }
+  },
+  "statistical_tests": {
+    "significance_tests": {
+      "NoRAG": {
+        "baseline": "NoRAG",
+        "comparisons": {
+          "CAR": {
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant": "False",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": 0.0
+          },
+          "ACS": {
+            "t_statistic": -Infinity,
+            "p_value": 0.0,
+            "significant": "True",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": -33.33333333333334
+          }
+        }
+      },
+      "SimpleRAG": {
+        "baseline": "SimpleRAG",
+        "comparisons": {
+          "CAR": {
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant": "False",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": 0.0
+          },
+          "ACS": {
+            "t_statistic": -Infinity,
+            "p_value": 0.0,
+            "significant": "True",
+            "cohens_d": 0.0,
+            "effect_size_interpretation": "negligible",
+            "mean_difference": -33.33333333333334
+          }
+        }
+      }
+    },
+    "confidence_intervals": {
+      "lexai": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 66.66666666666666,
+          "ci_lower": 66.66666666666666,
+          "ci_upper": 66.66666666666666,
+          "ci_width": 0.0
+        }
+      },
+      "NoRAG": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 100.0,
+          "ci_lower": 100.0,
+          "ci_upper": 100.0,
+          "ci_width": 0.0
+        }
+      },
+      "SimpleRAG": {
+        "CAR": {
+          "mean": 1.0,
+          "ci_lower": 1.0,
+          "ci_upper": 1.0,
+          "ci_width": 0.0
+        },
+        "ACS": {
+          "mean": 100.0,
+          "ci_lower": 100.0,
+          "ci_upper": 100.0,
+          "ci_width": 0.0
+        }
+      }
+    },
+    "category_analysis": {
+      "lexai": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 66.66666666666666,
+            "std": 0.0,
+            "n": 5
+          }
+        }
+      },
+      "NoRAG": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 100.0,
+            "std": 0.0,
+            "n": 5
+          }
+        }
+      },
+      "SimpleRAG": {
+        "Section Lookup": {
+          "CAR": {
+            "mean": 1.0,
+            "std": 0.0,
+            "n": 5
+          },
+          "ACS": {
+            "mean": 100.0,
+            "std": 0.0,
+            "n": 5
+          }
+        }
+      }
+    },
+    "threshold_sensitivity": {
+      "threshold_0.60": {
+        "abstention_rate": 0.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 5,
+        "queries_abstained": 0
+      },
+      "threshold_0.65": {
+        "abstention_rate": 0.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 5,
+        "queries_abstained": 0
+      },
+      "threshold_0.70": {
+        "abstention_rate": 0.0,
+        "accuracy_on_answered": 100.0,
+        "queries_answered": 5,
+        "queries_abstained": 0
+      },
+      "threshold_0.75": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.80": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.85": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      },
+      "threshold_0.90": {
+        "abstention_rate": 100.0,
+        "accuracy_on_answered": 0.0,
+        "queries_answered": 0,
+        "queries_abstained": 5
+      }
+    },
+    "inter_rater_reliability": {}
+  },
+  "error_analysis": {
+    "failure_categories": {
+      "total_errors": 0,
+      "distribution": {
+        "database_gap": {
+          "count": 0,
+          "percentage": 0
+        },
+        "retrieval_failure": {
+          "count": 0,
+          "percentage": 0
+        },
+        "llm_hallucination": {
+          "count": 0,
+          "percentage": 0
+        },
+        "transition_missed": {
+          "count": 0,
+          "percentage": 0
+        },
+        "overruling_missed": {
+          "count": 0,
+          "percentage": 0
+        },
+        "amendment_missed": {
+          "count": 0,
+          "percentage": 0
+        }
+      },
+      "examples": {}
+    },
+    "confusion_matrix": {
+      "matrix": {
+        "low": {
+          "correct": 0,
+          "incorrect": 0
+        },
+        "medium": {
+          "correct": 0,
+          "incorrect": 0
+        },
+        "high": {
+          "correct": 0,
+          "incorrect": 0
+        }
+      },
+      "accuracy_by_confidence": {
+        "low": {
+          "accuracy": 0.0,
+          "total_predictions": 0
+        },
+        "medium": {
+          "accuracy": 0.0,
+          "total_predictions": 0
+        },
+        "high": {
+          "accuracy": 0.0,
+          "total_predictions": 0
+        }
+      }
+    },
+    "difficulty_correlation": {
+      "by_difficulty": {
+        "medium": {
+          "accuracy": 0.0,
+          "n_queries": 5,
+          "std": 0.0
+        }
+      },
+      "correlation": NaN,
+      "correlation_interpretation": "positive"
+    },
+    "bns_analysis": {
+      "total_bns_queries": 0,
+      "transition_detected": 0,
+      "transition_missed": 0,
+      "false_positives": 0,
+      "examples": [],
+      "detection_rate": 0.0
+    },
+    "examples": {
+      "best_examples": [
+        {
+          "query": "What does Section 420 IPC say?",
+          "category": "Section Lookup",
+          "answer": "Section 420 of the Indian Penal Code (IPC) pertains to cheating and dishonestly inducing delivery of property. \nAccording to the section, whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a ",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "Explain Section 302 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer based on the current database as the provided context does not contain any information about Section 302 of the Indian Penal Code (IPC). \n\nThe provided context is empty, and there are no sources to cite. \n\nPlease note that Section 302 IPC generally pertains to puni",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "What is Section 498A IPC?",
+          "category": "Section Lookup",
+          "answer": "Section 498A of the Indian Penal Code (IPC) pertains to husband or relative of husband of a woman subjecting her to cruelty. \n(Section 498A, IPC)\n\nThis section states that whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with impr",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "Show me Section 376 IPC",
+          "category": "Section Lookup",
+          "answer": "Section 376 of the Indian Penal Code (IPC) pertains to the punishment for rape. \n\nAs per Section 376 IPC, whoever commits rape shall be punished with rigorous imprisonment of not less than seven years, but which may extend to life imprisonment, and shall also be liable to fine (Section 376(1) IPC).\n",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "What does Section 354 IPC cover?",
+          "category": "Section Lookup",
+          "answer": "Section 354 of the Indian Penal Code (IPC) covers the offense of Assault or criminal force to woman with intent to outrage her modesty. \n(Section 354, Indian Penal Code, 1860)\n\nThe legal reasoning behind this section is to protect the modesty of women and to punish those who outrage or attempt to ou",
+          "confidence": "NONE",
+          "score": 0.35
+        }
+      ],
+      "worst_examples": [
+        {
+          "query": "What does Section 420 IPC say?",
+          "category": "Section Lookup",
+          "answer": "Section 420 of the Indian Penal Code (IPC) pertains to cheating and dishonestly inducing delivery of property. \nAccording to the section, whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a ",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "Explain Section 302 IPC",
+          "category": "Section Lookup",
+          "answer": "I cannot provide a reliable answer based on the current database as the provided context does not contain any information about Section 302 of the Indian Penal Code (IPC). \n\nThe provided context is empty, and there are no sources to cite. \n\nPlease note that Section 302 IPC generally pertains to puni",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "What is Section 498A IPC?",
+          "category": "Section Lookup",
+          "answer": "Section 498A of the Indian Penal Code (IPC) pertains to husband or relative of husband of a woman subjecting her to cruelty. \n(Section 498A, IPC)\n\nThis section states that whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with impr",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "Show me Section 376 IPC",
+          "category": "Section Lookup",
+          "answer": "Section 376 of the Indian Penal Code (IPC) pertains to the punishment for rape. \n\nAs per Section 376 IPC, whoever commits rape shall be punished with rigorous imprisonment of not less than seven years, but which may extend to life imprisonment, and shall also be liable to fine (Section 376(1) IPC).\n",
+          "confidence": "NONE",
+          "score": 0.35
+        },
+        {
+          "query": "What does Section 354 IPC cover?",
+          "category": "Section Lookup",
+          "answer": "Section 354 of the Indian Penal Code (IPC) covers the offense of Assault or criminal force to woman with intent to outrage her modesty. \n(Section 354, Indian Penal Code, 1860)\n\nThe legal reasoning behind this section is to protect the modesty of women and to punish those who outrage or attempt to ou",
+          "confidence": "NONE",
+          "score": 0.35
+        }
+      ],
+      "interesting_cases": []
+    }
+  },
+  "output_files": {
+    "table1": "\\begin{table}[ht]\n\\centering\n\\caption{Performance comparison across all systems}\n\\label{tab:main_results}\n\\begin{tabular}{lccc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{NoRAG} & \\textbf{SimpleRAG} \\\\\n\\midrule\nCAR & \\textbf{100.0} & 100.0* & 100.0* \\\\\nHR & \\textbf{33.3} & 33.3* & 33.3* \\\\\nOLR & \\textbf{0.0} & 0.0* & 0.0* \\\\\nAP & \\textbf{0.0} & 0.0* & 0.0* \\\\\nAR & \\textbf{0.0} & 0.0* & 0.0* \\\\\nF1 & \\textbf{0.0} & 0.0* & 0.0* \\\\\nACS & 66.7 & \\textbf{100.0}* & 100.0* \\\\\nP@1 & N/A & N/A & N/A \\\\\nP@3 & N/A & N/A & N/A \\\\\nCCS & \\textbf{0.000} & 0.275* & 0.275* \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table2": "\\begin{table}[ht]\n\\centering\n\\caption{Performance breakdown by query category}\n\\label{tab:category_performance}\n\\begin{tabular}{lcccc}\n\\toprule\n\\textbf{Category} & \\textbf{LexAI CAR} & \\textbf{LexAI ACS} & \\textbf{Baseline CAR} & \\textbf{Baseline ACS} \\\\\n\\midrule\nSection Lookup & 1.0 & 66.7 & 0.0 & 0.0 \\\\\nPunishment Query & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nAmendment Tracking & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nIPC to BNS Transition & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nCase Law Search & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nOverruled Cases & 0.0 & 0.0 & 0.0 & 0.0 \\\\\nComplex Interpretation & 0.0 & 0.0 & 0.0 & 0.0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "table4": "\\begin{table}[ht]\n\\centering\n\\caption{BNS transition detection performance}\n\\label{tab:bns_transitions}\n\\begin{tabular}{lcc}\n\\toprule\n\\textbf{Metric} & \\textbf{LexAI} & \\textbf{SimpleRAG} \\\\\n\\midrule\nDetection Rate (\\%) & 0.0 & 0.0 \\\\\nTransitions Missed & 0 & 0 \\\\\nFalse Positives & 2 & 0 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}",
+    "figure1": "evaluation/results_real_lexai/figure1_hallucination.png",
+    "figure2": "evaluation/results_real_lexai/figure2_calibration.png",
+    "figure3": "evaluation/results_real_lexai/figure3_threshold_sensitivity.png",
+    "figure4": "evaluation/results_real_lexai/figure4_error_distribution.png",
+    "figure5": "evaluation/results_real_lexai/figure5_bns_handling.png"
+  }
+}

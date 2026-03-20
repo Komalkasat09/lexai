@@ -1,0 +1,173 @@
+[
+  {
+    "system": "NoRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. It states:\n\n\"Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\"\n\n- Section 420, Indian Penal Code, 1860.",
+      "citations": [
+        "the Indian Penal Code Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 34.496445,
+    "timestamp": "2026-02-22T20:10:59.915440"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 77. Please try again in 1m6.527999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 77. Please try again in 1m6.527999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.014207,
+    "timestamp": "2026-02-22T20:10:59.932271"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 79. Please try again in 1m8.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 79. Please try again in 1m8.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.014208,
+    "timestamp": "2026-02-22T20:10:59.946685"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 77. Please try again in 1m6.527999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 77. Please try again in 1m6.527999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.01538,
+    "timestamp": "2026-02-22T20:10:59.962209"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 79. Please try again in 1m8.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "NoRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 79. Please try again in 1m8.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.013179,
+    "timestamp": "2026-02-22T20:10:59.975501"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "SimpleRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.058565,
+    "timestamp": "2026-02-22T20:11:00.036233"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 86. Please try again in 1m14.304s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "SimpleRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 86. Please try again in 1m14.304s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.038169,
+    "timestamp": "2026-02-22T20:11:00.074651"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "SimpleRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.04014,
+    "timestamp": "2026-02-22T20:11:00.115033"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 87. Please try again in 1m15.168s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "SimpleRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 87. Please try again in 1m15.168s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.03806,
+    "timestamp": "2026-02-22T20:11:00.153330"
+  },
+  {
+    "system": "SimpleRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "citations": [],
+      "confidence": "low",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Error occurred during processing",
+      "system": "SimpleRAG",
+      "retrieval_used": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 88. Please try again in 1m16.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    "elapsed_time": 0.039122,
+    "timestamp": "2026-02-22T20:11:00.192686"
+  }
+]

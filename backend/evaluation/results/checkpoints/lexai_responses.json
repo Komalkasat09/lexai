@@ -1,0 +1,3518 @@
+[
+  {
+    "query": "What does Section 420 IPC say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 420 IPC say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 302 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 302 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 498A IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 498A IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Show me Section 376 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Show me Section 376 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 354 IPC cover?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 354 IPC cover?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 506 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 506 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 323 IPC about?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 323 IPC about?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 406 IPC say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 406 IPC say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 279 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 279 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 304B IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 304B IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 120B IPC say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 120B IPC say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 166 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 166 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 34 IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 34 IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Show me Section 307 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Show me Section 307 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 411 IPC cover?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 411 IPC cover?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 318 BNS say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 318 BNS say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 103 BNS",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 103 BNS...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 69 BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 69 BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Show me Section 351 BNS",
+    "answer": "[PLACEHOLDER: LexAI response to: Show me Section 351 BNS...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 214 BNS cover?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 214 BNS cover?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 138 of the Negotiable Instruments Act say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 138 of the Negotiable Instrument...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 141 NI Act",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 141 NI Act...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 143 of NI Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 143 of NI Act?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 139 NI Act say about presumption?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 139 NI Act say about presumption...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 41 CrPC say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 41 CrPC say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 154 CrPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 154 CrPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 482 CrPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 482 CrPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Show me Section 125 CrPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Show me Section 125 CrPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 438 CrPC cover?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 438 CrPC cover?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 156(3) CrPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 156(3) CrPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 167 CrPC about?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 167 CrPC about?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 35 BNSS say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 35 BNSS say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 173 BNSS",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 173 BNSS...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 528 BNSS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 528 BNSS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 9 of the Arbitration Act say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 9 of the Arbitration Act say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 66A of the IT Act",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 66A of the IT Act...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 141 of the Companies Act 2013?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 141 of the Companies Act 2013?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Show me Section 27 of the Indian Evidence Act",
+    "answer": "[PLACEHOLDER: LexAI response to: Show me Section 27 of the Indian Evidence Act...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 8 of the Hindu Marriage Act say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 8 of the Hindu Marriage Act say?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 65B of the Evidence Act",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 65B of the Evidence Act...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is Section 17 of the Registration Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is Section 17 of the Registration Act?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What does Section 53A of the Transfer of Property Act say?",
+    "answer": "[PLACEHOLDER: LexAI response to: What does Section 53A of the Transfer of Property ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Explain Section 2(h) of the Consumer Protection Act",
+    "answer": "[PLACEHOLDER: LexAI response to: Explain Section 2(h) of the Consumer Protection Ac...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for rape under BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for rape under BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for cheque bounce?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for cheque bounce?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years imprisonment for murder under IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years imprisonment for murder under IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for dowry harassment under Section 498A?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for dowry harassment under ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for criminal breach of trust under IPC 406?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for criminal breach of trust ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long can you be jailed for causing death by negligence?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long can you be jailed for causing death by ne...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for dishonest misappropriation?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for dishonest misappropriat...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for gang rape under IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for gang rape under IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for kidnapping under IPC 363?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for kidnapping under IPC 363?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for attempt to murder under Section 307 IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for attempt to murder under...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for culpable homicide not amounting to murder?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for culpable homicide not amo...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long imprisonment for robbery under IPC 392?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long imprisonment for robbery under IPC 392?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for dacoity with murder?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for dacoity with murder?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for causing grievous hurt under IPC 325?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for causing grievous hurt und...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for criminal intimidation under IPC 506?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for criminal intimidation under IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for assault on woman with intent to outrage modesty?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for assault on woman with i...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for wrongful confinement under IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for wrongful confinement unde...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long imprisonment for rioting under IPC 147?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long imprisonment for rioting under IPC 147?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for sedition under IPC 124A?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for sedition under IPC 124A...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for defamation under IPC 500?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for defamation under IPC 500?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for falsifying accounts under Companies Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for falsifying accounts under Compa...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for insider trading under SEBI Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for insider trading under S...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for contempt of court?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for contempt of court?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long imprisonment for POCSO Act violations?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long imprisonment for POCSO Act violations?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for money laundering under PMLA?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for money laundering under ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for terrorism under UAPA?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for terrorism under UAPA?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for cheating under BNS 318?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for cheating under BNS 318?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for theft under BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for theft under BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for destruction of evidence under IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for destruction of evidence u...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long imprisonment for forgery of valuable security?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long imprisonment for forgery of valuable secu...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for abetment to suicide under IPC 306?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for abetment to suicide und...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for drunk driving causing death?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for drunk driving causing dea...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for running a prostitution racket?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for running a prostitution racket?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for bribery under Prevention of Corruption Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for bribery under Preventio...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for narcotics possession under NDPS Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for narcotics possession unde...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How long imprisonment for criminal conspiracy to commit murder?",
+    "answer": "[PLACEHOLDER: LexAI response to: How long imprisonment for criminal conspiracy to c...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for rioting with deadly weapon?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for rioting with deadly wea...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the sentence for voluntarily causing hurt to extort confession?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the sentence for voluntarily causing hurt ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "How many years for dishonest inducement to deliver property?",
+    "answer": "[PLACEHOLDER: LexAI response to: How many years for dishonest inducement to deliver...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the punishment for criminal trespass with intent to commit offense?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the punishment for criminal trespass with ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has Section 66A IT Act been struck down?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has Section 66A IT Act been struck down?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in CrPC after BNSS came into force?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in CrPC after BNSS came into force?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the new bail provisions under BNSS 2023?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the new bail provisions under BNSS 2023?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Was adultery decriminalized in India?",
+    "answer": "[PLACEHOLDER: LexAI response to: Was adultery decriminalized in India?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to Section 377 IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to Section 377 IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of rape been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of rape been amended?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changes did the 2013 Criminal Law Amendment make to IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changes did the 2013 Criminal Law Amendment m...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is triple talaq still valid in India?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is triple talaq still valid in India?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in the Arbitration Act after 2019 amendment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in the Arbitration Act after 2019 ame...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Companies Act 2013 been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Companies Act 2013 been amended?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the new provisions for anticipatory bail?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the new provisions for anticipatory bail?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Did the definition of sedition change?",
+    "answer": "[PLACEHOLDER: LexAI response to: Did the definition of sedition change?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What amendments were made to POCSO Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What amendments were made to POCSO Act?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the divorce law under Hindu Marriage Act been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the divorce law under Hindu Marriage Act been ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in cheque bounce law after Supreme Court judgments?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in cheque bounce law after Supreme Co...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new provisions for victim compensation in BNSS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new provisions for victim compensation i...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to death penalty for gang rape?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to death penalty for gang rape?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the age of consent been changed?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the age of consent been changed?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the new stalking provisions in IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the new stalking provisions in IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Did the definition of abetment to suicide change after Sushant Singh case?",
+    "answer": "[PLACEHOLDER: LexAI response to: Did the definition of abetment to suicide change a...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What amendments were made to dowry laws?",
+    "answer": "[PLACEHOLDER: LexAI response to: What amendments were made to dowry laws?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the juvenile justice age been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the juvenile justice age been amended?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in arrest procedures under BNSS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in arrest procedures under BNSS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new electronic evidence provisions?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new electronic evidence provisions?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to handcuffs provision in CrPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to handcuffs provision in CrPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the witness protection law been formalized?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the witness protection law been formalized?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in inquiry and trial timelines under BNSS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in inquiry and trial timelines under ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new provisions for audio-video recording of statements?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new provisions for audio-video recording...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What amendments were made to FIR registration procedures?",
+    "answer": "[PLACEHOLDER: LexAI response to: What amendments were made to FIR registration proc...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the plea bargaining provision been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the plea bargaining provision been amended?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in summons and warrant procedures?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in summons and warrant procedures?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new provisions for forensic investigation?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new provisions for forensic investigatio...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to Section 377 after Navtej Johar judgment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to Section 377 after Navtej Johar ju...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of criminal breach of trust been amended?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of criminal breach of trust bee...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in anticipatory bail for scheduled offenses?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in anticipatory bail for scheduled of...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new provisions for crime against children?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new provisions for crime against childre...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What amendments were made to sexual assault laws post-Nirbhaya?",
+    "answer": "[PLACEHOLDER: LexAI response to: What amendments were made to sexual assault laws p...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of document been expanded for cybercrimes?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of document been expanded for c...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in defamation law after recent judgments?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in defamation law after recent judgme...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Are there new provisions for victim participation in trials?",
+    "answer": "[PLACEHOLDER: LexAI response to: Are there new provisions for victim participation ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 420?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 420?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has IPC 302 been replaced?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has IPC 302 been replaced?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What changed in the definition of rape from IPC to BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What changed in the definition of rape from IPC to...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is IPC still valid or has BNS replaced it completely?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is IPC still valid or has BNS replaced it complete...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 376 called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 376 called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the punishment for murder changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the punishment for murder changed in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 498A?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 498A?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is theft defined differently in BNS compared to IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is theft defined differently in BNS compared to IP...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 307 called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 307 called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of cheating changed from IPC to BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of cheating changed from IPC to...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS section for criminal breach of trust?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS section for criminal breach of tru...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is IPC 354 the same as any BNS section?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is IPC 354 the same as any BNS section?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to IPC 377 in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to IPC 377 in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 506 (criminal intimidation)?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 506 (criminal in...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of kidnapping changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of kidnapping changed in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 120B called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 120B called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is wrongful confinement defined differently in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is wrongful confinement defined differently in BNS...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS section for defamation?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS section for defamation?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has assault definition changed from IPC to BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has assault definition changed from IPC to BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 304B (dowry death) called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 304B (dowry death) called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is gang rape punishment different in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is gang rape punishment different in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 147 (rioting)?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 147 (rioting)?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of hurt changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of hurt changed in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 279 (rash driving) called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 279 (rash driving) called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is adultery still a crime under BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is adultery still a crime under BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS section for sedition?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS section for sedition?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has abetment to suicide changed from IPC to BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has abetment to suicide changed from IPC to BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 411 (dishonestly receiving stolen property) in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 411 (dishonestly receiving stolen prop...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is forgery defined the same way in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is forgery defined the same way in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 366 (kidnapping for marriage)?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 366 (kidnapping ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the concept of common intention (IPC 34) changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the concept of common intention (IPC 34) chang...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 109 (abetment) called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 109 (abetment) called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is voluntarily causing grievous hurt different in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is voluntarily causing grievous hurt different in ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS section for robbery with murder?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS section for robbery with murder?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the definition of a woman been updated in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the definition of a woman been updated in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 201 (destruction of evidence) in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 201 (destruction of evidence) in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is criminal trespass defined differently in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is criminal trespass defined differently in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 325?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 325?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the age of criminal responsibility changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the age of criminal responsibility changed in ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 511 (attempt) called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 511 (attempt) called in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the definition of public servant different in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the definition of public servant different in B...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS section for eve-teasing (IPC 509)?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS section for eve-teasing (IPC 509)?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the concept of mens rea changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the concept of mens rea changed in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 141 (unlawful assembly) in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 141 (unlawful assembly) in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is extortion defined the same in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is extortion defined the same in BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the BNS equivalent of IPC 323 (voluntarily causing hurt)?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the BNS equivalent of IPC 323 (voluntarily...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the punishment for culpable homicide changed in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the punishment for culpable homicide changed i...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is IPC 406 (criminal breach of trust) called in BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is IPC 406 (criminal breach of trust) called ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the insanity defense different under BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the insanity defense different under BNS?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "When did BNS come into force replacing IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: When did BNS come into force replacing IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark cases on cheque bounce Section 138",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark cases on cheque bounce Section 138...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court judgment on anticipatory bail principles",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court judgment on anticipatory bail princi...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on dowry harassment Section 498A IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on dowry harassment Section 498A IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on right to silence",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on right to silence...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court cases on sedition Section 124A",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court cases on sedition Section 124A...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgments on Section 377 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgments on Section 377 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on adultery Section 497 IPC",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on adultery Section 497 IPC...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on rape and consent",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on rape and consent...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on interpretation of murder vs culpable homicide",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on interpretation of murder vs culpa...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on criminal breach of trust by public servant",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on criminal breach of trust by public servan...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on defamation and free speech",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on defamation and free speech...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on Section 498A misuse",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on Section 498A misuse...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on triple talaq constitutional validity",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on triple talaq constitutional validity...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on right to privacy",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on right to privacy...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on death penalty guidelines",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on death penalty guidelines...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on juvenile age determination",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on juvenile age determination...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on custodial torture",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on custodial torture...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on bail is the rule, jail is exception",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on bail is the rule, jail is excepti...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on Section 66A IT Act constitutionality",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on Section 66A IT Act constitutionality...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on live-in relationships",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on live-in relationships...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on extraordinary powers under Article 142",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on extraordinary powers under Articl...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on marital rape not being a crime",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on marital rape not being a crime...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on Aadhaar constitutional validity",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on Aadhaar constitutional validi...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on abortion rights",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on abortion rights...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on UAPA and terrorism",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on UAPA and terrorism...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on res judicata in criminal law",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on res judicata in criminal law...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on plea bargaining",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on plea bargaining...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on compounding of offenses",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on compounding of offenses...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on FIR quashing under Section 482",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on FIR quashing under Section 48...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on anticipatory bail for economic offenses",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on anticipatory bail for economic of...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on Section 156(3) CrPC investigation direction",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on Section 156(3) CrPC investigation directi...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on dying declaration evidentiary value",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on dying declaration evidentiar...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on POCSO Act strict liability",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on POCSO Act strict liability...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on narco analysis admissibility",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on narco analysis admissibility...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on witness protection",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on witness protection...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on victim compensation",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on victim compensation...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on Section 313 CrPC statement of accused",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on Section 313 CrPC statement of accused...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on adverse inference from silence",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on adverse inference from silen...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on electronic evidence Section 65B",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on electronic evidence Section 65B...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on police custody vs judicial custody",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on police custody vs judicial custody...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on right to speedy trial",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on right to speedy trial...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on principles of natural justice in criminal law",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on principles of natural justice in ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on territorial jurisdiction in cybercrime",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on territorial jurisdiction in cybercrime...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on entrapment and sting operations",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on entrapment and sting operati...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on burden of proof in criminal cases",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on burden of proof in criminal cases...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on circumstantial evidence being sole basis",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on circumstantial evidence being sole basis...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Landmark judgment on hostile witness",
+    "answer": "[PLACEHOLDER: LexAI response to: Landmark judgment on hostile witness...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Supreme Court on double jeopardy Article 20",
+    "answer": "[PLACEHOLDER: LexAI response to: Supreme Court on double jeopardy Article 20...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Cases on compulsory self-incrimination",
+    "answer": "[PLACEHOLDER: LexAI response to: Cases on compulsory self-incrimination...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Important judgment on standard of proof beyond reasonable doubt",
+    "answer": "[PLACEHOLDER: LexAI response to: Important judgment on standard of proof beyond rea...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is A.K. Gopalan v State of Madras still good law?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is A.K. Gopalan v State of Madras still good law?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the judgment in Suresh Kumar Koushal case?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the judgment in Suresh Kumar Kous...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has ADM Jabalpur v Shukla been overruled?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has ADM Jabalpur v Shukla been overruled?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Joseph Shine judgment on adultery still valid?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Joseph Shine judgment on adultery still val...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to Maneka Gandhi v Union of India?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to Maneka Gandhi v Union of India?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has Kesavananda Bharati been overruled?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has Kesavananda Bharati been overruled?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is Shreya Singhal v Union of India still good law?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is Shreya Singhal v Union of India still good law?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Navtej Johar judgment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Navtej Johar judgment?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has Vishaka v State of Rajasthan been superseded?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has Vishaka v State of Rajasthan been superseded?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Aruna Shanbaug passive euthanasia judgment still valid?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Aruna Shanbaug passive euthanasia judgment ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Common Cause judgment on living will?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Common Cause judgment on livi...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Lily Thomas judgment on convicted MPs been overruled?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Lily Thomas judgment on convicted MPs been...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is Golaknath v State of Punjab still good law?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is Golaknath v State of Punjab still good law?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Second Judges Case?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Second Judges Case?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the NJAC judgment been challenged?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the NJAC judgment been challenged?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Puttaswamy right to privacy judgment still valid?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Puttaswamy right to privacy judgment still ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Sabarimala temple entry judgment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Sabarimala temple entry judgm...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has Shah Bano been effectively overruled by legislation?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has Shah Bano been effectively overruled by legisl...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Indra Sawhney reservation judgment still good law?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Indra Sawhney reservation judgment still go...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Shayara Bano triple talaq judgment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Shayara Bano triple talaq jud...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Mathura rape case judgment been overruled?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Mathura rape case judgment been overruled?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is Bachan Singh on death penalty still valid?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is Bachan Singh on death penalty still valid?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Hadiya marriage case?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Hadiya marriage case?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Section 377 judgment been challenged after decriminalization?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Section 377 judgment been challenged after...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Nirbhaya juvenile convict judgment still good law?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Nirbhaya juvenile convict judgment still go...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the Lalita Kumari FIR registration judgment?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the Lalita Kumari FIR registratio...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Arnesh Kumar arrest guidelines judgment been modified?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Arnesh Kumar arrest guidelines judgment be...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Is the Rajesh Sharma 498A guidelines judgment still valid?",
+    "answer": "[PLACEHOLDER: LexAI response to: Is the Rajesh Sharma 498A guidelines judgment stil...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What happened to the DK Basu custodial violence guidelines?",
+    "answer": "[PLACEHOLDER: LexAI response to: What happened to the DK Basu custodial violence gu...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "Has the Jolly George Varghese civil prison judgment been overruled?",
+    "answer": "[PLACEHOLDER: LexAI response to: Has the Jolly George Varghese civil prison judgmen...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the ingredients to prove cheating under IPC 420?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the ingredients to prove cheating under I...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What must prosecution prove in a murder trial?",
+    "answer": "[PLACEHOLDER: LexAI response to: What must prosecution prove in a murder trial?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the legal position on anticipatory bail for economic offences?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the legal position on anticipatory bail fo...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the essential elements of defamation?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the essential elements of defamation?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes consent in rape cases under IPC/BNS?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes consent in rape cases under IPC/B...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the differences between murder and culpable homicide?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the differences between murder and culpab...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the test for determining abetment to suicide?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the test for determining abetment to suici...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the ingredients of criminal breach of trust?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the ingredients of criminal breach of tru...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes a valid FIR under CrPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes a valid FIR under CrPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the grounds for quashing FIR under Section 482?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the grounds for quashing FIR under Sectio...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between bail and anticipatory bail?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between bail and anticipato...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal requirements for dying declaration?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal requirements for dying declarat...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes cruelty under Section 498A IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes cruelty under Section 498A IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the test for mens rea in criminal cases?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the test for mens rea in criminal cases?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the ingredients of criminal conspiracy?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the ingredients of criminal conspiracy?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes a cognizable vs non-cognizable offense?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes a cognizable vs non-cognizable of...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between bailable and non-bailable offenses?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between bailable and non-ba...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal requirements for electronic evidence admissibility?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal requirements for electronic evi...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes a hostile witness?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes a hostile witness?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between examination-in-chief and cross-examination?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between examination-in-chie...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal grounds for seeking divorce under Hindu Marriage Act?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal grounds for seeking divorce und...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes dishonest intention under IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes dishonest intention under IPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between theft, robbery, and dacoity?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between theft, robbery, and...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the ingredients of extortion?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the ingredients of extortion?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes wrongful confinement vs wrongful restraint?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes wrongful confinement vs wrongful ...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the legal test for obscenity?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the legal test for obscenity?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the elements of criminal intimidation?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the elements of criminal intimidation?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes voluntarily causing hurt vs grievous hurt?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes voluntarily causing hurt vs griev...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between rioting and unlawful assembly?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between rioting and unlawfu...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal requirements for arrest without warrant?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal requirements for arrest without...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes a continuing offense?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes a continuing offense?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the doctrine of common intention under Section 34 IPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the doctrine of common intention under Sec...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the ingredients of forgery?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the ingredients of forgery?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes criminal trespass?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes criminal trespass?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the difference between robbery with murder and dacoity with murder?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the difference between robbery with murder...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal grounds for seeking anticipatory bail?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal grounds for seeking anticipator...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes valid service of summons?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes valid service of summons?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What is the test for determining juvenile status?",
+    "answer": "[PLACEHOLDER: LexAI response to: What is the test for determining juvenile status?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What are the legal requirements for compounding of offenses?",
+    "answer": "[PLACEHOLDER: LexAI response to: What are the legal requirements for compounding of...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  },
+  {
+    "query": "What constitutes a charge sheet under CrPC?",
+    "answer": "[PLACEHOLDER: LexAI response to: What constitutes a charge sheet under CrPC?...]",
+    "confidence": "high",
+    "structured_response": {
+      "act_cited": "Bharatiya Nyaya Sanhita",
+      "section_cited": "101",
+      "case_citations": []
+    },
+    "bns_transition_note": "IPC Section 300 is now BNS Section 101",
+    "retrieved_chunks": []
+  }
+]

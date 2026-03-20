@@ -1,0 +1,92 @@
+[
+  {
+    "system": "NoRAG",
+    "query": "What does Section 420 IPC say?",
+    "response": {
+      "answer": "Section 420 of the Indian Penal Code (IPC) deals with cheating and dishonestly inducing delivery of property. It states:\n\n\"Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\"\n\n(Section 420, Indian Penal Code, 1860)",
+      "citations": [
+        "the Indian Penal Code Section 420"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.48965,
+    "timestamp": "2026-02-22T18:50:05.139252"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Explain Section 302 IPC",
+    "response": {
+      "answer": "Section 302 of the Indian Penal Code (IPC) pertains to punishment for murder. It states:\n\n\"Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.\"\n\nIn essence, this section prescribes the punishment for the offense of murder, as defined under Section 299 and explained under Section 300 of the IPC. \n\nSection 299 IPC defines murder, and Section 300 IPC explains the exceptions to culpable homicide, which is considered murder.\n\nThe punishment under Section 302 IPC can be either death or life imprisonment, along with a fine. However, the death penalty is awarded only in the \"rarest of rare\" cases, as per the guidelines laid down by the Supreme Court of India in the case of Bachan Singh v. State of Punjab (1980) 2 SCC 684.",
+      "citations": [
+        "the Indian Penal Code Section 302"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.679714,
+    "timestamp": "2026-02-22T18:50:05.819616"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What is Section 498A IPC?",
+    "response": {
+      "answer": "Section 498A of the Indian Penal Code (IPC) deals with \"Husband or relative of husband of a woman subjecting her to cruelty\". It states that whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.\n\nThe section defines cruelty as:\n\n- Any willful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n- Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.\n\n Citation: Section 498A, Indian Penal Code, 1860.",
+      "citations": [
+        "the Indian Penal Code Section 498A"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.759039,
+    "timestamp": "2026-02-22T18:50:06.578974"
+  },
+  {
+    "system": "NoRAG",
+    "query": "Show me Section 376 IPC",
+    "response": {
+      "answer": "Section 376 of the Indian Penal Code (IPC) deals with punishment for rape. It states:\n\n\"376. Punishment for rape.\u2014(1) Whoever, except in the cases provided for by sub-section (2), commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than seven years but which may extend to imprisonment for life and shall also be liable to fine.\n\n(2) Whoever,\u2014\n(a) being a police officer, commits rape\u2014\n(i) within the limits of the police station to which such police officer is appointed; or\n(ii) in the premises of any police station; or\n(iii) on a woman in such police officer\u2019s custody or in the custody of a police officer subordinate to such police officer; or\n(b) being a public servant, commits rape on a woman in such public servant\u2019s custody or in the custody of a public servant subordinate to such public servant; or\n(c) being on the management or staff of a jail, remand home or other place of custody established by or under any law for the time being in force or of a women\u2019s or children\u2019s institution, commits rape on any inmate of such jail, remand home, place or institution; or\n(d) being on the management or staff of a hospital, commits rape on a woman in that hospital; or\n(e) commits rape on a woman knowing her to be pregnant; or\n(f) commits rape on a woman when she is under twelve years of age; or\n(g) commits rape on a woman incapable of giving consent; or\n(h) being in a position of authority or in a fiduciary relationship towards the woman, commits rape on such woman; or\n(i) commits rape during communal or sectarian violence; or\n(j) commits rape on a woman knowing that she is infected with HIV virus or any other life threatening disease, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life and shall also be liable to fine.\n\nExplanation 1.\u2014For the purposes of this sub-section, \u201cwomen\u2019s or children\u2019s institution\u201d means an institution, whether called an orphanage or a home for women or children or by any other name, which provides shelter and maintenance for women or children.\nExplanation 2.\u2014For the purposes of this sub-section, \u201chospital\u201d means a hospital, nursing home, clinic or any other place where persons are admitted for diagnosis, treatment or care.\"\n\nSource: The Indian Penal Code, 1860 (Act No. 45 of 1860)",
+      "citations": [
+        "the Indian Penal Code Section 376"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 2.080658,
+    "timestamp": "2026-02-22T18:50:08.660527"
+  },
+  {
+    "system": "NoRAG",
+    "query": "What does Section 354 IPC cover?",
+    "response": {
+      "answer": "Section 354 of the Indian Penal Code (IPC) covers Assault or criminal force to woman with intent to outrage her modesty. It states that whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine. (Section 354, IPC)",
+      "citations": [
+        "the Indian Penal Code Section 354"
+      ],
+      "confidence": "medium",
+      "bns_bnss_notes": [],
+      "amendment_notes": [],
+      "disclaimer": "Response generated from LLM training data without retrieval. May not reflect recent law changes.",
+      "system": "NoRAG",
+      "retrieval_used": false
+    },
+    "elapsed_time": 0.570569,
+    "timestamp": "2026-02-22T18:50:09.231553"
+  }
+]

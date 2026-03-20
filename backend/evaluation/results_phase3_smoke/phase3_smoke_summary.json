@@ -1,0 +1,20 @@
+{
+  "num_queries": 8,
+  "abstentions": {
+    "LexAI_forced": 0,
+    "LexAI_abstain": 0,
+    "NoRAG_forced": 0,
+    "NoRAG_abstain": 0,
+    "SimpleRAG_forced": 0,
+    "SimpleRAG_abstain": 0
+  },
+  "hallucination_metric_shape": {
+    "HR_overall": 7.8431372549019605,
+    "HR_citation": 0.0,
+    "HR_case": 0.0,
+    "HR_inline": 8.035714285714285,
+    "total_claims": 51,
+    "hallucinated_claims": 4,
+    "uses_direct_counts": true
+  }
+}

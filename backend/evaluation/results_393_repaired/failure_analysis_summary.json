@@ -1,0 +1,7 @@
+{
+  "total_queries": 393,
+  "failing_queries": 192,
+  "category_breakdown_file": "evaluation/results_393_repaired/category_error_breakdown.csv",
+  "top20_patterns_file": "evaluation/results_393_repaired/top20_failing_query_patterns.csv",
+  "top_category": "Section Lookup"
+}

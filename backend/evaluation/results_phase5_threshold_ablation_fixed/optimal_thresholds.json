@@ -1,0 +1,10 @@
+{
+  "CONFIDENCE_HIGH": 0.75,
+  "CONFIDENCE_MEDIUM": 0.6,
+  "objective_score": 0.4422,
+  "accuracy": 0.21,
+  "hallucination_rate": 0.3208,
+  "abstention_rate": 0.58,
+  "n_queries": 50,
+  "methodology": "Holdout threshold tuning on 50 queries (indices 343-392 of 393 total)"
+}
