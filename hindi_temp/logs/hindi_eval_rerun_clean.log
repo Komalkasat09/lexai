@@ -1,0 +1,289 @@
+✅ Hybrid retrieval enabled (BM25 + Dense + Cross-Encoder)
+🔧 Initializing LexAI system for evaluation...
+📦 Using Chroma path: /Users/komalkasat09/legal-website/backend/legal_research_db (estimated docs: 12868)
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 19134.51it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+🔧 Initializing Legal Research Database...
+✓ Initialized 'bare_acts' collection
+✓ Initialized 'case_law' collection
+✓ Initialized 'amendments' collection
+✓ Initialized 'overruling_map' collection
+✅ All collections initialized successfully
+
+🚀 Initializing hybrid retrieval system...
+
+============================================================
+INITIALIZING HYBRID RETRIEVAL SYSTEM
+============================================================
+
+📚 Initializing hybrid retriever for bare_acts...
+🔧 Loading cross-encoder: cross-encoder/ms-marco-MiniLM-L-6-v2
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 9524.06it/s]
+[1mBertForSequenceClassification LOAD REPORT[0m from: cross-encoder/ms-marco-MiniLM-L-6-v2
+Key                          | Status     |  | 
+-----------------------------+------------+--+-
+bert.embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+🔧 Building BM25 index for collection: bare_acts
+✅ Hybrid retriever initialized: 59 documents indexed
+
+⚖️  Initializing hybrid retriever for case_law...
+🔧 Loading cross-encoder: cross-encoder/ms-marco-MiniLM-L-6-v2
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 13711.57it/s]
+[1mBertForSequenceClassification LOAD REPORT[0m from: cross-encoder/ms-marco-MiniLM-L-6-v2
+Key                          | Status     |  | 
+-----------------------------+------------+--+-
+bert.embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+🔧 Building BM25 index for collection: case_law
+✅ Hybrid retriever initialized: 12808 documents indexed
+
+============================================================
+✅ HYBRID RETRIEVAL SYSTEM READY
+============================================================
+✅ Hybrid retrieval ready: 2 collections
+✅ LegalLLM initialized with SmartRetriever and 16 Groq API key(s)
+✅ LexAI system initialized successfully
+
+============================================================
+STEP 2: Running LexAI System
+============================================================
+  ✅ Using actual LexAI system
+  Progress: 1/40
+🔍 Processing query: धारा 420 आईपीसी में क्या प्रावधान है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99748, Requested 631. Please try again in 5m27.456s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #2
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj20hrk9f52bkrg72rtw5qxe` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99748, Requested 631. Please try again in 5m27.456s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #3
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj2yte34ezjs4n6jsqnkvytm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99500, Requested 631. Please try again in 1m53.184s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #4
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdt4tdqkeg38j3t12d0k2v90` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99826, Requested 631. Please try again in 6m34.848s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #5
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj2yy26se66as9ex8ehy89fm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99831, Requested 631. Please try again in 6m39.168s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #6
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj31gmg7e0nsmxgqh54e5b7h` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99838, Requested 631. Please try again in 6m45.215999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #7
+🔄 Retrying with next API key...
+  Progress: 2/40
+🔍 Processing query: बीएनएस के तहत बलात्कार के लिए क्या दंड है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 3/40
+🔍 Processing query: क्या आईटी अधिनियम की धारा 66A निरस्त कर दी गई है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 4/40
+🔍 Processing query: क्या आईपीसी की धारा 302 को प्रतिस्थापित किया गया है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 5/40
+🔍 Processing query: धारा 138 चेक बाउंस पर प्रमुख फैसले कौन-कौन से हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 6/40
+🔍 Processing query: क्या अपराधमुक्ति के बाद धारा 377 पर दिए गए फैसले को चुनौती दी गई है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 7/40
+🔍 Processing query: धारा 482 के तहत एफआईआर रद्द करने के आधार क्या हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 8/40
+🔍 Processing query: आईपीसी की धारा 498A क्या है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 9/40
+🔍 Processing query: धारा 498A के तहत दहेज उत्पीड़न के लिए क्या दंड है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 10/40
+🔍 Processing query: बीएनएसएस 2023 में जमानत संबंधी नए प्रावधान क्या हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 11/40
+🔍 Processing query: बीएनएस में आईपीसी 376 के समकक्ष कौन-सी धारा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 12/40
+🔍 Processing query: धारा 124A देशद्रोह पर सुप्रीम कोर्ट के प्रमुख फैसले कौन-कौन से हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 13/40
+🔍 Processing query: क्या A.K. Gopalan v. State of Madras अभी भी प्रभावी विधि है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 14/40
+🔍 Processing query: आईपीसी की धारा 34 के तहत समान आशय का सिद्धांत क्या है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 15/40
+🔍 Processing query: आईपीसी की धारा 354 में क्या प्रावधान है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 16/40
+🔍 Processing query: आईपीसी की धारा 406 के तहत आपराधिक न्यासभंग के लिए क्या सजा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 17/40
+🔍 Processing query: आईपीसी की धारा 377 का क्या हुआ?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 18/40
+🔍 Processing query: बीएनएस में आईपीसी 307 के समकक्ष कौन-सी धारा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 19/40
+🔍 Processing query: आईपीसी धारा 497 (व्यभिचार) पर प्रमुख फैसले कौन-कौन से हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 20/40
+🔍 Processing query: Suresh Kumar Koushal मामले के फैसले का क्या हुआ?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 21/40
+🔍 Processing query: आईपीसी धारा 420 के तहत धोखाधड़ी सिद्ध करने के आवश्यक तत्व क्या हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 22/40
+🔍 Processing query: आईपीसी धारा 506 की व्याख्या करें।
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 23/40
+🔍 Processing query: आईपीसी धारा 363 के तहत अपहरण के लिए कितने वर्ष की सजा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 24/40
+🔍 Processing query: बीएनएसएस लागू होने के बाद सीआरपीसी में क्या बदलाव हुए?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 25/40
+🔍 Processing query: आपराधिक न्यासभंग के लिए बीएनएस में कौन-सी धारा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 26/40
+🔍 Processing query: धारा 156(3) सीआरपीसी के जांच निर्देशों पर प्रमुख फैसले कौन-कौन से हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 27/40
+🔍 Processing query: क्या ADM Jabalpur v. Shukla को निरस्त किया जा चुका है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 28/40
+🔍 Processing query: हत्या के मुकदमे में अभियोजन को क्या साबित करना होता है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 29/40
+🔍 Processing query: आईपीसी की धारा 323 के बारे में क्या प्रावधान है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 30/40
+🔍 Processing query: आईपीसी धारा 392 के तहत लूट के लिए अधिकतम कारावास अवधि क्या है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj31hyf3enrb2jf89mvbhzs3` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99838, Requested 640. Please try again in 6m52.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #8
+🔄 Retrying with next API key...
+⚠️  API key error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kj2yy26se66as9ex8ehy89fm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99698, Requested 640. Please try again in 4m52.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+⚠️  Rotated to API key #9
+🔄 Retrying with next API key...
+  Progress: 31/40
+🔍 Processing query: क्या भारत में व्यभिचार को अपराधमुक्त कर दिया गया है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 32/40
+🔍 Processing query: बीएनएस में आईपीसी 120B के समकक्ष कौन-सी धारा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 33/40
+🔍 Processing query: धारा 313 सीआरपीसी के तहत अभियुक्त के बयान पर प्रमुख फैसले कौन-कौन से हैं?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 34/40
+🔍 Processing query: क्या व्यभिचार पर Joseph Shine का फैसला अभी भी मान्य है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 35/40
+🔍 Processing query: आर्थिक अपराधों में अग्रिम जमानत पर कानूनी स्थिति क्या है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 36/40
+🔍 Processing query: आईपीसी धारा 279 की व्याख्या करें।
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 37/40
+🔍 Processing query: आईपीसी धारा 325 के तहत गंभीर चोट पहुंचाने के लिए क्या सजा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 38/40
+🔍 Processing query: क्या बलात्कार की परिभाषा में संशोधन किया गया है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 39/40
+🔍 Processing query: बीएनएस में आईपीसी 304B (दहेज मृत्यु) के समकक्ष कौन-सी धारा है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+  Progress: 40/40
+🔍 Processing query: धारा 65B इलेक्ट्रॉनिक साक्ष्य पर सुप्रीम कोर्ट का दृष्टिकोण क्या है?
+📋 Query Type: legal_question
+📚 Retrieved 3 bare act sections
+⚖️  Retrieved 5 case law documents
+
+  ✓ Completed LexAI responses: 40
+saved evaluation/evaluation/results/checkpoints/lexai_hindi_responses.json
+responses 40

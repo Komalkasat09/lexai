@@ -1,78 +1,51 @@
 {
-  "figure": "main_comparison",
-  "output_path": "/Users/komalkasat09/legal-website/backend/evaluation/results/figures/main_comparison.png",
+  "figure": "main_comparison_recomputed",
+  "output_path": "/Users/komalkasat09/legal-website/backend/evaluation/results/figures/main_comparison_recomputed.png",
   "inputs": [
     {
-      "source": "LexAI",
-      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/recomputed_metrics.csv",
-      "row_count": 5,
-      "columns": [
-        "query_id",
-        "query",
-        "category",
-        "system",
-        "car_score",
-        "hallucination_rate",
-        "acs_score",
-        "olr_score",
-        "confidence",
-        "ccs_correctness",
-        "abstained"
+      "source": "paper_table_03_system_comparison.numeric.csv",
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/paper_table_03_system_comparison.numeric.csv",
+      "fields_used": [
+        "CAR_overall",
+        "ACS_overall",
+        "OLR_overall"
       ],
-      "non_null_by_metric": {
-        "car_score": 5,
-        "hallucination_rate": 5,
-        "acs_score": 5,
-        "olr_score": 5
-      }
+      "row_count": 3
     },
     {
-      "source": "SimpleRAG",
-      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/simple_rag_metrics.csv",
-      "row_count": 5,
-      "columns": [
-        "query_id",
-        "query",
-        "category",
-        "system",
-        "car_score",
-        "hallucination_rate",
-        "acs_score",
-        "olr_score",
-        "confidence",
-        "ccs_correctness",
-        "abstained"
+      "source": "complete_results_20260318_104440.json",
+      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results_393_postfix/complete_results_20260318_104440.json",
+      "fields_used": [
+        "all_metrics.*.HR.HR_overall"
       ],
-      "non_null_by_metric": {
-        "car_score": 5,
-        "hallucination_rate": 5,
-        "acs_score": 5,
-        "olr_score": 5
-      }
-    },
-    {
-      "source": "NoRAG",
-      "path": "/Users/komalkasat09/legal-website/backend/evaluation/results/no_rag_metrics.csv",
-      "row_count": 5,
-      "columns": [
-        "query_id",
-        "query",
-        "category",
-        "system",
-        "car_score",
-        "hallucination_rate",
-        "acs_score",
-        "olr_score",
-        "confidence",
-        "ccs_correctness",
-        "abstained"
-      ],
-      "non_null_by_metric": {
-        "car_score": 5,
-        "hallucination_rate": 5,
-        "acs_score": 5,
-        "olr_score": 5
-      }
+      "note": "HR panel uses structured citation hallucination only."
     }
-  ]
+  ],
+  "metrics_used": [
+    "CAR_overall",
+    "HR_overall",
+    "ACS_overall",
+    "OLR_overall"
+  ],
+  "values_used": {
+    "LexAI": {
+      "CAR_overall": 83.90585241730281,
+      "HR_overall": 1.0025062656641603,
+      "ACS_overall": 72.53776081424935,
+      "OLR_overall": 32.56704980842912
+    },
+    "SimpleRAG": {
+      "CAR_overall": 65.52162849872774,
+      "HR_overall": 77.39130434782608,
+      "ACS_overall": 65.04206106870228,
+      "OLR_overall": 48.837209302325576
+    },
+    "NoRAG": {
+      "CAR_overall": 77.16284987277353,
+      "HR_overall": 98.26086956521739,
+      "ACS_overall": 72.22,
+      "OLR_overall": 82.25108225108225
+    }
+  },
+  "color_policy": "per-metric rank colors (best=green, middle=orange, worst=red)"
 }

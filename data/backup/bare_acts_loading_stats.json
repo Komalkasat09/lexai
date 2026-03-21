@@ -1,0 +1,28 @@
+{
+  "success": [
+    "Indian Penal Code 1860",
+    "Code of Criminal Procedure 1973",
+    "Indian Evidence Act 1872",
+    "Negotiable Instruments Act 1881",
+    "Code of Civil Procedure 1908",
+    "Transfer of Property Act 1882",
+    "Limitation Act 1963",
+    "Arbitration and Conciliation Act 1996",
+    "Information Technology Act 2000",
+    "Hindu Marriage Act 1955",
+    "Protection of Women from Domestic Violence Act 2005",
+    "Companies Act 2013",
+    "Consumer Protection Act 2019"
+  ],
+  "failed": [
+    "Bharatiya Nyaya Sanhita 2023",
+    "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "Bharatiya Sakshya Adhiniyam 2023",
+    "Constitution of India 1950",
+    "Protection of Children from Sexual Offences Act 2012",
+    "Indian Contract Act 1872",
+    "Specific Relief Act 1963",
+    "Insolvency and Bankruptcy Code 2016"
+  ],
+  "skipped": []
+}

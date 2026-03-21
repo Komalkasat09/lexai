@@ -1,0 +1,112 @@
+✅ Hybrid retrieval enabled (BM25 + Dense + Cross-Encoder)
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 9048.27it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+Traceback (most recent call last):
+  File "/Users/komalkasat09/legal-website/backend/evaluation/tmp_diagnose_hindi_abstain.py", line 86, in <module>
+    main()
+    ~~~~^^
+  File "/Users/komalkasat09/legal-website/backend/evaluation/tmp_diagnose_hindi_abstain.py", line 28, in main
+    llm = LegalLLM(persist_directory="legal_research_db")
+  File "/Users/komalkasat09/legal-website/backend/llm/legal_llm.py", line 137, in __init__
+    self.db = LegalResearchDB(persist_directory=persist_directory)
+              ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/komalkasat09/legal-website/backend/database/chroma_setup.py", line 47, in __init__
+    self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/chromadb/utils/embedding_functions/sentence_transformer_embedding_function.py", line 44, in __init__
+    self.models[model_name] = SentenceTransformer(
+                              ~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path=model_name, device=device, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 327, in __init__
+    modules, self.module_kwargs = self._load_sbert_model(
+                                  ~~~~~~~~~~~~~~~~~~~~~~^
+        model_name_or_path,
+        ^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        config_kwargs=config_kwargs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/sentence_transformers/SentenceTransformer.py", line 2331, in _load_sbert_model
+    self.model_card_data.set_base_model(model_name_or_path, revision=revision)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/sentence_transformers/model_card.py", line 848, in set_base_model
+    model_info = get_model_info(model_id)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/huggingface_hub/hf_api.py", line 2888, in model_info
+    r = get_session().get(path, headers=headers, timeout=timeout, params=params)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 1053, in get
+    return self.request(
+           ~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<7 lines>...
+        extensions=extensions,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+        self.READ_NUM_BYTES, timeout=timeout
+    )
+  File "/Users/komalkasat09/legal-website/backend/venv/lib/python3.13/site-packages/httpcore/_backends/sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1285, in recv
+    return self.read(buflen)
+           ~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1140, in read
+    return self._sslobj.read(len)
+           ~~~~~~~~~~~~~~~~~^^^^^
+KeyboardInterrupt
