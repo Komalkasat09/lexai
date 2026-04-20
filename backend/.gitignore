@@ -61,5 +61,8 @@ test_data/
 *.pkl
 *.joblib
 
+# Allow committed evaluation figures
+!evaluation/results/figures/*.png
+
 # Node
 frontend/node_modules/
