@@ -2,7 +2,7 @@
 
 Production-ready FastAPI server for legal document research and contract analysis.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### One Command to Run
 
