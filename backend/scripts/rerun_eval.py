@@ -30,8 +30,14 @@ ERROR_ANSWER = re.compile(r"^\s*(error\b|\[placeholder)", re.I)
 
 
 def is_error_response(response):
-    """True when a response records a failed call instead of an answer."""
+    """True when a response records a failed call instead of an answer.
+
+    An empty answer counts as failed: a reasoning model that spends its whole
+    output budget on reasoning returns no text.
+    """
     if response.get("error") or str(response.get("confidence", "")).upper() == "ERROR":
+        return True
+    if not str(response.get("answer") or "").strip():
         return True
     return bool(ERROR_ANSWER.match(str(response.get("answer", ""))))
 
