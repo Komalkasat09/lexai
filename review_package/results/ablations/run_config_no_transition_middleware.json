@@ -1,0 +1,13 @@
+{
+  "ground_truth": "evaluation/ground_truth_lexeval_key_393.xlsx",
+  "index": "/Users/komalkasat09/legal-website/backend/legal_research_db_v2",
+  "eval_regime": "forced-answer",
+  "model": "openai/gpt-oss-120b",
+  "max_tokens": "4096",
+  "lexai_variant": "no_transition_middleware",
+  "categories": [
+    "IPC to BNS Transition",
+    "Punishment Queries"
+  ],
+  "started": "2026-11-25T23:53:43+0530"
+}

@@ -1,0 +1,358 @@
+{
+  "rules": {
+    "A": "any acceptable citation",
+    "B": "first new citation correct (statute rows)"
+  },
+  "main": {
+    "1 overall (full benchmark)": {
+      "A_full": {
+        "LexAI vs NoRAG": {
+          "n": 378,
+          "LexAI": 82.5,
+          "NoRAG": 83.1,
+          "LexAI_only": 27,
+          "NoRAG_only": 29,
+          "mcnemar_p": 0.8939
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 378,
+          "LexAI": 82.5,
+          "SimpleRAG": 75.7,
+          "LexAI_only": 36,
+          "SimpleRAG_only": 10,
+          "mcnemar_p": 0.0002
+        }
+      }
+    },
+    "1 overall (non-echo rows)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 231,
+          "LexAI": 63.2,
+          "NoRAG": 57.6,
+          "LexAI_only": 46,
+          "NoRAG_only": 33,
+          "mcnemar_p": 0.1766
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 231,
+          "LexAI": 63.2,
+          "SimpleRAG": 44.2,
+          "LexAI_only": 55,
+          "SimpleRAG_only": 11,
+          "mcnemar_p": 0.0
+        }
+      }
+    },
+    "2 statute rows (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 163,
+          "LexAI": 74.8,
+          "NoRAG": 58.3,
+          "LexAI_only": 44,
+          "NoRAG_only": 17,
+          "mcnemar_p": 0.0007
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 163,
+          "LexAI": 74.8,
+          "SimpleRAG": 50.9,
+          "LexAI_only": 46,
+          "SimpleRAG_only": 7,
+          "mcnemar_p": 0.0
+        }
+      },
+      "B_new": {
+        "LexAI vs NoRAG": {
+          "n": 163,
+          "LexAI": 41.1,
+          "NoRAG": 37.4,
+          "LexAI_only": 39,
+          "NoRAG_only": 33,
+          "mcnemar_p": 0.556
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 163,
+          "LexAI": 41.1,
+          "SimpleRAG": 34.4,
+          "LexAI_only": 35,
+          "SimpleRAG_only": 24,
+          "mcnemar_p": 0.1925
+        }
+      }
+    },
+    "3 case-law rows (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 68,
+          "LexAI": 35.3,
+          "NoRAG": 55.9,
+          "LexAI_only": 2,
+          "NoRAG_only": 16,
+          "mcnemar_p": 0.0013
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 68,
+          "LexAI": 35.3,
+          "SimpleRAG": 27.9,
+          "LexAI_only": 9,
+          "SimpleRAG_only": 4,
+          "mcnemar_p": 0.2668
+        }
+      }
+    },
+    "4 IPC to BNS transition (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 46,
+          "LexAI": 76.1,
+          "NoRAG": 47.8,
+          "LexAI_only": 14,
+          "NoRAG_only": 1,
+          "mcnemar_p": 0.001
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 46,
+          "LexAI": 76.1,
+          "SimpleRAG": 45.7,
+          "LexAI_only": 15,
+          "SimpleRAG_only": 1,
+          "mcnemar_p": 0.0005
+        }
+      },
+      "B_new": {
+        "LexAI vs NoRAG": {
+          "n": 46,
+          "LexAI": 56.5,
+          "NoRAG": 28.3,
+          "LexAI_only": 18,
+          "NoRAG_only": 5,
+          "mcnemar_p": 0.0106
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 46,
+          "LexAI": 56.5,
+          "SimpleRAG": 32.6,
+          "LexAI_only": 16,
+          "SimpleRAG_only": 5,
+          "mcnemar_p": 0.0266
+        }
+      }
+    },
+    "5 transition, in map (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 16,
+          "LexAI": 62.5,
+          "NoRAG": 0.0,
+          "LexAI_only": 10,
+          "NoRAG_only": 0,
+          "mcnemar_p": 0.002
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 16,
+          "LexAI": 62.5,
+          "SimpleRAG": 6.2,
+          "LexAI_only": 9,
+          "SimpleRAG_only": 0,
+          "mcnemar_p": 0.0039
+        }
+      },
+      "B_new": {
+        "LexAI vs NoRAG": {
+          "n": 16,
+          "LexAI": 56.2,
+          "NoRAG": 0.0,
+          "LexAI_only": 9,
+          "NoRAG_only": 0,
+          "mcnemar_p": 0.0039
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 16,
+          "LexAI": 56.2,
+          "SimpleRAG": 6.2,
+          "LexAI_only": 8,
+          "SimpleRAG_only": 0,
+          "mcnemar_p": 0.0078
+        }
+      }
+    },
+    "5 transition, not in map (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 6,
+          "LexAI": 50.0,
+          "NoRAG": 16.7,
+          "LexAI_only": 2,
+          "NoRAG_only": 0,
+          "mcnemar_p": 0.5
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 6,
+          "LexAI": 50.0,
+          "SimpleRAG": 0.0,
+          "LexAI_only": 3,
+          "SimpleRAG_only": 0,
+          "mcnemar_p": 0.25
+        }
+      },
+      "B_new": {
+        "LexAI vs NoRAG": {
+          "n": 6,
+          "LexAI": 33.3,
+          "NoRAG": 0.0,
+          "LexAI_only": 2,
+          "NoRAG_only": 0,
+          "mcnemar_p": 0.5
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 6,
+          "LexAI": 33.3,
+          "SimpleRAG": 0.0,
+          "LexAI_only": 2,
+          "SimpleRAG_only": 0,
+          "mcnemar_p": 0.5
+        }
+      }
+    },
+    "5 transition, no section named (non-echo)": {
+      "A_new": {
+        "LexAI vs NoRAG": {
+          "n": 24,
+          "LexAI": 91.7,
+          "NoRAG": 87.5,
+          "LexAI_only": 2,
+          "NoRAG_only": 1,
+          "mcnemar_p": 1.0
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 24,
+          "LexAI": 91.7,
+          "SimpleRAG": 83.3,
+          "LexAI_only": 3,
+          "SimpleRAG_only": 1,
+          "mcnemar_p": 0.625
+        }
+      },
+      "B_new": {
+        "LexAI vs NoRAG": {
+          "n": 24,
+          "LexAI": 62.5,
+          "NoRAG": 54.2,
+          "LexAI_only": 7,
+          "NoRAG_only": 5,
+          "mcnemar_p": 0.7744
+        },
+        "LexAI vs SimpleRAG": {
+          "n": 24,
+          "LexAI": 62.5,
+          "SimpleRAG": 58.3,
+          "LexAI_only": 6,
+          "SimpleRAG_only": 5,
+          "mcnemar_p": 1.0
+        }
+      }
+    }
+  },
+  "ablations": {
+    "no_replacement_fetch": {
+      "answers": 86,
+      "transition (non-echo)": {
+        "A_new": {
+          "n": 46,
+          "LexAI": 76.1,
+          "no_replacement_fetch": 76.1,
+          "LexAI_only": 0,
+          "no_replacement_fetch_only": 0,
+          "mcnemar_p": 1.0
+        },
+        "B_new": {
+          "n": 46,
+          "LexAI": 56.5,
+          "no_replacement_fetch": 56.5,
+          "LexAI_only": 5,
+          "no_replacement_fetch_only": 5,
+          "mcnemar_p": 1.0
+        }
+      },
+      "punishment (non-echo)": {
+        "A_new": {
+          "n": 40,
+          "LexAI": 75.0,
+          "no_replacement_fetch": 77.5,
+          "LexAI_only": 1,
+          "no_replacement_fetch_only": 2,
+          "mcnemar_p": 1.0
+        },
+        "B_new": {
+          "n": 40,
+          "LexAI": 32.5,
+          "no_replacement_fetch": 27.5,
+          "LexAI_only": 4,
+          "no_replacement_fetch_only": 2,
+          "mcnemar_p": 0.6875
+        }
+      },
+      "all ablation rows (full)": {
+        "A_full": {
+          "n": 86,
+          "LexAI": 88.4,
+          "no_replacement_fetch": 89.5,
+          "LexAI_only": 1,
+          "no_replacement_fetch_only": 2,
+          "mcnemar_p": 1.0
+        }
+      }
+    },
+    "no_transition_middleware": {
+      "answers": 86,
+      "transition (non-echo)": {
+        "A_new": {
+          "n": 46,
+          "LexAI": 76.1,
+          "no_transition_middleware": 58.7,
+          "LexAI_only": 8,
+          "no_transition_middleware_only": 0,
+          "mcnemar_p": 0.0078
+        },
+        "B_new": {
+          "n": 46,
+          "LexAI": 56.5,
+          "no_transition_middleware": 39.1,
+          "LexAI_only": 12,
+          "no_transition_middleware_only": 4,
+          "mcnemar_p": 0.0768
+        }
+      },
+      "punishment (non-echo)": {
+        "A_new": {
+          "n": 40,
+          "LexAI": 75.0,
+          "no_transition_middleware": 60.0,
+          "LexAI_only": 7,
+          "no_transition_middleware_only": 1,
+          "mcnemar_p": 0.0703
+        },
+        "B_new": {
+          "n": 40,
+          "LexAI": 32.5,
+          "no_transition_middleware": 35.0,
+          "LexAI_only": 2,
+          "no_transition_middleware_only": 3,
+          "mcnemar_p": 1.0
+        }
+      },
+      "all ablation rows (full)": {
+        "A_full": {
+          "n": 86,
+          "LexAI": 88.4,
+          "no_transition_middleware": 89.5,
+          "LexAI_only": 0,
+          "no_transition_middleware_only": 1,
+          "mcnemar_p": 1.0
+        }
+      }
+    }
+  }
+}

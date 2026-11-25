@@ -1,0 +1,229 @@
+{
+  "run": "evaluation/results_rerun_full",
+  "systems": {
+    "LexAI": {
+      "n_scored": 378,
+      "fully_correct_pct": 82.54,
+      "fully_correct_ci95": [
+        78.84,
+        86.24
+      ],
+      "CAR_retrieved": 54.37,
+      "CAR_generated": 85.05,
+      "CAR_overall": 69.71,
+      "refused_pct": 0.0,
+      "fully_correct_by_category": {
+        "Amendment Specific": 65.62,
+        "Case Law Search": 33.33,
+        "Complex Legal Interpretation": 87.18,
+        "IPC to BNS Transition": 95.65,
+        "Overruled Case Detection": 80.0,
+        "Punishment Queries": 80.0,
+        "Section Lookup": 98.6
+      },
+      "fully_correct_by_target_type": {
+        "C": 51.28,
+        "S": 90.67
+      },
+      "abstention_engine_definition": {
+        "abstention_precision": 1.0,
+        "abstention_recall": 0.07042253521126761,
+        "TP": 5,
+        "FP": 0,
+        "FN": 66,
+        "TN": 307
+      },
+      "calibration": {
+        "accuracy_at_high": 88.67924528301887,
+        "count_high": 212,
+        "accuracy_at_medium": 82.75862068965517,
+        "count_medium": 29,
+        "accuracy_at_low": 72.99270072992701,
+        "count_low": 137,
+        "calibration_error": 0.09861111111111111,
+        "is_well_calibrated": 1.0
+      },
+      "citation_validity": {
+        "answers": 393,
+        "section_claims_checked": 1292,
+        "invented_sections": 21,
+        "placeholder_case_citations": 0,
+        "invented_per_100_section_claims": 1.63,
+        "answers_with_any_invented_pct": 3.82,
+        "examples": [
+          "Q087: Bharatiya Nyaya Sanhita 2023 s.497",
+          "Q115: Bharatiya Nyaya Sanhita 2023 s.531, Code of Criminal Procedure 1973 s.531",
+          "Q117: Bharatiya Nyaya Sanhita 2023 s.405",
+          "Q118: Bharatiya Nyaya Sanhita 2023 s.482",
+          "Q136: Bharatiya Nyaya Sanhita 2023 s.377",
+          "Q158: Code of Criminal Procedure 1973 s.497, Code of Criminal Procedure 1973 s.498",
+          "Q202: Code of Criminal Procedure 1973 s.528",
+          "Q203: Bharatiya Nyaya Sanhita 2023 s.430, Bharatiya Nyaya Sanhita 2023 s.480, Bharatiya Nyaya Sanhita 2023 s.482, Bharatiya Nyaya Sanhita 2023 s.483",
+          "Q206: Bharatiya Nyaya Sanhita 2023 s.523",
+          "Q217: Indian Evidence Act 1872 s.354",
+          "Q256: Bharatiya Nyaya Sanhita 2023 s.480, Bharatiya Nyaya Sanhita 2023 s.483",
+          "Q266: Bharatiya Nyaya Sanhita 2023 s.498a",
+          "Q269: Bharatiya Nyaya Sanhita 2023 s.400",
+          "Q276: Bharatiya Nyaya Sanhita 2023 s.390",
+          "Q284: Bharatiya Nyaya Sanhita 2023 s.518"
+        ]
+      },
+      "retrieval_statute_rows": {
+        "n": 300,
+        "P_at_1": 45.67,
+        "P_at_3": 25.11,
+        "Hit_at_3": 53.33,
+        "Hit_at_5": 53.33,
+        "no_context": 0
+      }
+    },
+    "NoRAG": {
+      "n_scored": 378,
+      "fully_correct_pct": 83.07,
+      "fully_correct_ci95": [
+        79.1,
+        86.77
+      ],
+      "CAR_retrieved": 29.23,
+      "CAR_generated": 85.85,
+      "CAR_overall": 57.54,
+      "refused_pct": 0.0,
+      "fully_correct_by_category": {
+        "Amendment Specific": 50.0,
+        "Case Law Search": 52.08,
+        "Complex Legal Interpretation": 84.62,
+        "IPC to BNS Transition": 93.48,
+        "Overruled Case Detection": 90.0,
+        "Punishment Queries": 82.5,
+        "Section Lookup": 95.8
+      },
+      "fully_correct_by_target_type": {
+        "C": 66.67,
+        "S": 87.33
+      },
+      "abstention_engine_definition": {
+        "abstention_precision": 1.0,
+        "abstention_recall": 0.8383838383838383,
+        "TP": 166,
+        "FP": 0,
+        "FN": 32,
+        "TN": 180
+      },
+      "calibration": {
+        "accuracy_at_high": 80.35714285714286,
+        "count_high": 56,
+        "accuracy_at_medium": 86.53846153846155,
+        "count_medium": 156,
+        "accuracy_at_low": 80.72289156626506,
+        "count_low": 166,
+        "calibration_error": 0.20714285714285718,
+        "is_well_calibrated": 0.0
+      },
+      "citation_validity": {
+        "answers": 393,
+        "section_claims_checked": 711,
+        "invented_sections": 7,
+        "placeholder_case_citations": 0,
+        "invented_per_100_section_claims": 0.98,
+        "answers_with_any_invented_pct": 1.78,
+        "examples": [
+          "Q016: Negotiable Instruments Act 1881 s.318",
+          "Q034: Indian Penal Code 1860 s.528",
+          "Q064: Limitation Act 1963 s.468",
+          "Q130: Bharatiya Nyaya Sanhita 2023 s.498a",
+          "Q133: Bharatiya Nyaya Sanhita 2023 s.415",
+          "Q185: Code of Criminal Procedure 1973 s.498",
+          "Q193: Protection of Women from Domestic Violence Act 2005 s.125"
+        ]
+      }
+    },
+    "SimpleRAG": {
+      "n_scored": 378,
+      "fully_correct_pct": 75.66,
+      "fully_correct_ci95": [
+        71.43,
+        79.89
+      ],
+      "CAR_retrieved": 38.1,
+      "CAR_generated": 79.37,
+      "CAR_overall": 58.73,
+      "refused_pct": 0.0,
+      "fully_correct_by_category": {
+        "Amendment Specific": 43.75,
+        "Case Law Search": 27.08,
+        "Complex Legal Interpretation": 79.49,
+        "IPC to BNS Transition": 91.3,
+        "Overruled Case Detection": 73.33,
+        "Punishment Queries": 67.5,
+        "Section Lookup": 95.8
+      },
+      "fully_correct_by_target_type": {
+        "C": 44.87,
+        "S": 83.67
+      },
+      "abstention_engine_definition": {
+        "abstention_precision": 0.0,
+        "abstention_recall": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "FN": 92,
+        "TN": 286
+      },
+      "calibration": {
+        "accuracy_at_high": 74.19354838709677,
+        "count_high": 217,
+        "accuracy_at_medium": 77.63975155279503,
+        "count_medium": 161,
+        "accuracy_at_low": 0,
+        "count_low": 0,
+        "calibration_error": 0.11263227513227515,
+        "is_well_calibrated": 1.0
+      },
+      "citation_validity": {
+        "answers": 393,
+        "section_claims_checked": 544,
+        "invented_sections": 12,
+        "placeholder_case_citations": 0,
+        "invented_per_100_section_claims": 2.21,
+        "answers_with_any_invented_pct": 2.8,
+        "examples": [
+          "Q094: Bharatiya Nyaya Sanhita 2023 s.480",
+          "Q120: Bharatiya Nyaya Sanhita 2023 s.376c",
+          "Q153: Bharatiya Nyaya Sanhita 2023 s.366",
+          "Q162: Bharatiya Nyaya Sanhita 2023 s.402",
+          "Q172: Bharatiya Nyaya Sanhita 2023 s.369",
+          "Q181: Bharatiya Nyaya Sanhita 2023 s.376",
+          "Q209: Bharatiya Nyaya Sanhita 2023 s.395",
+          "Q226: Indian Evidence Act 1872 s.170",
+          "Q248: Bharatiya Nyaya Sanhita 2023 s.519",
+          "Q255: Bharatiya Sakshya Adhiniyam 2023 s.299",
+          "Q270: Bharatiya Nyaya Sanhita 2023 s.478, Bharatiya Nyaya Sanhita 2023 s.480"
+        ]
+      }
+    }
+  },
+  "comparisons": {
+    "LexAI_vs_NoRAG": {
+      "difference_pct": -0.53,
+      "difference_ci95": [
+        -4.5,
+        3.18
+      ],
+      "lexai_right_baseline_wrong": 27,
+      "baseline_right_lexai_wrong": 29,
+      "mcnemar_p": 0.89385
+    },
+    "LexAI_vs_SimpleRAG": {
+      "difference_pct": 6.88,
+      "difference_ci95": [
+        3.44,
+        10.32
+      ],
+      "lexai_right_baseline_wrong": 36,
+      "baseline_right_lexai_wrong": 10,
+      "mcnemar_p": 0.00016
+    }
+  },
+  "bootstrap_samples": 10000,
+  "seed": 42
+}

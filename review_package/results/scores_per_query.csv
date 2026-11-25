@@ -1,0 +1,1135 @@
+system,query_id,category,target_type,from_citations,from_answer,fully_correct,refused,pk_p1,pk_p3,pk_hit3,pk_hit5,n_chunks
+LexAI,Q001,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q002,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,6.0
+LexAI,Q003,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q004,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,7.0
+LexAI,Q005,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q006,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q007,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q008,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q009,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q010,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q011,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,6.0
+LexAI,Q012,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q013,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,6.0
+LexAI,Q014,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q015,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q016,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q017,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q018,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q019,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q020,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q021,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q022,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q023,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q024,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q025,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q026,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q027,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q028,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q029,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,6.0
+LexAI,Q030,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q031,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q032,Section Lookup,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q033,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,4.0
+LexAI,Q034,Section Lookup,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q035,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q036,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q037,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q038,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q039,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q040,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q041,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q042,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q043,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q044,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q045,Punishment Queries,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q046,Punishment Queries,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,9.0
+LexAI,Q047,Punishment Queries,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q048,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q049,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,9.0
+LexAI,Q050,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q051,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,7.0
+LexAI,Q052,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q053,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,10.0
+LexAI,Q054,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q055,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,10.0
+LexAI,Q056,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q057,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q058,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,9.0
+LexAI,Q059,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q060,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q061,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q062,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,6.0
+LexAI,Q063,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,6.0
+LexAI,Q064,Punishment Queries,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q065,Punishment Queries,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,9.0
+LexAI,Q066,Punishment Queries,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,7.0
+LexAI,Q067,Punishment Queries,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q068,Punishment Queries,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q069,Punishment Queries,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q070,Punishment Queries,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q071,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q072,Punishment Queries,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,4.0
+LexAI,Q073,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q074,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,6.0
+LexAI,Q075,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q076,Punishment Queries,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q077,Punishment Queries,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q078,Punishment Queries,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q079,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q080,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q081,Punishment Queries,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q082,Punishment Queries,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q083,Punishment Queries,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q084,Amendment Specific,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,3.0
+LexAI,Q086,Amendment Specific,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q087,Amendment Specific,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q088,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q089,Amendment Specific,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q091,Amendment Specific,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q094,Amendment Specific,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q095,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q097,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,7.0
+LexAI,Q098,Amendment Specific,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q099,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,14.0
+LexAI,Q100,Amendment Specific,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q101,Amendment Specific,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,4.0
+LexAI,Q102,Amendment Specific,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q105,Amendment Specific,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q106,Amendment Specific,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,15.0
+LexAI,Q107,Amendment Specific,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q108,Amendment Specific,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q109,Amendment Specific,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q110,Amendment Specific,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q111,Amendment Specific,S,1.0,1.0,1.0,False,0.0,0.5,1.0,1.0,2.0
+LexAI,Q112,Amendment Specific,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q113,Amendment Specific,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q114,Amendment Specific,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q115,Amendment Specific,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q116,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q117,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,12.0
+LexAI,Q118,Amendment Specific,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,15.0
+LexAI,Q119,Amendment Specific,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q121,Amendment Specific,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q122,Amendment Specific,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q123,Amendment Specific,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q124,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q125,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q126,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,14.0
+LexAI,Q127,IPC to BNS Transition,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q128,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q129,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q130,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q131,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q132,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q133,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q134,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,13.0
+LexAI,Q135,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,4.0
+LexAI,Q137,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,5.0
+LexAI,Q138,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,16.0
+LexAI,Q139,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q140,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q141,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q142,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q143,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q144,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,4.0
+LexAI,Q145,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q146,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,16.0
+LexAI,Q147,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q149,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q150,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q151,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,5.0
+LexAI,Q152,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,9.0
+LexAI,Q153,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q154,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,14.0
+LexAI,Q155,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q156,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,11.0
+LexAI,Q158,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q159,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q160,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q161,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q162,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,15.0
+LexAI,Q163,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q164,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q165,IPC to BNS Transition,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q167,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,4.0
+LexAI,Q168,IPC to BNS Transition,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q169,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,10.0
+LexAI,Q170,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q171,IPC to BNS Transition,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q172,IPC to BNS Transition,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q173,IPC to BNS Transition,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q174,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q175,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q176,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q177,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q178,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q179,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q180,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q181,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q182,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q183,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q184,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q185,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q186,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q187,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q188,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q189,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q190,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q191,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q192,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q193,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q194,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q195,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q196,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q197,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q198,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q199,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q200,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q201,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q202,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q203,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q204,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q205,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q207,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q208,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q209,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q210,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q211,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q212,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q213,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q214,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q215,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q217,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q218,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q219,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q220,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q221,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q222,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q223,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q224,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q225,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q226,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q227,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q228,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q229,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q230,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q231,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q232,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q233,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q234,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q235,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q236,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q237,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q238,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q239,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q240,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q241,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q242,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q243,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q244,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q245,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q246,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q247,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q248,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+LexAI,Q249,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q250,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q251,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q252,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q253,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+LexAI,Q254,Complex Legal Interpretation,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q255,Complex Legal Interpretation,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,3.0
+LexAI,Q256,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q257,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,13.0
+LexAI,Q258,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,4.0
+LexAI,Q259,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q260,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q261,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,10.0
+LexAI,Q262,Complex Legal Interpretation,S,0.5,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q263,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q264,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q265,Complex Legal Interpretation,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q266,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,7.0
+LexAI,Q268,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q269,Complex Legal Interpretation,S,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q270,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,6.0
+LexAI,Q271,Complex Legal Interpretation,S,1.0,1.0,1.0,False,0.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q272,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q273,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,12.0
+LexAI,Q274,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q275,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q276,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,12.0
+LexAI,Q277,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q278,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q279,Complex Legal Interpretation,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q280,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,7.0
+LexAI,Q281,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,16.0
+LexAI,Q282,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,13.0
+LexAI,Q283,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q284,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,3.0
+LexAI,Q285,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q286,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,16.0
+LexAI,Q287,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,8.0
+LexAI,Q288,Complex Legal Interpretation,S,1.0,1.0,1.0,False,1.0,0.6666666666666666,1.0,1.0,10.0
+LexAI,Q289,Complex Legal Interpretation,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q290,Complex Legal Interpretation,S,1.0,1.0,1.0,False,0.0,0.6666666666666666,1.0,1.0,6.0
+LexAI,Q291,Complex Legal Interpretation,S,0.0,0.5,0.0,False,0.0,0.0,0.0,0.0,13.0
+LexAI,Q292,Complex Legal Interpretation,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,11.0
+LexAI,Q293,Complex Legal Interpretation,S,0.5,0.5,0.0,False,0.0,0.0,0.0,0.0,14.0
+LexAI,Q294,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q295,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q296,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q297,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q298,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,6.0
+LexAI,Q299,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q300,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q301,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q302,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q303,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q304,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q305,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q306,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q307,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q308,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q309,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q310,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q311,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q312,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q313,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q314,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q315,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,3.0
+LexAI,Q316,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q317,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q318,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q319,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,3.0
+LexAI,Q320,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q321,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q322,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q323,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q324,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q325,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q326,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q327,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q328,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q329,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q330,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q331,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q332,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q333,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q334,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q335,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q336,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q337,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q338,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q339,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q340,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q341,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q342,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q343,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q344,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q345,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q346,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q347,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q348,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q349,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q350,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q351,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q352,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q353,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q354,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,5.0
+LexAI,Q355,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q356,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q357,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q358,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q359,Section Lookup,S,0.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q360,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q361,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q362,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q363,Section Lookup,S,0.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q364,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q365,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q366,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,8.0
+LexAI,Q367,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q368,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.5,1.0,1.0,2.0
+LexAI,Q369,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q370,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q371,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q372,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,3.0
+LexAI,Q373,Section Lookup,S,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,1.0
+LexAI,Q374,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q375,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q376,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q377,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q378,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q379,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,4.0
+LexAI,Q380,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q381,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q382,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,3.0
+LexAI,Q383,Section Lookup,S,1.0,1.0,1.0,False,1.0,0.3333333333333333,1.0,1.0,5.0
+LexAI,Q384,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q385,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q386,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+LexAI,Q387,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q388,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,2.0
+LexAI,Q389,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q390,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q391,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q392,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,8.0
+LexAI,Q393,Section Lookup,S,1.0,1.0,1.0,False,0.0,0.0,0.0,0.0,1.0
+NoRAG,Q001,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q002,Section Lookup,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q003,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q004,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q005,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q006,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q007,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q008,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q009,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q010,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q011,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q012,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q013,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q014,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q015,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q016,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q017,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q018,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q019,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q020,Section Lookup,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q021,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q022,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q023,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q024,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q025,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q026,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q027,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q028,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q029,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q030,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q031,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q032,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q033,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q034,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q035,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q036,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q037,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q038,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q039,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q040,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q041,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q042,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q043,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q044,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q045,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q046,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q047,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q048,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q049,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q050,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q051,Punishment Queries,S,0.5,0.5,0.0,False,,,,,
+NoRAG,Q052,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q053,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q054,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q055,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q056,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q057,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q058,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q059,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q060,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q061,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q062,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q063,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q064,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q065,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q066,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q067,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q068,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q069,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q070,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q071,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q072,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q073,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q074,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q075,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q076,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q077,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q078,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q079,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q080,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q081,Punishment Queries,S,0.5,0.5,0.0,False,,,,,
+NoRAG,Q082,Punishment Queries,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q083,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q084,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q086,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q087,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q088,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q089,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q091,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q094,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q095,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q097,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q098,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q099,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q100,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q101,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q102,Amendment Specific,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q105,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q106,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q107,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q108,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q109,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q110,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q111,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q112,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q113,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q114,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q115,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q116,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q117,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q118,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q119,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q121,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q122,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q123,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q124,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q125,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q126,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q127,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q128,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q129,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q130,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q131,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q132,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q133,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q134,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q135,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q137,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q138,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q139,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q140,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q141,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q142,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q143,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q144,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q145,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q146,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q147,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q149,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q150,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q151,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q152,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q153,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q154,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q155,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q156,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q158,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q159,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q160,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q161,IPC to BNS Transition,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q162,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q163,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q164,IPC to BNS Transition,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q165,IPC to BNS Transition,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q167,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q168,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q169,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q170,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q171,IPC to BNS Transition,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q172,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q173,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q174,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q175,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q176,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q177,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q178,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q179,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q180,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q181,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q182,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q183,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q184,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q185,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q186,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q187,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q188,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q189,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q190,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q191,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q192,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q193,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q194,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q195,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q196,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q197,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q198,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q199,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q200,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q201,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q202,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q203,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q204,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q205,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q207,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q208,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q209,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q210,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q211,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q212,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q213,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q214,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q215,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q217,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q218,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q219,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q220,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q221,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q222,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q223,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q224,Overruled Case Detection,C,1.0,1.0,1.0,False,,,,,
+NoRAG,Q225,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q226,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q227,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q228,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q229,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q230,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q231,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q232,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q233,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q234,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q235,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q236,Overruled Case Detection,C,1.0,1.0,1.0,False,,,,,
+NoRAG,Q237,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q238,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q239,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q240,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q241,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q242,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q243,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q244,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q245,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q246,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q247,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q248,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+NoRAG,Q249,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q250,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q251,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q252,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q253,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+NoRAG,Q254,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q255,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q256,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q257,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q258,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q259,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q260,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q261,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q262,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q263,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q264,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q265,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q266,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q268,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q269,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q270,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q271,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q272,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q273,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q274,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q275,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q276,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q277,Complex Legal Interpretation,S,0.5,0.5,0.0,False,,,,,
+NoRAG,Q278,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q279,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q280,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q281,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q282,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q283,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q284,Complex Legal Interpretation,S,0.0,0.0,0.0,False,,,,,
+NoRAG,Q285,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q286,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q287,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q288,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q289,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q290,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q291,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+NoRAG,Q292,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q293,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q294,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q295,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q296,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q297,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q298,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q299,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q300,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q301,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q302,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q303,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q304,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q305,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q306,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q307,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q308,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q309,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q310,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q311,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q312,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q313,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q314,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q315,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q316,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q317,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q318,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q319,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q320,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q321,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q322,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q323,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q324,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q325,Section Lookup,S,0.5,1.0,1.0,False,,,,,
+NoRAG,Q326,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q327,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q328,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q329,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q330,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q331,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q332,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q333,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q334,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q335,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q336,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q337,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q338,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q339,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q340,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q341,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q342,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q343,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q344,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q345,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q346,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q347,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q348,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q349,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q350,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q351,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q352,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q353,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q354,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q355,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q356,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q357,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q358,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q359,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q360,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q361,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q362,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q363,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q364,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q365,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q366,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q367,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q368,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q369,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q370,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q371,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q372,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q373,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q374,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q375,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q376,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q377,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q378,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q379,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q380,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q381,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q382,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q383,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q384,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q385,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q386,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q387,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q388,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q389,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q390,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q391,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+NoRAG,Q392,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+NoRAG,Q393,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q001,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q002,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q003,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q004,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q005,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q006,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q007,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q008,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q009,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q010,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q011,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q012,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q013,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q014,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q015,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q016,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q017,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q018,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q019,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q020,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q021,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q022,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q023,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q024,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q025,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q026,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q027,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q028,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q029,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q030,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q031,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q032,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q033,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q034,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q035,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q036,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q037,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q038,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q039,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q040,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q041,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q042,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q043,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q044,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q045,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q046,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q047,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q048,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q049,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q050,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q051,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q052,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q053,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q054,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q055,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q056,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q057,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q058,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q059,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q060,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q061,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q062,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q063,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q064,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q065,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q066,Punishment Queries,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q067,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q068,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q069,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q070,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q071,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q072,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q073,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q074,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q075,Punishment Queries,S,0.5,0.5,0.0,False,,,,,
+SimpleRAG,Q076,Punishment Queries,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q077,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q078,Punishment Queries,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q079,Punishment Queries,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q080,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q081,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q082,Punishment Queries,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q083,Punishment Queries,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q084,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q086,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q087,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q088,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q089,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q091,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q094,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q095,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q097,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q098,Amendment Specific,S,0.5,0.5,0.0,False,,,,,
+SimpleRAG,Q099,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q100,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q101,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q102,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q105,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q106,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q107,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q108,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q109,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q110,Amendment Specific,S,0.5,0.5,0.0,False,,,,,
+SimpleRAG,Q111,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q112,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q113,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q114,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q115,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q116,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q117,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q118,Amendment Specific,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q119,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q121,Amendment Specific,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q122,Amendment Specific,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q123,Amendment Specific,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q124,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q125,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q126,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q127,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q128,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q129,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q130,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q131,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q132,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q133,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q134,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q135,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q137,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q138,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q139,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q140,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q141,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q142,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q143,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q144,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q145,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q146,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q147,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q149,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q150,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q151,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q152,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q153,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q154,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q155,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q156,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q158,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q159,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q160,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q161,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q162,IPC to BNS Transition,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q163,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q164,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q165,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q167,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q168,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q169,IPC to BNS Transition,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q170,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q171,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q172,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q173,IPC to BNS Transition,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q174,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q175,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q176,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q177,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q178,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q179,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q180,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q181,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q182,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q183,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q184,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q185,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q186,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q187,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q188,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q189,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q190,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q191,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q192,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q193,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q194,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q195,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q196,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q197,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q198,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q199,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q200,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q201,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q202,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q203,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q204,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q205,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q207,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q208,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q209,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q210,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q211,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q212,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q213,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q214,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q215,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q217,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q218,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q219,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q220,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q221,Case Law Search,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q222,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q223,Case Law Search,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q224,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q225,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q226,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q227,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q228,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q229,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q230,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q231,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q232,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q233,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q234,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q235,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q236,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q237,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q238,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q239,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q240,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q241,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q242,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q243,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q244,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q245,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q246,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q247,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q248,Overruled Case Detection,C,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q249,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q250,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q251,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q252,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q253,Overruled Case Detection,C,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q254,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q255,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q256,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q257,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q258,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q259,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q260,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q261,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q262,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q263,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q264,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q265,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q266,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q268,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q269,Complex Legal Interpretation,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q270,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q271,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q272,Complex Legal Interpretation,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q273,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q274,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q275,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q276,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q277,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q278,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q279,Complex Legal Interpretation,S,0.5,0.5,0.0,False,,,,,
+SimpleRAG,Q280,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q281,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q282,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q283,Complex Legal Interpretation,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q284,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q285,Complex Legal Interpretation,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q286,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q287,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q288,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q289,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q290,Complex Legal Interpretation,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q291,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q292,Complex Legal Interpretation,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q293,Complex Legal Interpretation,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q294,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q295,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q296,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q297,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q298,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q299,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q300,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q301,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q302,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q303,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q304,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q305,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q306,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q307,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q308,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q309,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q310,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q311,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q312,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q313,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q314,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q315,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q316,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q317,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q318,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q319,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q320,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q321,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q322,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q323,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q324,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q325,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q326,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q327,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q328,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q329,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q330,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q331,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q332,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q333,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q334,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q335,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q336,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q337,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q338,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q339,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q340,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q341,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q342,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q343,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q344,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q345,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q346,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q347,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q348,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q349,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q350,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q351,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q352,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q353,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q354,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q355,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q356,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q357,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q358,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q359,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q360,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q361,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q362,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q363,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q364,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q365,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q366,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q367,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q368,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q369,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q370,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q371,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q372,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q373,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q374,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q375,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q376,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q377,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q378,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q379,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q380,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q381,Section Lookup,S,0.0,0.0,0.0,False,,,,,
+SimpleRAG,Q382,Section Lookup,S,0.0,0.5,0.0,False,,,,,
+SimpleRAG,Q383,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q384,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q385,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q386,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q387,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q388,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q389,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q390,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q391,Section Lookup,S,1.0,1.0,1.0,False,,,,,
+SimpleRAG,Q392,Section Lookup,S,0.0,1.0,1.0,False,,,,,
+SimpleRAG,Q393,Section Lookup,S,0.0,1.0,1.0,False,,,,,

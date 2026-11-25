@@ -1,0 +1,10 @@
+{
+  "ground_truth": "evaluation/ground_truth_lexeval_key_393.xlsx",
+  "index": "/Users/komalkasat09/legal-website/backend/legal_research_db_v2",
+  "eval_regime": "forced-answer",
+  "model": "openai/gpt-oss-120b",
+  "max_tokens": "4096",
+  "lexai_variant": "full",
+  "categories": null,
+  "started": "2026-11-25T22:31:26+0530"
+}

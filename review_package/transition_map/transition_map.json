@@ -1,0 +1,718 @@
+{
+ "ipc_to_bns": {
+  "121": {
+   "bns": "147",
+   "changes": "substantially same"
+  },
+  "124A": {
+   "bns": "152",
+   "changes": "sedition redefined"
+  },
+  "141": {
+   "bns": "189",
+   "changes": "unlawful assembly - same"
+  },
+  "147": {
+   "bns": "191",
+   "changes": "rioting - same"
+  },
+  "153A": {
+   "bns": "196",
+   "changes": "promoting enmity - enhanced"
+  },
+  "299": {
+   "bns": "100",
+   "changes": "culpable homicide - same"
+  },
+  "300": {
+   "bns": "101",
+   "changes": "murder definition - same"
+  },
+  "302": {
+   "bns": "103",
+   "changes": "punishment for murder - same"
+  },
+  "304": {
+   "bns": "105",
+   "changes": "culpable homicide not amounting to murder - minor changes"
+  },
+  "304A": {
+   "bns": "106",
+   "changes": "causing death by negligence - same"
+  },
+  "304B": {
+   "bns": "80",
+   "changes": "dowry death - same"
+  },
+  "307": {
+   "bns": "109",
+   "changes": "attempt to murder - same"
+  },
+  "308": {
+   "bns": "110",
+   "changes": "attempt to culpable homicide - same"
+  },
+  "311": {
+   "bns": "113",
+   "changes": "being thug - removed"
+  },
+  "312": {
+   "bns": "88",
+   "changes": "causing miscarriage - same"
+  },
+  "313": {
+   "bns": "89",
+   "changes": "miscarriage without consent - same"
+  },
+  "314": {
+   "bns": "90",
+   "changes": "death by miscarriage - same"
+  },
+  "315": {
+   "bns": "91",
+   "changes": "prevent child being born alive - same"
+  },
+  "316": {
+   "bns": "92",
+   "changes": "child death by neglect - same"
+  },
+  "319": {
+   "bns": "115",
+   "changes": "hurt - same definition"
+  },
+  "320": {
+   "bns": "116",
+   "changes": "grievous hurt - same"
+  },
+  "323": {
+   "bns": "115",
+   "changes": "punishment for hurt - same"
+  },
+  "324": {
+   "bns": "118",
+   "changes": "hurt by dangerous weapons - same"
+  },
+  "325": {
+   "bns": "121",
+   "changes": "grievous hurt - same"
+  },
+  "326": {
+   "bns": "117",
+   "changes": "grievous hurt by weapons - same"
+  },
+  "326A": {
+   "bns": "124",
+   "changes": "acid attack - enhanced punishment"
+  },
+  "326B": {
+   "bns": "125",
+   "changes": "acid throwing - same"
+  },
+  "354": {
+   "bns": "74",
+   "changes": "outraging modesty - enhanced punishment"
+  },
+  "354A": {
+   "bns": "75",
+   "changes": "sexual harassment - same"
+  },
+  "354B": {
+   "bns": "76",
+   "changes": "assault to disrobe - same"
+  },
+  "354C": {
+   "bns": "77",
+   "changes": "voyeurism - same"
+  },
+  "354D": {
+   "bns": "78",
+   "changes": "stalking - same"
+  },
+  "363": {
+   "bns": "137",
+   "changes": "kidnapping - same"
+  },
+  "364": {
+   "bns": "140",
+   "changes": "kidnapping for murder - same"
+  },
+  "364A": {
+   "bns": "140",
+   "changes": "kidnapping for ransom - same"
+  },
+  "365": {
+   "bns": "141",
+   "changes": "kidnapping with intent - same"
+  },
+  "366": {
+   "bns": "87",
+   "changes": "kidnapping woman - same"
+  },
+  "366A": {
+   "bns": "96",
+   "changes": "procuration of minor girl - same"
+  },
+  "366B": {
+   "bns": "141",
+   "changes": "importation of girl - same"
+  },
+  "375": {
+   "bns": "63",
+   "changes": "rape - expanded definition of consent"
+  },
+  "376": {
+   "bns": "64",
+   "changes": "punishment for rape - enhanced"
+  },
+  "376A": {
+   "bns": "65",
+   "changes": "rape causing death - same"
+  },
+  "376B": {
+   "bns": "67",
+   "changes": "intercourse by husband - same"
+  },
+  "376C": {
+   "bns": "67",
+   "changes": "intercourse by person in authority - same"
+  },
+  "376D": {
+   "bns": "70",
+   "changes": "gang rape - enhanced punishment"
+  },
+  "376E": {
+   "bns": "71",
+   "changes": "repeat offenders - life/death"
+  },
+  "378": {
+   "bns": "303",
+   "changes": "theft - same"
+  },
+  "379": {
+   "bns": "303",
+   "changes": "punishment for theft - same"
+  },
+  "380": {
+   "bns": "305",
+   "changes": "theft in dwelling - same"
+  },
+  "381": {
+   "bns": "306",
+   "changes": "theft by servant - same"
+  },
+  "382": {
+   "bns": "307",
+   "changes": "theft after preparation - same"
+  },
+  "383": {
+   "bns": "308",
+   "changes": "extortion - same"
+  },
+  "384": {
+   "bns": "308",
+   "changes": "punishment for extortion - same"
+  },
+  "385": {
+   "bns": "351",
+   "changes": "putting in fear - same"
+  },
+  "386": {
+   "bns": "309",
+   "changes": "extortion by threat - same"
+  },
+  "387": {
+   "bns": "309",
+   "changes": "extortion by threat of death - same"
+  },
+  "392": {
+   "bns": "309",
+   "changes": "robbery - same"
+  },
+  "393": {
+   "bns": "310",
+   "changes": "attempt to commit robbery - same"
+  },
+  "394": {
+   "bns": "311",
+   "changes": "robbery with hurt - enhanced"
+  },
+  "395": {
+   "bns": "310",
+   "changes": "dacoity - same"
+  },
+  "396": {
+   "bns": "311",
+   "changes": "dacoity with murder - death penalty"
+  },
+  "397": {
+   "bns": "311",
+   "changes": "robbery with attempt to murder - same"
+  },
+  "399": {
+   "bns": "310",
+   "changes": "preparation for dacoity - same"
+  },
+  "400": {
+   "bns": "310",
+   "changes": "being dacoit - same"
+  },
+  "401": {
+   "bns": "313",
+   "changes": "belonging to gang - same"
+  },
+  "402": {
+   "bns": "310",
+   "changes": "assembling for dacoity - same"
+  },
+  "403": {
+   "bns": "314",
+   "changes": "dishonest misappropriation - same"
+  },
+  "404": {
+   "bns": "315",
+   "changes": "misappropriation of property - same"
+  },
+  "405": {
+   "bns": "316",
+   "changes": "criminal breach of trust - same"
+  },
+  "406": {
+   "bns": "316",
+   "changes": "punishment for breach of trust - same"
+  },
+  "407": {
+   "bns": "316",
+   "changes": "breach of trust by carrier - same"
+  },
+  "408": {
+   "bns": "316",
+   "changes": "breach of trust by servant - same"
+  },
+  "409": {
+   "bns": "316",
+   "changes": "breach of trust by public servant - enhanced"
+  },
+  "415": {
+   "bns": "318",
+   "changes": "cheating - same"
+  },
+  "417": {
+   "bns": "318",
+   "changes": "punishment for cheating - same"
+  },
+  "418": {
+   "bns": "318",
+   "changes": "cheating with knowledge - same"
+  },
+  "419": {
+   "bns": "318",
+   "changes": "cheating by personation - same"
+  },
+  "420": {
+   "bns": "318",
+   "changes": "cheating and dishonestly inducing - substantially same"
+  },
+  "421": {
+   "bns": "320",
+   "changes": "dishonest removal of property to prevent distribution among creditors"
+  },
+  "422": {
+   "bns": "321",
+   "changes": "dishonestly preventing debt being available for creditors"
+  },
+  "423": {
+   "bns": "322",
+   "changes": "dishonest execution of deed of transfer containing false statement of consideration"
+  },
+  "424": {
+   "bns": "323",
+   "changes": "dishonest removal or concealment of property"
+  },
+  "425": {
+   "bns": "324",
+   "changes": "mischief - same"
+  },
+  "426": {
+   "bns": "324",
+   "changes": "punishment for mischief - same"
+  },
+  "427": {
+   "bns": "324",
+   "changes": "mischief causing damage - same"
+  },
+  "463": {
+   "bns": "336",
+   "changes": "forgery - same"
+  },
+  "464": {
+   "bns": "336",
+   "changes": "making false document - same"
+  },
+  "465": {
+   "bns": "336",
+   "changes": "punishment for forgery - same"
+  },
+  "466": {
+   "bns": "337",
+   "changes": "forgery of record - same"
+  },
+  "467": {
+   "bns": "338",
+   "changes": "forgery of valuable security - same"
+  },
+  "468": {
+   "bns": "337",
+   "changes": "forgery for cheating - same"
+  },
+  "469": {
+   "bns": "337",
+   "changes": "forgery for harming reputation - same"
+  },
+  "470": {
+   "bns": "340",
+   "changes": "forged document - same"
+  },
+  "471": {
+   "bns": "340",
+   "changes": "using forged document - same"
+  },
+  "493": {
+   "bns": "81",
+   "changes": "cohabitation by fraud - same"
+  },
+  "494": {
+   "bns": "82",
+   "changes": "bigamy - same"
+  },
+  "495": {
+   "bns": "83",
+   "changes": "bigamy with concealment - same"
+  },
+  "496": {
+   "bns": "83",
+   "changes": "fraudulent marriage - same"
+  },
+  "497": {
+   "bns": "removed",
+   "changes": "adultery decriminalized"
+  },
+  "498": {
+   "bns": "84",
+   "changes": "enticing married woman - same"
+  },
+  "498A": {
+   "bns": "85",
+   "changes": "cruelty by husband - substantially same"
+  },
+  "499": {
+   "bns": "356",
+   "changes": "defamation - same"
+  },
+  "500": {
+   "bns": "356",
+   "changes": "punishment for defamation - same"
+  },
+  "503": {
+   "bns": "351",
+   "changes": "criminal intimidation - same"
+  },
+  "504": {
+   "bns": "352",
+   "changes": "intentional insult - same"
+  },
+  "505": {
+   "bns": "353",
+   "changes": "statements causing public mischief - same"
+  },
+  "506": {
+   "bns": "351",
+   "changes": "punishment for criminal intimidation - same"
+  },
+  "507": {
+   "bns": "351",
+   "changes": "criminal intimidation by anonymous - same"
+  },
+  "509": {
+   "bns": "79",
+   "changes": "word/gesture to insult modesty - same"
+  },
+  "511": {
+   "bns": "62",
+   "changes": "attempting to commit offences - same"
+  }
+ },
+ "crpc_to_bnss": {
+  "41": {
+   "bnss": "35",
+   "changes": "arrest without warrant - added safeguards for women/disabled"
+  },
+  "41A": {
+   "bnss": "35",
+   "changes": "notice of appearance - same"
+  },
+  "41B": {
+   "bnss": "36",
+   "changes": "personal bond - same"
+  },
+  "41C": {
+   "bnss": "37",
+   "changes": "arrest procedure - same"
+  },
+  "41D": {
+   "bnss": "38",
+   "changes": "health checkup - same"
+  },
+  "154": {
+   "bnss": "173",
+   "changes": "FIR - added e-FIR and zero FIR provisions"
+  },
+  "155": {
+   "bnss": "174",
+   "changes": "information about cognizable offence - same"
+  },
+  "156": {
+   "bnss": "175",
+   "changes": "police officer's power - same"
+  },
+  "157": {
+   "bnss": "176",
+   "changes": "procedure for investigation - same"
+  },
+  "158": {
+   "bnss": "177",
+   "changes": "report to magistrate - same"
+  },
+  "159": {
+   "bnss": "178",
+   "changes": "power to hold investigation - same"
+  },
+  "160": {
+   "bnss": "179",
+   "changes": "police officer's power to require attendance - same"
+  },
+  "161": {
+   "bnss": "180",
+   "changes": "examination of witnesses - substantially same"
+  },
+  "162": {
+   "bnss": "181",
+   "changes": "statements to police not signed - same"
+  },
+  "163": {
+   "bnss": "182",
+   "changes": "no inducement to be offered - same"
+  },
+  "164": {
+   "bnss": "183",
+   "changes": "recording of confessions - added video conferencing"
+  },
+  "165": {
+   "bnss": "185",
+   "changes": "search by police officer - same"
+  },
+  "166": {
+   "bnss": "186",
+   "changes": "public to give information - same"
+  },
+  "167": {
+   "bnss": "187",
+   "changes": "police custody and remand - changed default remand to 15 days"
+  },
+  "168": {
+   "bnss": "188",
+   "changes": "report of investigation - same"
+  },
+  "169": {
+   "bnss": "189",
+   "changes": "release of accused - same"
+  },
+  "170": {
+   "bnss": "190",
+   "changes": "charge sheet procedure - same"
+  },
+  "173": {
+   "bnss": "193",
+   "changes": "final report - substantially same"
+  },
+  "190": {
+   "bnss": "210",
+   "changes": "cognizance of offences - same"
+  },
+  "191": {
+   "bnss": "211",
+   "changes": "transfer on application - same"
+  },
+  "192": {
+   "bnss": "212",
+   "changes": "making false accusation - same"
+  },
+  "193": {
+   "bnss": "213",
+   "changes": "prosecution for false charge - same"
+  },
+  "200": {
+   "bnss": "223",
+   "changes": "examination of complainant - same"
+  },
+  "202": {
+   "bnss": "225",
+   "changes": "postponement of issue - same"
+  },
+  "203": {
+   "bnss": "223",
+   "changes": "dismissal of complaint - same"
+  },
+  "204": {
+   "bnss": "227",
+   "changes": "issue of process - same"
+  },
+  "207": {
+   "bnss": "230",
+   "changes": "supply of copies - same"
+  },
+  "208": {
+   "bnss": "231",
+   "changes": "commitment procedure - removed for sessions cases"
+  },
+  "209": {
+   "bnss": "232",
+   "changes": "commitment of case - simplified"
+  },
+  "215": {
+   "bnss": "238",
+   "changes": "trial before court of sessions - same"
+  },
+  "216": {
+   "bnss": "239",
+   "changes": "court of sessions to try with assessors - same"
+  },
+  "217": {
+   "bnss": "240",
+   "changes": "sessions trial procedure - same"
+  },
+  "218": {
+   "bnss": "241",
+   "changes": "trial for more than one offence - same"
+  },
+  "228": {
+   "bnss": "251",
+   "changes": "discharge - same"
+  },
+  "229": {
+   "bnss": "252",
+   "changes": "framing of charge - same"
+  },
+  "230": {
+   "bnss": "253",
+   "changes": "plea of guilty - same"
+  },
+  "231": {
+   "bnss": "254",
+   "changes": "acquittal on plea - same"
+  },
+  "232": {
+   "bnss": "255",
+   "changes": "conviction on plea - same"
+  },
+  "233": {
+   "bnss": "256",
+   "changes": "prosecutor's opening - same"
+  },
+  "235": {
+   "bnss": "258",
+   "changes": "hearing on sentence - same"
+  },
+  "240": {
+   "bnss": "263",
+   "changes": "framing of charge - summary trial"
+  },
+  "242": {
+   "bnss": "265",
+   "changes": "conviction on plea - summary"
+  },
+  "243": {
+   "bnss": "266",
+   "changes": "evidence if not guilty plea - same"
+  },
+  "244": {
+   "bnss": "267",
+   "changes": "aquittal or conviction - same"
+  },
+  "436": {
+   "bnss": "479",
+   "changes": "bail in bailable offences - same"
+  },
+  "437": {
+   "bnss": "480",
+   "changes": "bail in non-bailable - expanded provisions for undertrials"
+  },
+  "438": {
+   "bnss": "482",
+   "changes": "anticipatory bail - same"
+  },
+  "439": {
+   "bnss": "483",
+   "changes": "special powers of High Court - substantially same"
+  },
+  "440": {
+   "bnss": "484",
+   "changes": "amount of bond - same"
+  },
+  "441": {
+   "bnss": "485",
+   "changes": "bond to be executed - same"
+  },
+  "445": {
+   "bnss": "490",
+   "changes": "cancellation of bond - same"
+  },
+  "372": {
+   "bnss": "413",
+   "changes": "no appeal in petty cases - same"
+  },
+  "374": {
+   "bnss": "415",
+   "changes": "appeal from convictions - same"
+  },
+  "377": {
+   "bnss": "418",
+   "changes": "appeal by State - same"
+  },
+  "378": {
+   "bnss": "419",
+   "changes": "appeal to High Court - same"
+  },
+  "379": {
+   "bnss": "407",
+   "changes": "appeal in Sessions trial - same"
+  },
+  "380": {
+   "bnss": "421",
+   "changes": "special right of appeal - same"
+  },
+  "384": {
+   "bnss": "425",
+   "changes": "appeal procedure - same"
+  },
+  "386": {
+   "bnss": "427",
+   "changes": "powers of appellate court - same"
+  },
+  "389": {
+   "bnss": "430",
+   "changes": "suspension of sentence pending appeal - same"
+  },
+  "397": {
+   "bnss": "438",
+   "changes": "calling for records - same"
+  },
+  "401": {
+   "bnss": "442",
+   "changes": "High Court's revisional powers - same"
+  },
+  "482": {
+   "bnss": "528",
+   "changes": "inherent powers of High Court - same"
+  }
+ }
+}
