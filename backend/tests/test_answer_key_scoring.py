@@ -116,6 +116,23 @@ def test_statute_cited(text, act, section, expected):
     assert statute_cited(text, act, section) is expected
 
 
+@pytest.mark.parametrize("text, act, section, expected", [
+    ("Section 3 of the Immoral Traffic (Prevention) Act punishes keeping a brothel",
+     "Immoral Traffic (Prevention) Act 1956", "3", True),
+    ("ITPA s.5 covers procuring", "Immoral Traffic (Prevention) Act 1956", "5", True),
+    ("Juvenile Justice Act s.15 allows a preliminary assessment",
+     "Juvenile Justice (Care and Protection of Children) Act 2015", "15", True),
+    ("Section 15 of the Juvenile Justice (Care and Protection of Children) Act",
+     "Juvenile Justice (Care and Protection of Children) Act 2015", "15", True),
+])
+def test_statute_cited_accepts_long_and_short_act_names(text, act, section, expected):
+    assert statute_cited(text, act, section) is expected
+
+
+def test_itpa_abbreviation_and_full_name_are_one_act():
+    assert canonical_act("ITPA") == canonical_act("Immoral Traffic (Prevention) Act 1956")
+
+
 @pytest.mark.parametrize("text, expected", [
     ("In Arnesh Kumar v. State of Bihar the court held", True),
     ("see (2014) 8 SCC 273", True),
