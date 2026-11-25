@@ -33,6 +33,7 @@ from groq import Groq
 from dotenv import load_dotenv
 import chromadb
 from chromadb.config import Settings
+from database.chroma_setup import query_embedding_function
 
 # Set random seed for reproducibility
 random.seed(42)
@@ -208,10 +209,14 @@ class BaselineRunner:
         # We'll query all collections and merge results
         self.collection_names = ["bare_acts", "case_law", "amendments", "overruling_map"]
         self.collections = {}
-        
+        # Same embedding model as the index and LexAI, so SimpleRAG's
+        # query_texts are embedded comparably.
+        embedding_function = query_embedding_function()
+
         for name in self.collection_names:
             try:
-                self.collections[name] = self.chroma_client.get_collection(name=name)
+                self.collections[name] = self.chroma_client.get_collection(
+                    name=name, embedding_function=embedding_function)
             except Exception as e:
                 print(f"Warning: Could not load collection '{name}': {e}")
     

@@ -185,9 +185,13 @@ class MetricsEngine:
         # Load ChromaDB collections for verification
         self.collections = {}
         if chroma_client:
+            from database.chroma_setup import query_embedding_function
+            # P@K queries with query_texts; embed them with the index's model.
+            embedding_function = query_embedding_function()
             for name in ["bare_acts", "case_law", "amendments", "overruling_map"]:
                 try:
-                    self.collections[name] = chroma_client.get_collection(name=name)
+                    self.collections[name] = chroma_client.get_collection(
+                        name=name, embedding_function=embedding_function)
                 except:
                     print(f"Warning: Collection '{name}' not found")
         

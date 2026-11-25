@@ -18,6 +18,18 @@ import json
 from datetime import datetime
 
 
+# The model the index is embedded with and every query is embedded with.
+# Collections do not record it, so anything that queries with query_texts
+# must pass query_embedding_function() or Chroma falls back to its default
+# model and compares vectors from two different models.
+EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+
+
+def query_embedding_function():
+    """Embedding function matching the index, for get_collection(..., embedding_function=...)."""
+    return embedding_functions.SentenceTransformerEmbeddingFunction(model_name=EMBEDDING_MODEL_NAME)
+
+
 class LegalResearchDB:
     """
     Manages all ChromaDB collections for the legal research system.
@@ -44,9 +56,7 @@ class LegalResearchDB:
         
         # Use sentence-transformers for embedding generation
         # This model is optimized for semantic similarity in legal text
-        self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-            model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-        )
+        self.embedding_function = query_embedding_function()
         
         # Initialize all collections
         self.bare_acts_collection = None
