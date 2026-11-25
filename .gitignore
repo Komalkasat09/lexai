@@ -1,0 +1,37 @@
+# macOS / editor noise
+.DS_Store
+.vscode/
+
+# Local Python environments
+backend/#/
+backend/or/
+backend/python3.10/
+backend/venv/
+
+# Generated databases and indexes
+chroma_db/
+legal_research_db/
+backend/chroma_db/
+backend/chroma_legal_db/
+backend/chromadb_data/
+backend/legal_research_db/
+backend/legal_research_db_clean/
+
+# Temporary / generated project state
+hindi_temp/
+backend/data/backup/
+backend/logs/
+backend/report.json
+backend/scraper_state.json
+LEXAI-2.pdf
+
+# Evaluation outputs, but keep published figures
+backend/evaluation/results/*
+!backend/evaluation/results/figures/
+backend/evaluation/results/figures/*
+!backend/evaluation/results/figures/*.png
+!backend/evaluation/results/figures/*.caption.tex
+!backend/evaluation/results/figures/*.provenance.json
+
+# Optional evaluation result trees
+backend/evaluation/results_*/

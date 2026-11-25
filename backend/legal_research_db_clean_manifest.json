@@ -1,0 +1,84 @@
+{
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "bare_acts_total": 2610,
+  "bare_acts_by_act": {
+    "Bharatiya Nagarik Suraksha Sanhita 2023": 531,
+    "Bharatiya Nyaya Sanhita 2023": 350,
+    "Bharatiya Sakshya Adhiniyam 2023": 170,
+    "Code of Criminal Procedure 1973": 450,
+    "Consumer Protection Act 2019": 107,
+    "Hindu Marriage Act 1955": 35,
+    "Indian Evidence Act 1872": 175,
+    "Indian Penal Code 1860": 570,
+    "Limitation Act 1963": 32,
+    "Negotiable Instruments Act 1881": 153,
+    "Protection of Women from Domestic Violence Act 2005": 37
+  },
+  "from_home_index": 1370,
+  "from_backup": 1240,
+  "backup_sections_already_in_home_index": {
+    "BNS.json": 1,
+    "BNSS.json": 3,
+    "BSA.json": 1,
+    "IPC.json": 522,
+    "NIA.json": 54
+  },
+  "acts_left_out": {
+    "Companies Act 2013": "text is the Income-tax Act 1961",
+    "Information Technology Act 2000": "text is a copy of IPC sections",
+    "Arbitration and Conciliation Act 1996": "text is the 1927 Geneva Convention",
+    "Code of Civil Procedure 1908": "text is paragraphs from a tax tribunal order",
+    "Transfer of Property Act 1882": "text is paragraphs from a writ judgment"
+  },
+  "case_law_total": 12800,
+  "case_law_dropped": [
+    {
+      "id": "SC_2019_CHEATING_001",
+      "case_name": "State of Maharashtra v. Rajesh Kumar",
+      "citation": "AIR 2019 SC 1234"
+    },
+    {
+      "id": "SC_2020_RAPE_001",
+      "case_name": "Vijay Singh v. State of NCT Delhi",
+      "citation": "AIR 2020 SC 5678"
+    },
+    {
+      "id": "SAMPLE_001",
+      "case_name": "State of Maharashtra v. Rajesh Kumar",
+      "citation": "AIR 2019 SC 1234"
+    },
+    {
+      "id": "SAMPLE_002",
+      "case_name": "Priya Sharma v. Union of India",
+      "citation": "2020 SCC 456"
+    },
+    {
+      "id": "SAMPLE_003",
+      "case_name": "Ramesh Technology Ltd v. Commissioner of Income Tax",
+      "citation": "AIR 2021 SC 789"
+    },
+    {
+      "id": "SAMPLE_004",
+      "case_name": "State of Kerala v. Anil Kumar",
+      "citation": "2018 SCC 234"
+    },
+    {
+      "id": "SAMPLE_005",
+      "case_name": "Union of India v. Delhi Green Solutions",
+      "citation": "2022 SCC 567"
+    },
+    {
+      "id": "4e0256f227c33d7a",
+      "case_name": "Unknown Case",
+      "citation": "Not Available"
+    }
+  ],
+  "amendments_total": 0,
+  "overruling_map_total": 0,
+  "built_counts": {
+    "case_law": 12800,
+    "overruling_map": 0,
+    "bare_acts": 2610,
+    "amendments": 0
+  }
+}
