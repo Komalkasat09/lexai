@@ -105,7 +105,12 @@ def test_base_section_strips_subsections_and_prefixes():
     ("BNSS 482 replaces CrPC 438", BNS, "482", False),
     ("BNSS 482 replaces CrPC 438", BNSS, "482", True),
     ("Section 1030 BNS", BNS, "103", False),
-    ("The IPC applies. " + "x" * 80 + " there were 302 cases", IPC, "302", False),
+    ("The IPC applies. " + "word " * 40 + "there were 302 cases", IPC, "302", False),
+    ("**Section 166 – “Public servant disobeying law, with intent to cause injury to any person”** "
+     "*Indian Penal Code, 1860*", IPC, "166", True),
+    ("| **Possession** | **Sec. 21** – Punishment for possession | NDPS Act, 1985 |",
+     "NDPS Act 1985", "21", True),
+    ("Cr.P.C. s. 438 allows anticipatory bail", "Code of Criminal Procedure 1973", "438", True),
 ])
 def test_statute_cited(text, act, section, expected):
     assert statute_cited(text, act, section) is expected
@@ -119,6 +124,16 @@ def test_statute_cited(text, act, section, expected):
 ])
 def test_case_cited(text, expected):
     assert case_cited(text, "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273") is expected
+
+
+@pytest.mark.parametrize("text, expected", [
+    ("| **Justice K.S. Puttaswamy (Retd.) vs Union of India & Ors.** | (2017) 4 SCC 1 |", True),
+    ("The nine-judge bench in (2017) 10 SCC 1 held privacy fundamental", True),
+    ("Union of India argued that privacy is not fundamental", False),
+    ("see (2017) 10 SCC 15", False),
+])
+def test_case_cited_handles_initials_markdown_and_exact_reporter(text, expected):
+    assert case_cited(text, "K.S. Puttaswamy v. Union of India (2017) 10 SCC 1") is expected
 
 
 def test_match_answer_scores_full_partial_and_zero():
