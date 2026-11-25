@@ -25,6 +25,12 @@ BACKEND = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BACKEND))
 
 SYSTEMS = ("LexAI", "NoRAG", "SimpleRAG")
+# SmartRetriever attributes each ablation sets on LexAI's retriever.
+LEXAI_VARIANTS = {
+    "full": {},
+    "no_replacement_fetch": {"use_transition_expansion": False},
+    "no_transition_middleware": {"use_bns_middleware": False},
+}
 RETRY_WAITS_S = (20, 40, 80, 160, 300)
 ERROR_ANSWER = re.compile(r"^\s*(error\b|\[placeholder)", re.I)
 
@@ -77,6 +83,9 @@ def main():
     ap.add_argument("--query-ids", nargs="+", default=None, help="run only these query ids")
     ap.add_argument("--limit", type=int, default=None, help="run only the first N queries")
     ap.add_argument("--eval-regime", choices=["forced-answer", "abstain-allowed"], default="forced-answer")
+    ap.add_argument("--categories", nargs="+", default=None, help="run only these benchmark categories")
+    ap.add_argument("--lexai-variant", choices=sorted(LEXAI_VARIANTS), default="full",
+                    help="ablation: switch off part of LexAI's transition handling")
     args = ap.parse_args()
 
     if args.env_file:
@@ -97,8 +106,17 @@ def main():
         if unknown:
             raise SystemExit(f"unknown query ids: {sorted(unknown)}")
         rows = [r for r in rows if r["query_id"] in wanted]
+    if args.categories:
+        unknown = set(args.categories) - {r["category"] for r in rows}
+        if unknown:
+            raise SystemExit(f"unknown categories: {sorted(unknown)}")
+        rows = [r for r in rows if r["category"] in set(args.categories)]
     if args.limit:
         rows = rows[:args.limit]
+    for attr, value in LEXAI_VARIANTS[args.lexai_variant].items():
+        if runner.lexai is None or not hasattr(runner.lexai.retriever, attr):
+            raise SystemExit(f"cannot apply variant {args.lexai_variant}: retriever has no {attr}")
+        setattr(runner.lexai.retriever, attr, value)
     eval_mode = args.eval_regime == "forced-answer"
 
     baselines = None
@@ -113,6 +131,8 @@ def main():
     }
     meta = {"ground_truth": args.ground_truth, "index": os.environ["LEXAI_CHROMA_PATH"],
             "eval_regime": args.eval_regime, "model": os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"),
+            "max_tokens": os.getenv("GROQ_MAX_TOKENS", "2048"), "lexai_variant": args.lexai_variant,
+            "categories": args.categories,
             "started": time.strftime("%Y-%m-%dT%H:%M:%S%z")}
     (args.out / "run_config.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
 
