@@ -3,7 +3,8 @@
 Reads the *_responses.jsonl files rerun_eval.py writes, scores each answer
 with the metrics engine (rows without a citation target are left out), and
 reports for every system: citation accuracy (structured citations, answer
-text, and "fully correct" = either cites an acceptable target), abstention,
+text, and "fully correct" = either cites an acceptable target), citation
+validity (sections that do not exist, placeholder cases), abstention,
 calibration and, for LexAI, P@K over the chunks it actually retrieved. Then
 compares LexAI with each baseline on the same queries with a paired
 bootstrap and McNemar's exact test.
@@ -29,6 +30,7 @@ sys.path.insert(0, str(BACKEND))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from evaluation.answer_key import row_targets  # noqa: E402
+from evaluation.citation_validity import check_answer  # noqa: E402
 from evaluation.metrics_engine import MetricsEngine  # noqa: E402
 from score_pk_with_draft_key import statute_rel  # noqa: E402
 from recompute_pk_from_pipeline import score as pk_score  # noqa: E402
@@ -123,6 +125,18 @@ def main():
             "abstention_engine_definition": {k: ap_metrics[k] for k in ("abstention_precision", "abstention_recall", "TP", "FP", "FN", "TN")},
             "calibration": ccs,
         }
+        checks = [check_answer(r.get("answer") or "") for r in responses]
+        claims = sum(c["section_claims"] for c in checks)
+        summary[system]["citation_validity"] = {
+            "answers": len(checks),
+            "section_claims_checked": claims,
+            "invented_sections": sum(len(c["invented_sections"]) for c in checks),
+            "placeholder_case_citations": sum(len(c["placeholder_cases"]) for c in checks),
+            "invented_per_100_section_claims": round(100 * sum(len(c["invented_sections"]) for c in checks) / max(claims, 1), 2),
+            "answers_with_any_invented_pct": round(100 * sum(c["invented"] > 0 for c in checks) / len(checks), 2),
+            "examples": [f"{query_ids[i]}: {', '.join(c['invented_sections'] + c['placeholder_cases'])}"
+                         for i, c in enumerate(checks) if c["invented"]][:20],
+        }
         if pk_rows:
             pk = pd.DataFrame(pk_rows)
             summary[system]["retrieval_statute_rows"] = {
@@ -154,7 +168,7 @@ def main():
     frame.to_csv(args.run / "scores_per_query.csv", index=False)
     print(json.dumps({s: {k: v for k, v in summary[s].items() if k in
                           ("n_scored", "fully_correct_pct", "fully_correct_ci95", "CAR_overall",
-                           "refused_pct", "retrieval_statute_rows")} for s in SYSTEMS}, indent=2))
+                           "refused_pct", "retrieval_statute_rows", "citation_validity")} for s in SYSTEMS}, indent=2))
     print(json.dumps(comparisons, indent=2))
     print("\nwrote", args.run / "scores.json", "and scores_per_query.csv")
 
