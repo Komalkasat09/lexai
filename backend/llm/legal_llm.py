@@ -664,8 +664,10 @@ class LegalLLM:
         """
         print(f"\n🔍 Processing query: {query}")
         
-        # Step 1: Retrieve context
-        retrieval_result = self.retriever.retrieve(query)
+        # Step 1: Retrieve context. The forced-answer regime (eval_mode) must not
+        # abstain, so it also needs the low-confidence results the retriever
+        # would otherwise discard; without them the model sees an empty context.
+        retrieval_result = self.retriever.retrieve(query, keep_low_confidence=eval_mode)
         
         # Step 2: Check if uncertainty should be triggered (production default).
         # In eval_mode we intentionally bypass abstention so offline evaluation

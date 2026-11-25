@@ -177,9 +177,9 @@ IPC_BNS_MAP = {
     "315": {"bns": "91", "changes": "prevent child being born alive - same"},
     "316": {"bns": "92", "changes": "child death by neglect - same"},
     "319": {"bns": "115", "changes": "hurt - same definition"},
-    "320": {"bns": "114", "changes": "grievous hurt - same"},
+    "320": {"bns": "116", "changes": "grievous hurt - same"},
     "323": {"bns": "115", "changes": "punishment for hurt - same"},
-    "324": {"bns": "117", "changes": "hurt by dangerous weapons - same"},
+    "324": {"bns": "118", "changes": "hurt by dangerous weapons - same"},
     "325": {"bns": "121", "changes": "grievous hurt - same"},
     "326": {"bns": "117", "changes": "grievous hurt by weapons - same"},
     "326A": {"bns": "124", "changes": "acid attack - enhanced punishment"},
@@ -190,16 +190,16 @@ IPC_BNS_MAP = {
     "354C": {"bns": "77", "changes": "voyeurism - same"},
     "354D": {"bns": "78", "changes": "stalking - same"},
     "363": {"bns": "137", "changes": "kidnapping - same"},
-    "364": {"bns": "139", "changes": "kidnapping for murder - same"},
+    "364": {"bns": "140", "changes": "kidnapping for murder - same"},
     "364A": {"bns": "140", "changes": "kidnapping for ransom - same"},
     "365": {"bns": "141", "changes": "kidnapping with intent - same"},
     "366": {"bns": "87", "changes": "kidnapping woman - same"},
-    "366A": {"bns": "94", "changes": "procuration of minor girl - same"},
-    "366B": {"bns": "95", "changes": "importation of girl - same"},
+    "366A": {"bns": "96", "changes": "procuration of minor girl - same"},
+    "366B": {"bns": "141", "changes": "importation of girl - same"},
     "375": {"bns": "63", "changes": "rape - expanded definition of consent"},
     "376": {"bns": "64", "changes": "punishment for rape - enhanced"},
     "376A": {"bns": "65", "changes": "rape causing death - same"},
-    "376B": {"bns": "66", "changes": "intercourse by husband - same"},
+    "376B": {"bns": "67", "changes": "intercourse by husband - same"},
     "376C": {"bns": "67", "changes": "intercourse by person in authority - same"},
     "376D": {"bns": "70", "changes": "gang rape - enhanced punishment"},
     "376E": {"bns": "71", "changes": "repeat offenders - life/death"},
@@ -209,7 +209,7 @@ IPC_BNS_MAP = {
     "379": {"bns": "303", "changes": "punishment for theft - same"},
     "380": {"bns": "305", "changes": "theft in dwelling - same"},
     "381": {"bns": "306", "changes": "theft by servant - same"},
-    "382": {"bns": "304", "changes": "theft after preparation - same"},
+    "382": {"bns": "307", "changes": "theft after preparation - same"},
     "383": {"bns": "308", "changes": "extortion - same"},
     "384": {"bns": "308", "changes": "punishment for extortion - same"},
     "385": {"bns": "351", "changes": "putting in fear - same"},
@@ -223,10 +223,10 @@ IPC_BNS_MAP = {
     "397": {"bns": "311", "changes": "robbery with attempt to murder - same"},
     "399": {"bns": "310", "changes": "preparation for dacoity - same"},
     "400": {"bns": "310", "changes": "being dacoit - same"},
-    "401": {"bns": "312", "changes": "belonging to gang - same"},
+    "401": {"bns": "313", "changes": "belonging to gang - same"},
     "402": {"bns": "310", "changes": "assembling for dacoity - same"},
-    "403": {"bns": "316", "changes": "dishonest misappropriation - same"},
-    "404": {"bns": "316", "changes": "misappropriation of property - same"},
+    "403": {"bns": "314", "changes": "dishonest misappropriation - same"},
+    "404": {"bns": "315", "changes": "misappropriation of property - same"},
     "405": {"bns": "316", "changes": "criminal breach of trust - same"},
     "406": {"bns": "316", "changes": "punishment for breach of trust - same"},
     "407": {"bns": "316", "changes": "breach of trust by carrier - same"},
@@ -237,10 +237,10 @@ IPC_BNS_MAP = {
     "418": {"bns": "318", "changes": "cheating with knowledge - same"},
     "419": {"bns": "318", "changes": "cheating by personation - same"},
     "420": {"bns": "318", "changes": "cheating and dishonestly inducing - substantially same"},
-    "421": {"bns": "318", "changes": "cheating by false property - same"},
-    "422": {"bns": "318", "changes": "cheating by personation - same"},
-    "423": {"bns": "318", "changes": "dishonest concealment - same"},
-    "424": {"bns": "318", "changes": "dishonest destruction - same"},
+    "421": {"bns": "320", "changes": "dishonest removal of property to prevent distribution among creditors"},
+    "422": {"bns": "321", "changes": "dishonestly preventing debt being available for creditors"},
+    "423": {"bns": "322", "changes": "dishonest execution of deed of transfer containing false statement of consideration"},
+    "424": {"bns": "323", "changes": "dishonest removal or concealment of property"},
     "425": {"bns": "324", "changes": "mischief - same"},
     "426": {"bns": "324", "changes": "punishment for mischief - same"},
     "427": {"bns": "324", "changes": "mischief causing damage - same"},
@@ -250,17 +250,17 @@ IPC_BNS_MAP = {
     "464": {"bns": "336", "changes": "making false document - same"},
     "465": {"bns": "336", "changes": "punishment for forgery - same"},
     "466": {"bns": "337", "changes": "forgery of record - same"},
-    "467": {"bns": "337", "changes": "forgery of valuable security - same"},
+    "467": {"bns": "338", "changes": "forgery of valuable security - same"},
     "468": {"bns": "337", "changes": "forgery for cheating - same"},
     "469": {"bns": "337", "changes": "forgery for harming reputation - same"},
-    "470": {"bns": "338", "changes": "forged document - same"},
+    "470": {"bns": "340", "changes": "forged document - same"},
     "471": {"bns": "340", "changes": "using forged document - same"},
     
     # Offences relating to Marriage
     "493": {"bns": "81", "changes": "cohabitation by fraud - same"},
     "494": {"bns": "82", "changes": "bigamy - same"},
     "495": {"bns": "83", "changes": "bigamy with concealment - same"},
-    "496": {"bns": "84", "changes": "fraudulent marriage - same"},
+    "496": {"bns": "83", "changes": "fraudulent marriage - same"},
     "497": {"bns": "removed", "changes": "adultery decriminalized"},
     "498": {"bns": "84", "changes": "enticing married woman - same"},
     "498A": {"bns": "85", "changes": "cruelty by husband - substantially same"},
@@ -272,7 +272,7 @@ IPC_BNS_MAP = {
     # Criminal Intimidation
     "503": {"bns": "351", "changes": "criminal intimidation - same"},
     "504": {"bns": "352", "changes": "intentional insult - same"},
-    "505": {"bns": "196", "changes": "statements causing public mischief - same"},
+    "505": {"bns": "353", "changes": "statements causing public mischief - same"},
     "506": {"bns": "351", "changes": "punishment for criminal intimidation - same"},
     "507": {"bns": "351", "changes": "criminal intimidation by anonymous - same"},
     "509": {"bns": "79", "changes": "word/gesture to insult modesty - same"},
@@ -336,8 +336,8 @@ CRPC_BNSS_MAP = {
     "162": {"bnss": "181", "changes": "statements to police not signed - same"},
     "163": {"bnss": "182", "changes": "no inducement to be offered - same"},
     "164": {"bnss": "183", "changes": "recording of confessions - added video conferencing"},
-    "165": {"bnss": "184", "changes": "search by police officer - same"},
-    "166": {"bnss": "185", "changes": "public to give information - same"},
+    "165": {"bnss": "185", "changes": "search by police officer - same"},
+    "166": {"bnss": "186", "changes": "public to give information - same"},
     "167": {"bnss": "187", "changes": "police custody and remand - changed default remand to 15 days"},
     "168": {"bnss": "188", "changes": "report of investigation - same"},
     "169": {"bnss": "189", "changes": "release of accused - same"},
@@ -349,10 +349,10 @@ CRPC_BNSS_MAP = {
     "191": {"bnss": "211", "changes": "transfer on application - same"},
     "192": {"bnss": "212", "changes": "making false accusation - same"},
     "193": {"bnss": "213", "changes": "prosecution for false charge - same"},
-    "200": {"bnss": "220", "changes": "examination of complainant - same"},
-    "202": {"bnss": "222", "changes": "postponement of issue - same"},
+    "200": {"bnss": "223", "changes": "examination of complainant - same"},
+    "202": {"bnss": "225", "changes": "postponement of issue - same"},
     "203": {"bnss": "223", "changes": "dismissal of complaint - same"},
-    "204": {"bnss": "224", "changes": "issue of process - same"},
+    "204": {"bnss": "227", "changes": "issue of process - same"},
     
     # Trial Procedures
     "207": {"bnss": "230", "changes": "supply of copies - same"},
@@ -376,25 +376,25 @@ CRPC_BNSS_MAP = {
     
     # Bail Provisions
     "436": {"bnss": "479", "changes": "bail in bailable offences - same"},
-    "437": {"bnss": "483", "changes": "bail in non-bailable - expanded provisions for undertrials"},
+    "437": {"bnss": "480", "changes": "bail in non-bailable - expanded provisions for undertrials"},
     "438": {"bnss": "482", "changes": "anticipatory bail - same"},
     "439": {"bnss": "483", "changes": "special powers of High Court - substantially same"},
     "440": {"bnss": "484", "changes": "amount of bond - same"},
     "441": {"bnss": "485", "changes": "bond to be executed - same"},
-    "445": {"bnss": "489", "changes": "cancellation of bond - same"},
+    "445": {"bnss": "490", "changes": "cancellation of bond - same"},
     
     # Appeals and Revisions
-    "372": {"bnss": "400", "changes": "no appeal in petty cases - same"},
-    "374": {"bnss": "402", "changes": "appeal from convictions - same"},
-    "377": {"bnss": "405", "changes": "appeal by State - same"},
-    "378": {"bnss": "406", "changes": "appeal to High Court - same"},
+    "372": {"bnss": "413", "changes": "no appeal in petty cases - same"},
+    "374": {"bnss": "415", "changes": "appeal from convictions - same"},
+    "377": {"bnss": "418", "changes": "appeal by State - same"},
+    "378": {"bnss": "419", "changes": "appeal to High Court - same"},
     "379": {"bnss": "407", "changes": "appeal in Sessions trial - same"},
-    "380": {"bnss": "408", "changes": "special right of appeal - same"},
-    "384": {"bnss": "412", "changes": "appeal procedure - same"},
-    "386": {"bnss": "414", "changes": "powers of appellate court - same"},
-    "389": {"bnss": "417", "changes": "suspension of sentence pending appeal - same"},
-    "397": {"bnss": "425", "changes": "calling for records - same"},
-    "401": {"bnss": "429", "changes": "High Court's revisional powers - same"},
+    "380": {"bnss": "421", "changes": "special right of appeal - same"},
+    "384": {"bnss": "425", "changes": "appeal procedure - same"},
+    "386": {"bnss": "427", "changes": "powers of appellate court - same"},
+    "389": {"bnss": "430", "changes": "suspension of sentence pending appeal - same"},
+    "397": {"bnss": "438", "changes": "calling for records - same"},
+    "401": {"bnss": "442", "changes": "High Court's revisional powers - same"},
     "482": {"bnss": "528", "changes": "inherent powers of High Court - same"},
 }
 
@@ -664,16 +664,21 @@ class SmartRetriever:
         self,
         query: str,
         query_type: Optional[QueryType] = None,
-        filters: Optional[Dict[str, Any]] = None
+        filters: Optional[Dict[str, Any]] = None,
+        keep_low_confidence: bool = False,
     ) -> Dict[str, Any]:
         """
         Execute 7-step intelligent retrieval pipeline.
-        
+
         Args:
             query: Natural language query
             query_type: Optional pre-classified query type
             filters: Optional filters (acts, courts, year_from, year_to)
-            
+            keep_low_confidence: When every result is below the confidence
+                threshold, return them labelled LOW instead of an empty
+                abstention package. Used by the forced-answer evaluation
+                regime, which must not abstain; production keeps False.
+
         Returns:
             Enriched context package with legal data
         """
@@ -783,7 +788,12 @@ class SmartRetriever:
         case_law_filtered, case_law_uncertain = filter_by_confidence(case_law_results)
         
         # Check if ALL results are low confidence
-        if bare_acts_uncertain and case_law_uncertain:
+        all_low_confidence = bare_acts_uncertain and case_law_uncertain
+        if all_low_confidence and keep_low_confidence:
+            # filter_by_confidence has already labelled each result LOW.
+            bare_acts_filtered = bare_acts_results
+            case_law_filtered = case_law_results
+        elif all_low_confidence:
             self.log_unanswered_query(
                 query=query,
                 query_type=query_type.value,
@@ -908,7 +918,7 @@ class SmartRetriever:
         
         return {
             "query_type": query_type.value,
-            "trigger_uncertainty": False,
+            "trigger_uncertainty": all_low_confidence,
             "bare_acts": bare_acts_enhanced,
             "case_laws": case_law_enhanced,
             "amendments": amendments_found,
