@@ -399,6 +399,12 @@ CRPC_BNSS_MAP = {
 }
 
 
+REPLACEMENT_ACTS = {
+    "BNS": "Bharatiya Nyaya Sanhita 2023",
+    "BNSS": "Bharatiya Nagarik Suraksha Sanhita 2023",
+}
+
+
 def apply_bns_bnss_middleware(results: List[Dict], result_type: str) -> List[Dict]:
     """
     Apply BNS/BNSS transition notes to results mentioning IPC/CrPC sections.
@@ -591,11 +597,15 @@ class SmartRetriever:
                  use_bns_middleware: bool = True,
                  use_reranker: bool = True,
                  use_bm25: bool = True,
-                 use_query_routing: bool = True):
+                 use_query_routing: bool = True,
+                 use_transition_expansion: bool = True):
         """
         Initialize smart retriever with database connection.
-        
+
         Args:
+            use_transition_expansion: When the middleware marks a retrieved
+                IPC/CrPC section as replaced, also fetch the replacing BNS/BNSS
+                section's text (default: True; False for the ablation).
             db: LegalResearchDB instance
             use_hybrid: Enable hybrid retrieval (BM25 + Dense + Cross-Encoder) for better precision
             confidence_high: High confidence threshold (default: 0.75)
@@ -611,6 +621,7 @@ class SmartRetriever:
         
         # BNS middleware flag (for ablation studies)
         self.use_bns_middleware = use_bns_middleware
+        self.use_transition_expansion = use_transition_expansion
         self.use_query_routing = use_query_routing
         self.use_reranker = use_reranker
         self.use_bm25 = use_bm25
@@ -881,6 +892,8 @@ class SmartRetriever:
         if self.use_bns_middleware:
             bare_acts_enhanced = apply_bns_bnss_middleware(bare_acts_with_amendments, "bare_act")
             case_law_enhanced = apply_bns_bnss_middleware(case_law_verified, "case_law")
+            if getattr(self, "use_transition_expansion", False):
+                bare_acts_enhanced = bare_acts_enhanced + self._fetch_replacement_sections(bare_acts_enhanced)
         else:
             # Skip middleware - pass through without BNS/BNSS notes
             bare_acts_enhanced = bare_acts_with_amendments
@@ -934,6 +947,61 @@ class SmartRetriever:
         }
     
     
+    def _fetch_replacement_sections(self, bare_acts: List[Dict], limit: int = 3) -> List[Dict]:
+        """Fetch the BNS/BNSS sections that replace retrieved IPC/CrPC sections.
+
+        The middleware only names the replacement ("replaced by BNS Section 64");
+        without its text the model cannot state what the new law says.
+
+        Args:
+            bare_acts: Retrieved bare-act results after apply_bns_bnss_middleware.
+            limit: Most replacement sections to add.
+
+        Returns:
+            New results for replacement sections not already retrieved, each
+            carrying the confidence of the section it replaces and a
+            'replaces' field naming that section. Empty when the database
+            cannot be queried.
+        """
+        collection = getattr(self.db, "bare_acts_collection", None)
+        if collection is None:
+            return []
+        have = {(r.get("metadata", {}).get("act_name"), str(r.get("metadata", {}).get("section_number")))
+                for r in bare_acts}
+        added: List[Dict] = []
+        for result in bare_acts:
+            for key in ("bns_transition", "bnss_transition"):
+                info = result.get(key)
+                if not isinstance(info, dict):
+                    continue
+                match = re.search(r"\b(BNSS|BNS)\s+Section\s+(\d+[A-Z]*)", str(info.get("replaced_by", "")))
+                if not match:
+                    continue
+                act = REPLACEMENT_ACTS[match.group(1)]
+                section = match.group(2)
+                if (act, section) in have or len(added) >= limit:
+                    continue
+                try:
+                    got = collection.get(where={"$and": [{"act_name": {"$eq": act}},
+                                                         {"section_number": {"$eq": section}}]},
+                                         include=["documents", "metadatas"])
+                except Exception:
+                    continue
+                if not got.get("ids"):
+                    continue
+                have.add((act, section))
+                added.append({
+                    "id": got["ids"][0],
+                    "document": got["documents"][0],
+                    "metadata": got["metadatas"][0],
+                    "distance": result.get("distance"),
+                    "type": "bare_act",
+                    "confidence_level": result.get("confidence_level"),
+                    "confidence_score": result.get("confidence_score", 0),
+                    "replaces": info.get("original"),
+                })
+        return added
+
     def _format_results(self, raw_results: Dict, result_type: str) -> List[Dict]:
         """
         Format ChromaDB query results into standardized structure.
