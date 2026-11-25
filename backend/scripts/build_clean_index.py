@@ -78,6 +78,7 @@ REPLACED_BY = {
     "Indian Evidence Act 1872": "Bharatiya Sakshya Adhiniyam 2023",
 }
 QA_CASE_NAME = "Legal Q&A reference (not a judgment)"
+SCHEDULE_ROW = re.compile(r"^\s*(The (owner|person)\b|Sedition\s+Imprisonment\b)")
 
 
 def clean_pdf_text(text):
@@ -103,6 +104,17 @@ def str_meta(meta):
     return out
 
 
+def is_schedule_row(text):
+    """True for text copied from a Code's tables rather than a section.
+
+    CrPC entries such as 482 hold rows of the compounding table ("The person
+    to whom loss or injury is caused by such use. Counterfeiting a ...") or the
+    First Schedule ("Sedition Imprisonment for life ..."), stored under the
+    section number of the IPC offence they describe.
+    """
+    return bool(SCHEDULE_ROW.match(text or ""))
+
+
 def load_home_sections(client):
     col = client.get_collection("bare_acts")
     got = col.get(include=["documents", "metadatas"])
@@ -111,6 +123,39 @@ def load_home_sections(client):
         if meta.get("act_name") in HOME_ACTS_KEPT:
             rows.append(dict(id=doc_id, document=doc, metadata=dict(meta)))
     return rows
+
+
+def repair_schedule_rows(rows):
+    """Replace section entries holding schedule text with the genuine section, or drop them.
+
+    The genuine text comes from the backup JSON for the same act and section,
+    taking the first entry that is not itself a schedule row. A section with no
+    genuine text (CrPC has no section 124A or 491-508) is dropped.
+
+    Returns:
+        (kept rows, {"replaced": [...], "dropped": [...]}) with "<act> <section>" labels.
+    """
+    backup = {}
+    for name in ("CrPC.json", "IPC.json", "IEA.json", "NIA.json"):
+        for section in json.loads((BACKUP_ACTS / name).read_text(encoding="utf-8")).get("sections") or []:
+            if not is_schedule_row(section.get("full_text")):
+                backup.setdefault((section["act_name"], str(section["section_number"])), section)
+    kept, report = [], {"replaced": [], "dropped": []}
+    for row in rows:
+        meta = row["metadata"]
+        if not is_schedule_row(meta.get("full_text")):
+            kept.append(row)
+            continue
+        key = (meta["act_name"], str(meta["section_number"]))
+        label = f"{key[0]} {key[1]}"
+        if key in backup:
+            fixed = backup_row(backup[key], "IPC.json")  # IPC/CrPC backups start with a real heading
+            fixed["id"] = fixed["metadata"]["id"] = row["id"]
+            kept.append(fixed)
+            report["replaced"].append(label)
+        else:
+            report["dropped"].append(label)
+    return kept, report
 
 
 def backup_row(section, source_file):
@@ -153,6 +198,9 @@ def load_backup_sections(have):
             sections = sections[4:]
         for section in sections:
             key = (section["act_name"], str(section["section_number"]))
+            if is_schedule_row(section.get("full_text")):
+                skipped[f"{name} schedule rows"] += 1
+                continue
             if key in have:
                 skipped[name] += 1
                 continue
@@ -208,7 +256,7 @@ def main():
     shutil.copytree(CASE_LAW_INDEX, case_copy)
 
     home = chromadb.PersistentClient(path=str(home_copy))
-    home_rows = load_home_sections(home)
+    home_rows, schedule_report = repair_schedule_rows(load_home_sections(home))
     have = {(r["metadata"]["act_name"], str(r["metadata"]["section_number"])) for r in home_rows}
     backup_rows, skipped = load_backup_sections(have)
     statute = home_rows + backup_rows
@@ -227,6 +275,7 @@ def main():
         "from_backup": len(backup_rows),
         "backup_sections_already_in_home_index": dict(skipped),
         "acts_left_out": HOME_ACTS_DROPPED,
+        "schedule_rows_repaired": schedule_report,
         "case_law_total": len(case_rows),
         "case_law_dropped": [dict(id=i, case_name=n, citation=c) for i, n, c in dropped],
         "amendments_total": 0,
