@@ -89,7 +89,9 @@ GROQ_API_KEYS = _collect_groq_api_keys()
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 GROQ_TEMPERATURE = 0.0  # Fully deterministic
 GROQ_SEED = 42  # Consistent seed for reproducibility
-GROQ_MAX_TOKENS = 2048
+# Shared with the baselines (evaluation/baselines.py) so every system gets the
+# same output budget; reasoning models spend part of it before answering.
+GROQ_MAX_TOKENS = int(os.getenv("GROQ_MAX_TOKENS", "2048"))
 
 # ============================================================================
 # STRICT LEGAL SYSTEM PROMPT

@@ -115,6 +115,9 @@ class BaselineRunner:
         self.groq_api_key = self.api_keys[self.current_key_index]
         self.groq_client = Groq(api_key=self.groq_api_key)
         self.llm_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        # Same output budget as LexAI (llm/legal_llm.py GROQ_MAX_TOKENS); the
+        # baselines used 1,024 while LexAI had 2,048.
+        self.max_tokens = int(os.getenv("GROQ_MAX_TOKENS", "2048"))
         
         print(f"✅ Initialized with {len(self.api_keys)} Groq API key(s)")
         
@@ -290,7 +293,7 @@ Be concise and accurate."""
                     {"role": "user", "content": query}
                 ],
                 temperature=0.0,  # Fully deterministic
-                max_tokens=1024,
+                max_tokens=self.max_tokens,
                 top_p=1,
                 stream=False
             )
@@ -417,7 +420,7 @@ Provide a clear answer based on the context above."""
                     {"role": "user", "content": user_message}
                 ],
                 temperature=0.0,  # Fully deterministic
-                max_tokens=1024,
+                max_tokens=self.max_tokens,
                 top_p=1,
                 stream=False
             )
@@ -562,7 +565,7 @@ Provide a clear answer based on the context above."""
                     {"role": "user", "content": user_message}
                 ],
                 temperature=0.0,  # Fully deterministic
-                max_tokens=1024,
+                max_tokens=self.max_tokens,
             )
             
             answer = completion.choices[0].message.content
