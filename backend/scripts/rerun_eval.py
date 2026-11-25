@@ -92,7 +92,11 @@ def main():
     gt = runner.load_ground_truth()
     rows = gt.to_dict("records")
     if args.query_ids:
-        rows = [r for r in rows if r["query_id"] in set(args.query_ids)]
+        wanted = {q for arg in args.query_ids for q in arg.split()}
+        unknown = wanted - {r["query_id"] for r in rows}
+        if unknown:
+            raise SystemExit(f"unknown query ids: {sorted(unknown)}")
+        rows = [r for r in rows if r["query_id"] in wanted]
     if args.limit:
         rows = rows[:args.limit]
     eval_mode = args.eval_regime == "forced-answer"
