@@ -16,6 +16,7 @@ backend/chroma_legal_db/
 backend/chromadb_data/
 backend/legal_research_db/
 backend/legal_research_db_clean/
+backend/legal_research_db_v2/
 
 # Temporary / generated project state
 hindi_temp/
