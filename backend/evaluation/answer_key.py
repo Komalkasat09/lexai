@@ -112,9 +112,11 @@ ACT_ALIASES: Dict[str, List[str]] = {
     "Constitution of India": ["constitution"],
 }
 
-# Characters allowed between an act name and a section number for the two to
-# count as one citation ("Section 302 of the Indian Penal Code", "IPC s. 302").
-PROXIMITY_CHARS = 40
+# Characters (of normalised text) allowed between an act name and a section
+# number for the two to count as one citation: "Section 302 of the Indian
+# Penal Code", "IPC s. 302", and a markdown heading such as
+# "Section 166 – Public servant disobeying law ... Indian Penal Code, 1860".
+PROXIMITY_CHARS = 120
 GENERIC_PARTIES = ("state of", "state", "union of india", "union", "attorney general",
                    "government of", "commissioner", "the state")
 
@@ -196,17 +198,27 @@ def parse_citations(text: str, default_act: str = "") -> Set[Citation]:
     return out
 
 
+def _normalise(text: str) -> str:
+    """Lowercase words and numbers only, single-spaced.
+
+    Removes markdown, quotes, dashes and dots, so "K.S. Puttaswamy", "**Sec. 21**"
+    and table cells read as plain words ("k s puttaswamy", "sec 21").
+    """
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", _s(text).lower()).split())
+
+
 def _act_patterns(act: str) -> List[str]:
     aliases = ACT_ALIASES.get(act)
     if aliases is None:
-        bare = re.sub(r"\s*\(.*?\)\s*", " ", re.sub(r"\s+\d{4}$", "", act)).strip().lower()
+        bare = re.sub(r"\s*\(.*?\)\s*", " ", re.sub(r"\s+\d{4}$", "", act)).strip()
         aliases = [bare] if bare else []
-    return [r"(?<![a-z])" + re.escape(a) + r"(?![a-z])" for a in aliases]
+    normalised = [_normalise(a) for a in aliases]
+    return [r"(?<![a-z0-9])" + re.escape(a) + r"(?![a-z0-9])" for a in normalised if a]
 
 
 def act_cited(text: str, act: str) -> bool:
     """True when the text names the act by any of its usual names."""
-    low = _s(text).lower()
+    low = _normalise(text)
     return any(re.search(p, low) for p in _act_patterns(act))
 
 
@@ -218,7 +230,7 @@ def statute_cited(text: str, act: str, section: str) -> bool:
     "[Section 302, Indian Penal Code 1860]" all count, while a bare 302
     elsewhere in the answer does not.
     """
-    low = _s(text).lower()
+    low = _normalise(text)
     sec = re.escape(base_section(section))
     if not sec:
         return False
@@ -251,13 +263,12 @@ def _reporter_cite(case: str) -> str:
 
 def case_cited(text: str, case: str) -> bool:
     """True when the text names the case's distinctive party or its reporter citation."""
-    low = re.sub(r"\s+", " ", _s(text).lower())
+    low = _normalise(text)
     party = _party_name(case)
-    if party and len(party) >= 5 and re.search(r"(?<![a-z])" + re.escape(party) + r"(?![a-z])",
-                                                re.sub(r"[^a-z0-9 ]", " ", low)):
+    if party and len(party) >= 5 and re.search(r"(?<![a-z])" + re.escape(party) + r"(?![a-z])", low):
         return True
-    cite = _reporter_cite(case)
-    return bool(cite) and cite in low
+    cite = _normalise(_reporter_cite(case))
+    return bool(cite) and re.search(r"(?<![0-9a-z])" + re.escape(cite) + r"(?![0-9a-z])", low) is not None
 
 
 def is_qa_entry(metadata: dict) -> bool:
