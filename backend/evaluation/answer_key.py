@@ -10,6 +10,10 @@ from typing import Dict, Iterable, List, Optional, Set, Tuple
 
 import pandas as pd
 
+# Provenance label for corrections that did not come from the advocate's own
+# "Advocate correction" column. Update it once the advocate confirms them.
+OPEN_ROW_ANSWERS = "answer to an open question, pending advocate confirmation"
+
 # Advocate corrections from the key's "Advocate correction" column, translated
 # into targets. "primary"/"also" replace the draft values; type "O" (open, no
 # single citation) or "X" (rejected) removes the row from citation scoring.
@@ -38,6 +42,15 @@ CORRECTIONS: Dict[str, Dict[str, str]] = {
     "Q216": {"type": "X"},
     "Q258": {"also": "IPC 90; BNS 63, 28; Evidence Act 114A; BSA 120"},
     "Q270": {"also": "CrPC 436, 437; BNSS 2(1)(d), 478, 480"},
+    # Answers to the six rows the advocate accepted with an open question
+    # (Q064, Q076, Q172, Q248, Q269, Q284), supplied 25 Nov 2026. Only these
+    # three change a scored target; Q172 needs no change, and the additions for
+    # Q248 (JJ Act s.18(3)) and Q284 (Gokak Patel case) do not touch how those
+    # rows are scored.
+    "Q064": {"primary": "Companies Act 2013 s.448", "also": "Companies Act 2013 s.447; IPC 477A; BNS 344",
+             "source": OPEN_ROW_ANSWERS},
+    "Q076": {"also": "ITPA ss.4, 5; IPC 370; BNS 143", "source": OPEN_ROW_ANSWERS},
+    "Q269": {"also": "CrPC 2(l)", "source": OPEN_ROW_ANSWERS},
 }
 
 # Section Lookup rows the key flags as recorded under the wrong act. Not applied
@@ -86,6 +99,8 @@ CANONICAL_ACTS: Dict[str, str] = {
     "PROTECTION OF CHILDREN FROM SEXUAL OFFENCES ACT": "Protection of Children from Sexual Offences Act 2012",
     "IT ACT": "Information Technology Act 2000",
     "INFORMATION TECHNOLOGY ACT": "Information Technology Act 2000",
+    "ITPA": "Immoral Traffic (Prevention) Act 1956",
+    "IMMORAL TRAFFIC (PREVENTION) ACT": "Immoral Traffic (Prevention) Act 1956",
 }
 
 # Words a reader would use for each act in an answer. Short codes are matched
@@ -110,6 +125,7 @@ ACT_ALIASES: Dict[str, List[str]] = {
     "Protection of Children from Sexual Offences Act 2012": ["protection of children from sexual offences", "pocso"],
     "Information Technology Act 2000": ["information technology act", "it act"],
     "Constitution of India": ["constitution"],
+    "Immoral Traffic (Prevention) Act 1956": ["immoral traffic (prevention) act", "immoral traffic act", "itpa", "pita"],
 }
 
 # Characters (of normalised text) allowed between an act name and a section
@@ -210,8 +226,10 @@ def _normalise(text: str) -> str:
 def _act_patterns(act: str) -> List[str]:
     aliases = ACT_ALIASES.get(act)
     if aliases is None:
-        bare = re.sub(r"\s*\(.*?\)\s*", " ", re.sub(r"\s+\d{4}$", "", act)).strip()
-        aliases = [bare] if bare else []
+        # Both "Juvenile Justice (Care and Protection of Children) Act" and
+        # "Juvenile Justice Act": answers use either form.
+        no_year = re.sub(r"\s+\d{4}$", "", act).strip()
+        aliases = [a for a in {no_year, re.sub(r"\s*\(.*?\)\s*", " ", no_year).strip()} if a]
     normalised = [_normalise(a) for a in aliases]
     return [r"(?<![a-z0-9])" + re.escape(a) + r"(?![a-z0-9])" for a in normalised if a]
 
@@ -366,7 +384,7 @@ def build_ground_truth(key_path: str, ground_truth_path: str,
                 correct_section=first[1],
                 correct_citation=(f"{first[0]} Section {first[1]}" if first[0] else (cases[0] if cases else "")),
                 correct_answer_summary=_s(k["Draft: answer note"]),
-                target_source="answer key" + (" (advocate correction)" if fix else ""),
+                target_source="answer key" + (f" ({fix.get('source', 'advocate correction')})" if fix else ""),
             )
         else:
             act_raw = SECTION_LOOKUP_FIXES.get(qid, rec.get("correct_act")) if apply_section_lookup_fixes \
