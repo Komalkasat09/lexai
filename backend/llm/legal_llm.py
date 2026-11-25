@@ -94,6 +94,38 @@ GROQ_MAX_TOKENS = 2048
 # ============================================================================
 # STRICT LEGAL SYSTEM PROMPT
 # ============================================================================
+def _item_text(item: Dict[str, Any]) -> str:
+    """Text of a retrieved item. SmartRetriever stores it under 'document'.
+
+    Reading only 'text' (as this module used to) gave the model "No text
+    available" for every section, case and amendment.
+
+    Args:
+        item: One retrieved bare-act, case-law or amendment result.
+
+    Returns:
+        The stored text, or "No text available" when there is none.
+    """
+    return item.get('document') or item.get('text') or 'No text available'
+
+
+def _transition_notes(item: Dict[str, Any]) -> List[str]:
+    """BNS/BNSS transition notes the retriever's middleware attached to an item.
+
+    Args:
+        item: One retrieved result after apply_bns_bnss_middleware.
+
+    Returns:
+        Notes for the item's own section and for IPC/CrPC sections named in its text.
+    """
+    notes = [item[key]['note'] for key in ('bns_transition', 'bnss_transition')
+             if isinstance(item.get(key), dict) and item[key].get('note')]
+    mentioned = item.get('ipc_sections_mentioned', []) + item.get('crpc_sections_mentioned', [])
+    if mentioned:
+        notes.append("Sections mentioned here have been replaced: " + "; ".join(mentioned))
+    return notes
+
+
 LEGAL_SYSTEM_PROMPT = """You are an expert legal research assistant for Indian law, designed to help practicing lawyers with accurate, reliable legal information.
 
 CRITICAL RULES (NEVER VIOLATE):
@@ -287,11 +319,14 @@ class LegalLLM:
                 context_parts.append(f"Title: {meta.get('section_title', 'N/A')}")
                 context_parts.append(f"Confidence: {act.get('confidence_score', 0):.3f}")
                 
+                if act.get('replaces'):
+                    context_parts.append(f"Replaces: {act['replaces']}")
+
                 # BNS/BNSS transition note
-                if act.get('bns_bnss_note'):
-                    context_parts.append(f"⚠️  TRANSITION: {act['bns_bnss_note']}")
-                
-                context_parts.append(f"\nText:\n{act.get('text', 'No text available')}")
+                for note in _transition_notes(act):
+                    context_parts.append(f"⚠️  TRANSITION: {note}")
+
+                context_parts.append(f"\nText:\n{_item_text(act)}")
                 
                 # Amendment info
                 if act.get('has_amendments'):
@@ -317,10 +352,10 @@ class LegalLLM:
                     context_parts.append(f"⚠️  WARNING: {case.get('warning', 'This case has been overruled')}")
                 
                 # BNS/BNSS note
-                if case.get('bns_bnss_note'):
-                    context_parts.append(f"📋 {case['bns_bnss_note']}")
-                
-                context_parts.append(f"\nFacts/Holding:\n{case.get('text', 'No text available')}")
+                for note in _transition_notes(case):
+                    context_parts.append(f"📋 {note}")
+
+                context_parts.append(f"\nFacts/Holding:\n{_item_text(case)}")
         
         # Amendments
         amendments = retrieval_result.get('amendments', [])
@@ -330,11 +365,12 @@ class LegalLLM:
             context_parts.append("=" * 80)
             
             for i, amend in enumerate(amendments, 1):
+                meta = amend.get('metadata', {}) or {}
                 context_parts.append(f"\n[AMENDMENT {i}]")
-                context_parts.append(f"Amendment: {amend.get('amendment_name', 'Unknown')}")
-                context_parts.append(f"Year: {amend.get('year', 'N/A')}")
-                context_parts.append(f"Act: {amend.get('act_name', 'Unknown')}, Section: {amend.get('section_number', 'N/A')}")
-                context_parts.append(f"\nChanges:\n{amend.get('text', 'No details available')}")
+                context_parts.append(f"Amendment: {meta.get('amendment_act', 'Unknown')}")
+                context_parts.append(f"Year: {meta.get('amendment_year', 'N/A')}")
+                context_parts.append(f"Act: {meta.get('act_name', 'Unknown')}, Section: {meta.get('section_number', 'N/A')}")
+                context_parts.append(f"\nChanges:\n{_item_text(amend)}")
         
         # Stats
         stats = retrieval_result.get('stats', {})

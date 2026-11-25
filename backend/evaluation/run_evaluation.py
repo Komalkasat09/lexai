@@ -391,7 +391,7 @@ class EvaluationRunner:
         for act in sources.get('bare_acts', []):
             chunks.append({
                 'type': 'bare_act',
-                'text': act.get('text', ''),
+                'text': act.get('document') or act.get('text', ''),  # SmartRetriever stores text under 'document'
                 'metadata': act.get('metadata', {}),
                 'confidence': act.get('confidence_score', 0)
             })
@@ -400,7 +400,7 @@ class EvaluationRunner:
         for case in sources.get('case_laws', []):
             chunks.append({
                 'type': 'case_law',
-                'text': case.get('text', ''),
+                'text': case.get('document') or case.get('text', ''),
                 'metadata': case.get('metadata', {}),
                 'confidence': case.get('confidence_score', 0)
             })
