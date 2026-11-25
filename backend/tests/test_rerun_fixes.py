@@ -78,6 +78,90 @@ def test_confident_results_unaffected_by_flag():
     assert [r["id"] for r in plain["bare_acts"]] == [r["id"] for r in kept["bare_acts"]] == ["BA_1", "BA_2"]
 
 
+class StubCollection:
+    """bare_acts collection holding a fixed set of (act, section) -> text."""
+
+    def __init__(self, sections):
+        self.sections = sections
+        self.calls = 0
+
+    def get(self, where, include=None):
+        self.calls += 1
+        act = where["$and"][0]["act_name"]["$eq"]
+        sec = where["$and"][1]["section_number"]["$eq"]
+        if (act, sec) not in self.sections:
+            return {"ids": [], "documents": [], "metadatas": []}
+        return {"ids": [f"{act}_{sec}"], "documents": [self.sections[(act, sec)]],
+                "metadatas": [{"act_name": act, "section_number": sec}]}
+
+
+BNS_ACT = "Bharatiya Nyaya Sanhita 2023"
+
+
+def _ipc_result(section, replaced_by):
+    return {"id": f"IPC_{section}", "document": "...", "confidence_level": "HIGH", "confidence_score": 0.8,
+            "metadata": {"act_name": "Indian Penal Code 1860", "section_number": section},
+            "bns_transition": {"original": f"IPC Section {section}", "replaced_by": replaced_by}}
+
+
+def test_replacement_sections_are_fetched_once_with_source_confidence():
+    retriever = _retriever(0.9)
+    retriever.db.bare_acts_collection = StubCollection({(BNS_ACT, "64"): "64. Whoever commits rape ..."})
+    already = {"id": "BNS_103", "metadata": {"act_name": BNS_ACT, "section_number": "103"}}
+    results = [_ipc_result("376", "BNS Section 64"), _ipc_result("376A", "BNS Section 64"),
+               _ipc_result("302", "BNS Section 103"), _ipc_result("311", "Removed in BNS"), already]
+    added = retriever._fetch_replacement_sections(results)
+    assert [(a["metadata"]["section_number"], a["replaces"], a["confidence_level"]) for a in added] == \
+        [("64", "IPC Section 376", "HIGH")]
+    assert added[0]["document"] == "64. Whoever commits rape ..."
+
+
+def test_replacement_missing_from_index_adds_nothing():
+    retriever = _retriever(0.9)
+    retriever.db.bare_acts_collection = StubCollection({})
+    assert retriever._fetch_replacement_sections([_ipc_result("376", "BNS Section 64")]) == []
+
+
+def test_replacement_respects_limit():
+    retriever = _retriever(0.9)
+    retriever.db.bare_acts_collection = StubCollection({(BNS_ACT, str(n)): "x" for n in range(1, 10)})
+    results = [_ipc_result(str(300 + n), f"BNS Section {n}") for n in range(1, 10)]
+    assert len(retriever._fetch_replacement_sections(results, limit=3)) == 3
+
+
+# --- LLM context ---------------------------------------------------------------
+
+def test_llm_context_carries_section_text_transition_note_and_amendment():
+    from llm.legal_llm import LegalLLM
+
+    retrieval = {
+        "query_type": "section_lookup", "confidence_level": "HIGH", "has_bns_bnss_notes": True,
+        "bare_acts": [{
+            "document": "Indian Penal Code 1860 Section 302 Punishment for murder.— Whoever commits murder",
+            "metadata": {"act_name": "Indian Penal Code 1860", "section_number": "302"},
+            "confidence_score": 0.9,
+            "bns_transition": {"note": "IPC Section 302 has been replaced by BNS Section 103."},
+        }],
+        "case_laws": [{
+            "document": "Question: What is bail? Answer: Release pending trial.",
+            "metadata": {"case_name": "Legal Q&A reference (not a judgment)"},
+            "confidence_score": 0.7,
+            "ipc_sections_mentioned": ["IPC 420 → BNS 318"],
+        }],
+        "amendments": [{"document": "Old text ... New text ...",
+                        "metadata": {"amendment_act": "Example (Amendment) Act 2018", "amendment_year": 2018,
+                                     "act_name": "Indian Penal Code 1860", "section_number": "376"}}],
+        "stats": {},
+    }
+    context = LegalLLM._format_retrieval_context(None, retrieval)
+    assert "Whoever commits murder" in context
+    assert "Release pending trial." in context
+    assert "No text available" not in context
+    assert "TRANSITION: IPC Section 302 has been replaced by BNS Section 103." in context
+    assert "IPC 420 → BNS 318" in context
+    assert "Amendment: Example (Amendment) Act 2018" in context and "Old text ... New text ..." in context
+
+
 # --- run wrapper -------------------------------------------------------------
 
 @pytest.mark.parametrize("response, expected", [
