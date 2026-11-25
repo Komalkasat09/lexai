@@ -26,9 +26,16 @@ import re
 from collections import defaultdict
 import chromadb
 
+try:
+    from evaluation.answer_key import case_cited, is_qa_entry, match_answer, row_targets
+except ImportError:  # run from inside evaluation/
+    from answer_key import case_cited, is_qa_entry, match_answer, row_targets
+
 
 # Increment when metric definitions or key contracts change.
-METRIC_SCHEMA_VERSION = "2.0.0"
+# 3.0.0: rows without a citation target are excluded instead of scored as
+# correct; targets come from answer_key.row_targets (answer key aware).
+METRIC_SCHEMA_VERSION = "3.0.0"
 
 
 # Abstention detection phrases
@@ -134,10 +141,14 @@ class MetricsEngine:
         # Exact match first
         if key in cls._ACT_CANONICAL_NAMES:
             return cls._ACT_CANONICAL_NAMES[key]
-        # Prefix match (e.g. "Indian Penal Code 186" → IPC)
-        for k, v in cls._ACT_CANONICAL_NAMES.items():
-            if key.startswith(k) or k.startswith(key):
-                return v
+        # Prefix match (e.g. "Indian Penal Code 186" → IPC). Take the longest
+        # matching key, so "BNSS 2023" resolves to BNSS rather than BNS.
+        prefixed = [k for k in cls._ACT_CANONICAL_NAMES if key.startswith(k)]
+        if prefixed:
+            return cls._ACT_CANONICAL_NAMES[max(prefixed, key=len)]
+        extended = [k for k in cls._ACT_CANONICAL_NAMES if k.startswith(key)]
+        if extended:
+            return cls._ACT_CANONICAL_NAMES[min(extended, key=len)]
         return None
 
     @staticmethod
@@ -214,7 +225,8 @@ class MetricsEngine:
         scores_generated = []
         category_scores_retrieved = defaultdict(list)
         category_scores_generated = defaultdict(list)
-        
+        excluded_no_target = 0
+
         for i, response in enumerate(responses):
             gt = self.ground_truth.iloc[i]
             response_query_id = response.get('query_id')
@@ -227,67 +239,14 @@ class MetricsEngine:
                     f"ground_truth={gt_query_id}. Index-based joins are invalid."
                 )
             
-            # Extract citations from response
-            response_citations = response.get('citations', [])
-            response_text = response.get('answer', '')
-            
-            # Get ground truth
-            correct_act = self._safe_str(gt.get('correct_act', '')).strip().upper()
-            correct_section = self._safe_str(gt.get('correct_section', '')).strip()
-            correct_citation = self._safe_str(gt.get('correct_citation', '')).strip()
-            if not correct_citation and correct_act and correct_section:
-                correct_citation = f"{correct_act} Section {correct_section}"
             category = self._safe_str(gt.get('category', 'unknown'))
+            scored = self._score_against_key(response, gt)
+            if scored is None:
+                # No citation target: leave the row out rather than score it.
+                excluded_no_target += 1
+                continue
+            score_retrieved, score_generated = scored
 
-            predicted_candidates = self._extract_predicted_citation_candidates(response)
-            citation_match = bool(correct_citation) and any(
-                self.citations_match(pred, correct_citation)
-                for pred in predicted_candidates
-                if pred
-            )
-            
-            if correct_act == '':
-                # Query doesn't require specific citation
-                score_retrieved = 1.0  # Don't penalize
-                score_generated = 1.0
-            else:
-                # Check if correct act appears in citations or answer
-                act_found = self._check_act_mentioned(correct_act, response_citations, response_text)
-                
-                # Check if correct section appears
-                section_found = self._check_section_mentioned(correct_section, response_citations, response_text)
-                
-                # Scoring - RETRIEVED (from citations list)
-                if citation_match:
-                    score_retrieved = 1.0
-                elif act_found and section_found:
-                    score_retrieved = 1.0
-                elif act_found:
-                    score_retrieved = 0.5
-                else:
-                    score_retrieved = 0.0
-                
-                # Scoring - GENERATED (from answer text)
-                # Extract section/act references from answer text alone
-                import re
-                answer_lower = response_text.lower()
-                act_lower = correct_act.lower() if correct_act else ''
-                act_found_text = act_lower in answer_lower if act_lower else True
-                
-                # Look for section numbers in answer
-                section_pattern = r'(?:section|sec|s\.)\s*(\d+(?:\.\d+)?)'
-                sections_in_answer = [m.group(1) for m in re.finditer(section_pattern, answer_lower)]
-                section_found_text = bool(sections_in_answer) and any(
-                    sec == correct_section for sec in sections_in_answer
-                ) if correct_section else True
-                
-                if act_found_text and section_found_text:
-                    score_generated = 1.0
-                elif act_found_text:
-                    score_generated = 0.5
-                else:
-                    score_generated = 0.0
-            
             scores_retrieved.append(score_retrieved)
             scores_generated.append(score_generated)
             category_scores_retrieved[category].append(score_retrieved)
@@ -314,9 +273,34 @@ class MetricsEngine:
             "CAR_generated_by_category": car_generated_by_category,
             # Legacy backward compatibility: average of both
             "CAR_overall": (car_retrieved_overall + car_generated_overall) / 2.0 if scores_retrieved and scores_generated else 0,
+            "n_scored": len(scores_retrieved),
+            "n_excluded_no_target": excluded_no_target,
             "individual_scores_retrieved": scores_retrieved,
             "individual_scores_generated": scores_generated
         }
+
+    def _structured_citation_text(self, response: Dict) -> str:
+        """All structured citation candidates of a response joined into one string."""
+        return " ; ".join(self._extract_predicted_citation_candidates(response))
+
+    def _score_against_key(self, response: Dict, gt) -> Optional[Tuple[float, float]]:
+        """Score a response's citations and answer text against a ground-truth row.
+
+        Args:
+            response: System response with 'citations', 'answer' and related fields.
+            gt: Ground-truth row (dict or pandas Series).
+
+        Returns:
+            (score from structured citations, score from answer text), each 1.0,
+            0.5 or 0.0 as defined by answer_key.match_answer; None when the row
+            has no citation target and must not be scored.
+        """
+        row = gt.to_dict() if hasattr(gt, 'to_dict') else dict(gt)
+        retrieved = match_answer(self._structured_citation_text(response), row)
+        if retrieved is None:
+            return None
+        generated = match_answer(self._safe_str(response.get('answer', '')), row)
+        return retrieved, generated
 
     def normalize_citation(self, citation_str: str) -> str:
         """Normalize Indian legal citation formats before CAR comparison."""
@@ -1062,28 +1046,27 @@ class MetricsEngine:
         True = answer was available, system should have answered
         False = answer not in DB, abstention was correct
         """
-        correct_section = self._safe_str(ground_truth.get('correct_section', ''))
-        correct_act = self._safe_str(ground_truth.get('correct_act', ''))
-        
-        if not correct_section or not correct_act:
-            return False
-        
-        if not self.bare_acts_collection:
+        target_type, _, acceptable, _ = row_targets(dict(ground_truth))
+        # The index holds no judgments, so a case-law answer is never "available".
+        if target_type != "S" or not self.bare_acts_collection:
             return False
 
-        canonical_act = self._resolve_act_name(correct_act) or correct_act
-        try:
-            results = self.bare_acts_collection.get(
-                where={
-                    "$and": [
-                        {"section_number": {"$eq": correct_section}},
-                        {"act_name": {"$eq": canonical_act}},
-                    ]
-                }
-            )
-            return len(results['ids']) > 0
-        except Exception:
-            return False
+        for act, section in acceptable:
+            for section_value in {section, section.upper()}:
+                try:
+                    results = self.bare_acts_collection.get(
+                        where={
+                            "$and": [
+                                {"section_number": {"$eq": section_value}},
+                                {"act_name": {"$eq": act}},
+                            ]
+                        }
+                    )
+                except Exception:
+                    continue
+                if results['ids']:
+                    return True
+        return False
     
     def compute_abstention_metrics(self, responses: List[Dict], ground_truths: List[Dict] = None) -> Dict:
         """
@@ -1120,25 +1103,17 @@ class MetricsEngine:
                 }
             ground_truths = [self.ground_truth.iloc[i].to_dict() for i in range(len(responses))]
         
+        excluded_no_target = 0
         for response, gt in zip(responses, ground_truths):
+            scored = self._score_against_key(response, gt)
+            if scored is None:
+                # No target: neither a correct answer nor a correct abstention can be judged.
+                excluded_no_target += 1
+                continue
             abstained = self._is_abstention(response)
             available = self._check_answer_available_in_db(gt)
-            
-            # Check if answer was actually correct by checking citations
-            correct_act = self._safe_str(gt.get('correct_act', '')).strip().upper()
-            correct_section = self._safe_str(gt.get('correct_section', '')).strip()
-            
-            response_citations = response.get('citations', [])
-            response_text = response.get('answer', '')
-            
-            answered_correctly = False
-            if correct_act:
-                act_found = self._check_act_mentioned(correct_act, response_citations, response_text)
-                section_found = self._check_section_mentioned(correct_section, response_citations, response_text)
-                answered_correctly = act_found and section_found
-            else:
-                answered_correctly = True  # No specific answer required
-            
+            answered_correctly = max(scored) == 1.0
+
             if abstained and not available:
                 TP += 1  # Correct abstention
             elif abstained and available:
@@ -1148,18 +1123,19 @@ class MetricsEngine:
             else:
                 TN += 1  # Correctly answered
         
-        total = len(responses)
+        total = TP + FP + FN + TN
         precision = TP / max(TP + FP, 1)
         recall = TP / max(TP + FN, 1)
         f1 = (2 * precision * recall) / max(precision + recall, 0.001)
-        
+
         return {
             "abstention_precision": precision,
             "abstention_recall": recall,
             "f1_abstention": f1,
             "abstention_rate": (TP + FP) / max(total, 1),
             "TP": TP, "FP": FP, "FN": FN, "TN": TN,
-            "total_queries": total
+            "total_queries": total,
+            "n_excluded_no_target": excluded_no_target,
         }
     
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1454,13 +1430,14 @@ class MetricsEngine:
         
         Never use text substring for relevance judgment.
         """
-        correct_section = self._safe_str(ground_truth.get('correct_section', ''))
-        correct_act = self._safe_str(ground_truth.get('correct_act', '')).lower()
-        correct_citation = self._safe_str(ground_truth.get('correct_citation', ''))
-        category = self._safe_str(ground_truth.get('category', ''))
-        
-        # Choose collection based on query category
-        if category in ['case_law_search', 'overruled_detection']:
+        target_type, _, acceptable, key_cases = row_targets(dict(ground_truth))
+        if target_type not in ("S", "C"):
+            return None
+
+        # Choose collection by target type. (Matching on category names never
+        # fired: the benchmark's categories are "Case Law Search", not
+        # "case_law_search".)
+        if target_type == "C":
             if not self.case_law_collection:
                 return {
                     "p_at_1": 0.0,
@@ -1479,9 +1456,10 @@ class MetricsEngine:
             
             relevant = []
             for metadata in results['metadatas'][0]:
-                # Exact citation match for case law
-                match = metadata.get('citation', '') == correct_citation
-                relevant.append(match)
+                # Only a judgment counts; a Q&A entry that mentions the case does not.
+                label = f"{metadata.get('case_name', '')} {metadata.get('citation', '')}"
+                relevant.append(not is_qa_entry(metadata)
+                                and any(case_cited(label, case) for case in key_cases))
                 
         else:
             if not self.bare_acts_collection:
@@ -1501,16 +1479,14 @@ class MetricsEngine:
             )
             
             relevant = []
-            canonical_act = self._resolve_act_name(correct_act.upper()) or correct_act
+            targets = {(act, section.lower()) for act, section in acceptable}
             for metadata in results['metadatas'][0]:
                 # EXACT metadata match — not substring in text
-                section_match = (
-                    str(metadata.get('section_number', '')) == correct_section
+                key = (
+                    metadata.get('act_name', ''),
+                    re.sub(r'\(.*$', '', str(metadata.get('section_number', ''))).strip().lower(),
                 )
-                act_match = (
-                    metadata.get('act_name', '') == canonical_act
-                )
-                relevant.append(section_match and act_match)
+                relevant.append(key in targets)
         
         # Compute P@1 and P@k
         p_at_1 = float(relevant[0]) if relevant else 0.0
@@ -1534,23 +1510,31 @@ class MetricsEngine:
         Wrapper for batch processing using fixed compute_retrieval_precision_at_k
         """
         precision_at_k = {k: [] for k in k_values}
-        
+        excluded_no_target = 0
+
         for i, response in enumerate(responses):
             gt = self.ground_truth.iloc[i].to_dict()
             query = response.get('query', '')
-            
+
             if not query:
                 continue
-            
+
             for k in k_values:
                 result = self.compute_retrieval_precision_at_k(query, gt, k=k)
+                if result is None:
+                    break
                 precision = result.get(f"p_at_{k}", 0.0)
                 precision_at_k[k].append(precision)
-        
-        return {
+            else:
+                continue
+            excluded_no_target += 1
+
+        out = {
             f"P@{k}": np.mean(scores) * 100 if scores else 0
             for k, scores in precision_at_k.items()
         }
+        out["n_excluded_no_target"] = excluded_no_target
+        return out
     
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     # METRIC 7: Confidence Calibration Score (CCS)
@@ -1580,7 +1564,9 @@ class MetricsEngine:
             confidence = response.get('confidence', 'medium').lower()
             
             is_correct = self._is_response_correct_for_ccs(response, gt)
-            
+            if is_correct is None:
+                continue
+
             if confidence in confidence_buckets:
                 confidence_buckets[confidence].append(1.0 if is_correct else 0.0)
         
@@ -1611,33 +1597,21 @@ class MetricsEngine:
         
         return calibration
 
-    def _is_response_correct_for_ccs(self, response: Dict, gt_row) -> bool:
+    def _is_response_correct_for_ccs(self, response: Dict, gt_row) -> Optional[bool]:
         """
         Compute binary correctness label for confidence calibration.
 
         Uses citation-grounded correctness signals rather than confidence text,
         so CCS reflects true answer quality.
+
+        Returns:
+            True when the citations or the answer cite an acceptable target,
+            False when they do not, None when the row has no target.
         """
-        answer = self._safe_str(response.get('answer', ''))
-
-        correct_act = self._safe_str(gt_row.get('correct_act', '')).strip().upper()
-        correct_section = self._safe_str(gt_row.get('correct_section', '')).strip()
-        correct_citation = self._safe_str(gt_row.get('correct_citation', '')).strip()
-        if not correct_citation and correct_act and correct_section:
-            correct_citation = f"{correct_act} Section {correct_section}"
-
-        response_citations = response.get('citations', [])
-        predicted_candidates = self._extract_predicted_citation_candidates(response)
-        citation_match = bool(correct_citation) and any(
-            self.citations_match(pred, correct_citation)
-            for pred in predicted_candidates
-            if pred
-        )
-
-        act_found = self._check_act_mentioned(correct_act, response_citations, answer) if correct_act else True
-        section_found = self._check_section_mentioned(correct_section, response_citations, answer) if correct_section else True
-
-        return citation_match or (act_found and section_found)
+        scored = self._score_against_key(response, gt_row)
+        if scored is None:
+            return None
+        return max(scored) == 1.0
     
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     # MASTER COMPUTE FUNCTION
